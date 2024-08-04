@@ -554,50 +554,906 @@
 
 ---
 
-## Chocolate chip & pecan butternut bread
-**Link:** https://www.bbcgoodfood.com/recipes/chocolate-chip-pecan-butternut-bread
+## Warm trout & melon salad with lime & chilli dressing
+**Link:** https://www.bbcgoodfood.com/recipes/warm-trout-melon-salad-with-lime-chilli-dressing
 
-**Description:** Love banana bread? You’ll love this butternut bread, which is really more of a cake. The squash provides sweetness while keeping the texture dense and squidgy
+**Description:** Serve up this mouthwatering melon salad in summer. Tossed in a chilli lime dressing and topped with omega-rich trout, it's perfect on balmy days
+
+**Prep Time:** 10 mins
+
+**Cook Time:** 16 mins
+
+**Difficulty:** Easy
+
+**Serves:** Serves 2
+
+**Diet Type:** Healthy
+
+### Nutrition Information
+- **kcal:** 369
+- **fat:** 21g
+- **saturates:** 4g
+- **carbs:** 10g
+- **sugars:** 9g
+- **fibre:** 6g
+- **protein:** 31g
+- **salt:** 0.7g
+
+### Ingredients
+- 160gmelon, such as cantaloupe or honeydew, shredded
+- 1lime, ½ juiced, ½ cut into wedges
+- ½red chilli, deseeded and chopped
+- 1garlic clove
+- 2 tspreduced-salt soy sauce
+- 1 tbspfresh mint leaves, chopped
+- 2 tsprapeseed oil
+- 2salmon trout steaks (about 265g)
+- 160ggreen beans, trimmed if necessary
+- 160gcherry tomatoes, cut into quarters
+- handful offresh coriander(about 5g) roughly chopped
+
+### Method
+- Put 30g of the melon in a bowl with the lime juice, chilli, garlic, soy sauce and mint, then blitz with ahand blenderuntil smooth.
+- Heat the oil in anon-stick frying panover a low heat, add the trout skin-side down and cook for 5 mins until the skin is crispy. Turn the fish and cook for 3-4 mins until the fillets are cooked all the way through. While the fish is cooking, boil the green beans for about 7 mins until tender, then drain.
+- Toss the green beans, remaining melon, tomatoes and coriander in a bowl with the dressing until well coated and pile onto two plates. Top with the fish, any pan juices and any dressing left in the bowl. Serve with the lime wedges for squeezing over.
+
+
+---
+
+## Spaghetti aglio e olio with crispy bacon
+**Link:** https://www.bbcgoodfood.com/recipes/spaghetti-aglio-e-olio-with-crispy-bacon
+
+**Description:** Enjoy this super-simple and super-speedy spaghetti supper, with garlic, parsley and bacon tossed through pasta. It's ideal on days when your fridge is bare
+
+**Prep Time:** 5 mins
+
+**Cook Time:** 20 mins
+
+**Difficulty:** Easy
+
+**Serves:** Serves 4
+
+**Diet Type:** None
+
+### Nutrition Information
+- **kcal:** 591
+- **fat:** 23g
+- **saturates:** 4g
+- **carbs:** 75g
+- **sugars:** 3g
+- **fibre:** 5g
+- **protein:** 17g
+- **salt:** 0.9g
+
+### Ingredients
+- 75mlextra virgin olive oil
+- 4 rashersstreaky bacon
+- 400gspaghetti
+- 6 largegarlic cloves, finely grated
+- 25gfresh parsley, finely chopped
+
+### Method
+- Heat 1 tsp of the oil in anon-stick frying panand cook the bacon over a medium heat for 5-6 mins until crisp. Remove from the heat, leaving the oil behind. Set aside to drain on kitchen paper, then when cool enough to handle, finely chop.
+- Bring a large pan of salted water to the boil and cook the spaghetti following pack instructions.
+- A few minutes before the pasta is ready, pour the rest of the oil into the pan and cook the garlic over a medium-low heat for 1-2 mins until fragrant and beginning to brown (don’t let it burn or it will taste bitter).
+- Drain the pasta, reserving a little pasta water, and tip into the garlic oil. Scatter in the parsley and fold together, adding a splash of pasta water to loosen, if needed. Spoon into bowls and scatter over the bacon.
+
+
+---
+
+## Chicken & elote-style corn wrap
+**Link:** https://www.bbcgoodfood.com/recipes/chicken-elote-style-corn-wrap
+
+**Description:** Do something different for lunch with a wrap packed with spiced chicken, rice and sweetcorn. With two of your five-a-day, carbs and protein, it will fuel your afternoon
+
+**Prep Time:** 10 mins
+
+**Cook Time:** 20 mins
+
+**Difficulty:** Easy
+
+**Serves:** Serves 4
+
+**Diet Type:** None
+
+### Nutrition Information
+- **kcal:** 521
+- **fat:** 24g
+- **saturates:** 5g
+- **carbs:** 50g
+- **sugars:** 6g
+- **fibre:** 7g
+- **protein:** 24g
+- **salt:** 0.9g
+
+### Ingredients
+- 3chicken breasts(around 550g), finely sliced
+- 2 tspMexican-style, taco or fajita seasoning
+- 2 tspolive oil
+- 8 largetortilla wraps
+- 200gfrozen sweetcorn, defrosted
+- 4spring onions, sliced
+- 1lime, juiced
+- 3 tbspmayonnaise
+- ½ tspchilli powder
+- For the elote-style sweetcorn
+- 200gfrozen sweetcorn, defrosted
+- 4spring onions, sliced
+- 1lime, juiced
+- 3 tbspmayonnaise
+- ½ tspchilli powder
+- 250g pouchbasmati and wild rice(or the same in cooked weight)
+- 1 largeripe tomato, finely chopped
+- handful ofparsley, finely chopped
+- For the rice
+- 250g pouchbasmati and wild rice(or the same in cooked weight)
+- 1 largeripe tomato, finely chopped
+- handful ofparsley, finely chopped
+
+### Method
+- Heat a large frying pan over medium-high heat and dry-fry the sweetcorn until beginning to char, around 4-5 mins. Tip into a bowl and mix in the spring onions, lime juice, mayo and chilli powder with a good pinch of salt and pepper. Stir well to coat the corn. Set aside.
+- Cook the rice following pack instructions, then combine with the tomato, parsley and a good pinch of salt and a grinding of black pepper.
+- Coat the chicken in the Mexican-style seasoning, then heat the oil in a large frying pan over a medium heat and cook the chicken until cooked through. Set aside.
+- Heat the tortilla wraps, then pile on the rice, sweetcorn and chicken.
+
+
+---
+
+## Chicken bagel
+**Link:** https://www.bbcgoodfood.com/recipes/chicken-bagel
+
+**Description:** Fuel up for lunch with a chicken and avocado bagel. A good balance of carbohydrates and protein, it will sustain your energy levels through the afternoon
+
+**Prep Time:** 5 mins
+
+**Cook Time:** No Cook
+
+**Difficulty:** Easy
+
+**Serves:** Serves 2
+
+**Diet Type:** None
+
+### Nutrition Information
+- **kcal:** 521
+- **fat:** 24g
+- **saturates:** 5g
+- **carbs:** 50g
+- **sugars:** 6g
+- **fibre:** 7g
+- **protein:** 24g
+- **salt:** 0.9g
+
+### Ingredients
+- 1ripe avocado
+- 1 tspolive oil
+- ½lime, juiced
+- 4cherry tomatoes, finely chopped
+- 2sesame bagels
+- 100gcooked chicken, shredded
+- 30gspinach
+
+### Method
+- Lightly mash the avocado, then mix in ¾ tsp oil, the lime juice and cherry tomatoes. Season and set aside. Slice the bagels, thentoastuntil lightly golden.
+- Spread the avocado mix onto one half of each bagel, then top with the chicken and spinach. Drizzle the remaining oil over the remaining bagel halves, then press down on top of the spinach.
+
+
+---
+
+## Peanut butter & maple syrup flapjacks
+**Link:** https://www.bbcgoodfood.com/recipes/peanut-butter-maple-syrup-flapjacks
+
+**Description:** Grab one of our peanut butter flapjacks when you're on the go. Ideal for a lunchbox, they also make a good choice during exercise to help sustain energy levels
+
+**Prep Time:** 10 mins
+
+**Cook Time:** 30 mins
+
+**Difficulty:** Easy
+
+**Serves:** Makes 12
+
+**Diet Type:** Vegetarian
+
+### Nutrition Information
+- **kcal:** 339
+- **fat:** 16g
+- **saturates:** 7g
+- **carbs:** 40g
+- **sugars:** 19g
+- **fibre:** 3g
+- **protein:** 6g
+- **salt:** 0.1g
+
+### Ingredients
+- 125gunsalted butter, plus extra for the tin
+- 125gmaple syrup
+- 125gcrunchy peanut butter
+- 150ggolden caster sugar
+- 350gporridge oats
+
+### Method
+- Heat the oven to 180C/160C fan/gas 4. Butter and line a 20cm square tin with baking parchment. Melt the butter in asaucepanover a low heat, then stir in the maple syrup. Remove from the heat and leave to cool for a few minutes before stirring in the peanut butter.
+- Combine the sugar and oats in a bowl, then make a dip in the centre and pour in the butter mixture and mix until combined. Tip into the prepared tin and press down gently to flatten. Bake for 25-30 mins until golden, then remove from the tin and leave to cool completely before cutting into 12 pieces.
+
+
+---
+
+## Sardines on toast
+**Link:** https://www.bbcgoodfood.com/recipes/sardines-on-toast
+
+**Description:** Fuel up with sardines and tomatoes on sourdough for breakfast. A good balance of protein and carbohydrates, it makes a good choice before exercise
+
+**Prep Time:** 5 mins
+
+**Cook Time:** 1 min
+
+**Difficulty:** Easy
+
+**Serves:** Serves 2
+
+**Diet Type:** None
+
+### Nutrition Information
+- **kcal:** 392
+- **fat:** 12g
+- **saturates:** 2g
+- **carbs:** 47g
+- **sugars:** 6g
+- **fibre:** 7g
+- **protein:** 20g
+- **salt:** 1.5g
+
+### Ingredients
+- 4 medium slicessourdough bread
+- 1garlic clove, halved
+- 1-2 largeripe tomatoes(120g)
+- 120g-140gsardines in olive oil
+- ½red onion, finely sliced
+- 8 pittedblack olives, halved
+- handful ofparsley, finely chopped
+
+### Method
+- Toastthe bread, then rub with the cut side of the garlic clove. Grate the tomato over the bread and spread over each slice. Top with the sardines and a few tablespoons of the olive oil before scattering over the onion slices, olives and parsley.
+
+
+---
+
+## Turmeric & lemon cauliflower bowl
+**Link:** https://www.bbcgoodfood.com/recipes/turmeric-lemon-cauliflower-bowl
+
+**Description:** Enjoy gently spiced cauliflower with roasted kale and a quinoa and lentil grain mix. You could also roast the cauliflower in an air-fryer, if you have one
+
+**Prep Time:** 10 mins
+
+**Cook Time:** 35 mins
+
+**Difficulty:** Easy
+
+**Serves:** 2 with leftovers
+
+**Diet Type:** Dairy-free
+
+### Nutrition Information
+- **kcal:** 642
+- **fat:** 29g
+- **saturates:** 5g
+- **carbs:** 57g
+- **sugars:** 19g
+- **fibre:** 17g
+- **protein:** 28g
+- **salt:** 1.1g
+
+### Ingredients
+- 650gcauliflower, cut into florets
+- 4 tbspolive oil
+- 2 tspground turmeric
+- 2 tspcumin seeds
+- 125gkale, stalks removed, roughly chopped
+- 1lemon, juiced
+- 250g pouchcooked quinoa & lentils
+- 4 tbspcoconut yogurt
+- 3 tbspmixed seeds(we used hemp, sunflower and pumpkin)
+
+### Method
+- Heat the oven to 190C/180C fan/gas 6. Tip the cauliflower florets and any leaves into a large bowl, then drizzle over 2 tbsp of the olive oil. Toss with the turmeric and cumin seeds along with some salt and pepper, then spread out over abaking traylined with baking parchment. Roast for 25-35 mins until golden and tender.
+- After 10 mins, tip the kale into a large bowl and massage in the remaining oil and some seasoning. Spread out over a large baking tray and bake for the final 10 mins, or until crisp. Cool on the tray. Squeeze the lemon juice over the cauli.
+- Cook the quinoa and lentil mix following pack instructions, then divide between two bowls. Top with the cauliflower, kale, coconut yogurt and seeds.Leftovers will keep chilled for up to four days.
+
+
+---
+
+## Smoky vegan ‘chicken’ & chickpea wraps
+**Link:** https://www.bbcgoodfood.com/recipes/smoky-vegan-chicken-chickpea-wraps
+
+**Description:** Use vegan ‘chicken’ pieces to make these wraps fully plant-based. Enjoy with our homemade guacamole for a tasty and filling family-friendly meal
+
+**Prep Time:** 10 mins
+
+**Cook Time:** 25 mins
+
+**Difficulty:** Easy
+
+**Serves:** Serves 4
+
+**Diet Type:** Dairy-free
+
+### Nutrition Information
+- **kcal:** 484
+- **fat:** 20g
+- **saturates:** 3g
+- **carbs:** 41g
+- **sugars:** 6g
+- **fibre:** 13g
+- **protein:** 25g
+- **salt:** 1.4g
+
+### Ingredients
+- 2 tbspvegetable oil
+- 250gvegan ‘chicken’ pieces
+- 1red onion, finely sliced
+- 2garlic cloves, finely chopped
+- 2 tbspchipotles in adobo
+- 1 tbspfajita seasoning
+- 540g jarchickpeas, drained
+- ½lime, sliced into thin wedges
+- 4tortilla wraps
+- 1ripe avocado, peeled, stoned and halved
+- 10gcoriander, roughly chopped
+- ½lime, juiced
+- 1 tspchilli flakes
+- For the guacamole
+- 1ripe avocado, peeled, stoned and halved
+- 10gcoriander, roughly chopped
+- ½lime, juiced
+- 1 tspchilli flakes
+
+### Method
+- For the guacamole, scoop the avocado flesh into a bowl and mash, then stir through half the coriander and the lime juice. Season with the chilli flakes and some salt and pepper. Chill until needed.
+- Heat the oil in a largefrying panover a medium heat and, once shimmering, cook the vegan ‘chicken’ pieces for 2-3 mins, stirring often until golden on both sides. Season and remove to a bowl.
+- Fry the red onion and garlic in the pan for 8-10 mins until golden at the edges. Add the chipotles in adobo and the fajita seasoning, then the chickpeas and cooked vegan ‘chicken’ pieces, mixing well.
+- Cook for 5 mins until everything is piping hot. Season well, then remove from the heat and squeeze over a lime wedge.
+- Fill the tortilla wraps with the vegan ‘chicken’ filling, guacamole and remaining coriander. Serve with the lime wedges for squeezing over.
+
+
+---
+
+## Katsu aubergine noodles
+**Link:** https://www.bbcgoodfood.com/recipes/katsu-aubergine-noodles
+
+**Description:** Use lentil noodles in this dish for extra protein, or swap for rice if you prefer. The ginger really makes the recipe, so don’t be tempted to use less
 
 **Prep Time:** 20 mins
 
-**Cook Time:** 50 mins
+**Cook Time:** 40 mins
+
+**Difficulty:** Easy
+
+**Serves:** Serves 2
+
+**Diet Type:** Dairy-free
+
+### Nutrition Information
+- **kcal:** 1145
+- **fat:** 61g
+- **saturates:** 32g
+- **carbs:** 119g
+- **sugars:** 25g
+- **fibre:** 20g
+- **protein:** 21g
+- **salt:** 2.1g
+
+### Ingredients
+- 4 tbspvegetable oil
+- 1onion, finely chopped
+- 2carrots, finely chopped
+- 2garlic cloves, grated
+- 20gginger, peeled and grated
+- 1 tbspmedium curry powder
+- 1 tbspsoy sauce
+- 1 tspmaple syrup
+- 400ml cancoconut milk
+- 3 tbspcornflour
+- 100gpanko breadcrumbs
+- 2aubergines, cut into 1.5cm-thick slices
+- 250glentil noodles
+- 1spring onion, finely sliced
+- pickled ginger, to serve (optional)
+
+### Method
+- Heat 2 tbsp oil in a large, deep frying pan over a medium-low heat and cook the onions and carrots for 15 mins until starting to soften.
+- Add the garlic, ginger and curry powder and cook for 2 mins more, or until fragrant. Pour in the soy, maple syrup and coconut milk, then swill out the coconut can with a splash of water and pour that in, too.
+- Bring to the boil, then reduce the heat and bubble for 10-15 mins until thickened. Season. Blitz until smoothusing ahand blender.The sauce can will keep chilled for up to two days. Leave to cool first. Reheat until piping hot. Keep warm over a low heat.
+- Heat the remaining oil in a medium frying pan over a medium-high heat. Mix the cornflour with just enough water to make a slurry. Tip the breadcrumbs onto a shallow plate. Dunk the aubergine slices in the slurry, then the breadcrumbs, coating well on both sides. Fry the aubergine slices in the hot oil for 3-4 mins on both sides until golden and crisp, then remove from the pan using a slotted spoon and drain on kitchen paper. Season with salt.
+- Cook the lentil noodles following pack instructions, then divide between two bowls. Top with the sauce, aubergine slices, spring onion and pickled ginger, if using.
+
+
+---
+
+## Super-green tofu curry
+**Link:** https://www.bbcgoodfood.com/recipes/super-green-tofu-curry
+
+**Description:** Going meat-free? Enjoy this delicious tofu and spinach curry that you can prep in minutes. Serve with wild rice and a scattering of coriander
+
+**Prep Time:** 15 mins
+
+**Cook Time:** 30 mins
+
+**Difficulty:** Easy
+
+**Serves:** Serves 4
+
+**Diet Type:** Dairy-free
+
+### Nutrition Information
+- **kcal:** 371
+- **fat:** 16g
+- **saturates:** 2g
+- **carbs:** 34g
+- **sugars:** 3g
+- **fibre:** 8g
+- **protein:** 19g
+- **salt:** 0.2g
+
+### Ingredients
+- 280gfirm tofu, cut into small triangles
+- 2 tbspvegetable oil
+- 2 tspcoriander seeds
+- 2 tspcumin seeds
+- 2cardamom pods, seeds bashed
+- 10gginger, peeled and roughly chopped
+- 1onion, finely chopped
+- 2garlic cloves, roughly chopped
+- 400gspinach
+- 10gcoriander, roughly chopped, plus extra whole leaves to serve
+- 2 x 250g pouchescooked brown & wild rice mix, to serve
+
+### Method
+- Pat the tofu dry with kitchen paper, then heat 1 tbsp oil in a large, deep frying pan over a medium heat. Fry the tofu for 3-4 mins, or until golden on each side. Remove from the pan using a fish slice and set aside to drain on kitchen paper.
+- Pour the remaining oil into the pan, then scatter in the coriander seeds, cumin seeds and cardamom and cook for 2-3 mins until popping.
+- Add the ginger, onion and garlic and cook for 10-12 mins more until golden at the edges. Turn the heat to low and add the spinach, a handful at a time and stir to wilt. Remove from the heat. Tip the spinach mix, the coriander and 300ml water into a high-poweredblenderand blitz until completely smooth. Pour the mixture back into the pan and season with salt. Bring to a simmer.
+- Tip in the fried tofu and cook for 4-5 mins, or until the tofu has warmed through. Season, then spoon over the wild rice and scatter over the coriander leaves to serve.
+
+
+---
+
+## Peach & raspberry almond crumble cake
+**Link:** https://www.bbcgoodfood.com/recipes/peach-raspberry-almond-crumble-cake
+
+**Description:** Enjoy the summery flavours of peach and raspberry in this gorgeous traybake. Cherries or rhubarb would also work well, but you can use whatever's in season
+
+**Prep Time:** 20 mins
+
+**Cook Time:** 45 mins
 
 **Difficulty:** Easy
 
 **Serves:** Serves 12
 
-**Diet Type:** Freezable
+**Diet Type:** Vegetarian
 
 ### Nutrition Information
-- **kcal:** 345
-- **fat:** 19g
-- **saturates:** 4g
-- **carbs:** 36g
-- **sugars:** 20g
-- **fibre:** 3g
-- **protein:** 5g
-- **salt:** 0.3g
+- **kcal:** 419
+- **fat:** 22g
+- **saturates:** 11g
+- **carbs:** 47g
+- **sugars:** 27g
+- **fibre:** 2g
+- **protein:** 7g
+- **salt:** 0.8g
 
 ### Ingredients
-- 250gbutternut squash
-- 2eggs
-- 125mlvegetable or sunflower oil
-- 200glight brown soft sugar
-- 100mlmilk
-- 2 tspvanilla extract
-- ¼ tspground nutmeg
-- 2 tspground cinnamon
+- 200gbutter, plus extra for the tin
+- 200ggolden caster sugar, plus 1 tbsp
+- 3 mediumeggs
 - 225gself-raising flour
 - 1 tspbaking powder
-- 100gdark chocolate, chopped
-- 75gpecans, roughly chopped
+- 50gground almonds
+- 2 tbspnatural yogurtor milk
+- 1 tspvanilla or almond extract
+- 3ripe peaches, stoned, halved, then quartered
+- 150graspberries
+- clotted creamor crème fraîche, to serve
+- 25gbutter
+- 3 heaped tbspself-raising flour
+- 3 tbsplight brown soft sugar
+- 50gflaked almonds
+- For the crumble topping
+- 25gbutter
+- 3 heaped tbspself-raising flour
+- 3 tbsplight brown soft sugar
+- 50gflaked almonds
 
 ### Method
-- Cut the squash into 2cm cubes, tip into a heatproof bowl, then add 2 tbsp water, cover with a heatproof plate or lid, andmicrowaveon high for 5-8 mins until soft. (Or, roast or air-fry for 15-20 mins at 200C/180C fan/gas 6.) Leave to cool.
-- Heat the oven to 200C/180C fan/gas 6 and line a 900g loaf tin with baking parchment. Mash the squash using a fork, then add the eggs, oil, sugar, milk, vanilla extract, spices and ½ tsp salt. Mix until smooth, then add the flour and baking powder. Mix again until smooth and no pockets of flour remain.
-- Stir through most of the chopped chocolate and pecans. Scrape the batter into the prepared tin and scatter over the remaining chocolate and pecans.
-- Bake in the centre of the oven for 50 mins until risen and golden, and a skewer inserted into the centre of the cake comes out clean. If any wet batter clings to the skewer, return to the oven for another 5 mins, then check again. Once cooked, leave to cool in the tin for 15 mins, then transfer to awire rackto cool completely.Will keep in an airtight container at room temperature for up to five days, or frozen for up to three months.
+- Butter a deep traybake tin (ours was 21 x 30cm) and line with baking parchment. Heat the oven to 180C/160C fan/gas 4. Beat the butter and sugar together in a large bowl using an electric whisk until light and fluffy. Beat in the eggs, one at a time, until well-combined, smooth and creamy. Stir in the flour, baking powder, ground almonds, yogurt, vanilla and a pinch of salt. Scrape the mixture into the tin and smooth the surface using aspatula, then scatter over the peaches and raspberries, pressing them in gently.
+- To make the crumble topping, tip the butter, flour and sugar into a bowl and rub together using your fingertips until it resembles coarse crumbs. Stir in the almonds, then scatter all over the unbaked cake.
+- Bake for 45 mins, or until a skewer inserted into the middle comes out clean. If any wet mixture clings to the skewer, bake for 5-10 mins more, then check again. Leave to cool completely before cutting into squares to serve. If you like, serve with spoonfuls of clotted cream or crème fraîche.Will keep in an airtight container for up to two days.
+
+
+---
+
+## Blackberry queen of puddings
+**Link:** https://www.bbcgoodfood.com/recipes/blackberry-queen-of-puddings
+
+**Description:** Got a glut of blackberries? Whether homegrown, foraged or shop-bought, you must try this blackberry twist on a classic British dessert, crowned with meringue
+
+**Prep Time:** 20 mins
+
+**Cook Time:** 1 hr
+
+**Difficulty:** Easy
+
+**Serves:** Serves 6 - 8
+
+**Diet Type:** Vegetarian
+
+### Nutrition Information
+- **kcal:** 249
+- **fat:** 8g
+- **saturates:** 4g
+- **carbs:** 36g
+- **sugars:** 30g
+- **fibre:** 2g
+- **protein:** 7g
+- **salt:** 0.4g
+
+### Ingredients
+- 575mlmilk
+- 25gbutter, plus extra for the dish
+- ½ tspvanilla extract
+- 100gfresh white breadcrumbs
+- 1lime, zested, ½ juiced
+- 140gcaster sugar
+- 4eggs, separated
+- 300gblackberries
+- 6 tbspblackberry jam
+
+### Method
+- Warm the milk in a small pan over a low heat until steaming – don’t boil. Remove from the heat and stir in the butter, vanilla, breadcrumbs, lime zest and 40g of the sugar. Leave to soak for 30 mins until the breadcrumbs have absorbed the liquid and the mixture has cooled. Once cool, stir in the egg yolks.
+- Heat the oven to 180C/160C fan/gas 4 and butter a medium-large baking dish (ours was 22cm). Tip the soaked breadcrumbs into the dish and bake for 30 mins until set.
+- Meanwhile, put the blackberries in a pan with the jam and lime juice, and simmer over a low heat until the berries have broken down slightly. Remove from the heat and set aside.
+- Spoon the blackberry mixture over the set custard, and spread to the edge as best as you can. Turn the oven down to 160C/140C fan/gas 2.
+- Whisk the egg whites to stiff peaks using an electric whisk, then whisk in the remaining 100g sugar, a spoonful at a time, until all the sugar has dissolved and the meringue is glossy. Spoon orpipethe meringue over the blackberry mixture and bake for 20-30 mins more until golden. Serve warm.
+
+
+---
+
+## Sticky five-spice pork belly with ginger & plums
+**Link:** https://www.bbcgoodfood.com/recipes/sticky-five-spice-pork-belly-with-ginger-plums
+
+**Description:** Pair slow-cooked pork belly with tart plums for a match made in heaven in this one-tin dish that’s packed with flavour. It's a great way to use summer plums
+
+**Prep Time:** 10 mins
+
+**Cook Time:** 2 hrs
+
+**Difficulty:** Easy
+
+**Serves:** Serves 4
+
+**Diet Type:** None
+
+### Nutrition Information
+- **kcal:** 586
+- **fat:** 34g
+- **saturates:** 12g
+- **carbs:** 27g
+- **sugars:** 26g
+- **fibre:** 2g
+- **protein:** 41g
+- **salt:** 2.2g
+
+### Ingredients
+- 900g-1kgpork belly slices
+- thumb-sized piece ofginger, finely grated
+- 3garlic cloves, grated or crushed
+- 1½ tspChinese five-spice powder
+- 50mlsoy sauce
+- 2 tbsphoney
+- 2 tbsplight brown soft sugar
+- 2 tbspShaohsing rice wine, rice wine vinegar or dry sherry
+- 2star anise
+- 6plums, halved and stoned
+- 6spring onions, cut into 3cm pieces
+- coriander leaves, to serve
+- cooked riceand stir-fried greens, to serve
+
+### Method
+- Heat the oven to 190C/170C fan/gas 5. Lay the pork belly slices in a single layer in a largeroasting tin. Combine the ginger, garlic, five-spice powder, soy sauce, honey, sugar and rice wine, and pour the mixture over the pork, turning the pieces until well-coated. Scatter in the star anise, then cover the tin with foil and roast for 1 hr.
+- Remove the foil, scatter over the spring onions and nestle the plums in the tin, cut-side up. Spoon some of the sauce over the pork, onions and plums, and return to the oven for 30 mins.
+- Remove the tin from the oven. Turn the pork slices over using tongs. If the spring onions are starting to catch, push them under the pork slices. Turn the heat up to 220C/200C fan/gas 7 and roast for another 15 mins, or until the pork is tender and caramelised – don’t worry if it chars slightly, as this will add flavour. Scatter over the coriander leaves and serve with rice and stir-fried greens, with the sauce from the tin spooned over.
+
+
+---
+
+## Sweetcorn & pancetta orzotto
+**Link:** https://www.bbcgoodfood.com/recipes/sweetcorn-pancetta-orzotto
+
+**Description:** Think of this summery dish like a risotto, but made with orzo instead of rice. Charring the corn creates smoky depth that's amplified by the pancetta
+
+**Prep Time:** 15 mins
+
+**Cook Time:** 1 hr
+
+**Difficulty:** Easy
+
+**Serves:** Serves 4
+
+**Diet Type:** None
+
+### Nutrition Information
+- **kcal:** 811
+- **fat:** 32g
+- **saturates:** 12g
+- **carbs:** 87g
+- **sugars:** 7g
+- **fibre:** 10g
+- **protein:** 30g
+- **salt:** 2g
+
+### Ingredients
+- 3 tbspolive oil
+- 4corn cobs, any husks removed
+- 25gbutter
+- 150gpancetta, finely chopped
+- 2onion, finely chopped
+- 3garlic cloves, finely chopped
+- 400gorzo
+- 75gparmesan, finely grated, plus the rind (optional)
+- 200mlwhite wine
+- 1 tbspwhite miso
+- 10gchives, finely sliced
+- ½lemon, zested and juiced
+
+### Method
+- Heat a large, dry frying pan over a medium-high heat. Brush 2 tbsp of the oil over the corn cobs and char all over, turning occasionally, for 12-15 mins. Remove to a plate and leave to cool. Add the remaining oil and the butter to the pan and, once melted, fry the pancetta for 5-7 mins until crispy and golden all over. Remove to a bowl using a slotted spoon. Cook the onion in the pan for 10-12 mins until softened and slightly caramelised.
+- Stir in the garlic and cook for 1 min more until fragrant, then add the orzo, stirring so it’s well-coated in the buttery onion mixture. Cook for a few minutes, until the orzo is lightly browned. Add the parmesan rind (if you have one), white wine, miso and 750ml boiling water. Turn the heat up to high and cook for 12-15 mins until the orzo is cooked through and the water has almost fully evaporated. (You may need to add a splash more water during cooking to keep it from reducing too fast and catching.)
+- Meanwhile, hold the charred corn cobs upright on a chopping board using tongs and carefully slice off the sweetcorn kernels using asharp knife. Remove the pan from the heat and stir through the sweetcorn, fried pancetta and most of the grated parmesan and chives. Season to taste with salt, pepper and the lemon zest and juice. Scatter over the remaining chives and parmesan to serve.
+
+
+---
+
+## Tikka cauliflower skewers with makhani sauce
+**Link:** https://www.bbcgoodfood.com/recipes/tikka-cauliflower-skewers-with-makhani-sauce
+
+**Description:** Try this tikka take on veggie skewers, made with cauliflower and served with a creamy and spicy makhani sauce on the side for dipping
+
+**Prep Time:** 25 mins
+
+**Cook Time:** 45 mins
+
+**Difficulty:** Easy
+
+**Serves:** Serves 6-8 as a side
+
+**Diet Type:** Vegetarian
+
+### Nutrition Information
+- **kcal:** 221
+- **fat:** 16g
+- **saturates:** 5g
+- **carbs:** 13g
+- **sugars:** 10g
+- **fibre:** 3g
+- **protein:** 5g
+- **salt:** 0.22g
+
+### Ingredients
+- 2red onions, peeled and quartered
+- 1 largecauliflower
+- 2 tbsptikka masala spice mix
+- 3 tbspneutral oil
+- 3 tbspneutral oil
+- 4garlic cloves, crushed
+- 10gginger, grated
+- 2 tsptikka masala spice mix
+- 1bay leaf
+- 1cinnamon stick
+- 400gtomatoes, roughly chopped
+- 25gbutter
+- 1 tbsphoney
+- 50mldouble cream
+- 200gyogurt
+- For the makhani sauce
+- 3 tbspneutral oil
+- 4garlic cloves, crushed
+- 10gginger, grated
+- 2 tsptikka masala spice mix
+- 1bay leaf
+- 1cinnamon stick
+- 400gtomatoes, roughly chopped
+- 25gbutter
+- 1 tbsphoney
+- 50mldouble cream
+- 200gyogurt
+
+### Method
+- Flake away the layers of the onion so you are left with ‘petals’.Cut the cauliflower(including the stalks and leaves) into bite-sized pieces. Mix the spice mix and 2 tbsp of the oil in a bowl, then tip in the onion and cauliflower pieces and toss to coat.Will keep covered and chilled for up to 24 hours.
+- For the sauce, heat the oil in a frying pan over a medium heat. Fry the garlic and ginger for 3 mins, then stir in the spice mix. Sizzle for 1 min, then add the bay, cinnamon stick and tomatoes. Simmer for 15-20 mins until thickened, then stir in the butter, honey and cream. Leave to cool, then blend in afood processoruntil smooth. Stir in the yogurt and season.
+- Thread the cauliflower and onion onto skewers. Brush the remaining oil over the barbecue bars and cook the skewers for 15-20 mins, turning frequently, until the cauliflower is tender. Serve with the makhani sauce on the side for dipping or drizzling over.
+
+
+---
+
+## Duck in plum sauce (Chinese-style)
+**Link:** https://www.bbcgoodfood.com/recipes/duck-in-plum-sauce-chinese-style
+
+**Description:** Try our take on a beloved Chinese takeaway dish – it's easier to recreate at home than you might think. Enjoy with steamed rice or on its own with stir-fried greens
+
+**Prep Time:** 25 mins
+
+**Cook Time:** 42 mins
+
+**Difficulty:** Easy
+
+**Serves:** Serves 2
+
+**Diet Type:** Dairy-free
+
+### Nutrition Information
+- **kcal:** 517
+- **fat:** 32g
+- **saturates:** 9g
+- **carbs:** 27g
+- **sugars:** 24g
+- **fibre:** 3g
+- **protein:** 29g
+- **salt:** 4.02g
+
+### Ingredients
+- Cooked rice and stir-fried greens,to serve (optional)
+- 2skin-on, boneless duck breasts(about 340g)
+- 1 tbspdark soy sauce
+- ½ tbspvegetable or sunflower oil
+- 2plums(about 160g), stoned and sliced
+- 1star anise
+- 1cinnamon stick
+- 15gginger, peeled and sliced
+- 4garlic cloves, peeled but left whole
+- 30grock sugar(find online or in specialist supermarkets)
+- ½lemon, zest pared
+- 2 tbspShaohsing wine
+- 2 tbsplight soy sauce
+- For the plum sauce
+- 2plums(about 160g), stoned and sliced
+- 1star anise
+- 1cinnamon stick
+- 15gginger, peeled and sliced
+- 4garlic cloves, peeled but left whole
+- 30grock sugar(find online or in specialist supermarkets)
+- ½lemon, zest pared
+- 2 tbspShaohsing wine
+- 2 tbsplight soy sauce
+
+### Method
+- Gently score the skin of both duck breasts using asharp knife, then rub the dark soy sauce all over the breasts and into the cuts.
+- Heat the oil into a large frying pan over a medium-high heat and sear the duck breasts, skin-side down, until starting to turn crispy, about 5 mins. Flip over and cook for 5 mins more, then remove to a plate, leaving any fat behind, and set aside to rest.
+- Add the plum slices, star anise, cinnamon stick, ginger, garlic, rock sugar and lemon zest to the pan. Pour in the Shaohsing wine and light soy sauce, mix well, then add 200ml water and simmer gently for 15 mins over a medium heat. Nestle the duck breasts in, skin-side up, cover with a lid and cook for a further 15 mins.
+- Season with ¼ tsp salt, then remove the duck from the pan and slice into even pieces. Pass the sauce through asieveinto a bowl, then pour the plum sauce over the duck breasts. Serve with cooked rice and stir-fried greens, if you like.
+
+
+---
+
+## Homemade yakisoba sauce
+**Link:** https://www.bbcgoodfood.com/recipes/homemade-yakisoba-sauce
+
+**Description:** Enjoy this versatile sauce with veg, meat, seafood or noodles – it can be mixed together in minutes
+
+**Prep Time:** 2 mins
+
+**Cook Time:** No Cook
+
+**Difficulty:** Easy
+
+**Serves:** Makes 100ml (serves 4)
+
+**Diet Type:** None
+
+### Nutrition Information
+- **kcal:** 28
+- **fat:** 0g
+- **saturates:** 0g
+- **carbs:** 5g
+- **sugars:** 3g
+- **fibre:** 0g
+- **protein:** 0.4g
+- **salt:** 1.05g
+
+### Ingredients
+- 2 tbspsake
+- 1 tbspsoy sauce
+- 1 tbspWorcestershire sauceor vegan alternative
+- 1 tbspoyster sauce (vegan if needed)or brown sauce
+- 1 tbspmirin
+
+### Method
+- Put all the ingredients in an airtight jar or container, then mix well until combined – stir together using a spoon first, then put the lid on and shake until everything is fully incorporated.Will keep chilled for up to a month.
+
+
+---
+
+## Homemade tonkatsu sauce
+**Link:** https://www.bbcgoodfood.com/recipes/homemade-tonkatsu-sauce
+
+**Description:** Make this Japanese-style barbecue sauce to serve with crispy tofu, katsu chicken or your favourite Japanese dishes – it's a great blend of sweet and savoury
+
+**Prep Time:** 5 mins
+
+**Cook Time:** No Cook
+
+**Difficulty:** Easy
+
+**Serves:** Makes about 100g
+
+**Diet Type:** Dairy-free
+
+### Nutrition Information
+- **kcal:** 30
+- **fat:** 0g
+- **saturates:** 0g
+- **carbs:** 7g
+- **sugars:** 6g
+- **fibre:** 0g
+- **protein:** 0.3g
+- **salt:** 0.78g
+
+### Ingredients
+- 1½ tbspketchup
+- 2 tbspWorcestershire sauceor vegan alternative
+- 1 tbsptamari soy or dark soy sauce
+- 2 tspoyster sauce (vegan, if needed)or brown sauce
+- 1 tbspdate syrupor honey
+- 2 tspmuscovado sugar
+- 1 tbspground white sesame seeds(optional)
+
+### Method
+- Put all the ingredients in an airtight jar or container, then mix well until combined. Taste for seasoning, adding more sugar or soy sauce, if needed. Stir in the ground white sesame seeds, if using.Will keep chilled for one month.
+
+
+---
+
+## Fluffy Japanese pancakes
+**Link:** https://www.bbcgoodfood.com/recipes/fluffy-japanese-pancakes-2
+
+**Description:** Whip up these fluffy pancakes and enjoy with your favourite toppings – butter, maple syrup, honey, fruit or whipped cream all work well
+
+**Prep Time:** 25 mins
+
+**Cook Time:** 6 mins
+
+**Difficulty:** More effort
+
+**Serves:** Serves 4
+
+**Diet Type:** Nut-free
+
+### Nutrition Information
+- **kcal:** 89
+- **fat:** 3g
+- **saturates:** 1g
+- **carbs:** 13g
+- **sugars:** 7g
+- **fibre:** 0.3g
+- **protein:** 3g
+- **salt:** 0.09g
+
+### Ingredients
+- 2eggs, separated (you will have 1 yolk leftover, which can be frozen to use in another recipe)
+- 25gnatural full-fat yogurt
+- 70gwhole milk
+- 70gplain flour
+- ¼ tspvanilla extract
+- 13gunsalted butter
+- 25gcaster sugar
+- vegetable oil or spray oil, for frying
+- butter, maple syrup, honey, berries or whipped cream, to serve (optional)
+
+### Method
+- Put the two egg whites into a small bowl and freeze for 10 mins until just starting to freeze at the edges.
+- Meanwhile, put one of the egg yolks in a medium bowl with the yogurt and milk, and mix well.Siftin the flour and whisk it in, followed by the vanilla – it should resemble a runny custard. Fill a larger bowl with ice, then sit the medium bowl on top to keep the batter cold.
+- Melt the butter in a pan over a low heat and, as soon as it's liquid, pour the butter into the flour mixture,whiskinglightly until just combined. Remove the egg whites from the freezer, put in a stand mixer and whisk briefly. Gradually add the sugar, and continue to whisk for 3 mins until you have a fluffy meringue. Spoon the meringue into the flour mixture, and gently fold in using a large metal spoon orspatulauntil fully incorporated, being careful not to over-mix.
+- Heat a drizzle of oil (or mist with spray oil) in a large lidded frying pan over a low-medium heat and wipe out the excess using kitchen paper. The pan needs to be hot enough to cook the pancakes, but not so hot that it burns the outside without cooking the centre. Spoon the batter into apiping bagwith the tip cut off (you want about a 1.5cm hole). Pipe a circle into the hot frying pan, then pipe concentric circles on top of the first, until the pancake is about 5-8cm high. Cover with the lid and cook for 3 mins, then carefully flip over and cook for another 3 mins. Repeat with the remaining batter.
+- Divide the cooked pancakes between plates and serve with your favourite toppings.
 
 
 ---
