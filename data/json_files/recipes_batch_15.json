@@ -20,7 +20,7 @@
       "protein": "21g",
       "salt": "0.31g"
     },
-    "instructions": [
+    "ingredients": [
       "1 tbspsunflower oilor vegetable oil",
       "2onions,roughly chopped",
       "3celery sticks,roughly chopped",
@@ -34,7 +34,7 @@
       "200mldouble cream",
       "crusty bread,to serve"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in a large lidded saucepan over a low-medium heat and fry the onions, celery, leeks and parsley stalks for 6-8 mins until softened. Stir in the garlic cloves and cook for 2 mins to soften.",
       "Pour in the white wine, increase the heat to medium and simmer for 4-6 mins to reduce a little. Add the bay leaves, then pour in the chicken stock and 500ml water, and add 350g of the chicken. Simmer for 30 mins (you may need to reduce the temperature a little) until the veg is tender. Leave to cool for 10 mins, then remove the bay leaves. Roughly chop the remaining chicken.",
       "Blitz the soup in a blender (you may need to do this in batches), or use a hand blender, until smooth. Tip back into the pan along with the remaining chicken and double cream. Season to taste, then heat the soup over a medium-low heat until the chicken has warmed through. Scatter over the chopped parsley and serve with crusty bread, if you like."
@@ -61,7 +61,7 @@
       "protein": "11g",
       "salt": "1.86g"
     },
-    "instructions": [
+    "ingredients": [
       "1 ½tbspsunflower oilor vegetable oil",
       "1large onion,finely diced",
       "2red peppers,chopped",
@@ -76,7 +76,7 @@
       "200ggreen beansor long-stem broccoli",
       "2lemons,1 juiced and 1 cut into wedges"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in a large lidded frying pan over a medium heat and fry the onion for 5 mins. Add the peppers and cook for another 5 mins until the onion and pepper has softened. Stir in the garlic and cook for 1 min, then stir in the paprika and cook for 1 min.",
       "Stir in the paella rice and cook for 2 mins. Pour over the white wine, if using, and cook for 2-3 mins to reduce. Add the chopped tomatoes, vegetable stock and saffron, if using.",
       "Stir in the beans, then pour over the stock and bring to the boil. Reduce to a simmer and cook for 10 mins. You can stir it occasionally, if you like, but traditionally you want a crust to form on the bottom. After 10 mins, scatter the green beans or broccoli on top, place the lid on the pan and cook for 3-4 mins until the greens and rice are tender. Cook with the lid off for a few mins if the rice is still too wet. Remove from the heat, squeeze over the lemon juice and serve with lemon wedges on the side."
@@ -103,7 +103,7 @@
       "protein": "11g",
       "salt": "0.1g"
     },
-    "instructions": [
+    "ingredients": [
       "225gplain flour",
       "225gsugar",
       "½ tspsaffron threads,crushed",
@@ -119,7 +119,7 @@
       "1-2 tbsp soft ghee",
       "double cream,to serve"
     ],
-    "methods": [
+    "instructions": [
       "Mix the flour, sugar, saffron, cardamom and nutmeg together in a large bowl. Combine the eggs, coconut milk and vanilla in a large jug, then gradually pour the wet ingredients into the dry,whiskingas do. Stir in the pistachios and ground almonds. You should have a thick pancake batter; if it’s too thick, you can add a little milk. Let the batter rest for 30 mins while you prepare the marzipan.",
       "Dust your work surface generously with icing sugar, thenroll outdiscs of marzipan about ½cm thick that are the same size as your frying pan (so you know they’ll fit between the layers of pancake). You want these to be as thin as possible, but ½cm is ideal. You should end up with around 16 discs of marzipan.",
       "Heat a frying pan (ours was 16cm) over a medium heat. Heat a drop of ghee and, once melted, pour in a ladleful of mixture. Tilt the pan in circles so the mixture spreads around evenly, covering the bottom base of the pan. Lower the heat to medium-low and cook for 1 min until pale golden brown. Carefully flip it over and cook for a further minute. Put on a plate or serving platter – whatever you’ll serve it on – then top with a disc of marzipan. Add a little more ghee to the pan, then fry the next pancake in the same way, removing from the pan and topping it with another marzipan disc.",
@@ -147,13 +147,13 @@
       "protein": "0.2g",
       "salt": "0.02g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tbspraspberry jam",
       "50mlgin",
       "1 tbsplemon juice",
       "ice"
     ],
-    "methods": [
+    "instructions": [
       "Stir the jam to loosen, then tip into acocktail shakeralong with the gin, lemon juice and a handful of ice. Shake until the outside of the shaker feels cold. Strain into a chilled glass to serve."
     ]
   },
@@ -178,7 +178,7 @@
       "protein": "10g",
       "salt": "1.1g"
     },
-    "instructions": [
+    "ingredients": [
       "175mlvegetable oil,plus extra for the tins",
       "2eggs,beaten",
       "175mlbuttermilk",
@@ -201,7 +201,7 @@
       "1 tbspcocoa powder",
       "90mlIrish cream liqueur"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 200C/180C fan/gas 6. Oil two deep 20cm cake tins and line with baking parchment.Whiskthe oil, eggs, buttermilk and cooled coffee together in a medium bowl until combined. In a separate large bowl, whisk together the flour, bicarb, baking powder, both the sugars and a pinch of salt, breaking up any lumps of sugar. Slowly drizzle the wet ingredients into the dry, whisking until smooth. Divide the batter between the two tins and bake for 20-25 mins, or until a skewer inserted into the middles comes out clean. Leave to cool in the tins for 10 mins, then invert onto a wire rack to cool completely.",
       "Meanwhile, make the mascarpone icing. Beat the double cream, mascarpone, icing sugar, cocoa powder and Irish cream liqueur together in astand mixeror using an electric whisk until the mixture is thick, creamy and holds its shape.",
       "When the cakes have cooled, spread a small dollop of icing in the middle of a cake plate or stand and put one sponge on top. Spread half the remaining icing over the top, then sandwich with the second sponge, making sure the flat side is facing up. Spread over the rest of the icing, swirling it with a palette knife. Decorate with chocolate shavings or chocolate-covered coffee beans, if you like.Will keep chilled for up to three days."
@@ -228,7 +228,7 @@
       "protein": "24g",
       "salt": "1.5g"
     },
-    "instructions": [
+    "ingredients": [
       "400mlwhole milk",
       "¼onion",
       "small bunch of thyme",
@@ -243,7 +243,7 @@
       "50ggoat's cheese,crumbled into small chunks",
       "watercress salad,to serve"
     ],
-    "methods": [
+    "instructions": [
       "Tip the milk into a largesaucepanwith the onion, thyme and a few cracked black peppercorns. Bring to the boil, then turn off the heat, leave to cool and strain into a jug. Melt the butter in a large saucepan. Brush about a third of this all over the inside of a 16cm soufflé dish, then sprinkle over the parmesan to completely coat the dish.",
       "Continue to cook the remaining melted butter over a medium heat until it turns nutty brown. Use a wooden spoon to stir in the flour, mustard powder and cayenne. Cook, stirring, for 1 min until you have a sandy paste, then gradually pour in the milk, mixing it thoroughly before adding more. Once all the milk has been added, cook over a low heat, stirring continuously for 10 mins until thick. Add the yeast extract, if using, and the cheddar, and stir until melted. Season well. Tip into a bowl and set aside to cool.",
       "Heat the oven to 210C/190C fan/gas 7 with a baking sheet inside. Separate the egg whites and yolks, putting the whites into a clean bowl and stirring four of the yolks into the sauce. (You can use the remaining egg yolk in another recipe.) Stir the goat’s cheese into the cooled sauce.",
@@ -272,7 +272,7 @@
       "protein": "3g",
       "salt": "0.5g"
     },
-    "instructions": [
+    "ingredients": [
       "125gbutter,softened, plus extra for the tin",
       "200ggolden caster sugar,plus 2 tbsp",
       "100gclotted cream",
@@ -283,7 +283,7 @@
       "4 tbsplemon curd",
       "vanilla ice cream,to serve"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 180C/160C fan/gas 4. Butter a 20cm round cake tin and line with baking parchment. Put the butter, 200g sugar, the clotted cream and lemon zest in the bowl of a stand mixer and beat for 3-5 mins until lightened in colour and creamy. Alternatively, use a large bowl and wooden spoon. Pour in half the lemon juice and beat for a further 2 mins until well combined. Crack in the eggs, one at a time, beating well after each addition. Finally, stir in the flour and baking powder, making sure it’s just combined, with no pockets of flour. Scrape the mixture into the tin – it will be quite thick. Beat the lemon curd in a small bowl to loosen, and drizzle over the batter. Bake for 40-45 mins until a skewer inserted into the middle comes out clean. Leave to cool in the tin for 15 mins.",
       "Meanwhile, pour the remaining lemon juice and 2 tbsp sugar into a bowl. Stir well to combine before generously drizzling this over the cake. Transfer to awire rackto cool completely, then cut into slices and serve with vanilla ice cream, if you like.Will keep in an airtight container for up to three days."
     ]
@@ -309,7 +309,7 @@
       "protein": "33g",
       "salt": "1.2g"
     },
-    "instructions": [
+    "ingredients": [
       "1 tbspolive oil",
       "450gchestnut mushrooms,sliced",
       "2shallots,finely chopped",
@@ -328,7 +328,7 @@
       "175gfresh lasagne sheets",
       "tomato salad,to serve"
     ],
-    "methods": [
+    "instructions": [
       "Heat the olive oil over a medium-high heat in a shallow flameproof casserole or ovenproof frying pan (about 25cm wide) and fry the mushrooms for 7-10 mins until browned. Stir in the shallots and garlic and cook for a few more minutes until fragrant. Pour in the white wine and tomato purée and bubble until reduced and thickened, then season well. Remove from the heat and set aside.",
       "Heat the oven to 200C/180C fan/gas 6. Blitz the wild garlic and milk in ablenderuntil the garlic is finely chopped. Transfer to a jug. Heat the butter in a saucepan over a medium heat and, when bubbling, tip in the flour, mustard powder and nutmeg, and stir to a paste. Cook for 3-4 mins until slightly darkened. Splash in the milk mixture gradually, whisking well after each addition. Bring to a simmer, whisking continuously. Once simmering, whisk for about 5 mins, or until smooth and thick. Season to taste.Will keep covered in the fridge for two days.",
       "Mix the three cheeses together in a bowl. Transfer two-thirds of the mushrooms from the casserole to a bowl, and spread out the remaining mushrooms on the base of the casserole to cover evenly. Pour over a quarter of the white sauce, top with a quarter of the cheese and layer over the pasta sheets – you should be able to fit around four sheets in each layer. Repeat this twice more, then on the final layer of pasta, pour over the last of the sauce and sprinkle with the remaining cheese.",
@@ -356,7 +356,7 @@
       "protein": "3g",
       "salt": "0.09g"
     },
-    "instructions": [
+    "ingredients": [
       "2eggs, separated (you will have 1 yolk leftover, which can be frozen to use in another recipe)",
       "25gnatural full-fat yogurt",
       "70gwhole milk",
@@ -367,7 +367,7 @@
       "vegetable oil or spray oil, for frying",
       "butter, maple syrup, honey, berries or whipped cream, to serve (optional)"
     ],
-    "methods": [
+    "instructions": [
       "Put the two egg whites into a small bowl and freeze for 10 mins until just starting to freeze at the edges.",
       "Meanwhile, put one of the egg yolks in a medium bowl with the yogurt and milk, and mix well.Siftin the flour and whisk it in, followed by the vanilla – it should resemble a runny custard. Fill a larger bowl with ice, then sit the medium bowl on top to keep the batter cold.",
       "Melt the butter in a pan over a low heat and, as soon as it's liquid, pour the butter into the flour mixture,whiskinglightly until just combined. Remove the egg whites from the freezer, put in a stand mixer and whisk briefly. Gradually add the sugar, and continue to whisk for 3 mins until you have a fluffy meringue. Spoon the meringue into the flour mixture, and gently fold in using a large metal spoon orspatulauntil fully incorporated, being careful not to over-mix.",
@@ -396,7 +396,7 @@
       "protein": "8g",
       "salt": "1.04g"
     },
-    "instructions": [
+    "ingredients": [
       "420gplain flour",
       "8gsea salt",
       "60gcaster sugar",
@@ -406,7 +406,7 @@
       "110mlwhole milk",
       "16dark chocolate batons"
     ],
-    "methods": [
+    "instructions": [
       "Make the dough in astand mixer. Combine the flour, salt, sugar and 20g softened butter. Dissolve the yeast in around 80ml tepid water, around 38C, not too hot or it will kill the yeast. Add 20g of beaten egg and the milk to the stand mixer bowl. Pour in the yeast-water mixture and turn on to a low speed with a dough hook attachment for approximately 5 mins until the dough comes together to form a rough ball. Increase the speed to medium-high and knead for a further 6-10 mins until the dough is smooth. The exact time will depend on your stand mixer.",
       "Wrap the dough tightly and rest at room temperature for 10 mins. Unwrap and roll out the dough into a rectangle around 4mm thick, about 40 x 30cm. Wrap the dough rectangle and put in the freezer for 1 hr to rest or in the fridge overnight.",
       "Meanwhile, on a sheet of baking parchment, shape the remaining 200g butter into a flat rectangle (about 20 x 30cm) using a rolling pin. It should be around half the length of your dough rectangle, but the same width. Put in the fridge until needed – you want it to be cold but flexible.",
@@ -439,7 +439,7 @@
       "protein": "4g",
       "salt": "0.43g"
     },
-    "instructions": [
+    "ingredients": [
       "1 largegarlic bulb",
       "2black cardamom pods",
       "5 tbspolive oil",
@@ -456,7 +456,7 @@
       "30gcoriander, roughly chopped",
       "cooked rice or naan, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 180C/160C fan/gas 4. Slice the garlic bulb in half horizontally through its centre and put on a sheet of foil. Put 1 cardamom pod on top of each half and drizzle with 3 tbsp olive oil. Wrap in the foil and bake in the oven for 35-40 mins, or in anair-fryerfor 20-25 mins, until it's soft, jammy and just starting to caramelise on top.",
       "Heat 1 tbsp oil in a large frying pan over a medium-high heat, add the mushrooms and fry until slightly browned, this will take 3-4 mins. Remove from the pan and set aside.",
       "Add the onion to the same pan with a tablespoon more oil and a pinch of salt and cook over a medium heat until soft and just starting to brown, add the cardamom pods (from the garlic) and cumin seeds, mix well and add the ginger and green chilli, if using. Stir for 30 seconds.",
@@ -486,7 +486,7 @@
       "protein": "7g",
       "salt": "1.39g"
     },
-    "instructions": [
+    "ingredients": [
       "4dried pasilla chillies, seeds and stems removed",
       "3dried guajillo chillies, seeds and stems removed",
       "2 mediumtomatoes",
@@ -506,7 +506,7 @@
       "1 tbsptomato purée",
       "45gdark chocolate"
     ],
-    "methods": [
+    "instructions": [
       "Turn the grill on to high. Lay the dried chillies on a tray and grill to char them for 1 min on each side. Transfer them to a jug or bowl and cover with hot water to rehydrate for 10 mins.",
       "Put the tomatoes, onion, pear and garlic on a tray and put them under the grill to blacken for about 10 mins, turning the tomatoes halfway. This might take more or less time, depending on your grill, so keep an eye on them. Take them out and set aside.",
       "While the vegetables are charring, toast the sesame seeds and peanuts in a dryfrying panover a medium heat. Remove from the pan and set aside.",
@@ -537,7 +537,7 @@
       "protein": "10g",
       "salt": "0.4g"
     },
-    "instructions": [
+    "ingredients": [
       "120gcaster sugar",
       "5 mediumeggs, at room temperature",
       "½-1 tspvanilla extract",
@@ -545,7 +545,7 @@
       "400mlevaporated milk",
       "150mlwhole milk"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 180C/160C fan/gas 4. Tip the caster sugar into a largesaucepanalong with 2 tbsp water, and cook over a high heat without stirring until the sugar starts to dissolve. Once the sugar has started to dissolve, you can swirl the pan occasionally until you have an evenly coloured, golden caramel, about 5 mins. (It's crucial that the sugar dissolves completely to achieve this.) As soon as the mixture has turned into caramel, tip it into a 20cm flan tin (it should not be a loose-bottomed tin), tilting the tin back and forth to completely coat the base. Set aside to cool.",
       "Whiskthe eggs and vanilla together in a large bowl, then vigorously whisk in the condensed, evaporated and whole milks until well combined. Pour the custard into the tin and cover with foil, sealing well at the edge. Put the tin in a high-sided baking tray (about 5cm deep) and pour boiling water from the kettle into the tray so it reaches about halfway up the side of the tin. Transfer the tray in the oven and bake for 50 mins.",
       "Carefully remove the tin from the tray and remove the foil. Put the tin on a work surface and leave to cool for about 30 mins. Once just warm, cover and chill for at least 6 hrs, or overnight.",
@@ -573,7 +573,7 @@
       "protein": "32g",
       "salt": "1.88g"
     },
-    "instructions": [
+    "ingredients": [
       "500gboneless chicken thighs, cut into bite-sized pieces",
       "25gdried Sichuan chillies, deseeded and cut into 3 pieces",
       "neutral-tasting oil, such as vegetable, for deep-frying",
@@ -600,7 +600,7 @@
       "2½ tbspcornflour",
       "1 tbspcorn oil"
     ],
-    "methods": [
+    "instructions": [
       "Combine all the marinade ingredients, except the cornflour and oil, with ¼ tsp salt in a large bowl, then stir in the chicken thigh pieces to coat. Cover and chill for 30 mins. Add the cornflour and mix well, then add the oil and stir again to combine.",
       "Put the dried Sichuan chillies in acolanderand shake to remove any excess seeds. Transfer to a heatproof bowl, cover with hot water and leave to soak for 10 mins, then drain and set aside.",
       "Fill awokor large saucepan about a third full with the oil and heat over a medium-high heat until the oil forms bubbles around a chopstick when it's dipped in (this is about 160C). Reduce the heat to medium and carefully lower in the chicken thigh pieces. (You may need to do this in batches.) Fry for 3-4 mins, then remove to kitchen paper to drain using tongs. Turn the heat up until the oil reaches between 180C-200C, and fry the chicken for a further 1-2 mins until golden, crispy and cooked through. Drain on kitchen paper. (You may need to do this in batches.)",
@@ -628,7 +628,7 @@
       "protein": "29g",
       "salt": "1.71g"
     },
-    "instructions": [
+    "ingredients": [
       "300-400gboneless, skinless chicken thighs",
       "3-4 tbsppotato flour",
       "400-500mlvegetable oil(sunflower, rice bran or rapeseed oil works well), for deep-frying",
@@ -646,7 +646,7 @@
       "1 tspgrated ginger",
       "1 tspsesame oil"
     ],
-    "methods": [
+    "instructions": [
       "Combine the marinade ingredients in a large bowl. Cut the chicken thighs into roughly 4cm cubes and tip into the marinade. Stir to coat, then chill for at least 30 mins, or overnight.",
       "Remove the chicken pieces from the marinade using a slotted spoon, allowing the excess to drip off. Spoon the chicken onto a plate and sift over the potato flour, ensuring it covers each piece of chicken.",
       "Heat the oil in a deep saucepan orwokto 170C, or until a small piece of bread browns within 30 seconds. Carefully lower in four or five pieces of chicken and fry for 3-4 mins. Remove to a wire rack set over kitchen towels to drain, and repeat with the rest of the chicken.",
@@ -675,7 +675,7 @@
       "protein": "21g",
       "salt": "1.98g"
     },
-    "instructions": [
+    "ingredients": [
       "1egg white(save the yolk for another recipe)",
       "2 tspsoy sauce",
       "2 tbspcornflour",
@@ -709,7 +709,7 @@
       "1 tbspsweet or garlic chilli sauce(add ½ tsp sugar if your chilli sauce isn’t sweet)",
       "1 tspcornflour"
     ],
-    "methods": [
+    "instructions": [
       "Combine the egg white with the soy sauce and cornflour in a large bowl. Add the chicken and mix thoroughly to coat.",
       "Mix all the coating ingredients together with ½ tsp salt in a bowl and set aside.",
       "Make the sauce by heating the oil in a pan and frying the ginger, garlic and most of the spring onions (save some to serve) over a medium heat for 1 min. Stir in the ketchup, soy sauce and chilli sauce plus 3 tbsp water and cook for 1 min. Stir the cornflour into 1 tbsp cold water to make a paste and add this to the sauce. Turn the heat to low and cook for a minute or so – the sauce should thicken straight away. Remove from the heat and set aside.",
@@ -738,7 +738,7 @@
       "protein": "7g",
       "salt": "0.1g"
     },
-    "instructions": [
+    "ingredients": [
       "8 large ripebananas, cut into chunks",
       "80-120mlmilk",
       "100mltahini",
@@ -755,7 +755,7 @@
       "pinch ofespresso powder(optional)",
       "4 large ripebananas, peeled and sliced"
     ],
-    "methods": [
+    "instructions": [
       "Stir the tahini to loosen, then mix with the syrup, vanilla and 120ml hot water in a heatproof bowl. Sift in the cocoa and espresso, if using. Stir in a pinch of salt until smooth, adding a splash more hot water to loosen, if needed.",
       "Put the banana chunks on a tray. Freeze for 1 hr, then blitz in a food processor until smooth with enough milk to create a creamy texture.Will keep frozen for three months.",
       "Top the banana ice cream with the tahini sauce and banana slices.Extra sauce will keep in an airtight container at room temp for four days."
@@ -782,7 +782,7 @@
       "protein": "0.2g",
       "salt": "0.01g"
     },
-    "instructions": [
+    "ingredients": [
       "30mlgolden rum",
       "30mlcoconut rum",
       "50mlorange juice",
@@ -792,7 +792,7 @@
       "splash ofgrenadine",
       "pineapplewedge and maraschino cherry, to garnish"
     ],
-    "methods": [
+    "instructions": [
       "Divide the golden rum, coconut rum and all the juices between four hurricane glass. Top each drink up with ice.",
       "Stir well, then drizzle in the grenadine to create an ombre effect. Garnish each glass with a pineapple wedge andmaraschino cherry."
     ]
@@ -818,7 +818,7 @@
       "protein": "33g",
       "salt": "3.1g"
     },
-    "instructions": [
+    "ingredients": [
       "2 largechicken breasts",
       "sunflower oil, for deep-frying",
       "2 tbspsmoked paprika",
@@ -855,7 +855,7 @@
       "4brioche burger buns",
       "4 mediumgherkins, sliced lengthways"
     ],
-    "methods": [
+    "instructions": [
       "First, make the spice mix by combining all the ingredients in a small bowl, then set aside. For the brine,whiskthe buttermilk with the pickle juice, 1 tsp of salt and a third the spice mix in a plastic container or bowl until fully mixed. Cut each chicken breasts into two, about two-thirds up from the thinner end, so you have a thinner piece and a plump piece of chicken from each. One at a time, put the chicken pieces between two sheets of baking parchment and flatten out using arolling pinuntil about until 2cm thick. Lower the chicken into the buttermilk mixture, then cover and chill for at least 4 hrs.Will keep covered and chilled for up to 24 hrs.",
       "To make the coating, mix the plain flour and cornflour with the rest of the spice mix and 1 tsp of salt in a shallow dish. Make the sauce by mixing the mayonnaise with the hot sauce to taste, then set aside.",
       "Fill a saucepan ordeep-fat fryerwith oil to a depth of 5cm, then heat until it reaches 175C, or until a small piece of bread dropped in quickly turns golden. When the oil is up to temperature, use tongs to lift a piece of chicken out of the buttermilk marinade, then dredge it in the seasoned flour until well coated. Carefully, still using the tongs, lower it into the oil, then repeat with a second piece of chicken. Fry for 5 mins, until deeply golden and crisp on both sides. Lift the chicken out and drain on a tray lined with kitchen paper, then cover with a slice of cheese and put on a rack in a low oven to keep warm while you fry the rest of the chicken burgers.",
@@ -883,13 +883,13 @@
       "protein": "4g",
       "salt": "0.5g"
     },
-    "instructions": [
+    "ingredients": [
       "500gripe strawberries, hulled and halved",
       "75ggolden caster sugar",
       "320gready-rolled puff pastry",
       "vanilla orclotted cream ice cream, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Toss the strawberries with 2 tbsp of the sugar in a large bowl and set aside to macerate for about 1 hr.",
       "Unravel the pastry on its baking parchment, sprinkle over 2 tbsp of the sugar, roll it back up again (without the parchment), then stand it upright and squash it down into a rough disc.Roll the pastry discout into a circle that will fit your pan (we used a 30cm ovenproof frying pan).",
       "Heat the oven to 220C/200C fan/gas 8. Drain the berries, reserving the juices. Scatter the rest of the sugar into the ovenproof frying pan and drizzle in the reserved juices. Put the pan over a high heat and melt the sugar until it starts to caramelise. Turn off the heat and arrange the strawberries in the pan in a single layer, rounded-side down.",
@@ -917,7 +917,7 @@
       "protein": "7g",
       "salt": "0.5g"
     },
-    "instructions": [
+    "ingredients": [
       "300gplain flour",
       "200gcold salted butter, cut into cubes",
       "1 tspwhite wine vinegar",
@@ -935,7 +935,7 @@
       "1lemon, juiced",
       "20g piece ofginger, peeled and sliced"
     ],
-    "methods": [
+    "instructions": [
       "Tip the flour into a large bowl and toss with the butter. Mix the butter into the flour using two forks until you have medium lumps of butter coated in flour. Add the vinegar, then slowly add 120ml ice-cold water, 1 tbsp at a time, mixing well until you have a shaggy dough.",
       "Turn the dough out onto a surface and fold it onto itself a few times until you have a pliable dough with streaks of butter throughout. If it feels dry, dampen your hands lightly and continue to fold. If it’s sticky, sprinkle over a little more flour. When it’s cohesive, divide it in two and flatten into discs. Wrap and chill for 2 hrs, or overnight.",
       "For the filling, combine the peaches, brown sugar, flour, lemon juice and ginger in a large bowl.",
@@ -966,7 +966,7 @@
       "protein": "7g",
       "salt": "0.9g"
     },
-    "instructions": [
+    "ingredients": [
       "100gnatural yogurt",
       "35gpickled jalapeños, finely sliced, plus 2 tbsp brine from the jar",
       "2kohlrabi(about 900g), finely shaved using a mandoline",
@@ -975,7 +975,7 @@
       "30gsalted peanuts, roughly crushed",
       "1 tbspextra virgin olive oil(optional)"
     ],
-    "methods": [
+    "instructions": [
       "Whiskthe yogurt, jalapeño brine and some seasoning together in a large bowl.",
       "Add the kohlrabi and toss well using your hands. Arrange over a serving platter, then scatter over the jalapeño and chilli slices, the dill and peanuts. Drizzle over the olive oil, if you like."
     ]
@@ -1001,7 +1001,7 @@
       "protein": "5g",
       "salt": "0.1g"
     },
-    "instructions": [
+    "ingredients": [
       "500gfresh cherries, pitted",
       "1lemon, zested and juiced",
       "50gcaster sugar",
@@ -1011,7 +1011,7 @@
       "250mlcondensed milk",
       "50gpistachios, shelled, toasted and finely chopped"
     ],
-    "methods": [
+    "instructions": [
       "Tip the cherries, lemon zest and juice, the sugar and cornflour into a pan. Cook over a medium heat for 12-15 mins until bubbling, reduced and thickened. As the cherries cook, lightly mash using a wooden spoon to break them up. Cool completely.",
       "Whiskthe cream and pistachio butter to soft peaks using an electric whisk, then fold in the condensed milk. Pour into a 1.2-litre loaf tin or freezerproof container, then swirl in the cooled cherries using a cutlery knife. Scatter over the pistachios, cover and freeze for at least 6 hrs, or ideally overnight.Will keep frozen for three months.Remove from the freezer for 5 mins before scooping."
     ]
@@ -1037,14 +1037,14 @@
       "protein": "4g",
       "salt": "0.3g"
     },
-    "instructions": [
+    "ingredients": [
       "150gspeculoos biscuits",
       "100gspeculoos biscuit spread",
       "600mldouble cream",
       "250mlcondensed milk",
       "2 tspvanilla extract"
     ],
-    "methods": [
+    "instructions": [
       "Tip the biscuits into afood processoror bowl. Blitz or bash using a rolling pin to fine crumbs. Warm the spread in a small pan over a low heat until melted, then cool slightly. Or, melt in a heatproof bowl in short blasts in themicrowave.",
       "Whiskthe double cream to soft peaks using an electric whisk, then gently fold in the condensed milk, vanilla and crushed biscuits. Pour the mixture into a 1.2-litre loaf tin or freezerproof container, then pour over the melted speculoos spread and gently swirl in using a cutlery knife to create a marbled effect. Cover and freeze for at least 6 hrs, or ideally overnight.Will keep frozen for three months.Remove from the freezer 5 mins before scooping, and serve topped with a sprinkle of sea salt flakes, if you like."
     ]
@@ -1070,7 +1070,7 @@
       "protein": "11g",
       "salt": "0.73g"
     },
-    "instructions": [
+    "ingredients": [
       "250gcourgettes,grated",
       "20gplain flour",
       "1egg,beaten",
@@ -1078,7 +1078,7 @@
       "1 tbspolive oil",
       "170gtub roasted red pepper hummus,to serve"
     ],
-    "methods": [
+    "instructions": [
       "Combine the grated courgette, flour, egg and parmesan in a large bowl.",
       "Heat a non-stick frying pan over a medium heat and add the oil. Fry the fritters for 2-3 mins on each side until golden brown. Serve straight away with red pepper hummus."
     ]
@@ -1104,7 +1104,7 @@
       "protein": "27g",
       "salt": "2.5g"
     },
-    "instructions": [
+    "ingredients": [
       "5eggs",
       "6sausages(about 350g), skins removed",
       "6 rashersunsmoked streaky bacon, finely chopped",
@@ -1115,7 +1115,7 @@
       "oil spray (optional)",
       "mustard, to serve (optional)"
     ],
-    "methods": [
+    "instructions": [
       "Heat yourair-fryerto 180C. Put 4 eggs in the air-fryer basket and cook for 8 mins. Remove and plunge the eggs into ice-cold water. Leave to cool, then peel. This is easiest when the eggs are fresh, but don’t worry if you peel some of the white away.",
       "Tip the sausagemeat into a large bowl with the bacon, sage and mixed herbs and fully combine using your hands. Divide the mixture into four balls, then flatten each into a disc about 10cm in diameter – it’s best to do this on a sheet of baking parchment to stop it sticking to the work surface. Set aside.",
       "Put the flour on a plate, then beat the remaining egg in a bowl. Tip the breadcrumbs onto another plate. One by one, roll an egg in the flour, then place in the centre of a sausagemeat disc and mould the meat around the egg. Roll in flour again, then dip into the egg to fully coat and finally, roll in the breadcrumbs. Set aside.",
@@ -1143,7 +1143,7 @@
       "protein": "44g",
       "salt": "1.3g"
     },
-    "instructions": [
+    "ingredients": [
       "3-4chicken breasts(about 600g), cut into bite-size pieces",
       "150gnatural yogurt, plus extra to serve (optional)",
       "2 tbsptikka masala curry paste",
@@ -1155,7 +1155,7 @@
       "To serve",
       "your choice of mango chutney, lime pickle, diced cucumber or raita and crumbled bhaji"
     ],
-    "methods": [
+    "instructions": [
       "Put the chicken in a bowl with the yogurt, curry paste, garlic and ginger. Mix everything together and leave for at least 20 mins to marinate, or chill overnight.Will keep covered and chilled for a day.",
       "Heat theair-fryerto 180C. Thread the chicken onto skewers – you’ll need between four and eight. If your air-fryer is big enough to hold the longer skewers, then use four, otherwise use eight shorter ones or cut them in half. (Alternatively, air-fry the chicken in pieces for 15-20 mins, turning halfway, until cooked through. You may need to do this in batches.)",
       "Warm the naans following pack instructions – themicrowaveis a good option as it tends to soften them, which is helpful for wrapping around the chicken. Or, splash the breads with water, then toast.",
@@ -1183,7 +1183,7 @@
       "protein": "16g",
       "salt": "1.3g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tbspolive oil",
       "3garlic cloves, crushed",
       "2 tbsptomato purée",
@@ -1195,7 +1195,7 @@
       "250gricotta",
       "crusty breadand green salad, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 200C/180C fan/gas 6. Mix half the olive oil with the garlic, tomato purée, paprika, veg stock and thyme in aroasting tin. Stir in the roasted veg and beans, nestle the ricotta in the middle and drizzle with the remaining oil.",
       "Season and roast for 30-35 mins until reduced and golden. Serve with crusty bread for dipping and a green salad in a lemony dressing."
     ]
@@ -1221,7 +1221,7 @@
       "protein": "15g",
       "salt": "1.7g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tbspneutral-tasting oil, such as vegetable",
       "3garlic cloves, crushed",
       "20gginger, peeled and grated",
@@ -1239,7 +1239,7 @@
       "small handful ofcoriander, finely chopped",
       "cooked white rice, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in a largefrying panover a medium-high heat. Add the garlic and ginger and sizzle for a minute, then stir in the tomato purée and curry paste. Cook for 4-5 mins until caramelised and fragrant, then stir in the chickpeas, roasted veg, coconut milk, peanut butter, soy sauce and honey. Bring to a simmer, then let it bubble away for 10 mins until thickened.",
       "Stir in the spinach and cook for 4 mins until wilted. Season to taste with salt, pepper, lime juice and more honey if needed. Serve with the peanuts and coriander sprinkled over and the rice."
     ]
@@ -1265,7 +1265,7 @@
       "protein": "15g",
       "salt": "2.8g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tbspolive oil",
       "4garlic cloves, crushed",
       "2 tbsptomato purée",
@@ -1284,7 +1284,7 @@
       "small handful ofparsley, finely chopped",
       "1lemon, zested"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in asaucepanover a medium heat and cook the garlic for 2 mins until fragrant, then stir in the tomato purée, oregano and a pinch of sugar. Cook, reducing the heat if needed, for 4-5 mins more until the purée is caramelised and darkened. Add the roasted veg, stock, orzo and sweetcorn. Bring to a simmer and cook for 8-10 mins until the orzo is just al dente.",
       "Meanwhile, combine the feta, olives, parsley and lemon zest in a small bowl and season with pepper.",
       "Season the soup to taste and serve with the feta and olive mixture scattered over the top."

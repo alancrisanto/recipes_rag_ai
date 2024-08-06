@@ -39,7 +39,7 @@
 - 100gfrozen peas
 - ½lemon,juiced
 
-### Method
+### Instructions
 - Boil the noodles following pack instructions, then rinse well to ensure the strands are separate. Meanwhile, heat the oil in awokor sauté pan over a high heat and stir-fry the pepper, carrot, ginger, garlic and chilli, if using, for 5 mins until softened. Stir in the cumin seeds and curry powder and cook for 30 seconds or so until aromatic.
 - Mix the peanut butter and tomato purée with the vegetable stock until smooth. Add the drained noodles to the wok along with the frozen peas, then pour in the peanut and tomato mixture and toss everything together. If it seems a bit claggy, stir in a drop more water. Squeeze in the lemon juice, toss well and serve.This recipe is part of our free 7-dayhealthy diet plan. This easy-to-follow, nutritionist-created plan will inspire you to cook and eat more healthily. Nourish yourself with seven days of meals, snacks and treats.
 
@@ -98,7 +98,7 @@
 - 365gfrozen spinach
 - ⅓x 30g pack of coriander,chopped
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Brush the sweet potato slices with a little oil, arrange in a single layer on a baking tray, then bake for 20-25 mins. Check towards the end to make sure they are not catching – move around if the slices near the edges of the tray are browning faster than the ones in the middle.
 - For the chickpeas, heat the oil in a large pan over a medium heat and fry the celery for 5 mins, stirring frequently. Add the garlic, curry powder and cumin seeds, stir briefly, then tip in the tomatoes, tomato purée and bouillon. Stir in the chickpeas and frozen spinach, then cover and simmer for 15 mins. Stir in the coriander.
 - Divide half the chickpeas between six pieces of the sweet potato toast, and serve three toasts per person.Cool and chill the rest to eat another day. To serve, reheat the chickpeas in a pan over a low heat with a splash of water until piping hot. Briefly heat the sweet potato slices in a dry frying pan over a low heat, watching carefully so they don't burn. Will keep chilled for three days.This recipe is part of our free 7-dayhealthy diet plan. This easy-to-follow, nutritionist-created plan will inspire you to cook and eat more healthily. Nourish yourself with seven days of meals, snacks and treats.
@@ -142,7 +142,7 @@
 - 1.3kgwhole chicken
 - 320gfrozen peas
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Mix the potatoes, leeks, thyme, garlic and swede in a deep, non-stick roasting tin. Shake into an even layer. Pour in the stock and brush the veg with the oil. Roast for 20 mins.
 - Put the thyme stalks inside the chicken cavity. After 20 mins, sit the chicken on top of the veg and roast for 1 hr until cooked through. After 30 mins, check the potatoes – add 150ml water if they start to catch. Remove the chicken to a board to rest for 10 mins. Meanwhile, cook half the peas following pack instructions.
 - Carveoff the chicken legs and remove their skin, then serve with half the roast veg and the peas.Leave the remaining chicken and veg to cool, then keep chilled for up to three days. To prepare the leftovers, remove the skin from one of the breasts, and reheat it with the veg in the microwave until piping hot. Cook the remaining peas following pack instructions. Slice the breast and serve with the veg. Use the final breast for these spiced chicken egg wraps.This recipe is part of our free 7-dayhealthy diet plan. This easy-to-follow, nutritionist-created plan will inspire you to cook and eat more healthily. Nourish yourself with seven days of meals, snacks and treats.
@@ -188,7 +188,7 @@
 - 2x 400g cans chickpeas
 - 150gfeta,crumbled
 
-### Method
+### Instructions
 - Heat the oil in a large pan over a medium heat and fry the onions for 10 mins, stirring frequently until starting to turn golden. Add the garlic and carrots, and cook a few minutes more, then stir in the spices, thyme and lentils.
 - Pour in the stock, then cover and simmer for 20 mins until the lentils are pulpy and tender. Remove from the heat and roughly blitz using ahand blender– you don’t want it to be completely smooth. Stir in the chickpeas and the liquid from the cans, and reheat the soup. Serve two bowls straightaway, each topped with 25g of the crumbled feta.Leave the remaining soup to cool before keeping chilled for up to four days. Reheat in a pan over a low heat until piping hot, then scatter over 25g of the remaining feta for each portion.
 
@@ -250,7 +250,7 @@
 - ½ tspcumin seeds
 - 1 tsprapeseed oil
 
-### Method
+### Instructions
 - Put the red onion and lemon in a non-reactive bowl and scrunch together using your hands. Set aside for the onions to soften. For the filling, mostly drain the beans, leaving a little liquid in the can. Tip into a bowl and mash with the tomato purée, spices and bouillon. Top with the chicken, cover and warm through in the microwave for 4 mins.
 - For the wraps, beat 2 eggs with ¼ tsp each of the paprika and cumin seeds. Heat the oil in a 20cmnon-stick frying panover a medium heat. Tip in the egg mix and cook undisturbed for about 5 mins until set (no need to turn it). Remove to a plate and repeat with the remaining eggs and spices.
 - Spoon the warm bean mixture down the centre of the egg wraps. Top with half the coriander, the warm chicken, tomatoes and onions, then scatter with the remaining coriander. Drizzle over any lemon juice from the onions and serve straightaway.This recipe is part of our free 7-dayhealthy diet plan. This easy-to-follow, nutritionist-created plan will inspire you to cook and eat more healthily. Nourish yourself with seven days of meals, snacks and treats.
@@ -304,7 +304,7 @@
 - 20gfeta
 - a few thyme leaves,to serve (optional)
 
-### Method
+### Instructions
 - First, for the salad, put the red onion and lemon juice in a bowl and scrunch together using your hands. Set aside for the onions to soften.
 - Meanwhile boil the penne for 12 mins, or following pack instructions, until tender. Drain and cool under running cold water, then drain again thoroughly. Tip into a bowl and mix with the spinach, garlic, paprika, olives and eggs. Fold in the tuna.
 - Heat the oil in a 20cmnon-stick frying pan. Tip in the spinach and egg mixture, then cook covered over a gentle heat for about 10 mins until set. Turn out onto a plate and slide back into the pan to cook the other side for 5 mins. Serve topped with the red onions, tomatoes and crumbled feta, and sprinkle with a little extra paprika and thyme, if you like. Cut into wedges to serve.This recipe is part of our free 7-dayhealthy diet plan. This easy-to-follow, nutritionist-created plan will inspire you to cook and eat more healthily. Nourish yourself with seven days of meals, snacks and treats.
@@ -352,7 +352,7 @@
 - 280gcoconut yogurt
 - 10gcoriander,chopped
 
-### Method
+### Instructions
 - Heat the oil in a large pan over a medium heat and fry the onions for 8 mins, stirring often until softened. Stir in the garlic, chillies, curry powder, cumin seeds, turmeric and lentils, and cook for a few minutes more, still stirring. Pour in the stock and sweetcorn. Bring to the boil, then cover, reduce the heat and simmer for 15-20 mins, or until the lentils are tender.
 - Remove from the heat and briefly blitz the soup using ahand blender– you don’t want it to be completely smooth. Add the potatoes, then cover and return to a medium heat for 10-15 mins more, or until the potatoes are tender. Remove from the heat and stir in the yogurt and coriander.
 - Serve two bowlfuls straightaway.Leave the rest of the soup to cool completely, then keep chilled for up to four days. Reheat in a pan over a low heat until piping hot.This recipe is part of our free 7-dayhealthy diet plan. This easy-to-follow, nutritionist-created plan will inspire you to cook and eat more healthily. Nourish yourself with seven days of meals, snacks and treats.
@@ -403,7 +403,7 @@
 - 4frozen skinless cod fillets(about 360g)
 - ⅓pack of coriander,chopped
 
-### Method
+### Instructions
 - Heat the oil in a large pan over a medium heat and fry the onions, swede, carrots, lemon peel and garlic for 10 mins, stirring frequently. Add the spices and stir briefly.
 - Stir in the tomatoes, tomato purée, stock and olives. Cover and cook for 25 mins.
 - Boil the rice following pack instructions. Stir the tomato mixture well, then nestle in the frozen cod fillets. Cover and cook for 20 mins until the fish is cooked through. Scatter with the coriander. Serve half with half the cooked rice.Leave the rest of the tagine and rice to cool, then keep chilled for up to three days. Reheat the tagine in a pan over a low heat until piping hot, and reheat the rice in themicrowaveuntil completely heated through.This recipe is part of our free 7-dayhealthy diet plan. This easy-to-follow, nutritionist-created plan will inspire you to cook and eat more healthily. Nourish yourself with seven days of meals, snacks and treats.
@@ -450,7 +450,7 @@
 - 2 x 160gLittle Gem lettuces,1 shredded
 - 4tomatoes,cut into wedges
 
-### Method
+### Instructions
 - Combine the onion, vinegar, oil, olives and herbs in a medium bowl.
 - Boil the potatoes in the base of asteamerfor 10 mins. Add the eggs (top up with boiling water from the kettle if they’re not submerged). Tip the green beans into a pan and put the steamer on top, then cook for 8 mins more.
 - Remove the potatoes and eggs from thesteamer, but don’t drain. Add the salmon to the water and cook for 5 mins. Stir the warm potatoes into the dressing.
@@ -520,7 +520,7 @@
 - 1red chilli,finely chopped
 - 2small bananas,peeled and sliced
 
-### Method
+### Instructions
 - Boil the rice for 25 mins until tender. Meanwhile, heat the oil in a wide, non-stick pan over a medium heat and fry the onions and ginger for 8-10 mins, covered, until softened. Add the courgette, spices and stock, then cover and simmer for 10 mins until the courgette is tender. Remove from the heat.
 - Blitz the mixture directly in the pan using ahand blenderuntil smooth, then return to a low heat heat and stir in the ground almonds and yogurt.
 - Submerge the cod in the sauce and cook, covered, for 8-10 mins until the fish flakes easily. Meanwhile, combine half each of the onions, lemon juice, coriander, chilli and banana slices for the salad. Serve half the rice with half the korma and the salad. Leave the remainder to cool completely, then chill to eat another day with the rest of the salad.Will keep chilled in an airtight container for two days. Reheat in a pan over a low heat ormicrowaveuntil piping hot.
@@ -570,7 +570,7 @@
 - 30gpack of basil,chopped
 - 80gvegetarian Italian-style hard cheese,finely grated
 
-### Method
+### Instructions
 - Heat the oil in a large pan over a medium heat and fry the onions and garlic for 5 mins, then add the celery and peppers. Fry for another 5 mins, adding the smoked paprika in the last minute. Stir in the tomatoes, oregano and stock. Bring to the boil.
 - Tip in the penne, green beans and kale, bring back to the boil and cook over a medium heat for 10 mins. Stir in the cherry tomatoes and basil, and cook for a few minutes more until the tomatoes have burst.
 - To serve, spoon two portions of the soup into shallow bowls and sprinkle over half the cheese. Keep the remainder for another day.Will keep chilled in an airtight container for up to four days or frozen for up to three months.Reheat in a pan over a low-medium heat until piping hot, then serve with the remaining cheese.
@@ -619,7 +619,7 @@
 - 3eggs,beaten
 - 15gcoriander,chopped
 
-### Method
+### Instructions
 - Cook the noodles following pack instructions. Combine the lime juice, tamari, grated garlic and chilli in a small bowl. Set aside.
 - Heat the oil in a non-stickwokor large, wide pan over a high heat and stir-fry the onions, ginger and pepper for 5 mins until softened (add the chopped garlic for the last minute). Stir in the curry powder and cook for a minute more. Add the beansprouts and continue cooking until the beansprouts start to soften and are piping hot. Mix in the tahini.
 - Push the veg to the side of the wok and pour in the egg – you may need a drop more oil. Stir-fry the eggs so they are mostly set, then stir the veg into the egg and add the noodles and coriander, then toss to combine. Pile into bowls and serve with the sauce on the side.
@@ -664,7 +664,7 @@
 - 4small oranges,peeled and segmented
 - 120gfeta,crumbled
 
-### Method
+### Instructions
 - Tip the quinoa and celery into a pan and cover with plenty of water. Bring to the boil, then reduce the heat and simmer for 10 mins. Add the soya beans, bring back to the boil and cook for 7 mins more. Drain well, tip into a bowl and set aside.
 - Add the oil, vinegar and spring onions, and leave to cool slightly before stirring in the parsley and mint. Serve two portions topped with half the segmented oranges and half the feta crumbled over. Chill the remaining salad for another day, then segment the remaining oranges and crumble over the feta just before serving.Will keep chilled in an airtight container for up to three days.
 
@@ -709,7 +709,7 @@
 - 1 tbspcapers
 - 50gwalnut pieces,lightly toasted and chopped if large
 
-### Method
+### Instructions
 - Cook the spaghetti following pack instructions, then drain, reserving 150ml of the cooking water. Meanwhile, heat the oil in a large non-stick pan over a medium heat. Add the aubergine and garlic, stir well, then cover and cook for 8-10 mins, stirring a few times.
 - Mix in the tomato purée and vinegar, and cook for 2-3 mins more. Pour in the stock, then cover and cook for a further 10-15 mins until the aubergine is tender when pierced with a knife.
 - Add the cherry tomatoes and cook for a few minutes more until softened but still holding their shape. Stir in the basil, capers and walnuts, then toss through the spaghetti, adding a little of the reserved pasta water if needed to loosen. Serve half straightaway. Keep the remainder for another day.Will keep covered and chilled for up to four days. Reheat in a pan over a low heat with a splash of water until piping hot.
@@ -758,7 +758,7 @@
 - ¼ tspground cumin
 - ½ tspgluten-free tamari
 
-### Method
+### Instructions
 - Combine the garlic, oil and curry powder in a large bowl, then add the chicken, turning to coat. Heat anon-stick frying panover a medium-low heat and fry the chicken for 5 mins until golden. Flip over, cover and cook for 3 mins more until cooked through.
 - Meanwhile, combine the ingredients for the dip in a small bowl. Slice the chicken and serve with satay sticks, cucumber batons and the dip for dunking.
 
@@ -821,7 +821,7 @@
 - 3handfuls of rocket
 - 160gcherry tomatoes
 
-### Method
+### Instructions
 - Whiskthe flour and egg together, then gradually whisk in the milk to create a smooth pancake-style batter. Pour into a jug.
 - Heat the oil in a 19cm non-stick pan over a medium heat, tip in a quarter of the batter, and swirl to cover the base. Cook briefly until just set, then flip over using a palette knife and cook the other side until just golden. Lift onto a plate, then repeat with the remaining batter to make four pancakes in total.
 - Meanwhile, heat a second large non-stick pan over a medium heat and cook the spinach, nutmeg and garlic for about 5 mins, stirring with a wooden spoon until the spinach has completely wilted. Remove from the heat and cool slightly, then beat in the ricotta. Spoon a quarter of the spinach filling down the centre of each pancake, then roll up into a sausage and arrange snugly in an ovenproof dish. Heat the oven to 200C/180C fan/gas 6.
@@ -875,7 +875,7 @@
 - 400g potfortified oat or plain bio yogurt
 - 4 tspsunflower seeds
 
-### Method
+### Instructions
 - Mix the oats and chia in a bowl with the vanilla and almond milk. Cover and chill overnight.
 - Heat the oil in a small non-stick pan. Add the apricots in a single layer, then cover the pan and cook over a low heat for 5 mins, until softened. Stir well and cook a few minutes more if needed – they will cook a little more in the residual heat as they cool. Cover and keep chilled until needed.
 - The next day, stir the yogurt into the oats and spoon into tumblers, small jars or small bowls. Top with the cooked apricots and sunflower seeds.Will keep covered and chilled for up to four days.
@@ -925,7 +925,7 @@
 - 2avocados
 - 1lime,juiced
 
-### Method
+### Instructions
 - Heat the oil in a large pan over a medium heat, then tip in the mince and break it up using a wooden spoon. Stir in the garlic and chilli, and cook for 10 mins until the mince is cooked through. Add the herbs and spices, and cook for a minute more.
 - Pour in the passata, the reserved liquid from the beans, the bouillon powder and peppers. Cover and cook for 15-20 mins until slightly thickened. Tip in the beans and cook for 3-5 mins more.
 - Meanwhile, prick two of the sweet potatoes all over using a fork, then microwave on high for 7-10 mins until tender. Mash one of the avocados with half the lime juice in a small bowl.
@@ -980,7 +980,7 @@
 - 1egg,beaten
 - 3 tbspbasilstems and leaves (taken from the 30g in the soup ingredients above)
 
-### Method
+### Instructions
 - First, make the dumplings. Tip the cottage cheese into a bowl and mash to smooth slightly. Mix in the flour, egg and basil, then set aside for about 10 mins for the flour to absorb the moisture.
 - Meanwhile, heat the oil in a large pan over a medium heat and fry the leeks, garlic and potatoes for 10-15 mins, or until softened. Pour over the bouillon, then add the asparagus stems, all of the beans, the tomatoes and and remaining basil stems. Bring to the boil, then reduce the heat to a simmer, cover and cook over a medium heat for 10 mins until the veg is tender. Stir in the asparagus tips and remaining basil leaves, and cook a few minutes more. Set aside.
 - Heat a deep frying pan filled with water to a gentle simmer, then use an ice-cream scoop to scoop eight dumplings into the simmering water. Cook for 5 mins, or until the dumplings rise to the surface.
@@ -1024,7 +1024,7 @@
 - 25gpumpkin seeds
 - 2x 400g pots fortified soya or plain bio yogurt
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6 and line a largebaking traywith baking parchment. Put the prunes, orange zest and juice in a small bowl, add the tahini and mash it all together to make a paste. Tip the oats into a large bowl, then add the prune mixture and knead it all together using your hands, as though you’re making a crumble topping, until all the oats are coated and sticky. Spread out on the prepared tray and bake for 20 mins, turning the oats every 5 mins to help them cook evenly and drive off as much steam as possible.
 - Remove from the oven and stir the almonds and seeds onto the tray, then cool quickly by tossing the mixture.Once completely cooled, the granola will keep for two weeks in an airtight container.
 - Measure 50g granola per serving and enjoy with 100g soya yogurt.
@@ -1067,7 +1067,7 @@
 - 160gbaby spinach
 - 2eggs
 
-### Method
+### Instructions
 - Boil the potatoes for 15-20 mins until almost tender, then scoop into a bowl using a slotted spoon. Keep the water for later.
 - Meanwhile, heat the oil in a largenon-stick frying panover a medium heat and cook the onion for 5 mins, stirring frequently until starting to colour. Add the pepper and cook for 5 mins more.
 - Crush the cooked potatoes using a masher. Stir them into the onion and pepper, along with the paprika and tarragon. Cook for 5-10 mins, turning them over occasionally so they brown.
@@ -1123,7 +1123,7 @@
 - 180g cookedspinach,liquid squeezed out and lightly chopped
 - 60g cookedbroad beansor soya beans (double pod the broad beans, if you like)
 
-### Method
+### Instructions
 - Sieve the flour into a bowl with ½ tsp salt. Add the butter and lard, and rub the mixture together using your fingertips until you get a sandy, breadcrumb-like texture. Add the milk, a little at a time, and using a cutlery knife, start to bring the dough together, using your hands, making sure it has no dry patches and feels smooth. Cover and allow to rest in the fridge for 30-45 mins.
 - Put a 20cm loose-bottomed tart tin or a 20cm pastry ring on a baking sheet. Lightly flour the work surface and roll out the pastry to a circle a little larger than the top of the tin and approximately 5mm thick. Carefully lift the pastry into the tin and gently press into the corners, taking care not to have any holes or the mixture could leak. Cover and rest for a further 30 mins in the fridge. Heat oven to 190C/170C fan/gas 5.
 - Line the pastry case with greaseproof paper – to do this cut a disc of greaseproof paper larger than the tin, scrunch it into a ball (this makes it more pliable), then unwrap and place it in the pastry case. It should come above the sides. Fill with baking beans or uncooked rice and bake blind for 20-25 until nicely golden and dry. Carefully remove the greaseproof paper and baking beans, and return to the oven for 5 mins to dry the base. Reduce the oven temperature to 160C/140C fan/gas 3.
@@ -1172,7 +1172,7 @@
 - 20gvegan cocoa powder
 - 50gcaster sugar
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter the base and sides of a small baking dish. To make the sauce, sieve the cocoa powder into a jug and stir in the caster sugar. Gradually pour in 250ml boiling water until well combined and smooth. Set aside.
 - For the cake, sieve the flour and cocoa powder into a large bowl and stir in the sugar and espresso powder. Make a well in the middle and pour in the melted plant butter, Jord oat drink, and vanilla, whisking until smooth. Stir through the chopped chocolate and spoon into the prepared baking dish. Carefully pour the hot sauce into one of the corners, pouring it over the back of a spoon so it does not make a hole. Bake for 40-45 mins until a skewer inserted gently into the middle comes out with a few crumbs clinging to it (make sure you are just testing the pudding, not going all the way down to the sauce). Leave to stand for a few minutes before serving.
 
@@ -1222,7 +1222,7 @@
 - 100gdark brown soft sugar
 - 100mlcoconut cream
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter the base and sides of a small baking dish – ours measured 20 x 15cm. Combine the flaxseeds with 3 tbsp warm water and set aside for at least 5 mins. In a pan, mix together the dates, Jord oat drink, vanilla and plant butter. Warm over a medium heat until the butter has melted. Meanwhile, combine the sugar, flour and mixed spice in a bowl and make a well in the centre.
 - Once the butter has melted, remove from the heat and stir in the bicarbonate of soda. Pour the bubbly mixture into the flour well along with the soaked flaxseeds and combine well until no flour pockets remain. Pour into the baking dish and bake in the oven for 30-35 mins until a skewer inserted into the middle comes out clean.
 - Meanwhile, make the sauce. Tip the butter and sugar into a pan and warm over a low heat. Once the butter has melted, turn up the heat and bring to a simmer to melt the sugar. Once the sugar is melted, pour in the coconut cream and bubble for a further 5-10 mins until thick and glossy. Stir in a pinch of salt and set aside. Pour the sauce generously over the sponge either in the dish or at the table. Cut into six slices to serve.
@@ -1271,7 +1271,7 @@
 - small handfulparsley,finely chopped
 - cooked white rice,to serve
 
-### Method
+### Instructions
 - Heat half the oil in a wide, deep frying pan over a medium-high heat. Tip in the mushrooms and cook for around 10 mins until deeply browned, giving them the occasional stir. Tip into a bowl and set aside. Pour the remaining oil into the pan and stir in the onion and garlic, cook for 5-7 mins on a medium heat until slightly softened.
 - Stir in the flour, mustard powder and both paprikas, and cook for a couple of mins. Slowly pour in the white wine, bit by bit, stirring well after each addition. Bring the wine to a simmer and cook until reduced by half. Pour in the stock and the Jord oat drink and return the mushrooms to the pan. Simmer for 15-20 mins until reduced, then season well with salt, pepper and lemon juice. Sprinkle over the parsley and serve with rice, if you like.
 
@@ -1312,7 +1312,7 @@
 - 1 ballstem ginger, finely chopped, plus 1 tbsp of the syrup
 - 25gchocolatechopped, plus extra to serve
 
-### Method
+### Instructions
 - Combine the cocoa powder, flour, sugar and ginger in a microwave-safe mug with a pinch of salt until smooth. Mix together the melted Arla LactoFREE spreadable butter and the ginger syrup in a small jug. Pour into the flour mixture along with the chopped ginger and chocolate. Stir until just combined, then microwave on high for 60-80 seconds – the top should be cooked and set. Leave to stand for a couple of minutes to cool. Grate over some extra chocolate to serve, if you like.
 
 
@@ -1361,7 +1361,7 @@
 - small handful ofcoriander,roughly chopped
 - cooked basmati rice, naan and lime wedges,to serve
 
-### Method
+### Instructions
 - Combine the chicken, ginger and 1 tsp of the chilli powder in a bowl with some seasoning, and set aside. Heat the oil in a pan over a medium heat. Stir in the onion, garlic and chilli and fry for 7-8 mins until lightly browned. Mix in the remaining chilli powder, cumin, coriander, turmeric and the tomato purée. Cook for 5-7 mins until the paste has caramelised.
 - Pour in the chicken stock and add the chicken with the ground almonds. Bring to a gentle simmer, then put the lid on. Cook for 20 mins until the chicken is cooked through, stirring occasionally. Pour in the Arla LactoFREE milk and season. Stir well and cook for a further 5 mins. Sprinkle over the coriander and serve with rice, naan and lime wedges for squeezing over, if you like.
 
@@ -1404,7 +1404,7 @@
 - 100gkale,stems removed and leaves torn
 - 50mlArla LactoFREE cream
 
-### Method
+### Instructions
 - Heat the oil in a large frying pan over a medium heat. Stir in the shallot and cook for 3-5 mins until softened. Mix in the garlic and courgette and fry for 5-7 mins until the water has cooked off from the courgette and it is starting to brown. Stir in the pasta, a pinch of lemon zest, chilli flakes, if using, and 400ml boiling water with a large pinch of salt. Bring to a boil and simmer for 4 mins, stirring often to ensure the pasta doesn’t stick together.
 - Mix in the kale leaves and cook for a further 4-5 mins, adding a splash more boiling water if needed, until the pasta is cooked and the water has almost completely evaporated – you should have around 1 tbsp of liquid remaining. Remove from the heat and stir in the Arla LactoFREE cream. Season well with salt, pepper and lemon juice. Sprinkle over the remaining lemon zest to serve.
 
@@ -1460,7 +1460,7 @@
 - 350mldouble cream
 - 1 tbsprum or vanilla extract
 
-### Method
+### Instructions
 - Butter a large, deep rectangular cake tin (ours was 26 x 37cm) and line with baking parchment. Whisk the egg whites to stiff peaks in astand mixeror bowl using an electric whisk. With the motor running, add 225g of the caster sugar, a tablespoon at a time, until the sugar has dissolved, about 10-15 mins. Spoon into a separate bowl and wipe the bowl of the stand mixer clean, or set aside.
 - Heat the oven to 180C/160C fan/ gas 4. Beat the butter, remaining 125g sugar and the vanilla in the stand mixer or a bowl using an electric whisk until light, fluffy and doubled in volume. Beat in the egg yolks, one at a time, mixing well between each addition. Add 4 tbsp milk, then sift in the flour and baking powder, and mix to combine. The batter should be thick enough to drop off a spoon, but if it’s stiff, add another 1 tbsp milk. Spoon the batter into the tin and spread to an even layer. Spread the whipped egg white mix over the batter, then scatter over the flaked almonds.
 - Bake for 25-30 mins, or until golden and a skewer inserted into the centre comes out clean. Leave to cool in the tin for 15 mins, then remove to awire rackto cool completely, about 1 hr.
@@ -1518,7 +1518,7 @@
 - 500gwhite fondant
 - a few drops of pink food colouring gel
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Line two 20cm square tins with baking parchment. Beat the butter and sugar together in a large bowl using an electric whisk for 2-3 mins until smooth and creamy. Crack in the eggs, one at a time, adding a spoonful of the flour between each addition and whisking continuously. When all the eggs are incorporated, tip in the remaining flour and fold it in. Pour in the milk and vanilla and mix well, making sure there are no pockets of flour.
 - Divide the batter between the tins, smooth the surfaces and bake for 40 mins until risen, golden and a skewer inserted into the middles comes out clean. If any wet batter clings to the skewer, bake for 5 mins more, then check again. Once baked, cool in the tins for 20 mins, then transfer to awire rackto cool completely.Once cooled, the sponges will keep wrapped in the freezer for three months.
 - For the buttercream, beat the butter, 500g icing sugar, the milk and vanilla in a bowl using an electric whisk until smooth and creamy. Cut out a roughly 14cm circle of baking parchment, scrunch it up and use it to line a 12cm bowl. Spoon half the buttercream into the bowl, gently pushing it down and smoothing the surface. Cover and freeze for 15 mins to firm up.

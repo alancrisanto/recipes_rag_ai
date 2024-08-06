@@ -37,7 +37,7 @@
 - 15gparsley, roughly chopped
 - 2garlic cloves, finely chopped
 
-### Method
+### Instructions
 - Heat the oil in a large, heavy-based frying pan over a medium heat. Fry the red onions with a large pinch of salt. Cook for 30-35 mins over a medium-low heat, stirring often, until caramelised and golden.
 - Meanwhile, make the gremolata. Mix the lemon zest, juice, parsley and garlic with a pinch of salt, then set aside. Cook the pappardelle following pack instructions, reserving 120ml pasta water.
 - Add the anchovy fillets to the onions when they have caramelised and let them dissolve. Stir in the tomato purée along with 15 twists of black pepper (around ½ tsp) and cook for 4-5 mins until the mixture has darkened.
@@ -88,7 +88,7 @@
 - 15gcoriander, roughly chopped, or leaves picked
 - 1red chilli, sliced (optional)
 
-### Method
+### Instructions
 - Heat 1 tbsp of the oil in a large, liddedsaucepanover a medium heat. Add the red onion and a pinch of salt and cook for 8-10 mins until softened. Add the garlic, cumin, chilli powder and chipotle paste and cook for 2-3 mins until fragrant.
 - Pour in the stock and scrape up any caramelised bits from the bottom of the pan. Bring to the boil, then add the chicken thighs and simmer for 20-25 mins with the lid on until cooked through.
 - While the chicken cooks, heat the oven orair-fryerto 200C/190C fan/gas 6. Drizzle the remaining 1 tbsp oil over the tortilla triangles. Spread out on a lined baking tray or the air-fryer basket in a single layer (you may need to do this in batches), season, then bake for 7-8 mins, until golden brown and crisp. Leave to cool on the tray while you finish the soup. Reserve half of the tortilla chips for the pulled chicken bowl.Will keep in an airtight container for three days.
@@ -119,7 +119,7 @@
 - vegetable oil, for the tin
 - smallpineapple
 
-### Method
+### Instructions
 - Heat the oven to 160C/140C fan/ gas 3. Lightly oil six holes of a muffin tin using the vegetable oil. Trim the pineapple to remove the skin, eyes and leaves. Cut 6 very thin slices from one end (you can use the rest in another recipe) and push them into the oiled tin to line the holes. Bake for 30 mins, until completely dry. Leave to cool, then remove and use to decorate a cake (see recipe for our carrot & pineapple cake below).Will keep for two days.
 
 
@@ -174,7 +174,7 @@
 - 1 tspvanilla extract
 - 150gfull fat soft cheese
 
-### Method
+### Instructions
 - Oil a 23cm cake tin with a depth of at least 7cm, then line the base and sides with baking parchment. Heat the oven to 180C/160C fan/gas 4. Combine the flour, bicarb, spices and sugar in a large bowl with ¼ tsp salt. Using your fingertips, rub the floury mixture for a few minutes to squash out any lumps of sugar into the flour.
 - Whiskthe oil, eggs, milk and vanilla extract in a jug and pour into the dry ingredients. Add the grated carrot, chopped pineapple and walnuts (if using), then fold everything together with aspatula.
 - Scrape the mixture into the tin and level the top with the spatula. Bake for 1 hr until risen and a skewer inserted into the centre comes out clean. If there is any raw cake mixture sticking to it, return to the oven for 5 mins, then check again. Leave to cool in the tin for 15 mins, then transfer to a wire rack and spoon 1 tbsp pineapple juice (if using canned pineapple) over the sponge. Leave to cool completely.
@@ -236,7 +236,7 @@
 - 150mldouble cream
 - vanilla ice cream, to serve (optional)
 
-### Method
+### Instructions
 - Boil thekettle. Tip the dates into a heatproof bowl with the bicarb and vanilla extract, then pour over 200ml boiling water and leave to soak for 30 mins. Meanwhile, butter a 20cm square baking tin.
 - Heat the oven to 190C/170C fan/ gas 5. When the dates have soaked and cooled, tip them along with their soaking liquid into afood processorand pulse to chop. Tip the rest of the sponge ingredients and a pinch of salt into the food processor and pulse to make a batter. Scrape the batter into the tin and bake for 40-45 mins, or until the pudding is firm to the touch and a skewer inserted into the centre comes out clean.
 - While the pudding is baking, make the sauce. Tip the butter and sugar into a saucepan and warm over a medium heat, stirring constantly until the sugar has dissolved and the butter has fully melted. Bubble for 3 mins until the mixture is thick, then stir in the cream and simmer, stirring, for 2 mins until you have a toffee sauce. Serve the pudding warm, cut into squares and drenched in the sauce with vanilla ice cream on the side, if you like.
@@ -282,7 +282,7 @@
 - 1red chilli, thinly sliced
 - cooked jasmine riceand pak choi, to serve (optional)
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/ gas 8. Line your largestbaking traywith baking parchment. Tip the rice flour into a large bowl, season, then toss the chicken wings in the flour. Make sure they’re well coated, then spread evenly across the baking tray. Bake for 20 mins (or 15 mins in an air-fryer) until starting to brown.
 - While the chicken cooks, make the glaze. Put the soy sauce, garlic, ginger, sugar and 150ml water in a small pan on a medium heat. Cook for 4-5 mins until bubbling and slightly thickened, then take out 2 tbsp and mix with the cornflour. Pour the cornflour mixture back into the glaze,whiskingall the time, and cook for 3 mins until thickened. Squeeze in the lime juice.
 - Once the chicken has been cooking for 20 mins, brush over most of the teriyaki glaze and return to the oven for another 20 mins, (orair-fryerfor 10 mins) basting once more during cooking.
@@ -332,7 +332,7 @@
 - 100gvegan chocolate chips
 - icing sugar, to serve
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Oil and line a 20cm square tin. Pit the dates and tip into a bowl. Pour 150ml boiling water over them and let them soak for about 20 mins. Heat a dry frying pan over a medium heat and tip the walnuts in. Toast for 3-5 mins until fragrant and lightly browned. Set aside to cool.
 - Drain the dates, reserving 1 tbsp of the liquid. Tip the oats into a food processor and blitz until finely chopped. Add the coconut oil, black beans, banana, cocoa powder, maple syrup, vanilla, bicarbonate of soda, baking powder, salt, and the drained dates. Pour in 1 tbsp of the date liquid. Blitz until smooth then stir in the walnuts and chocolate chips. Spoon into the tin and smooth out. Bake for 30-35 mins until set and leave to cool completely in the tin. Once cooled, leave overnight in the fridge to set (this makes them extra fudgy and easier to slice). Sift over some icing sugar to serve.Will keep chilled in an airtight container for up to three days.
 
@@ -374,7 +374,7 @@
 - 100gmange tout,halved lengthways
 - 100gfrozen peas
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Tip the rice and rapeseed oil into a mediumcasserole dish(around 25 x 20cm), season and mix to coat the rice in the oil. Add the stock, most of the parsley, most of the lemon zest and all the juice, stir together and season.
 - Dot the paneer cubes all over the top of the rice and bake for 20 mins until the rice is very nearly cooked and the paneer is beginning to turn golden on top. Mix through the mange tout and peas, then put back in the oven for 5-7 mins until the veg is cooked but still bright in colour. Sprinkle over the reserved parsley and lemon zest.
 
@@ -433,7 +433,7 @@
 - 2spring onions,finely sliced
 - 2carrots,julienned
 
-### Method
+### Instructions
 - Mix 1½ tbsp salt with the 1½ tbsp sugar and chilli flakes in a shallow dish. Pat the pork dry and toss in the spiced salt. Chill for 2 hrs or overnight.
 - Mix the remaining sugar with the coffee, molasses and garlic in aslow cooker. Add the pork and cook on low for 1 hr 30 mins. Remove a few tbsp of the cooking liquid and combine with the cornflour. Pour into the slow cooker and cook for 30 mins. Remove the garlic.
 - For the slaw, mix the oil, honey, mustard and vinegar in a large bowl and season. Toss in the veg to coat in the dressing. Serve the pork with the slaw and spicy rice, if you like.
@@ -472,7 +472,7 @@
 - 2medium potatoes,finely sliced
 - 8eggs
 
-### Method
+### Instructions
 - Heat 2 tbsp oil in a mediumnon-stick frying panover a medium-low heat and cook the peppers and potatoes for 10 mins until softened – if the pan has a lid, cover it to speed things up. Meanwhile, beat the eggs in a large bowl with some seasoning. When the potatoes and peppers are cooked, tip them into the eggs and stir to combine – the heat from the veg will start to cook the eggs.
 - Heat the grill to high. Heat the rest of the oil in the pan over a medium heat, tip in the egg and veg mixture, and cook, stirring occasionally with aspatulaand drawing the edges into the middle, until nearly set, about 5-6 mins. Slide the pan under the grill for a few minutes to just set the top, then slide the omelette onto a plate. Flip it back into the pan and finish cooking the omelette on the underside for another few minutes, being careful not to burn it.
 - Turn the omelette out onto a board and leave to cool. Serve in wedges in alunchbox, or slice and stuff into a baguette or crusty roll.
@@ -516,7 +516,7 @@
 - 100gnatural yogurt
 - 2-3 tbsp milk(optional)
 
-### Method
+### Instructions
 - Carefully remove the pith from the zested oranges, being careful to keep them whole. Slice into thin rounds, picking out and discarding the pips. Set aside.
 - Heat the oven to 180C/160C fan/gas 4. Butter and line the base of a 23cm loose-bottomed cake tin with baking parchment. Put the tin on a baking sheet, then arrange the orange slices in the base, overlapping slightly to cover as much of it as possible.
 - Beat the butter, sugar and zest together until pale and fluffy. Mix in the eggs, one at a time, folding in a couple of spoonfuls of flour between each addition to prevent the mixture from curdling. Fold in the remaining flour, polenta and baking powder followed by the yogurt. If the mixture seems a little dry, add 2-3 tbsp milk. Bake for 35-40 mins until a skewer comes out clean. Serve in slices.Will keep chilled for up to three days.
@@ -560,7 +560,7 @@
 - ½avocado,peeled, stoned and sliced
 - ¼cucumber,cut into matchsticks
 
-### Method
+### Instructions
 - Tip the rice into a bowl and mix in the spring onions, soy sauce, mayo and sriracha, if using. Fold in the salmon, keeping it flaked or mashing it in with the rice, as you prefer. Divide between two reusable containers. Pack each one into alunchboxwith a pack of seaweed thins, and half each of the avocado and cucumber.
 - To eat, spoon the rice onto a seaweed thin, top with avocado and cucumber, then loosely roll up.
 
@@ -608,7 +608,7 @@
 - cornichons
 - bitter leaf salad(see tip, below)
 
-### Method
+### Instructions
 - Melt the butter in a large frying or cast iron pan over a medium heat and stir in the bacon lardons or pancetta. Fry for 5-8 mins until starting to crisp up and the fat has rendered. Season with ¼ tsp freshly ground black pepper and cook for about 1 min more to toast the pepper, then stir in the onions. Season with a pinch of salt, then continue to cook for another 5-8 mins until the onions are soft but not too deeply coloured.
 - Meanwhile,peelthe potatoes and cut into slices slightly thicker than the width of a £1 coin. When the onions are ready, tip the potatoes into the pan and cook everything for 10 mins, tossing regularly until the potatoes are nearly cooked through and have a taken on a bit of colour.
 - Carefully pour in the wine and bubble for 5 mins, still tossing the pan occasionally, until the wine has reduced completely and the potatoes are tender when pierced with the tip of a knife. Remove from the heat, spoon over the crème fraîche and grate over a small amount of nutmeg. Stir everything together so the potatoes are completely coated in the crème fraîche.
@@ -659,7 +659,7 @@
 - 400gdigestive biscuits,crushed
 - 140gmelted butter
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4 and put an ovenproof dish half-filled with water on the bottom shelf. For the base, combine the digestives and melted butter in a bowl, then tip into a deep 23cm springform cake tin. Press into the base and up the side using aspatula. Set aside on a baking tray.
 - Whiskthe cheese, sugar, cornflour, vanilla and soured cream together, then add the eggs, one at a time, beating until creamy. Mix in the chopped pistachios, then pour the filling over the base. Bake on the middle shelf for 10 mins, then reduce the oven to 150C/130C fan/gas 2 and bake for 40 mins more until set with a slight wobble in the middle. Turn off the oven and leave the cheesecake inside with the door ajar for 30 mins (to avoid cracks). Leave to cool completely, then chill for 24 hrs. Pour over the pistachio cream and sprinkle with the ground pistachios to serve.Will keep chilled for up to two days.
 
@@ -701,7 +701,7 @@
 - 75gpepperoni
 - small bunch of basil,chopped
 
-### Method
+### Instructions
 - Put the flour and yeast in a large bowl. Add 1 tsp sugar and 1½ tsp salt, and mix to combine. Add 300ml tepid water and 2 tsp of the oil, and mix with your hands or the dough hook attachment of astand mixeruntil a dough forms. If making by hand, tip the dough onto a work surface and knead for 10 mins until the dough feels smooth and elastic, or knead using the mixer for 5 mins.
 - Clean and lightly oil the bowl, tip in the dough and leave to prove in a warm place for 2 hrs, or until roughlydoubled in size. You can also put it in the fridge overnight – just bring it up to room temperature before shaping.
 - Loosely line a 22cm cake tin or ovenproof frying pan with a disc of baking parchment and sprinkle 1 tsp of the polenta over the base. Scatter the remaining polenta over a work surface along with some flour (add more if it begins to stick) and tip the dough on top. Roll and stretch the dough into a rectangle, about 35 x 45cm. Spread the pizza sauce on top, then scatter over the cheese, pepperoni and basil. From the longer side, tightly roll up the. dough to make a sausage shape. Use asharp knifeto cut it into eight pieces, and arrange cut-side up in the tin or pan. Cover loosely and leave to prove for another 30 mins until the rolls look light and puffy.
@@ -742,7 +742,7 @@
 - 15mlgrenadine
 - 1maraschino cherry,to garnish
 
-### Method
+### Instructions
 - Fill a tall glass with ice, then pour in the ginger ale and lime juice.
 - Slowly pour in the grenadine, then garnish with the maraschino cherry. Top up with more ginger ale, if you like.
 
@@ -801,7 +801,7 @@
 - ½ tspground coriander
 - 6boneless and skinless chicken thighs,cut into 2.5cm pieces
 
-### Method
+### Instructions
 - Heat the oil in a large, liddedsaucepanover a medium-high heat, then add the garlic and chopped green chilli. Once these start to sizzle, pour in the passata, then cover and cook over a medium heat for 8 mins. Meanwhile, prepare the chicken. Put the yogurt, all the spices and ½ tsp salt in a bowl, and mix well. Add the chicken and mix until well coated. Set aside and keep covered until needed, or marinate for up to 24 hrs, if you have time.
 - Once the passata is cooked, stir in the spices along with 100ml boiling water from thekettle. Scrape the excess marinade off the chicken and into the pan, then add the chicken, cover and cook over a medium heat for 10-12 mins until cooked through. Add the honey and fenugreek, and mix well. To serve, drizzle with the cream, sprinkle over the coriander leaves and the sliced green chilli, if using. Serve with cooked rice.
 
@@ -842,7 +842,7 @@
 - 25mlgrenadine
 - 1orange slice,to garnish
 
-### Method
+### Instructions
 - Blitz the orange juice, vinegar, coriander, vanilla and 50ml water together in ablenderuntil smooth.
 - Strain into a tall cocktail glass filled with ice, then pour in the grenadine slowly so that it settles on the bottom. Garnish with an orange slice.
 
@@ -888,7 +888,7 @@
 - 100gsoured cream,to serve
 - handful of parsley,chopped, to serve (optional)
 
-### Method
+### Instructions
 - Heat the oil in a large, lidded, heavy-basedsaucepanover a medium heat and fry the chorizo for 4 mins to release the oils and brown it a little. Remove to a plate using a slotted spoon and set aside. Fry the chicken for 5-6 mins until browned but not cooked all the way through. You may need to do this in batches. Remove with the slotted spoon and set aside with the chorizo.
 - Add the onions and peppers to the pan and cook, stirring often for 6-8 mins until softened and starting to lightly brown. Use a wooden spoon to scrape up any caramelised bits on the bottom and mix them in. Stir in the fajita seasoning and cook for 30 seconds before returning the chorizo and chicken to the pan.
 - Season with salt and freshly ground black pepper and give everything a good stir. Tip in the pinto beans and potatoes, stir to coat well, then pour in the stock, topping up with water if it doesn’t cover the chicken and veg. Bring to a simmer, reduce the heat a little and put the lid on. Simmer gently for 10 mins. Give everything a stir, then sit the corn on the cobs on top.
@@ -934,7 +934,7 @@
 - 300gdried pastashapes
 - parmesan,shaved, and rocket, to serve (optional)
 
-### Method
+### Instructions
 - Heat the oil in a large non-stick saucepan and gently cook the onion, celery, carrots and leek until soft, about 20 mins. Add the peppers and cook for 10 mins more, then tip in the tomatoes, sugar and vinegar. Simmer for at least 20 mins – the longer the better.
 - Cook the pasta following pack instructions. Meanwhile, blitz the sauce with a hand blender until smooth, season and return to the heat to keep warm while the pasta cooks. Drain the pasta and toss through the sauce. Serve in bowls topped with shaved Parmesan and rocket leaves, if you like.
 
@@ -975,7 +975,7 @@
 - 35gfresh lasagne sheets
 - 30gmozzarella
 
-### Method
+### Instructions
 - Combine the ricotta and garlic with a large pinch of salt and pepper in a bowl. Put the vegetables and pasta sauce in a large heatproof mug or ramekin. Cover andmicrowaveon high for 3 mins until tender. Season. Stir in half the basil.
 - Spoon two-thirds of the veg mixture from the mug or ramekin into a bowl, then start to layer up the lasagne in the mug. Top the veg mix in the base of the mug with half a lasagne sheet, then spoon over another third of the veg mix and top with another halved pasta sheet and half of the ricotta. Repeat, finishing with the ricotta. Sprinkle over the mozzarella. Microwave on high for 2 mins. Scatter over the remaining basil and some black pepper before serving.
 
@@ -1018,7 +1018,7 @@
 - 2pak choi,quartered
 - sticky rice,to serve (optional)
 
-### Method
+### Instructions
 - Combine the soy sauce, chilli, ginger, spring onions, orange juice and honey in a bowl. Cut out two large squares from a sheet of baking parchment, and put a salmon fillet and half the pak choi in the middle of each. Bring the parchment up over the fish, pinch and fold the corners together and transfer the parcels to a plate. Divide the sauce between the parcels, then fold the ends in to seal well.
 - Microwaveon high for 4-5 mins until the salmon is tender. Pour the sauce over the fish and serve alongside sticky rice, if you like.
 
@@ -1061,7 +1061,7 @@
 - 500ggnocchi
 - 3 tbspfresh or dried breadcrumbs
 
-### Method
+### Instructions
 - Put the squash in a heatproof bowl with a splash of water and pinch of seasoning, then cover andmicrowaveon high for 5 mins. Or, toss the squash in a drizzle of oil and some seasoning, and cook for 12 mins at 200C in an air fryer until soft and caramelised. It can also be roasted in the oven for 25 mins.
 - Meanwhile, heat 2 tsp of the oil in a large ovenproof frying pan over a medium heat and fry the garlic for 30 seconds until sizzling but not coloured. Add the spinach, season and cook until wilted.
 - When the squash is tender, roughly mash half of it using a fork. Stir the mashed squash and the mascarpone into the spinach, then add 150ml water and stir until you have a smooth, creamy sauce. Grate in a generous amount of nutmeg and add half the parmesan. Gently stir in the gnocchi and squash chunks to coat in the sauce. Simmer for 1-2 mins until everything is heated through, adding a splash of water if the sauce is very thick. Scatter over the breadcrumbs and remaining parmesan.
@@ -1108,7 +1108,7 @@
 - 150gcooked prawns,peeled
 - small handful of coriander,leaves picked, stems finely chopped
 
-### Method
+### Instructions
 - Tip the vermicelli noodles into a heatproof bowl, cover with boiling water and soak for 2 mins, then rinse and drain well. Put the coconut milk, laksa or curry paste, stock, chilli, garlic and lime juice in a large microwave-safe bowl. Cover with a microwave-safe lid or plate andcook on highfor 2-3 mins until boiling. Stir in the peanut butter, fish sauce, prawns and coriander stems.
 - Cover again and cook on high for 1 min until warmed through. Divide the noodles between two bowls, pour over the prawn broth, then sprinkle over the coriander leaves to serve.
 
@@ -1149,7 +1149,7 @@
 - 2 tbspvegetable oil
 - salad,mango chutney and lemon wedges, to serve
 
-### Method
+### Instructions
 - Cook the potatoes in a pan of boiling water until tender, about 15 mins. Add the fish fillet to the pan for the final few minutes of the cooking time. Drain and leave to steam-dry for a few minutes, then tip the potatoes and fish into a bowl along with the spring onions. Roughly crush the mixture together using a fork. Season, mix in the curry powder, then shape the mixture into six patties. Tip the crushed poppadums onto a shallow plate, and press both sides of each fishcake into them to coat. If you have time, chill the fishcakes for 30 mins to firm up.Will keep chilled for up to a day.
 - Heat the oil in afrying panover a medium heat and fry the fishcakes for 5 mins on each side until golden and piping hot. Serve with salad and mango chutney on the side with lemon wedges for squeezing over.
 
@@ -1199,7 +1199,7 @@
 - toastor warmed flatbreads, to serve
 - 100gnatural yogurt
 
-### Method
+### Instructions
 - Heat 3 tbsp oil in a deepfrying panover a medium heat and fry the shallots for 5 mins, stirring occasionally until crisp. Scoop out using a slotted spoon and set aside on a plate lined with kitchen paper. Season with a little salt.
 - Reduce the heat to medium-low, add the remaining oil to the pan and cook the onions and leeks for 10 mins until softened but not coloured. Add the garlic, cumin and preserved lemon, and stir-fry for 1-2 mins until aromatic.
 - Tip in the greens and peas, season well and stir. Cover and continue to cook until the greens have wilted, about 1 min. Stir in most of the herbs, reserving some to garnish.
@@ -1244,7 +1244,7 @@
 - 2 tbspharissa
 - 1lemon,juiced
 
-### Method
+### Instructions
 - Mix all the ingredients together, mashing a little so the chickpeas are a bit rough round the edges – this helps absorb the dressing. (Can be made a day ahead and kept in the fridge.) Try it withslow-cooked Greek lambandtzatziki sauce.
 
 
@@ -1287,7 +1287,7 @@
 - a littlesesame oil(optional)
 - slicedspring onions,toasted sesame seeds and cooked rice, to serve
 
-### Method
+### Instructions
 - KIDS: The writing in bold is for you.ADULTS: The rest is for you.Make the sauce and marinade.In a small bowl, whisk together the soy, honey, garlic and mirin and set aside.
 - Cut out some squares of foil.Using scissors, cut out 4 squares of foil, each about 30cm square. Brush each piece of foil with a little oil and bring the edges of the foil up a little.
 - Fill your parcels.Place a couple of broccoli stems on each one, then sit a salmon fillet on top and scatter over the ginger.
@@ -1334,7 +1334,7 @@
 - 1large eggand 1 egg yolk
 - 50gsultanas(optional)
 
-### Method
+### Instructions
 - Mix the flour, salt, xanthan gum, baking powder and sugar together in a bowl. Rub in the butter with your fingertips until you have fine breadcrumbs. You can also do this by gradually pulsing the mixture in afood processoruntil it resembles breadcrumbs.
 - Whisk together the milk and whole egg and gradually mix into the flour mixture with your hands until you have a smooth dough. Mix in the sultanas, if using. Knead briefly to come together into a ball.
 - Gently roll out the scone dough until 2cm thick. Transfer to abaking traylined with parchment and chill for 30 mins to firm up the dough – this makes them easier to cut out.
@@ -1387,7 +1387,7 @@
 - 1 tbspsugar
 - parmesan,to serve
 
-### Method
+### Instructions
 - Heat the oil in a very large saucepan. Gently cook the bacon, onions, carrots and celery for 20 mins until golden. Add the garlic, herbs, bay and mushrooms, then cook for 2 mins more.
 - Heat a large frying pan until really hot. Crumble in just enough mince to cover the pan, cook until brown, then tip in with the veg. Continue to fry the mince in batches until used up. Tip the tomatoes and purée in with the mince and veg. Rinse the cans out with the red wine, if you have some, or with a little water, then add to the pan with the vinegar and sugar. Season generously and bring to a simmer. Simmer slowly for 1 hr until thick and saucy and the mince is tender. Serve with pasta and parmesan.
 - If you want to make this in a slow cooker, visit ourslow cooker bolognese recipe.

@@ -20,7 +20,7 @@
       "protein": "2g",
       "salt": "0.7g"
     },
-    "instructions": [
+    "ingredients": [
       "2 x 400gcans chopped tomatoes",
       "1red onion,chopped",
       "1carrot,chopped",
@@ -31,7 +31,7 @@
       "2 tbspdouble cream",
       "croûtons,to serve (optional)"
     ],
-    "methods": [
+    "instructions": [
       "Tip everything except the cream and croutons into theslow cookeralong with 500ml hot water. Cook on high for 3 hrs or low for 5 hrs.",
       "Remove the rosemary. Blend the soup either using ahand blender, which you can do in the slow cooker, or in a jug blender until smooth. If you like a thinner soup, you can add up to 250ml more hot water.Will keep chilled for three days.Spoon into bowls, drizzle over a little cream and scatter with croutons, if using."
     ]
@@ -57,7 +57,7 @@
       "protein": "12g",
       "salt": "0.4g"
     },
-    "instructions": [
+    "ingredients": [
       "2sweet potatoes",
       "1 tbspolive oil,plus 2 tsp",
       "1 smallgarlic bulb",
@@ -69,7 +69,7 @@
       "small handful ofcoriander,finely chopped",
       "pinch of chilliflakes"
     ],
-    "methods": [
+    "instructions": [
       "If yourair fryerhas a preheat option, heat it to 200C. Pierce a few holes in the sweet potatoes using a sharp knife, then rub with 1 tbsp of the olive oil and sprinkle with salt and freshly ground black pepper. Drizzle 1 tsp of the oil over the garlic bulb, sprinkle with salt and pepper, then wrap in foil. Put both the garlic and sweet potatoes in the air-fryer and cook for 35 mins. Remove the garlic and set aside to cool slightly, then put the sweet potatoes back in for 15 mins until a cutlery knife goes through the centre with no resistance.",
       "Meanwhile, put the Greek yogurt in a small bowl and mix with the tahini, lemon zest and juice, maple syrup and some salt and pepper. When the garlic has cooled, squeeze the cloves into the tahini and yogurt mixture and stir well.",
       "Put the curry leaves, 1 tsp olive oil and a pinch of salt in a small bowl. Massage with your hands so they’re well coated. Put the curry leaves in the air fryer and place a small, ovenproof plate on top. Make sure the plate is upside down, so air can circulate around them. Cook for 5-6 mins at 200C until crispy. Carefully remove the plate using tongs or oven gloves.",
@@ -97,13 +97,13 @@
       "protein": "0g",
       "salt": "0g"
     },
-    "instructions": [
+    "ingredients": [
       "800grhubarb,thickly sliced",
       "1 litrevodka",
       "250gcaster or granulated sugar",
       "1vanilla pod,halved lengthways (optional)"
     ],
-    "methods": [
+    "instructions": [
       "Put the rhubarb in a 2-litresterilisedpreserving jar or bottle, then pour in the vodka and sugar. Add the vanilla pod, if using.",
       "Mix until the sugar has dissolved, then seal the jar or bottle and leave to infuse in a cool, dark place for two months. Strain through a muslin cloth or fine sieve and decant into a bottle before using.Will keep in a cool, dark place for up to six months."
     ]
@@ -129,7 +129,7 @@
       "protein": "47g",
       "salt": "0.9g"
     },
-    "instructions": [
+    "ingredients": [
       "30gdried breadcrumbs",
       "2 sprigsparsley,leaves picked and chopped",
       "100gparmesan",
@@ -142,7 +142,7 @@
       "500gasparagus,trimmed and halved",
       "4skinless salmonfillets"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 200C/180C fan/gas 6. Combine the breadcrumbs, parsley and 25g parmesan, then set aside. Heat the oil and butter in a large flameproof casserole over a medium heat and fry the onion for 5 mins until starting to soften. Stir in the garlic, and cook for 1-2 mins more to soften slightly, then stir in the cream, milk and remaining parmesan. Bring to a simmer and cook until the cheese has melted, then season well, stir and remove from the heat.",
       "Tip in the asparagus and ensure it is submerged in the sauce. Nestle in the salmon fillets, skin-side down. Scatter the cheesy breadcrumb mixture over the salmon fillets, then transfer to the oven and bake for 14-16 mins until the salmon is cooked through and the breadcrumb topping is lightly golden."
     ]
@@ -168,7 +168,7 @@
       "protein": "19g",
       "salt": "1.4g"
     },
-    "instructions": [
+    "ingredients": [
       "500gfresh or frozen broad beans",
       "1small garlic clove,finely grated",
       "2 tbsptahini",
@@ -186,7 +186,7 @@
       "2 tbspza’atar",
       "2 tbspmixed sesame seeds,plus extra to serve"
     ],
-    "methods": [
+    "instructions": [
       "Cook the broad beans in a large pan of boiling salted water for 2-3 mins until tender. Drain well and rinse under cold running water to halt the cooking process. Remove the white skins from the beans, then tip the beans into afood processorwith the garlic, tahini, lemon juice and olive oil. Season well, then blend on medium speed, adding a splash or two of water, until the mixture is creamy and smooth. Transfer to a serving bowl or plate and set aside.",
       "Heat the oven to 200C/180C fan/gas 6. For the crackers, combine the flour, sugar and 1 tsp salt in a large bowl, and make a well in the centre. Mix the olive oil with 225ml water, then slowly pour this into the well, stirring continuously with a wooden spoon. Mix to a shaggy dough, then bring the dough into a ball using your hands. Turn out onto a lightly floured surface, knead for 5 mins until smooth, then cut in half. Roll out one half on a large sheet of baking parchment into a thin 45 x 50cm rectangle – the thinner it is, the crispier the crackers will be. Repeat with the second half on a second sheet of parchment.",
       "Transfer the dough rectangles, on their baking parchment, to baking sheets. (If you prefer, cut the dough into triangles and arrange on lined baking sheets.) Brush the dough lightly with water, then sprinkle over the za’atar, sesame seeds and some sea salt. Bake for 12-15 mins until lightly golden with a few bubbles at the edges. Leave to cool, snap the rectangles into rough crackers. Will keep in an airtight container for a week. Drizzle more oil over the hummus, sprinkle over the extra sesame seeds, then serve with the crackers for scooping."
@@ -213,7 +213,7 @@
       "protein": "10g",
       "salt": "0.4g"
     },
-    "instructions": [
+    "ingredients": [
       "200gunsalted butter,softened, plus extra for the tin",
       "200ggolden caster sugar",
       "1 tspvanilla extract",
@@ -239,7 +239,7 @@
       "500gfresh or frozen gooseberries(see tip below; a mixture of green and pink if available)",
       "2 tbspcaster sugar"
     ],
-    "methods": [
+    "instructions": [
       "For the filling, combine the gooseberries and sugar in a bowl, lightly crushing the berries. Set aside to macerate.",
       "To make the crumble topping, rub the flour and butter together in a small bowl until the mixture resembles breadcrumbs. Stir in the sugar, oats and almonds, and bring together into a loose dough using your hands. Chill for at least 30 mins, or up to a day.",
       "Heat the oven to 180C/160C fan/gas 4. Butter a 23cm loose-bottom cake tin and line with baking parchment. Beat the butter, sugar and vanilla together using astand mixeror electric whisk until light and fluffy. Beat in the eggs, one at a time, adding a spoonful of flour in between each addition to prevent the mixture from curdling. Fold in the rest of the flour, the baking powder, ground almonds and soured cream to combine. Spoon into the tin, followed by the gooseberry filling. Scatter the crumble topping over the surface to cover the filling and bake for 1 hr-1 hr 10 mins until a skewer inserted into the middle comes out clean. If the cake brown too quickly, cover it with foil for the final 15 mins. Leave to cool completely in the tin, then chill until just cold to make slicing easier.Will keep in an airtight container for up to three days."
@@ -266,7 +266,7 @@
       "protein": "38g",
       "salt": "0.4g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tspground cumin",
       "1 tspground coriander",
       "2garlic cloves, crushed",
@@ -277,7 +277,7 @@
       "1 tbsprose harissa",
       "1 tbsphoney"
     ],
-    "methods": [
+    "instructions": [
       "Combine the cumin, coriander, garlic, oregano, lemon zest and juice, the olive oil and some seasoning in a large bowl. Put the lamb chops on a board and lightly bash the eye (the meatiest part) of each one with a mallet or rolling pin to flatten slightly. Put the chops in the bowl with the marinade and turn to fully coat. Cover and leave to marinate for at least 30 mins.Will keep chilled for up to a day.",
       "Take the lamb out of the fridge 30 mins before cooking, if it’s been chilled. Mix the harissa and honey together in a bowl. Cook the lamb chops under a hot grill, in agriddle panover a high heat or over ashen coals on thebarbecuefor 5-7 mins on each side, brushing the harissa mixture all over them during the final 1-2 mins. When ready, the chops should be caramelised and the fat sizzling – they will be slightly pink in the middle. Transfer to a plate, cover and leave to rest for a few minutes before serving."
     ]
@@ -303,7 +303,7 @@
       "protein": "16g",
       "salt": "1.7g"
     },
-    "instructions": [
+    "ingredients": [
       "1red onion, chopped",
       "1 largeavocado, peeled, stoned, halved and chopped",
       "200gcherry tomatoes, halved",
@@ -314,7 +314,7 @@
       "200g block ofhalloumi, cut into cubes",
       "small bunch ofcoriander, roughly chopped"
     ],
-    "methods": [
+    "instructions": [
       "Tip the chopped onion, avocado and cherry tomatoes onto a large platter. Drizzle over the lime juice and oil, and season with a pinch of salt. Toss to combine and set aside.",
       "Light thebarbecueor heat agriddle panover a high heat. Brush the corn cobs with a little oil, then sprinkle over the paprika and a little salt. Thread the halloumi onto metal skewers and cook alongside the corn cobs over ashen coals until the halloumi is golden and the corn is lightly charred in spots.",
       "Cool the corn slightly, then stand the cobs upright on a board, one by one, and carefully slice off the kernels. Toss the corn into the salad along with the halloumi, then scatter over the coriander and toss again to combine.Best served straightaway while still warm, but can be eaten at room temperature."
@@ -341,7 +341,7 @@
       "protein": "29g",
       "salt": "1.6g"
     },
-    "instructions": [
+    "ingredients": [
       "250g12% fat beef mince",
       "250gpork mince or sausagemeat",
       "small handful ofparsley, finely chopped",
@@ -363,7 +363,7 @@
       "1 tspdried oregano",
       "1 tspcaster sugar"
     ],
-    "methods": [
+    "instructions": [
       "Combine the beef and pork mince in a bowl with the parsley, garlic granules, breadcrumbs and some seasoning using your hands to make sure the ingredients are completely incorporated. Roll the mixture into 24 walnut-sized balls. Using six metal skewers, push four meatballs onto each skewer, transfer to a plate, cover and chill for at least 30 mins.Will keep chilled for up to a day.",
       "To make the sauce, heat the oil in a saucepan over a medium heat and sizzle the garlic for 30 seconds. Tip in the tomatoes, barbecue sauce, oregano and sugar, and season well. Bring to a simmer, then reduce the heat to low and bubble for 15 mins until the sauce is thick and rich – you can add a splash of water if it starts to look too dry.",
       "Brush the chilled meatball skewers with a little oil, then cook under a hot grill, in agriddle panover a medium-high heat or on thebarbecueover ashen coals for 5-8 mins on each side until the meatballs are deep brown and sizzling. To check they’re ready, cut one in half – there should be no pink meat left in the middle. Set aside and keep warm.",
@@ -391,14 +391,14 @@
       "protein": "6g",
       "salt": "0.1g"
     },
-    "instructions": [
+    "ingredients": [
       "1pineapple",
       "200gdark chocolate",
       "2 tbspgolden syrup",
       "400mlcan coconut milk",
       "mintleaves, to serve (optional)"
     ],
-    "methods": [
+    "instructions": [
       "Cut off the top and bottom of the pineapple, then run aknifeunder the skin all the way around to remove it. Cut away any remaining eyes (small holes in the flesh). Cut the pineapple through the core into eight wedges, and remove the core from each wedge. Slide the wedges onto metal skewers.",
       "Warm the chocolate, golden syrup and coconut milk in a pan over a low heat, stirring until the chocolate has melted and the mixture is smooth. Alternatively, do this in a pan on the cooler side of the barbecue. Keep warm until you’re ready to serve.",
       "Cook the pineapple wedges over ashen coals on thebarbecueor in a hotgriddle panover a medium-high heat for 5-6 mins on each side, or until the pineapple is lightly charred in spots. Put the wedges on a serving platter. Drizzle over the chocolate sauce and scatter with some mint leaves, if using. Serve with any remaining chocolate sauce on the side for dunking."
@@ -425,7 +425,7 @@
       "protein": "13g",
       "salt": "2.5g"
     },
-    "instructions": [
+    "ingredients": [
       "300gself-raising flour, plus extra for dusting",
       "300gGreek yogurt",
       "½cucumber, deseeded and chopped",
@@ -438,7 +438,7 @@
       "2 tbspextra virgin olive oil",
       "1 tbspred wine vinegar"
     ],
-    "methods": [
+    "instructions": [
       "Combine the flour, yogurt and 1 tsp salt in a bowl until the mixture clumps together into a dough. Tip onto a floured surface and knead briefly until smooth. Divide the dough into six equal pieces, thenroll each one outinto a rough oval, about the thickness of a £1 coin. Cover with a clean tea towel while you repeat with the rest of the dough, stacking the flatbreads with plenty of flour between them to prevent them from sticking together.",
       "Combine remaining ingredients for the salad. Season. Heat a drygriddle panover medium heat, or wait until the coals are ashen in a barbecue, and cook the flatbreads for 2-3 mins on each side until golden brown and charred in spots. Keep warm under a tea towel until ready to serve. Best eaten on the day. Serve with the salad."
     ]
@@ -464,7 +464,7 @@
       "protein": "17g",
       "salt": "0.4g"
     },
-    "instructions": [
+    "ingredients": [
       "1lemon, zested and juiced",
       "15gparsley, finely chopped",
       "10gbasil, finely chopped",
@@ -475,7 +475,7 @@
       "2courgettes, thinly sliced",
       "2 x 400g canschickpeas, drained and rinsed"
     ],
-    "methods": [
+    "instructions": [
       "Put the lemon zest and juice in a bowl and mix with the parsley, basil, garlic, capers, chilli and some seasoning. Strain in the oil from the can of tuna (about 2 tbsp), then mix in the courgettes. Toss well to completely coat in the dressing, then set aside to soften for 15 mins.",
       "Stir in the chickpeas and toss to combine everything before flaking in the tuna and tossing again. Serve straightaway."
     ]
@@ -501,7 +501,7 @@
       "protein": "14g",
       "salt": "1.2g"
     },
-    "instructions": [
+    "ingredients": [
       "200g fresh orfrozen peas",
       "75gcrusty bread, torn into chunks",
       "600mlhot vegetable stock(ensure vegan, if needed)",
@@ -516,7 +516,7 @@
       "2 tbspextra virgin olive oil",
       "crusty bread, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Put the peas and bread in a large heatproof bowl, pour over the stock and leave for 2 mins before carefully pouring into a jug blender. Season well. Tip in the cucumber, garlic, avocado, vinegar, chilli and most of the spring onions, tomatoes and parsley.Blenduntil smooth and season to taste. Chill for around 30 mins.Will keep covered and chilled for up to three days.",
       "Spoon the gazpacho into bowls and drizzle over the olive oil. Scatter over the remaining spring onions, tomatoes and parsley, then serve with crusty bread."
     ]
@@ -542,7 +542,7 @@
       "protein": "11g",
       "salt": "0.1g"
     },
-    "instructions": [
+    "ingredients": [
       "1lime, juiced",
       "12gcoriander, finely chopped",
       "½ tspground cumin",
@@ -556,7 +556,7 @@
       "4crunchy taco shells",
       "25gpumpkin seeds"
     ],
-    "methods": [
+    "instructions": [
       "Combine the lime juice, coriander, cumin, jalapeño and oil in a bowl. Season well.",
       "Tip in the beans, tomatoes, lettuce, corn and red pepper. Toss to combine. Crumble in the taco shells and mix to coat everything in the dressing. Scatter over the pumpkin seeds and serve straightaway."
     ]
@@ -582,7 +582,7 @@
       "protein": "52g",
       "salt": "1.6g"
     },
-    "instructions": [
+    "ingredients": [
       "2ciabatta rolls",
       "1 smallgarlic clove",
       "1 ½ tbspbasil pesto",
@@ -593,7 +593,7 @@
       "60grocket",
       "2 tspbalsamic glaze"
     ],
-    "methods": [
+    "instructions": [
       "Halve the ciabatta rolls and lightly toast, then rub the garlic clove over the cut sides.",
       "Spread the pesto over the roll bases, then top with the tomatoes, basil leaves, chicken and mozzarella slices, and rocket leaves. Drizzle over the balsamic and sandwich with the roll tops, then serve."
     ]
@@ -619,7 +619,7 @@
       "protein": "22g",
       "salt": "0.7g"
     },
-    "instructions": [
+    "ingredients": [
       "1 tbspponzu sauce",
       "½ tbsprice vinegar",
       "5gginger, peeled and grated",
@@ -633,7 +633,7 @@
       "2small seaweed thins, crumbled",
       "1 tspsesame seeds"
     ],
-    "methods": [
+    "instructions": [
       "Combine the ponzu, vinegar, ginger and sesame oil in a bowl. Pat the tofu dry using kitchen paper and tear into chunks, then gently toss in the ponzu mixture.",
       "Pour some boiling water over the edamame and set aside for 2 mins before draining thoroughly and seasoning with salt.",
       "Divide the quinoa between bowls and top with the edamame, radishes and carrots. Spoon over the tofu and drizzle over the remaining dressing before scattering over the spring onions, seaweed and sesame seeds."
@@ -660,7 +660,7 @@
       "protein": "7g",
       "salt": "0.3g"
     },
-    "instructions": [
+    "ingredients": [
       "225gsoft margarine, plus extra for the tin",
       "200graisins",
       "235mldark rum, plus extra for feeding (optional)",
@@ -669,7 +669,7 @@
       "125gself-raising flour",
       "100gcocoa powder"
     ],
-    "methods": [
+    "instructions": [
       "Rub margarine around the inside of an 8-inch round springform cake tin and line with baking parchment. Heat the oven to 180C/160C fan/ gas 4. Tip the raisins and rum into ablenderand blitz to create a thick paste (there will be a few lumps).",
       "Beat the 225g margarine and sugar together in a separate bowl using awhiskor electric whisk until pale and fluffy, then add the eggs, one at a time, beating after each addition. Don’t worry if the mixture splits – it will eventually come together.",
       "Sift in the flour and cocoa, and mix using aspatulauntil just combined. Mix in the rum and raisin paste.",
@@ -697,7 +697,7 @@
       "protein": "6g",
       "salt": "0.5g"
     },
-    "instructions": [
+    "ingredients": [
       "500mlwhole milk",
       "2smoked haddockfillets (about 380g)",
       "225gchorizo, cut into small cubes",
@@ -710,7 +710,7 @@
       "100gpanko breadcrumbs",
       "vegetable oil, for deep-frying"
     ],
-    "methods": [
+    "instructions": [
       "Warm the milk in a shallow pan over a low heat. When the milk is steaming, add the haddock and poach gently for 4-5 mins until the fish starts to turn opaque. Remove to a plate or board using a slotted spoon, then strain the milk through a sieve into a jug. Set aside. Flake the fish into small pieces, discarding any skin and bones.",
       "Fry the chorizo in a dry frying pan over a medium heat until crisp, about 5 mins. Remove the chorizo using a slotted spoon and transfer to the plate with the haddock.",
       "Melt the butter in the same pan and, once foaming, add half of the flour, stirring until you have a smooth paste. Slowly add the strained poaching milk, stirring continuously until the sauce has thickened, then the cheese and some black pepper (you shouldn’t need any salt). Remove from the heat and cool for 10 mins, then add the chorizo, haddock, chives and parsley.",
@@ -740,7 +740,7 @@
       "protein": "6g",
       "salt": "0.4g"
     },
-    "instructions": [
+    "ingredients": [
       "100mlstout",
       "400mldouble cream",
       "1lemon, peel cut into strips (any pith removed)",
@@ -759,7 +759,7 @@
       "3egg yolks(freeze the whites to use in another recipe)",
       "250gplain flour, plus extra for dusting"
     ],
-    "methods": [
+    "instructions": [
       "First, make the pastry. Tip the butter and sugar into afood processorand pulse until soft and creamy. Add the egg yolks and 1 tbsp water, and pulse until well combined. Scatter in the flour and pulse until the mixture resembles fine breadcrumbs. Tip out onto a lightly floured surface and bring together into a disc using your hands, being careful not to overwork the dough. (Alternatively, use an electric whisk to combine the butter and sugar, then beat in the yolks and water, and mix in the flour using a wooden spoon.) Wrap and chill for 30 mins.Roll outon a lightly floured surface to the thickness of a £1 coin, then use to line a deep 22cm loose-bottomed tart tin. Trim any excess away, then chill for at least 30 mins more, or up to 2 hrs.",
       "Heat the oven to 190C/170C fan/gas 5 with a baking sheet inside. Scrunch up a large sheet of baking parchment, then use this to line the pastry case. Tip in baking beans, then bake on the hot baking sheet for 15-20 mins. Remove the beans and parchment, reduce the heat to 150C/130C fan/gas 2 and bake for a further 5-10 mins until golden and sandy to the touch. Leave to cool slightly.Will keep for up to two days in an airtight container.",
       "Meanwhile, tip the stout, cream and lemon peel strips into asaucepan. Bring to the boil, then remove from the heat and leave to cool slightly. Meanwhile, beat the eggs in a large bowl, then beat in the honey to combine. Beat in a splash of the warm stout and cream mixture, then slowly drizzle in the rest, whisking constantly. Strain into a jug and mix in a pinch of sea salt and the nutmeg. Leave to stand for a few minutes to settle.",
@@ -787,7 +787,7 @@
       "protein": "47g",
       "salt": "6g"
     },
-    "instructions": [
+    "ingredients": [
       "50gsalted butter",
       "4slices sourdough",
       "4slices thick-cut ham",
@@ -797,7 +797,7 @@
       "2eggs",
       "2gherkins,to serve (optional)"
     ],
-    "methods": [
+    "instructions": [
       "Spread the butter over one side of each slice of bread, then put the slices on achopping board, butter-side down. Divide the ham between two of the slices, then spread the chutney over the ham and top with the cheese. Sandwich with the other two bread slices, buttered-sides out.",
       "One at a time, fry the sandwiches in a pan over a medium heat for 3-4 mins until golden and crisp, then turn and repeat, pressing down firmly using aspatulaor fish slice until the cheese has melted.",
       "Meanwhile, heat a drizzle of oil in a second frying pan over a medium heat and fry the eggs until crisp around the edges. Cut the sandwiches in half and serve with the fried eggs on top and a gherkin each on the side, if you like."
@@ -824,7 +824,7 @@
       "protein": "0.2g",
       "salt": "0.01g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tbspolive oil",
       "2banana shallots,peeled and finely chopped",
       "2garlic cloves,finely chopped",
@@ -834,7 +834,7 @@
       "275glight brown soft sugar",
       "250mlwhite wine vinegar"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in a largesaucepanover a medium heat and cook the shallots for 5-6 mins until softened and lightly golden. Add the garlic, fennel seeds and chillies. Cook for 2-3 mins until fragrant.",
       "Add the tomatoes, sugar and vinegar, stir well, then bring to the boil. Reduce the heat to a simmer and cook for 45 mins-1 hr, or until the mixture has thickened and become sticky, and aspatulaleaves a clear path when drawn through it. Transfer to a sterilised 500ml jar (find outhow to sterilise jars) and leave to cool completely.Will keep unopened for up to a year in a cool, dry place."
     ]
@@ -860,7 +860,7 @@
       "protein": "12g",
       "salt": "0.4g"
     },
-    "instructions": [
+    "ingredients": [
       "850gstrawberries,hulled and halved (or quartered if large)",
       "1-2 tbspcaster sugar(optional)",
       "75gstrawberry jam",
@@ -880,7 +880,7 @@
       "50gcaster sugar,plus extra for sprinkling",
       "125gbuttermilkor plain yogurt, plus extra for brushing"
     ],
-    "methods": [
+    "instructions": [
       "Tip the strawberries into a bowl and sprinkle over 1-2 tbsp sugar if needed (they may not need any in summer when they’re at their sweetest). Gently stir in the jam, vanilla, lemon juice and cornflour, being careful not to break up the strawberries. Tip into a baking dish (ours was 18 x 28cm) and heat the oven to 200C/180C fan/gas 6.",
       "For the scone topping,weighthe flour into a large bowl and add the baking powder. Rub in the butter using your fingertips until the mixture resembles breadcrumbs. Add the sugar and a pinch of salt, then pour in the buttermilk or yogurt, and use a cutlery knife to combine the ingredients until they start to clump together. Use your hands to knead the dough briefly until you have a rough, sticky dough, making sure no loose flour remains.",
       "Tip the dough onto a floured work surface and dust with more flour. Press into a roughly 1.5cm-thick disc and stamp out eight scones using a small, round, fluted biscuit cutter – you’ll need to reuse the offcuts to make eight. Arrange over the strawberries in a single layer.",
@@ -908,7 +908,7 @@
       "protein": "11g",
       "salt": "0.83g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tbsprapeseed oil",
       "2onions,about 320g, halved and sliced",
       "100gcelery,sliced",
@@ -925,7 +925,7 @@
       "500mlvegetable bouillon,made with 1 tsp powder (use gluten-free, if needed)",
       "50gtoasted flaked almonds,or pine nuts"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in a large pan and fry the onion and celery for 10 mins, stirring every now and then until starting to colour.",
       "Stir in the garlic, aubergine, peppers, tomatoes and raisins until well mixed, then add the vinegar, capers and olives and stir again. Cover the pan tightly, then cook on a low heat for 20-25 mins, stirring once or twice. Be quick when stirring so you don’t lose too much steam. Stir in the parsley.",
       "Meanwhile, boil the quinoa and bouillon together in a covered pan for 20 mins until the grains have burst and the liquid has been absorbed. Stir in the nuts. Eat half now, and cool then chill the rest for another day.Will keep for three days.This can be eaten again warm or cold."
@@ -952,7 +952,7 @@
       "protein": "14g",
       "salt": "0.38g"
     },
-    "instructions": [
+    "ingredients": [
       "250geasy-cook brown rice",
       "1 tbsptomato purée",
       "1 tspcumin seeds",
@@ -966,7 +966,7 @@
       "2avocados",
       "2 x 198gcans sweetcorn"
     ],
-    "methods": [
+    "instructions": [
       "Tip the rice and 600ml water into a pan, then stir in the tomato purée, cumin, chilli and bouillon powder. Cover and cook over a low heat for 20 mins until the rice is tender, and it has absorbed the liquid. Remove from the heat and stir in the black beans.",
       "Meanwhile, mix the tomatoes with the red onion, coriander and the juice of 1 lime to make a salsa. Roughly mash the remaining lime juice with the avocados to create a chunky texture.",
       "Spoon the rice into four bowls or rigid containers (cool the half you are saving for another day first). Top with the tomato salsa, avocado and corn.The rice will keep for up to two days – just make the toppings fresh on the day."
@@ -993,7 +993,7 @@
       "protein": "10g",
       "salt": "0.9g"
     },
-    "instructions": [
+    "ingredients": [
       "700grindless pork belly",
       "4 largegarlic cloves,finely chopped",
       "thumb-sized piece ofginger,peeled and finely chopped",
@@ -1036,7 +1036,7 @@
       "4-5spring onions,thinly sliced on the diagonal",
       "6 tbspmayomixed with 1 tsp wasabi paste"
     ],
-    "methods": [
+    "instructions": [
       "Put the pork in aroasting tinwith the rest of the char siu ingredients and massage them in using your hands or a spoon to coat. Cover and keep chilled overnight.",
       "Heat the oven to 160C/140C fan/gas 3. Cover the tin with foil and cook the pork for 3 hrs 30 mins, basting every hour. Turn up the oven to 180C/160C fan/gas 4, remove the foil, baste the pork and continue to cook for 45 mins until it is beginning to caramelise around the edges.",
       "Remove the pork from the tin, cover and set aside to rest for 20 mins. Meanwhile, spoon off any fat and transfer the sauce to a small pan. Slice the pork – it will fall apart as you cut it – then return to the tin. Warm the sauce in the pan over a low heat, then pour over the meat and toss everything together.",
@@ -1071,7 +1071,7 @@
       "protein": "28g",
       "salt": "0.48g"
     },
-    "instructions": [
+    "ingredients": [
       "250ggram (chickpea) flour",
       "2 tbspfine cornmeal, optional",
       "½ tsprapeseed oil",
@@ -1108,7 +1108,7 @@
       "4tomatoes, cut into wedges",
       "4 handfuls of shreddedlettuce"
     ],
-    "methods": [
+    "instructions": [
       "Sift the gram flour and cornmeal into a bowl and make a well in the centre. Gradually whisk in 400ml water, to make a smooth thick batter. Set aside.",
       "For the cashew cream, put the cashews in a bowl with 100ml boiling water, the lime juice and half the coriander, then blitz with a hand blender until smooth and creamy. Add 1 tbsp more water if needed, to loosen.",
       "For the mushrooms, heat the oil in a large non-stick pan. Stir in the mushrooms and garlic, then put the lid on the pan for about 5 mins so they start to steam in their own juices. Stir with the lid off the pan for a few mins more until softened, stirring occasionally. Add the cumin seeds, chilli powder and ground coriander, then stir in the pinto beans and tomato purée. Cook for 2-3 mins, adding a splash of the reserved bean liquid to loosen. Add the tomatoes and cook for a few minutes until softened, but not completely broken down. Stir in the remaining coriander and set aside, covered.",
@@ -1137,7 +1137,7 @@
       "protein": "22g",
       "salt": "0.49g"
     },
-    "instructions": [
+    "ingredients": [
       "1 tbsprapeseed oil",
       "250gsweet potato, cut into small cubes",
       "125gcelery, finely chopped",
@@ -1160,7 +1160,7 @@
       "1large garlic clove, finely grated",
       "1 tbspchopped basil"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in a large non-stick pan over a medium heat and fry the sweet potato, celery, garlic and mushrooms for 10 mins, stirring occasionally until softened. Meanwhile, heat the oven to 190C/170C fan/gas 5 and line a large loaf tin with non-stick baking parchment.",
       "Weigh 75g of the cooked veg into a bowl and set aside. Tip the rest into a bowl with the oats, lentils, almonds, tomato purée and basil, and blitz with a hand blender to make a firm purée. (Or, do this in a food processor.) Pack the mixture into the tin and press the reserved veg into the top. Bake for 40 mins, or until firm enough to slice. Leave to cool in the tin for 5-10 mins before removing to a board or plate.",
       "Meanwhile, for the sauce, blitz the tomatoes, balsamic vinegar and garlic until smooth, then pour into a pan. Cook over a low heat for a few minutes until the garlic has softened, then add 1-2 tbsp water until the mixture has a spoonable consistency. Stir in the basil. Boil or steam half the broccoli, if using. Serve half the sauce with half the sliced loaf and the broccoli or salad. Leave the rest to cool completely and chill for another day.Will keep chilled for up to four days. Reheat the loaf and sauce on serving plates in the microwave until piping hot, and cook the remaining broccoli to serve."
@@ -1187,7 +1187,7 @@
       "protein": "21g",
       "salt": "0.73g"
     },
-    "instructions": [
+    "ingredients": [
       "2 x 280g blocksextra firm tofu, each cut into 6 thick slices",
       "4tomatoes",
       "4 tspsesame oil",
@@ -1218,7 +1218,7 @@
       "20gcoriander",
       "12spring onions, trimmed and chopped"
     ],
-    "methods": [
+    "instructions": [
       "Mix the marinade ingredients in a shallow bowl, then add the tofu slices and turn to fully coat. Set aside.",
       "Heat the oven to 200C/180C fan/gas 6. For the sesame chips, bring a large pan of water to the boil. Trim both ends of each potato, then cut into chips. Boil for 5 mins, then drain well. Toss with the oil on a large non-stick baking sheet and space them out. Bake for 20 mins. In a separate bowl, toss the sesame seeds with the bouillon and five-spice. Turn the chips. If any are browning too quickly, move them to the middle of the baking sheet. Return to the oven for a further 15-20 mins until golden, then sprinkle over the seed mixture and bake for 5 mins more.",
       "While the potatoes are cooking, heat a large frying pan or griddle and cook half the tofu steaks for 10 mins, turning frequently, until lightly golden. Halve two tomatoes and add to the pan, cut-side down, for the last 1-2 mins of cooking, or leave them uncooked if you prefer.",
@@ -1246,7 +1246,7 @@
       "protein": "27g",
       "salt": "0.89g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tsprapeseed oil",
       "2onions, finely chopped",
       "3garlic cloves, finely grated",
@@ -1268,7 +1268,7 @@
       "150gcherry tomatoes on the vine, halved",
       "4 handfuls ofrocket"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in a large ovenproof pan over a medium heat and fry the onions for 10 mins, stirring occasionally until starting to colour. Stir in the garlic and lentils. Pour in 500ml water, then bring to the boil, cover and cook for 10 mins over a high heat.",
       "Stir in the passata, cover again, reduce the heat to low and cook for 15 mins more.",
       "Stir in the penne, courgettes, three-quarters of the basil and the bouillon powder. Bring back to the boil, then cover and cook for 15 mins until the pasta is tender. Keep an eye on it, as you might need to add a little extra water if the pan becomes too dry.",
@@ -1296,7 +1296,7 @@
       "protein": "21g",
       "salt": "0.65g"
     },
-    "instructions": [
+    "ingredients": [
       "300gbrown basmatior easy-cook rice",
       "2 tsprapeseed oil",
       "20g piece ofginger, peeled and finely chopped",
@@ -1311,7 +1311,7 @@
       "150gcoconut yogurt",
       "15gcoriander, chopped"
     ],
-    "methods": [
+    "instructions": [
       "Cook the rice following pack instructions, about 25 mins. Meanwhile, heat the oil in a large frying pan over a medium heat and fry the ginger and garlic for a couple of minutes until fragrant. Add the spices and stir briefly, then pour in the stock and a quarter of the chickpeas, along with all the reserved liquid from the cans. Cover and cook for 5 mins, then blitz using a hand blender until smooth.",
       "Stir in the chilli, remaining chickpeas, the broccoli and green beans, then cover and cook over a low heat for 7-8 mins until the veg is just tender. Stir in the yogurt and coriander. Serve half straightaway with half the rice, then cool the leftovers completely and keep chilled for another day.Will keep chilled for up to three days. Reheat with the rice in heatproof bowls in the microwave until piping hot."
     ]

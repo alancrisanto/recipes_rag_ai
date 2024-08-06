@@ -42,7 +42,7 @@
 - 275gicing sugar,sieved
 - maraschino cherries,to decorate
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/ gas 4. Tip the pineapple chunks into a bowl and blitz using ahand blenderuntil smooth. Set aside. Butter a 900g loaf tin and line with baking parchment. Beat the butter, sugar and vanilla together using a stand mixer or electric whisk until pale, light and fluffy.
 - Whiskthe plain flour, cornflour and baking powder together in a small bowl. Set aside. With the motor on medium speed, add the beaten egg to the butter and sugar mixture a tablespoon at a time, alternating with a tablespoon of the flour mix if there is any curdling. Fold in half of the flour mix, then half the soured cream. Alternate between the remaining flour and soured cream until everything has been incorporated and the batter is light and airy. Pour into the prepared tin, then make six small gaps in the surface using the back of a lightly oiled spoon. Divide half of the blitzed pineapple between the gaps, then gently swirl into the batter using a skewer. Bake in the middle of the oven for 1 hr 15 mins, or until a skewer inserted into the middle of the cake comes out clean.
 - For the buttercream, beat the butter using an electric whisk orstand mixeruntil pale and creamy. Add the icing sugar and whisk again on low speed to combine. Add the rest of the pineapple, a tablespoon at a time, until fully incorporated. (If the pineapple is too cold, it can split the buttercream. If this happens, warm the pineapple in the microwave for 20 seconds, then whisk until spreadable.) Spread the buttercream over the cooled cake, then decorate with a few maraschino cherries.Will keep in an airtight container for three days.
@@ -87,7 +87,7 @@
 - 150ggolden marzipancut into 1⁄2cm cubes
 - a few drops of pink food colouring gel
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter a 20cm square tin and line with baking parchment. Melt the butter in largesaucepanover a medium heat, then remove from the heat and stir in the sugar and half of the white chocolate. Leave to cool for 10 mins, then beat in the vanilla and beaten egg. Mix the flour, baking powder, milk powder (if using) and 1 tsp sea salt flakes or ½ tsp fine sea salt together in a separate bowl. Tip the dry ingredients into the wet, and stir well to combine, making sure no pockets of flour remain. Finally, scatter in the marzipan and remaining white chocolate, and stir these through the mixture.
 - Pour half the batter into a second bowl and stir in drops of pink food colouring until evenly coloured. Alternately spoon dollops of the pink and plain batters into the tin, then gently swirl together using a skewer or cutlery knife to create a swirling marbled effect.
 - Bake for 30-40 mins until the blondies are set at the edges with a slight wobble in the middle. Leave to cool completely in the tin, then cut into squares to serve. (If you like, chill overnight before cutting for neater squares.)Will keep in an airtight container for up to five days.
@@ -134,7 +134,7 @@
 - 200gcaster sugar
 - 100gwhole blanched hazelnuts
 
-### Method
+### Instructions
 - First, make the praline. Lightly oil abaking trayand set aside. Tip the sugar into a heavy-based pan with 3 tbsp water and warm over a low heat until the sugar has dissolved. Turn up the heat slightly and bubble until the sugar becomes a dark caramel, about 5 mins. Remove from the heat, then stir in the nuts and a generous pinch of sea salt and immediately pour onto the prepared baking tray. Carefully spread to an even layer using a silicone spatula and leave to cool completely.
 - When the praline is cold and brittle, break it into rough pieces. Snap off about 10 of the caramel-coated hazelnuts and set aside.Tip the rest of the praline into afood processorand pulse to the texture of coarse breadcrumbs, then set aside.
 - Butter a 900g loaf tin and line with a strip of baking parchment. Melt the chocolate and butter in a heatproof bowl over a pan of simmering water, ensuring the base of the bowl doesn’t touch the water. Or, do this in themicrowavein 20-second bursts. Once melted, remove from the heat and stir until glossy. In a separate bowl, whip the cream to soft peaks, then fold this through the chocolate mixture. Stir in most of the crushed praline, reserving about 4 tbsp. Scrape the mixture into the tin, smooth the surface and chill overnight until firm and set.Will keep chilled for up to two days.
@@ -193,7 +193,7 @@
 - pinch of cayenne pepper,or to taste
 - 1-2 tbsp lemon juice,to taste
 
-### Method
+### Instructions
 - First, make the hollandaise. Put the vinegar, shallots, dill (if using) and some cracked black pepper in a small pan, and bring to the boil. Reduce the heat and simmer for 5-6 mins until the mixture has reduced by two-thirds. Remove from the heat and leave to cool. Melt the butter in a secondsaucepanover a low-medium heat, then sizzle until it turns light brown. Turn the heat off and pour it into a small jug.
 - Fill a saucepan a third full with water, bring to the boil, then reduce the heat to a simmer. Strain the infused vinegar mixture through a sieve into a bowl, add the egg yolks and miso, and set the bowl over the pan of simmering water, ensuring the bowl doesn’t touch the water.Whiskcontinuously until the yolks lighten in colour – you should be able to see trails from the whisk. Whisk in the cream, then slowly pour in the melted butter, whisking continuously until fully incorporated. Season with salt, the cayenne and lemon juice to taste, then remove the bowl from the pan and cool to room temperature, stirring occasionally.
 - Heat the grill to high and toast the muffins cut-side up. Set aside and keep warm. Tip the vinegar into the pan of water on the hob, return to the boil, then reduce the heat to a simmer. If you’re confident, crack the eggs directly into the simmering water, or crack the eggs into individual cups or ramekins first and carefully slide the eggs into the water. Set a timer for 2 mins 30 seconds if the eggs were at room temperature, or 3 mins if they were from the fridge. When ready, the egg whites should be set and the yolk runny. Carefully lift the eggs out of the water using a slotted spoon, then drain on kitchen paper, trimming away any wispy bits of the whites, if you like.
@@ -234,7 +234,7 @@
 - 750mlcold sparkling rosé
 - 250mlsoda water
 
-### Method
+### Instructions
 - Tip half the strawberries and the elderflower liqueur into a measuring jug, and crush using a cocktail muddler or the end of a rolling pin until the strawberries have released their juice. Strain through a finesieveinto a large, clean jug filled with ice.
 - Stir in the rosé, soda water and remaining strawberries. Pour into glasses to serve.
 
@@ -276,7 +276,7 @@
 - 85gplain flour
 - 45gcocoa powder
 
-### Method
+### Instructions
 - Butter a 20 x 20cm brownie tin and line with baking parchment. Heat the oven to 180C/160C fan/gas 4. Combine the condensed milk, 2 tbsp espresso powder and a large pinch of sea salt in a small bowl. Set aside. Melt the butter and chocolate in a heatproof bowl over a pan of simmering water. Or, do this in themicrowavein 20-second bursts. Once melted, leave to cool slightly.
 - Beat the eggs and sugar using an electric whisk until pale and doubled in volume. Slowly pour in the chocolate mix, folding it in, then fold in the flour, cocoa powder, the 1 tsp espresso and a pinch of salt. Pour into the tin, smooth out, and use the back of a spoon to make nine equally spaced dips in the surface. Divide the condensed milk mixture between them, then use a skewer to swirl it, creating a marbled effect. Bake on the middle shelf of the oven for 20-25 mins until cracked and shiny with a slight wobble in the middle. Leave to cool completely in the tin, then cut into squares.Will keep in an airtight container for five days, or in the freezer for three months.
 
@@ -320,7 +320,7 @@
 - small bunch of coriander,chopped
 - salsa(see recipe, below) and 2 limes, cut into wedges, to serve
 
-### Method
+### Instructions
 - Put the steak on a dish and the orange slices on top, squeezing over some of the juice, then scatter over the onion and garlic cloves. Cover and set aside for at least 1 hr, or chill overnight.
 - Warm the pinto beans in asaucepanover a medium heat for a few minutes until hot. Season with salt. Set aside.
 - Mash the avocado in a bowl using a fork. Add 1-2 tbsp water to loosen, and season to taste. Heat the corn tortillas following pack instructions and wrap well to keep warm.
@@ -364,7 +364,7 @@
 - 1⁄2 -1 lime
 - tortilla chips,to serve (gluten-free, if needed)
 
-### Method
+### Instructions
 - Halve the avocados, then remove their stones, setting one aside. Scoop the flesh into a bowl.
 - Mash the avocados using apotato masher, leaving some chunks to add texture. Stir through the chopped tomato, onion and coriander, and season to taste with plenty of salt and black pepper. Stir in the oil and lime juice, to taste. Mix well and serve immediately with tortilla chips for scooping it up.
 
@@ -414,7 +414,7 @@
 - food colouringpaste, edible glitter and icing pens (optional)
 - 15long colourful ribbons
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Line 2 baking trays with baking parchment. Melt the butter, sugar and syrup in a small saucepan. Mix in the vanilla, remove from the heat and leave to cool for 10 mins.
 - Sieve the flour and bicarbonate of soda into a bowl. Pour in the melted butter mixture and the egg, and stir together to form a stiff-ish dough. Pop the dough in the fridge for 10 mins to chill and firm up.
 - Roll the dough out on a floured surface to 5mm thick, then stamp out 15 circles using a 7.5cm round cookie cutter; you may need to re-roll the trimmings to get 15 cookies. Make a hole at the top of each circle with the end of a pencil.
@@ -481,7 +481,7 @@
 - pinch ofgrated nutmeg
 - 100gfeta, crumbled
 
-### Method
+### Instructions
 - Heat 2 tbsp of the olive oil in a pan over a medium-low heat, crumble in the mince and cook for 15-20 mins. Itwill release some liquid but once that has bubbled away, the mince will sizzle in its own fat and start to brown and caramelise. At this point, stir the mince with a wooden spoon.
 - Stir in the onion and continue to cook for 10 mins until it’s softened. Add the garlic and cook for a minute more. Scatter the sugar over, then stir through the tomato purée and cook until it’s toasted and starts to stick to the pan. Splash in the vinegar and let it simmer for a minute. Tip in the canned tomatoes, then use the wine to swill out the can and tip into the sauce. Season with salt and pepper, scatter in the oregano, nestle in the cinnamon stick and bay leaves, bring to a simmer and cook gently, stirring occasionally, for 40 mins until you have a thick ragu. Remove from the heat, fish out the bay and cinnamon, and stir through another 1 tbsp of the olive oil.
 - While the ragu is cooking, cut the tops off the aubergines, then cut lengthways into 1cm thick slices. Put in a bowl and lightly salt, and set aside for 20 mins until they soften and become droopy. Drizzle liberally with the rest of the olive oil and toss well. Heat a griddle pan over a high heat and cook the slices on both sides for a few minutes until soft and lightly charred. You’ll need to do this in batches. Leave to cool slightly on a plate. (This can also be done on abarbecueif you have time.)
@@ -544,7 +544,7 @@
 - 1green chilli, finely chopped
 - 200gcanned sweetcorn, drained
 
-### Method
+### Instructions
 - To make the salsa, mix all the ingredients in a small bowl and season with salt. Set aside.
 - Lay the chicken on a chopping board, then cover. Flatten to an even thickness by lightly bashing with a rolling pin or pan.
 - Tip the flour onto a plate and mix with the smoked paprika, garlic granules and a good pinch of salt. Beat the egg in a bowl with 1 tbsp of the chipotle paste. Scatter the breadcrumbs on a second plate. Dip the chicken in the seasoned flour, followed by the egg, then the breadcrumbs, until well coated.
@@ -585,7 +585,7 @@
 - 2 tbsppassion fruit liqueur(optional)
 - prosecco, for topping up
 
-### Method
+### Instructions
 - Put a scoop of mango sorbet into each of four chilled glasses.
 - Pour over the passion fruit liqueur, if using, then top up with prosecco and serve immediately.
 
@@ -638,7 +638,7 @@
 - 50gmayonnaise
 - 50mlolive oil
 
-### Method
+### Instructions
 - Combine the onion and lemon juice in a large bowl and set aside for 5 mins with a pinch of salt. Mix in the dressing ingredients and season to taste. Tip in the rest of the salad ingredients and toss to combine well, season to taste. Serve with slices of toasted sourdough, if you like.
 
 
@@ -683,7 +683,7 @@
 - small handful ofmint, leaves picked and finely chopped
 - 25groasted peanuts, roughly chopped
 
-### Method
+### Instructions
 - Cook the noodles following pack instructions, drain and rinse under cold water so they don’t stick. Mix the lime juice and shallot in a large bowl with a pinch of salt and set aside for 5 mins. Mix in the red chilli, soy sauce, chilli oil, sesame oil and sugar. Set aside for 5 mins.
 - Roughly slicethe cucumber and tip into the bowl along with cooked noodles, watermelon and mint. Toss well to combine and serve with the peanuts scattered over the top.
 
@@ -734,7 +734,7 @@
 - 1lemon, juiced
 - 100ghummus
 
-### Method
+### Instructions
 - Trim the courgettes, then cut in half lengthways, so you have two long halves. Score the flesh of the courgettes in a criss-cross. Sprinkle a large pinch of salt over the cut side of the courgettes and set aside for 10 mins. Pat dry then brush with the olive oil and sprinkle over the mixed herbs on the cut side.
 - Heat a dry frying pan over a medium-high heat. Put the courgettes, scored-side down in the pan and cook for 8-10 mins, until deeply browned. Flip and cook for a further 5 mins until the courgettes are completely soft.
 - Meanwhile, combine the dressing ingredients in a wide shallow serving bowl and season to taste. Add the remaining ingredients, reserving a little of the parsley, and toss well to combine. Top with the courgettes and sprinkle over the remaining parsley to serve.
@@ -776,7 +776,7 @@
 - 4thick sourdough slices
 - 150gcheese, grated (we used The Ethical Dairy's Carrick)
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7. Roughly chop any larger tomatoes and tip into aroasting tinalong with any green vines, as these impart flavour, too. Using the side of your knife, lightly bash the garlic cloves and add to the tomatoes along with the lemon thyme. Drizzle over the oil and season well. Toss using your hands to combine. Roast for 25-30 mins until bursting and lightly charred. Carefully remove the garlic skins and mash into the tomatoes then cook for a further 15 mins. Set aside to cool slightly, then remove the thyme sprigs and discard.
 - Spread the mayonnaise over the outside of each of the four slices of bread, then spread the tomatoes over the other sides and top with the cheese. Sandwich the second half on top, with mayonnaise-side facing out, then put in a frying pan.Any leftover tomato mix will keep chilled in an airtight container for up to five days.
 - Put the pan over a medium-high heat, lay a baking tray or saucepan on top and weigh the toastie down with a couple of cans. You can also use a press if you have one. Fry for 4-5 mins until golden, then carefully turn, wiping the base of the tray or pan to remove any mayo, and press down again. Cook for a further 4-5 mins until golden, then cut in half and serve.
@@ -825,7 +825,7 @@
 - 200g-300gleftover beef(see recipe below), sliced
 - leftover avocado sauce(see recipe below), to serve
 
-### Method
+### Instructions
 - For the chmichurri dressing, combine the parsley, shallot, vinegar, red pepper, chilli, oregano, garlic and olive oil in a small bowl. Season to taste and set aside.
 - In a second bowl, combine the leftover greens, sweetcorn, tomatoes and quinoa, then pack into two airtight containers, layer over the beef and drizzle over the chimichurri to serve. Serve with any leftover avocado sauce.Will keep chilled in an airtight container for up to two days.
 
@@ -867,7 +867,7 @@
 - 300gleftover beef(see recipe below)
 - handful ofleftover spicy greens(see recipe below)
 
-### Method
+### Instructions
 - Mix the red onion with the vinegar, sugar and ¼ tsp salt and set aside to lightly pickle for 20 mins.
 - Bring a pan of salted water to the boil over a medium heat and carefully tip in the green beans. Cook for 3-4 mins until tender but not soft, then plunge into a bowl of ice-cold water and leave for 5 mins. Drain thoroughly and pat dry.
 - Halve the baguette and spread any remaining avocado sauce over the base. Layer up the beef and greens and top with the green beans and pink pickled onions. Sandwich together and enjoy.Will keep chilled for up to a day.
@@ -920,7 +920,7 @@
 - 2 tspsesame oil
 - 1 tbspsoy sauce
 
-### Method
+### Instructions
 - Cook the noodles following pack instructions, then drain and rinse to prevent them sticking.
 - Combine all the dressing ingredients in a large bowl and season to taste, with a bit more lime juice or soy sauce, if you like. Toss the noodles in the dressing, add the remaining ingredients, and toss well.Will keep chilled in an airtight container for two days.
 
@@ -966,7 +966,7 @@
 - 100gdark chocolate, chopped
 - 75gpecans, roughly chopped
 
-### Method
+### Instructions
 - Cut the squash into 2cm cubes, tip into a heatproof bowl, then add 2 tbsp water, cover with a heatproof plate or lid, andmicrowaveon high for 5-8 mins until soft. (Or, roast or air-fry for 15-20 mins at 200C/180C fan/gas 6.) Leave to cool.
 - Heat the oven to 200C/180C fan/gas 6 and line a 900g loaf tin with baking parchment. Mash the squash using a fork, then add the eggs, oil, sugar, milk, vanilla extract, spices and ½ tsp salt. Mix until smooth, then add the flour and baking powder. Mix again until smooth and no pockets of flour remain.
 - Stir through most of the chopped chocolate and pecans. Scrape the batter into the prepared tin and scatter over the remaining chocolate and pecans.
@@ -1013,7 +1013,7 @@
 - 160gcherry tomatoes, cut into quarters
 - handful offresh coriander(about 5g) roughly chopped
 
-### Method
+### Instructions
 - Put 30g of the melon in a bowl with the lime juice, chilli, garlic, soy sauce and mint, then blitz with ahand blenderuntil smooth.
 - Heat the oil in anon-stick frying panover a low heat, add the trout skin-side down and cook for 5 mins until the skin is crispy. Turn the fish and cook for 3-4 mins until the fillets are cooked all the way through. While the fish is cooking, boil the green beans for about 7 mins until tender, then drain.
 - Toss the green beans, remaining melon, tomatoes and coriander in a bowl with the dressing until well coated and pile onto two plates. Top with the fish, any pan juices and any dressing left in the bowl. Serve with the lime wedges for squeezing over.
@@ -1053,7 +1053,7 @@
 - 6 largegarlic cloves, finely grated
 - 25gfresh parsley, finely chopped
 
-### Method
+### Instructions
 - Heat 1 tsp of the oil in anon-stick frying panand cook the bacon over a medium heat for 5-6 mins until crisp. Remove from the heat, leaving the oil behind. Set aside to drain on kitchen paper, then when cool enough to handle, finely chop.
 - Bring a large pan of salted water to the boil and cook the spaghetti following pack instructions.
 - A few minutes before the pasta is ready, pour the rest of the oil into the pan and cook the garlic over a medium-low heat for 1-2 mins until fragrant and beginning to brown (don’t let it burn or it will taste bitter).
@@ -1111,7 +1111,7 @@
 - 1 largeripe tomato, finely chopped
 - handful ofparsley, finely chopped
 
-### Method
+### Instructions
 - Heat a large frying pan over medium-high heat and dry-fry the sweetcorn until beginning to char, around 4-5 mins. Tip into a bowl and mix in the spring onions, lime juice, mayo and chilli powder with a good pinch of salt and pepper. Stir well to coat the corn. Set aside.
 - Cook the rice following pack instructions, then combine with the tomato, parsley and a good pinch of salt and a grinding of black pepper.
 - Coat the chicken in the Mexican-style seasoning, then heat the oil in a large frying pan over a medium heat and cook the chicken until cooked through. Set aside.
@@ -1154,7 +1154,7 @@
 - 100gcooked chicken, shredded
 - 30gspinach
 
-### Method
+### Instructions
 - Lightly mash the avocado, then mix in ¾ tsp oil, the lime juice and cherry tomatoes. Season and set aside. Slice the bagels, thentoastuntil lightly golden.
 - Spread the avocado mix onto one half of each bagel, then top with the chicken and spinach. Drizzle the remaining oil over the remaining bagel halves, then press down on top of the spinach.
 
@@ -1193,7 +1193,7 @@
 - 150ggolden caster sugar
 - 350gporridge oats
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter and line a 20cm square tin with baking parchment. Melt the butter in asaucepanover a low heat, then stir in the maple syrup. Remove from the heat and leave to cool for a few minutes before stirring in the peanut butter.
 - Combine the sugar and oats in a bowl, then make a dip in the centre and pour in the butter mixture and mix until combined. Tip into the prepared tin and press down gently to flatten. Bake for 25-30 mins until golden, then remove from the tin and leave to cool completely before cutting into 12 pieces.
 
@@ -1234,7 +1234,7 @@
 - 8 pittedblack olives, halved
 - handful ofparsley, finely chopped
 
-### Method
+### Instructions
 - Toastthe bread, then rub with the cut side of the garlic clove. Grate the tomato over the bread and spread over each slice. Top with the sardines and a few tablespoons of the olive oil before scattering over the onion slices, olives and parsley.
 
 
@@ -1276,7 +1276,7 @@
 - 4 tbspcoconut yogurt
 - 3 tbspmixed seeds(we used hemp, sunflower and pumpkin)
 
-### Method
+### Instructions
 - Heat the oven to 190C/180C fan/gas 6. Tip the cauliflower florets and any leaves into a large bowl, then drizzle over 2 tbsp of the olive oil. Toss with the turmeric and cumin seeds along with some salt and pepper, then spread out over abaking traylined with baking parchment. Roast for 25-35 mins until golden and tender.
 - After 10 mins, tip the kale into a large bowl and massage in the remaining oil and some seasoning. Spread out over a large baking tray and bake for the final 10 mins, or until crisp. Cool on the tray. Squeeze the lemon juice over the cauli.
 - Cook the quinoa and lentil mix following pack instructions, then divide between two bowls. Top with the cauliflower, kale, coconut yogurt and seeds.Leftovers will keep chilled for up to four days.
@@ -1329,7 +1329,7 @@
 - ½lime, juiced
 - 1 tspchilli flakes
 
-### Method
+### Instructions
 - For the guacamole, scoop the avocado flesh into a bowl and mash, then stir through half the coriander and the lime juice. Season with the chilli flakes and some salt and pepper. Chill until needed.
 - Heat the oil in a largefrying panover a medium heat and, once shimmering, cook the vegan ‘chicken’ pieces for 2-3 mins, stirring often until golden on both sides. Season and remove to a bowl.
 - Fry the red onion and garlic in the pan for 8-10 mins until golden at the edges. Add the chipotles in adobo and the fajita seasoning, then the chickpeas and cooked vegan ‘chicken’ pieces, mixing well.
@@ -1381,7 +1381,7 @@
 - 1spring onion, finely sliced
 - pickled ginger, to serve (optional)
 
-### Method
+### Instructions
 - Heat 2 tbsp oil in a large, deep frying pan over a medium-low heat and cook the onions and carrots for 15 mins until starting to soften.
 - Add the garlic, ginger and curry powder and cook for 2 mins more, or until fragrant. Pour in the soy, maple syrup and coconut milk, then swill out the coconut can with a splash of water and pour that in, too.
 - Bring to the boil, then reduce the heat and bubble for 10-15 mins until thickened. Season. Blitz until smoothusing ahand blender.The sauce can will keep chilled for up to two days. Leave to cool first. Reheat until piping hot. Keep warm over a low heat.
@@ -1429,7 +1429,7 @@
 - 10gcoriander, roughly chopped, plus extra whole leaves to serve
 - 2 x 250g pouchescooked brown & wild rice mix, to serve
 
-### Method
+### Instructions
 - Pat the tofu dry with kitchen paper, then heat 1 tbsp oil in a large, deep frying pan over a medium heat. Fry the tofu for 3-4 mins, or until golden on each side. Remove from the pan using a fish slice and set aside to drain on kitchen paper.
 - Pour the remaining oil into the pan, then scatter in the coriander seeds, cumin seeds and cardamom and cook for 2-3 mins until popping.
 - Add the ginger, onion and garlic and cook for 10-12 mins more until golden at the edges. Turn the heat to low and add the spinach, a handful at a time and stir to wilt. Remove from the heat. Tip the spinach mix, the coriander and 300ml water into a high-poweredblenderand blitz until completely smooth. Pour the mixture back into the pan and season with salt. Bring to a simmer.

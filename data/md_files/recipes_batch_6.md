@@ -42,7 +42,7 @@
 - 50mllime juice
 - 1 tspDijon mustard
 
-### Method
+### Instructions
 - Heat the oil in afrying panover a low heat and cook the peanuts for 5 mins until roasted and golden. Add the mustard seeds and curry leaves and sizzle for a few seconds.
 - Add the onions, potatoes and 2 tbsp water, then cover and cook for 10 mins until the potatoes are soft. Remove from the heat, add ½ tsp salt and ¼ tsp freshly ground black pepper, and mix well. Leave to cool slightly, about 30 mins.
 - Transfer to a large bowl and add the remaining ingredients.
@@ -118,7 +118,7 @@
 - 400gcan chickpeas,drained
 - ¼cucumber,cut into small pieces
 
-### Method
+### Instructions
 - First, make the coronation chicken. Combine all the ingredients, except the chicken, in a bowl and season. Chop the chicken into small chunks and stir into the mixture until well coated.Will keep chilled for up to three days.
 - Make the minty yogurt chickpeas on the day you want to assemble the salad. Blitz the yogurt, herbs, sugar, lemon zest and juice together in ablenderwith a pinch of salt until bright green (or, finely chop the herbs and mix with the other ingredients). Tip the chickpeas into a bowl, pour over the minty yogurt, add the cucumber and mix well.
 - Spoon the chickpeas into the bottom of a trifle bowl (ours was 20cm in diameter and 13cm deep). Arrange the beetroot over the chickpeas with the cut-sides facing out, then follow with the shredded lettuce. Spoon over the coronation chicken, spreading it to the edge. Arrange the carrot ribbons on top.
@@ -157,7 +157,7 @@
 - plain flour,for dusting
 - 1egg,beaten
 
-### Method
+### Instructions
 - Line twobaking trayswith baking parchment.Roll the pastry outon a lightly floured surface until slightly thicker than a £1 coin. Use an 8cm round cutter to mark out 12 circles, being careful not to stamp all the way through, then roll the pastry out again to make it a little thinner and wider if you can’t quite fit 12. Stamp out the 12 circles and arrange on the baking tray, spaced apart. Use a 6cm round cutter to mark out a circle in the middle of each pastry disc,being careful not to stamp all the way through.Will keep chilled for two days or frozen for a month.
 - Heat the oven to 200C/180C fan/ gas 6. Brush the edge of each pastry case with egg, avoiding the marked-out middles. Bake for 15-20 mins, swapping the trays halfway through, if needed. When ready, the pastry cases will be puffed up and deep golden brown. Gently press down the middle of each – you may need to use a small, sharp knife to do this. Leave to cool slightly, then fill (choose a filling below) and serve.Best served on the day.
 
@@ -198,7 +198,7 @@
 - 4 tbspbio yogurt,plus extra for topping, if you like
 - dark chocolate,finely grated (optional), to serve
 
-### Method
+### Instructions
 - Put the banana, avocado, soya milk, cocoa, xylitol and yogurt in afood processoror blender. Whizz until smooth, then pour into two tall glasses.
 - Top with some extra yogurt and grate over the chocolate to serve, if you like.
 
@@ -237,7 +237,7 @@
 - 75mltriple sec
 - 1lime,juiced
 
-### Method
+### Instructions
 - Tip the sea salt onto a saucer. Dampen the rims of two margarita glasses, then turn the glass upside down in the salt and twist to coat the rim.
 - Add all remaining ingredients to ablenderand blitz until smooth. Pour into glasses and serve immediately.
 
@@ -274,7 +274,7 @@
 - 2 tbspgolden caster sugar
 - ½ tspvanilla extract
 
-### Method
+### Instructions
 - Whip the cream, sugar and vanilla together in a bowl using a hand blender or electricwhiskuntil the mixture forms soft peaks.Will keep chilled for a few hours. Serve spooned or piped alongside desserts or as a filling for cakes or buns. It's also delicious served with soft summer fruits and berries.
 
 
@@ -322,7 +322,7 @@
 - 100gmilk
 - 25gbutter
 
-### Method
+### Instructions
 - Heat the oil in a large pan, crumble in the mince and stir to coat in the oil. Cook for 15 mins, stirring occasionally until the mince is browned and the fat from the meat has been released. Stir in the onions and carrots, and cook for 10 mins until they soften and start to turn brown.
 - Sprinkle over the flour and cook for a further 2 mins. Stir in the ketchup or tomato purée, if using, splash in the Worcestershire sauce, then gradually stir in the stock. Season and leave to simmer gently for 45-50 mins until you have tender mince in a rich gravy.
 - While the mince is cooking make the tatties. Tip the potatoes into a pan and cover in salted cold water, bring to the boil and simmer for about 15 mins until tender. Drain well, then allow to steam-dry for a few mins.Mashwell with the milk and butter, then season with salt and pepper. Serve the stewed mince spooned over the tatties.
@@ -359,7 +359,7 @@
 - 450ggood-quality white chocolate,finely chopped
 - 275mldouble cream
 
-### Method
+### Instructions
 - Put the white chocolate in a heatproof bowl. Warm the cream in a small saucepan over a medium heat until it steams and just begins to bubble, then pour it over the white chocolate and leave for 1 min.
 - For the silkiest ganache, use ahand blenderto blend the cream and chocolate from the centre of the bowl outwards. (Keep the blender submerged to avoid adding air to the mixture.) If you don’t have a hand blender, whisking from the centre will also work. If you still have lumps of chocolate, gently warm the ganache in themicrowavein 5-second bursts, stirring between each until smooth. Leave to cool slightly before using (it should be a spreadable consistency). If it sets too hard, gently warm in the microwave or in a heatproof bowl over simmering water.Will keep chilled for three days or in the freezer for up to a month.
 
@@ -411,7 +411,7 @@
 - 200mlmilk, warmed
 - 150gbutter, softened
 
-### Method
+### Instructions
 - First, make the brioche dough. Put the flour, yeast, sugar and 2 tsp salt into the bowl of astand mixerfitted with a dough hook. Pour 2 tbsp of the beaten egg into a small bowl and set aside. Tip the rest of the egg into the mixer bowl along with the warmed milk. Mix on a medium speed until the mixture comes together to form a dough, then carry on mixing for 5 mins on a medium speed, or until springy and glossy.
 - With the machine still running, add the butter, a small piece at a time, until fully incorporated, about 8-10 mins. At first, it will look like it’s not coming together, but keep working the dough, scraping down the sides of the mixing bowl as you go. Once all the butter has been worked in, carry on mixing for a minute or two until smooth. Form into a ball and cover the bowl with a tea towel. Leave for about an hour until doubled in size.
 - Tip the dough out onto a floured surface and knead to knock out the air, then divide into 24 equal pieces, roughly weighing 45g each, and roll each into a ball. Take the cheese out of the box, set aside and put the empty box in the middle of a largebaking traylined with baking parchment. Arrange a ring of 8-10 dough balls around the box, then another ring of balls around that one, fitting them into the gaps. Leave to prove in a warm place for 30 mins or chill for a few hours.
@@ -452,7 +452,7 @@
 - 1egg
 - icing sugar, for dusting
 
-### Method
+### Instructions
 - Roll out the pastryon a lightly floured surface until roughly ½cm thick. Use an 8-10cm round biscuit cutter to stamp out as many discs as you can, then reroll the offcuts and cut out more, using up as much of the pastry as possible.
 - Spoon 1 tbsp mincemeat into the middles of half the pastry discs. Stamp out small stars (or other festive shapes) from the middles of half of the remaining pastry discs and set aside.
 - Beat the egg and brush lightly around the edge of each mincemeat-topped pastry disc. Place the lids on top – some with the stamped-out stars and some without. Brush a little egg wash over each pie, then stick the leftover stars on top of the plain pastry pies. Brush the stars with egg wash, too. Poke a little hole in the top of the covered pies to let steam escape during cooking.
@@ -501,7 +501,7 @@
 - 125gpecan halves
 - 50mlmaple syrup
 
-### Method
+### Instructions
 - Blitz the flour and butter together in afood processoruntil the mixture resembles fine breadcrumbs, then pulse in the caster sugar and a few gratings of nutmeg. Pulse in the egg yolk and enough cold water (about 1 tbsp) to create a firm dough. Tip into a bowl, cover and chill for at least 20 mins. Alternatively, rub the butter into the flour in a large bowl using your fingertips, then stir in the sugar, nutmeg, egg yolk and water.
 - Roll the chilled pastry outon a lightly floured surface until it’s slightly larger than a 22cm fluted loose-bottomed tart tin, then use it to line the tin. Prick the base all over using a fork, then chill for 20 mins.
 - About 5 mins before the pastry has finished chilling, heat the oven to 180C/160C fan/gas 4. Remove the pastry from the fridge, then line with a piece of baking parchment and fill with baking beans or uncooked rice or lentils. Bake for 12 mins, then remove the beans and parchment and bake for another 8-10 mins until the pastry is lightly golden.
@@ -556,7 +556,7 @@
 - 2 tbspdark rum
 - 80graisins
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6 and line a 20cm square tin with baking parchment, leaving some overhanging. Make the shortbread by beating 170g of the butter and the sugar using an electric whisk until fluffy. Sift over the flour and cornflour and stir to make a dough. Press into the tin, making sure it’s level. Prick all over using a fork and bake for 15-20 mins until set and lightly golden. Leave to cool completely in the tin.
 - Meanwhile, make the caramel. Put the butter, condensed milk, golden syrup and dark brown sugar in a mediumsaucepanwith a pinch of salt over a medium-low heat, and cook for 10-12 mins, stirring constantly, until thick, darkened and fudgy. Add the rum and stir to combine – it will bubble up so be careful. Remove from the heat, stir in the raisins and leave to cool for 5 mins, before pouring onto the cooled shortbread base. Leave to cool and set completely.
 - Melt the dark chocolate and the remaining 50g butter together in short bursts in themicrowaveuntil glossy, or in a heatproof bowl set over a pan of simmering water, ensuring the bowl doesn’t touch the water. Melt the milk chocolate in a separate bowl. Pour the dark chocolate over the set caramel layer then drizzle over the milk chocolate and swirl with a skewer. Put in the fridge to set. Slice into 16 squares and put in a gift box lined with baking parchment.Will keep in an airtight container for three days.
@@ -615,7 +615,7 @@
 - 25gunsalted butter
 - 100gdark chocolate, finely chopped or grated
 
-### Method
+### Instructions
 - First, make the filling. Push the chestnut purée through asieveusing the back of a spoon into a bowl or the bowl of a stand mixer. Pour in the cream and vanilla, then sift in the icing sugar. Add the brandy or liqueur and beat using an electric whisk or in thestand mixerfor a few minutes until the mixture creates soft peaks. Chill until needed.
 - Sift the flour and a pinch of salt into a bowl and set aside. Warm the butter and 225ml water in a saucepan over a low heat until the butter has melted and the mixture is simmering. Stir in the seasoned flour and beat using a wooden spoon until everything has come together into a smooth dough that pulls away from the side of the pan. Spread the mixture out over a plate to quickly cool until just warm. Heat the oven to 200C/180C fan/ gas 6 and line two baking sheets with baking parchment.
 - When the dough has cooled slightly, scrape it into a bowl and beat in the eggs one at a time using a wooden spoon or electric whisk. You may not need all the eggs to achieve the right consistency – the dough should be smooth, silky and slowly fall off the spoon in a ‘V’ shape. Spoon the dough into apiping bagand snip off the end so you have a 1cm opening, or simply use the spoon to scoop the pastry if you don’t have a piping bag.
@@ -661,7 +661,7 @@
 - 20gparsley
 - 500gsausagemeat
 
-### Method
+### Instructions
 - Heat the oil in anon-stick frying panover a medium-high heat and fry the onions with a large pinch of salt until sizzling and starting to colour. Turn the heat down to medium and pour in enough water so the onions are covered. Simmer gently for 30-35 mins until the water has evaporated. Top up with a little water to prevent any burning, if needed. Spread out on a plate and leave to cool completely.Will keep chilled for up to two days
 - Put the bay, peppercorns and sourdough in amini food processor. Blitz until finely chopped and tip into a bowl along with the cooled onions, clementine zest and parsley. Mix to combine. Tip into a large bowl and add the sausagemeat, squashing the mixture together until well combined. Divide into 30 balls and arrange on a baking tray.Will keep chilled for 24 hrs.
 - Heat the oven to 200C/180C fan/gas 6 and roast for 25-30 mins, shuffling the pan occasionally, until cooked through and browned.Will keep frozen for up to a month.
@@ -708,7 +708,7 @@
 - 400mlwhite wine or cider vinegar
 - 30fresh curry leaves, torn
 
-### Method
+### Instructions
 - Put all the ingredients, except the curry leaves, into a large preserving pan with 2 tsp sea salt, 1 tsp freshly ground black pepper and 500ml water. Mix well and bring to a simmer. Cook on a medium heat for 1 hr 45 mins-2 hrs, without a lid, until the squash is tender and the mix is significantly reduced and glossy. Add the curry leaves 15 mins before the end of cooking.
 - Spoon the pickle into eightsterilised jarsand tightly seal the lids.Will keep for six months unopened and chilled for six weeks after opening. Best left to mature for at least one week before serving.
 
@@ -764,7 +764,7 @@
 - 75ggruyèreor vegetarian alternative, grated
 - 150gmild cheddar, grated
 
-### Method
+### Instructions
 - Set a large, deep pan over a medium-low heat and warm the oil and butter. When foaming, add the leeks, garlic and thyme along with a generous pinch of salt.
 - Cook for 25-30 mins with the lid on, stirring frequently, until the leeks are completely softened and beginning to caramelise around the edges. Remove the thyme sprigs and discard.
 - Meanwhile, make the sauce. Melt the butter in a pan over a medium heat, then stir in the flour. Cook for 1 min. Pour in the milk in a steady stream, whisking constantly, until you have a thick sauce, about 6-8 mins. When it comes to the boil, remove from the heat and stir in the nutmeg, mustard and both cheeses. Season, then stir in the leeks.
@@ -804,7 +804,7 @@
 - 85gchilli jam
 - 20full-size chipolatas
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Line a largebaking traywith foil for easier clean-up later. Line the tray with the rashers of bacon, slightly spaced apart.
 - Using a pastry brush, coat the bacon in the chilli jam, saving some to glaze with at the end. One by one, put a chipolata at the end of a bacon rasher and tightly roll.
 - Brush the remaining chilli jam over the top of the pigs in the blankets and bake in the oven for 30 mins. Remove from the oven and glaze with a little more chilli jam for a glossy finish.Will keep for 24 hrs.
@@ -845,7 +845,7 @@
 - 4 tbspvegetable oil, for the tin
 - 2 tbsppanko breadcrumbs
 
-### Method
+### Instructions
 - Tip the flour into a bowl andwhiskin the eggs until smooth. Gradually pour in the milk and carry on beating until there are no lumps left. Whisk in half the thyme and season well. Or if you prefer, blitz the ingredients together in ablenderuntil smooth.Will keep chilled for up to 24 hrs.
 - Heat the oven to 220C/200C fan/gas 7. Drizzle the oil between the holes of a 12-hole muffin tray and heat in the oven for 5 mins until very hot. Working quickly, carefully pour the batter evenly into each hole, then scatter with the rest of the thyme and the breadcrumbs. Return the tray to the oven. Bake undisturbed for 15-20 mins until puffed up and golden.Will keep covered and frozen for up to a month.
 
@@ -890,7 +890,7 @@
 - nutmeg, freshly grated
 - 8sage leaves
 
-### Method
+### Instructions
 - Melt the butter in a pan, add the onion and a pinch of salt. Cook over a low heat for 15-20 mins, stirring, until the onion is golden. Scoop half the onions out and set aside.
 - Add the milk, cloves, peppercorns, bay and thyme, and simmer for 20 mins. Strain and return the milk to the pan. Add the breadcrumbs and simmer for 3-4 mins. Stir in the cream, nutmeg and some seasoning.Will keep chilled for up to three days, or frozen for up to a month.
 - Reheat the onions in a pan and sprinkle over the sauce, then heat a knob of butter and fry the sage for 1-2 mins. Scatter over and serve.
@@ -935,7 +935,7 @@
 - 50gparmesan, grated
 - smoked salmon, capers and lemon wedges, to serve (optional)
 
-### Method
+### Instructions
 - Line a baking sheet with baking parchment.Roll out the puff pastryon a lightly floured surface to a rectangle roughly the thickness of a 50p coin. Brush the surface with a thin coating of beaten egg. Mix the onion flakes, seeds and flaky sea salt, then scatter over the pastry, pressing gently to help them stick. Dust with a little flour to dry out any sticky areas.
 - Flip the pastry onto a floured sheet of baking parchment so the seedy topping is now underneath. Spread over the soft cheese, then scatter with the parmesan. Season with a little black pepper. Fold the pastry in half, like closing a book. Lightly roll the pastry just to help the two sides stick.
 - Use a sharp knife orpizza cutterto cut the pastry into long strips. Twist each strip a few times to make the classic cheese straw shape and lay on the baking tray, pressing the ends onto the tray to prevent them from unravelling in the oven. Chill for at least 20 mins.Will keep frozen for two months.
@@ -985,7 +985,7 @@
 - 1 tsplemon juice
 - 3food colourings(we used red, yellow and orange)
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Line two or threebaking trayswith baking parchment. Put the butter and sugar in a bowl and beat using a wooden spoon until smooth and creamy. Add the cardamom and egg and mix well. Next, add the flour and bring it all together into a soft dough. Cover and leave to rest in the fridge for 30-40 mins.
 - Roll the doughinto a thin sheet, roughly 3mm, then cut out eight circles using a 10cm round biscuit cutter. Arrange on the prepared baking sheets and bake for 10-14 mins, until very lightly golden. Leave to cool completely.
 - Meanwhile, make the icing. Whisk the egg whites until they form soft peaks. Sift in the icing sugar and add the lemon juice, then beat until smooth. Divide into four portions and add a different food colouring to each of three, leaving one white. Put into separatepiping bagsand cut a tiny hole at the ends. Pipe colourful rangoli designs on the biscuits and leave to set. Will keep in an airtight container for up to three days.
@@ -1026,7 +1026,7 @@
 - 175ggolden caster sugar
 - 1 tbspicing sugarand vanilla ice cream, to serve
 
-### Method
+### Instructions
 - Heat a dry frying pan over a medium heat and tip in the hazelnuts. Toast, shaking the pan from time to time, until golden and fragrant. Transfer to a plate to cool completely, then tip into afood processorand blitz until finely chopped, like breadcrumbs.
 - Oil and line the base and sides of a 23cm springform cake tin. Tip the chocolate into a heatproof bowl and set over a pan of simmering water, making sure the base of the bowl doesn’t touch the water. Melt the chocolate, giving it a stir every now and then. Alternatively, melt in short blasts in themicrowave. Once fully melted, remove from the heat and slowly pour in the olive oil, whisking constantlyuntil smooth and glossy.
 - Beat the egg yolks and 50g of the caster sugar in another bowl until pale and thickened, around 5 mins. Gently fold the whisked yolk mixture into the chocolate mixture along with the chopped hazelnuts and a pinch of sea salt. (The ingredients don’t need to be fully combined yet.) Set aside.
@@ -1088,7 +1088,7 @@
 - freshly grated nutmeg
 - 150gcheddar, grated
 
-### Method
+### Instructions
 - Pat the ox cheek dry with a clean tea towel or kitchen paper, then season well. Heat 1 tbsp of the oil in a large pan over a medium heat and brown the ox cheek all over, around 6-8 mins. Remove from the pan, leaving any oil behind.
 - Drizzle the remaining oil into the pan and turn the heat down to medium-low. Tip the carrots, onion and celery into the pan, stir and cook for 10-12 mins until softened but not golden. Stir in the garlic, cook for 1 min, then tip in the flour and tomato purée and cook for 1 min. Pour in the wine, cook for a few minutes to evaporate the alcohol, then add the stock, Worcestershire sauce, thyme and bay leaf. Put the ox cheek back into the pan, then cover and simmer for 3 hrs until tender. (You could also transfer everything to aslow cookerat this point and cook for 5 hrs on high or 7 hrs on low.)
 - About 30 mins before the ox cheek has finished cooking, bring a large pan of salted water to the boil and cook the potatoes for 15-20 mins until tender. Drain and leave in thecolanderfor around 10 mins to steam-dry a little. If you’re not freezing this dish ahead, heat the oven to 180C/160C fan/gas 4. Mash the potatoes well, or press through a ricer to ensure they are finely mashed. With the mashed potato back in the pan, pour in the milk, add the butter, grate in a little nutmeg and stir until the butter has melted in the residual heat.
@@ -1141,7 +1141,7 @@
 - handful ofparsley, finely chopped
 - jacket potatoes, rice or couscous, to serve
 
-### Method
+### Instructions
 - Put the squeezed orange halves into theslow cookerand add the cinnamon, onions and garlic to cover the base of the slow cooker. Season the beef all over, rub in the cumin and cinnamon and put in the slow cooker. Scatter over the saffron and bay, then pour over the hot stock, soy, vinegar, honey and orange zest and juice. Cover with the lid and cook on high for 4 hrs.
 - Remove the lid and stir in the sugar and cranberries. Cook for a further 2-3 hrs on high, covered, until the beef is tender. Transfer the beef to a plate, then using two forks, shred apart, removing any fatty bits. Meanwhile, pour the liquid into a wide pan and place over a high heat. Simmer for 15-20 mins until reduced by a third, then season to taste. Remove the cinnamon sticks and bay leaves and discard. The oranges should have broken down into little pieces, but you can remove if you prefer. Pour the sauce over the beef and toss together. Serve on a platter sprinkled with the chopped parsley. Serve with jacket potatoes, rice or couscous.
 
@@ -1187,7 +1187,7 @@
 - 50gsoft dried apple rings, roughly chopped
 - 50graisinsor dried cranberries
 
-### Method
+### Instructions
 - Heat the oven to 160C/140C fan/gas 3 and line a large baking tray with baking parchment. Roughly chop the nuts, leaving plenty of chunky pieces. Crack open the cardamom pods and lightly grind the seeds using apestle and mortarto release their aroma.
 - Mix the oil, maple syrup, honey, ginger syrup and vanilla in a large bowl. Add the chopped stem ginger, oats, seeds, cinnamon, chopped nuts, cardamom and ½ tsp sea salt. Mix everything together until well coated in the syrup mixture.
 - Tip onto the baking tray and spread out evenly. Bake for 20 mins, then stir and return to the oven for a further 10 mins. For chunky granola, leave to cool without stirring, then break up into pieces. If you prefer a finer texture, stir from time to time as the granola cools. Mix in the dried fruit.Will keep in an airtight container for up to a month.
@@ -1233,7 +1233,7 @@
 - 1 tspground allspice
 - 2 tspground cumin
 
-### Method
+### Instructions
 - If you’d like to create a smoky flavour for your hot sauce and you have good ventilation at home, turn on your extraction fan and heat a dry frying pan over a medium-high heat. Once very hot, tip in the shallots and the chillies. Shuffle the pan occasionally, cooking until lightly charred all over, 6-8 mins. Set aside on a plate to cool and reserve the pan (don’t wash it).
 - Tip the remaining ingredients into ablenderand add the cooled charred chillies and shallots. Blend until smooth, then pour the mixture back into the frying pan.
 - Bring to a gentle simmer and leave to cook for 15-20 mins, until the flavours have infused. Season with 1 tsp salt and ½ tsp finely ground black pepper, adding more of each if you like. Pour in 100-150ml boiling water from the kettle to create your preferred consistency. Leave until completely cool before pouring into sterilised bottles (see tip, below).Will keep in a cool, dark place for three months. Once opened, store in the fridge for up to a month.
@@ -1280,7 +1280,7 @@
 - 200mlsweetened condensed milk, plus 2 tbsp
 - 300mldouble cream
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Oil a 23cm springform cake tin that’s at least 6cm deep and line the base with baking parchment. Put the egg whites in a large bowl with a pinch of salt, and beat using an electric whisk until foamy, about 3 mins. Slowly add 150g of the sugar, a spoonful at a time, whisking continuously until thick and glossy.
 - Mix the egg yolks, remaining sugar and vanilla together in a second bowl for 2 mins, or until pale and foamy. Add the flour, baking powder, spices and milk, then fold together using aspatula.
 - Add a large spoonful of the whipped egg whites to the cake batter, beat to loosen, then fold through the remaining egg whites using a large metal spoon (don’t over-mix, or you’ll knock out the air) until smooth. Pour this into the tin, smooth the surface and bake for 40-45 mins until a skewer inserted into the centre comes out clean. Combine the evaporated and condensed milks with 50ml of the double cream.
@@ -1322,7 +1322,7 @@
 - 250gfresh or frozen cranberries
 - 2 balls ofstem ginger, chopped, plus 1 tbsp syrup from the jar
 
-### Method
+### Instructions
 - Tip the sugar and orange juice into a pan on a medium heat and bring to the boil. Stir in the cranberries, ginger and syrup, and simmer until the cranberries are tender but still holding their shape – about 5 mins for frozen, 8-10 mins for fresh.Will keep chilled for up to three days or frozen for up to a month.
 
 
@@ -1360,7 +1360,7 @@
 - 50gparmesanor vegetarian hard cheese, finely grated
 - truffle oil, to taste
 
-### Method
+### Instructions
 - Bring a large pan of salted water to the boil and cook the potatoes for 6-8 mins until the outsides are starting to soften. Drain well, then leave to steam-dry for a few minutes.Will keep covered and chilled for up to two days.Return the potatoes to the pan, add the flour, put the lid on and shake well to coat the potatoes and fluff them up.
 - Meanwhile, heat the oven to 200C/180C fan/gas 6. Pour the oil into a deeproasting tinand put in the oven to heat for 5 mins. Take out of the oven and carefully spoon the potatoes into the hot oil, then baste in the oil so they’re well coated. Spread them out to a single layer and put in the oven to roast for 20 mins. Turn and baste again, roast for another 20 mins, then repeat and roast for a final 15-20 mins or until golden and crisp. Scatter over all but a couple of tablespoonfuls of the parmesan, then put back in the oven for 2 mins so the cheese melts.
 - Remove the potatoes from the tin, leaving as much oil behind as possible, and pile onto a platter or on a serving dish. Scatter over the remaining parmesan, give the platter or bowl a shake, then drizzle over a little truffle oil (we used ½ tsp, but use as much as you like).
@@ -1430,7 +1430,7 @@
 - ¼ tspground cinnamon
 - ¼ tspground ginger
 
-### Method
+### Instructions
 - If you have time, prepare the dough the day before you want to bake – this will help develop the flavour. Warm the milk in a pan over a medium heat until just steaming (don’t let it boil), about 5 mins. Remove from the heat and add the treacle and butter, swirling the pan for 1-2 mins until the butter has melted and the milk has cooled slightly (it should be just warm).
 - Tip the flour and spices into a large bowl, or the bowl of astand mixer. Add the yeast and 2 tbsp sugar to one side of the bowl, and ½ tsp salt to the other. Whisk together, then pour in the warm milk mixture. Mix using a wooden spoon or dough hook attachment until you have a soft dough (it should be a little sticky). Tip onto a lightly floured surface and knead by hand for 8-10 mins, or using the mixer for about 5 mins. Add another 1 tbsp flour if the dough is very sticky. It should feel stretchy and soft – you should be able to pull it without it breaking straightaway, which indicates the gluten has been developed. Lightly oil a bowl, tip in the dough, cover and leave to prove at room temperature for 2-3 hrs, or until doubled in size. Chill overnight if you can. (If the dough is being chilled, take it out of the fridge 30 mins before using.
 - For the spiced butter, combine the butter, sugar, vanilla, spices and a pinch of salt until smooth, then stir in the stem ginger. Tip the dough out onto a lightly floured surface, shape into a rough rectangle, thenroll outto about 50 x 40cm. Spread the spiced butter over in an even layer all the way to the edges.

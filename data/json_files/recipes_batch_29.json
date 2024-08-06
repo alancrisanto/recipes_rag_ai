@@ -20,7 +20,7 @@
       "protein": "7g",
       "salt": "0.1g"
     },
-    "instructions": [
+    "ingredients": [
       "rapeseed oil,for the tin",
       "100gcrunchy peanut butter",
       "2 tbspmaple syrup",
@@ -29,7 +29,7 @@
       "25graisins",
       "50gpumpkin seeds"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 180C/160C fan/gas 4 and generously oil a 22cm non-stick square brownie tin. Beat the peanut butter, maple syrup and egg whites together using a fork until well combined. Stir in the oats, raisins and pumpkin seeds to make a sticky dough.",
       "Press the dough into the tin in a thin, even layer, then bake for 15-18 mins until golden and firm. Cut into 12 rectangles, then tip out onto awire rackand leave to cool completely.Will keep in an airtight container for up to a week."
     ]
@@ -55,7 +55,7 @@
       "protein": "20g",
       "salt": "0.9g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tbspvegetable oil",
       "400mlcoconut milk",
       "4boneless chicken thighs(about 250g), cut into chunks or sliced",
@@ -91,7 +91,7 @@
       "½ tbsppaprika",
       "1 tspshrimp paste(optional)"
     ],
-    "methods": [
+    "instructions": [
       "Blend all the curry paste ingredients together in afood processorwith 2 tbsp water and ¼ tsp salt until smooth.",
       "Heat the vegetable oil in a mediumsaucepanover a medium heat and fry the curry paste for 2-3 mins until fragrant. Spoon in 3 tbsp of the coconut milk and tip in the chicken. Cook, stirring, until the chicken has browned but is not completely cooked. Stir in the rest of the coconut milk, the courgette, aubergine and bamboo shoots. Bring to the boil and simmer for 15 mins. Stir in the sugar, fish sauce, oyster sauce and lemon juice. Serve with fluffy jasmine rice and scatter over the coriander leaves and sliced red chilli."
     ]
@@ -117,7 +117,7 @@
       "protein": "36g",
       "salt": "2.3g"
     },
-    "instructions": [
+    "ingredients": [
       "1 tbsprapeseed oil",
       "2 largeonions(320g), halved or quartered, then sliced",
       "3 largegarlic cloves, finely grated",
@@ -130,7 +130,7 @@
       "200gfrozen peas",
       "4jacket potatoes, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in a large non-stick pan over a medium-low heat and fry the onions for 10 mins, stirring occasionally until golden. Stir in the garlic, then add the mince and cook, breaking it up with a wooden spoon as you do, for a few minutes more until browned.",
       "Add the passata, carrots, thyme, bouillon powder and pepper, then cover and cook over a low heat for 25-30 mins, stirring occasionally until the meat is cooked and veg is tender. Add a splash of water to loosen, if you like, then stir in the peas and cook for 5-7 mins more until tender. Serve hot over jacket potatoes.Once completely cool, the mince sauce will keep frozen for up to three months. Defrost in the fridge overnight and reheat until piping hot."
     ]
@@ -156,7 +156,7 @@
       "protein": "3g",
       "salt": "0.4g"
     },
-    "instructions": [
+    "ingredients": [
       "100gsalted butter, plus extra for the tin",
       "225gplain flour",
       "1½ tspbaking powder",
@@ -188,7 +188,7 @@
       "½ tspground cardamom",
       "1 tspespresso powder"
     ],
-    "methods": [
+    "instructions": [
       "Butter a 20cm square cake tin and line with baking parchment. For the streusel, mix the flour, espresso, sugar and cardamom in a bowl. Rub in the butter until the mixture resembles coarse breadcrumbs, then press bits together – you want a mixture of large and small crumbs. Chill until needed. Combine the filling ingredients and set aside.",
       "Heat the oven to 180C/160C fan/gas 4. For the cake, mix the flour, baking powder, espresso and cardamom together in a bowl and set aside. Beat the butter and both sugars together in a separate bowl using an electric whisk until creamy, about 4-5 mins. Add the eggs one at a time, beating well after each addition, then beat in the soured cream and vanilla until smooth. Fold in the flour mixture. Spoon half the batter into the tin, then sprinkle over the filling. Dollop over spoonfuls of the cake batter and smooth out. Sprinkle over the streusel and bake for 35-40 mins until a skewer inserted into the centre comes out clean. Cool in the tin for 20 mins, then remove to awire rackto cool completely. Cut into squares.Will keep in an airtight container for up to five days."
     ]
@@ -214,7 +214,7 @@
       "protein": "4g",
       "salt": "0.2g"
     },
-    "instructions": [
+    "ingredients": [
       "500gfrozen mixed berries(we used blackberries, strawberries and raspberries)",
       "1 tbspcornflour",
       "2 tbsplight brown soft sugar",
@@ -224,7 +224,7 @@
       "1 tbspdemerara sugar",
       "custardor clotted cream, to serve (optional)"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 180C/160C fan/gas 4. Toss the berries, cornflour and brown sugar together in a large bowl (if you’re using very tart berries, you can add a little more sugar, if you like). Tip into a pie or baking dish (ours was 22 x 22cm).",
       "Put the flour and a pinch of salt in a large bowl, and rub in the butter until the mixture resembles coarse breadcrumbs. Stir in the oats. Scatter the crumble mixture over the berries, then sprinkle over the demerara and bake for 55 mins-1 hr, or until the crumble is lightly golden and the fruit is bubbling at the edges. Serve warm with custard or clotted cream, if you like."
     ]
@@ -250,7 +250,7 @@
       "protein": "13g",
       "salt": "0.7g"
     },
-    "instructions": [
+    "ingredients": [
       "1 tbspolive oil",
       "1onion, finely chopped",
       "1garlic clove, finely chopped or grated",
@@ -272,7 +272,7 @@
       "50gwalnuts, chopped",
       "few thyme sprigs, leaves picked"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 200C/180C fan/gas 6. Heat the oil in a large frying pan over a medium-low heat and fry the onion until softened but not coloured, about 10-12 mins. Stir in the garlic and cook for 1 min more before tipping in the squash. Cook for 8-10 mins until the squash has started to soften, then stir in the tomatoes, mascarpone and spinach. Season well and cook for a few minutes more to warm everything through, then tip into a medium baking dish (ours was 22 x 22cm).",
       "For the crumble, rub the flour and butter together or blitz in afood processorto a breadcrumb-like consistency. Stir in the cheese, walnuts and thyme, and season. Scatter the crumble over the squash filling, being careful not to pack it down. Bake for 30-40 mins until the squash is tender and the crumble is golden."
     ]
@@ -298,7 +298,7 @@
       "protein": "17g",
       "salt": "1.3g"
     },
-    "instructions": [
+    "ingredients": [
       "3garlic cloves, crushed or grated",
       "thumb-sized piece ofginger, peeled and finely grated",
       "2shallots, roughly chopped",
@@ -324,7 +324,7 @@
       "75gbutter",
       "2 tbspharissa"
     ],
-    "methods": [
+    "instructions": [
       "First, make the aubergines. Heat the oven to 180C/160C fan/gas 4.Slicethe aubergines in half lengthways and score the flesh crosswise, being careful not to cut all the way through. Combine the oil and cumin in a small bowl and season well. Brush this over the aubergines. Roast for 45 mins or until soft. Remove to a platter.",
       "Melt the butter in a small pan and fry the harissa with a pinch of salt for a few minutes. Drizzle this over the cooked aubergines.",
       "Meanwhile, put the garlic, ginger, shallots, parsley, half the mint, the cumin, coriander, cinnamon, tomato purée and 1 tsp each salt and freshly ground black pepper in afood processor. Blitz until everything is finely chopped, about 30 seconds.",
@@ -354,7 +354,7 @@
       "protein": "9g",
       "salt": "0.3g"
     },
-    "instructions": [
+    "ingredients": [
       "4eggs, separated",
       "15gcoconut oilor unsalted butter, melted",
       "1 tspvanilla extract",
@@ -373,7 +373,7 @@
       "1 tspcacao powder, sifted, plus extra to serve",
       "1 tspxylitol"
     ],
-    "methods": [
+    "instructions": [
       "For the topping, tip the yogurt onto a piece of cheesecloth or muslin, put in asieveset over a bowl and chill for at least 2 hrs, or overnight. Whisk the strained yogurt with the cacao and xylitol, and put it back in the fridge.",
       "Heat the oven to 180C/160C fan/gas 4. Soak a sheet of baking parchment in water, then crumple, wring it out and use it to line a 22cm springform cake tin.Whiskthe egg whites to stiff peaks.",
       "Combine the egg yolks, coconut oil and vanilla in a bowl. Add the almond flour, xylitol, cacao, bicarb, milk and vinegar. Fold the egg whites and baking powder into the mixture, and pour into the tin.",
@@ -401,13 +401,13 @@
       "protein": "2g",
       "salt": "0.09g"
     },
-    "instructions": [
+    "ingredients": [
       "300gegg whites",
       "600gcaster sugar",
       "800gunsalted butter,softened",
       "1 tspvanilla extract"
     ],
-    "methods": [
+    "instructions": [
       "Put the egg whites and caster sugar in a heatproof bowl and place over a pan of barely simmering water, making sure the water doesn’t touch the bottom of the bowl. Gently stir for a few minutes until you can no longer feel any grains of sugar between your fingers when you touch it. Transfer to the bowl of astand mixerfitted with the whisk attachment.",
       "Whisk on medium speed until the mixture becomes meringue-like and has reached stiff peaks, about 3 mins. (You could use an electric whisk, but it will take considerably longer, around 35 mins.) Add the butter 1 tbsp at a time, whisking to combine before the next addition. It may look curdled and soupy but be patient and keep whisking until you have a smooth, fluffy buttercream. Whisk in the vanilla. If using this buttercream to ice a cake, change to the paddle attachment and set it on a low speed for a few minutes – this helps remove air bubbles from the icing and makes for a smoother finish to your cake. If you like, you can also add melted chocolate, freeze-dried fruit powder, malt extract or other flavourings."
     ]
@@ -433,12 +433,12 @@
       "protein": "0.3g",
       "salt": "0.01g"
     },
-    "instructions": [
+    "ingredients": [
       "60gginger, skin left on",
       "400mlfresh apple juice",
       "½lemon,juiced"
     ],
-    "methods": [
+    "instructions": [
       "Chop the ginger into small chunks. Tip into ablenderwith the apple and lemon juice and blitz for a few minutes until very smooth.",
       "Set a very finesieveover a jug. You could also line a regular sieve with a piece of muslin or a clean, thin tea towel. Tip the juice into the sieve and leave it to drain, then press the remaining pulp with the back of a ladle until dry. If you’re using a cloth, twist to squeeze all the juice out. Drink straightaway or decant into a bottle.Will keep chilled for up to four days.Shake well before serving."
     ]
@@ -464,14 +464,14 @@
       "protein": "2g",
       "salt": "0.34g"
     },
-    "instructions": [
+    "ingredients": [
       "1garlic clove",
       "2anchoviesin oil",
       "15gparmesan",
       "5 tbspmayonnaise",
       "1 tbspwhite wine vinegar"
     ],
-    "methods": [
+    "instructions": [
       "Crush the garlic to a paste using apestle and mortar, then mash in the anchovies – you can also do this with the edge of a knife on a chopping board. Spoon into a bowl and finely grate in the parmesan, then stir in the mayonnaise and vinegar. The dressing should be the consistency of yogurt – if it is thicker, stir in a few drops of water to loosen it.Will keep chilled for three hours."
     ]
   },
@@ -496,13 +496,13 @@
       "protein": "0.1g",
       "salt": "0.08g"
     },
-    "instructions": [
+    "ingredients": [
       "100gginger,peeled and very finely sliced",
       "3radishes,thinly sliced (optional to create a pink colour)",
       "80gcaster sugar",
       "75mlrice wine vinegar"
     ],
-    "methods": [
+    "instructions": [
       "Put the ginger in a bowl and add 1 tsp salt, rubbing it all over the ginger. Leave uncovered for 1 hr (this will reduce the fiery heat of the ginger). Rinse off the salt, then pack the ginger and radish slices into asterilised150ml jar that has a rubber seal.",
       "Put the sugar, 100ml water, rice wine vinegar and a generous pinch of salt in a pan and bring to a boil, stirring so that the sugar dissolves. Pour this into the jar with the ginger and radish slices, then leave to cool before putting the lid on. Leave to pickle for at least 8 hrs in the fridge. Remove the radishes from the jar.Will keep chilled for a month.Serve alongside sushi."
     ]
@@ -528,7 +528,7 @@
       "protein": "1g",
       "salt": "0.13g"
     },
-    "instructions": [
+    "ingredients": [
       "150gvegan margarine",
       "75ggolden caster sugar",
       "225gplain flour,plus extra for dusting",
@@ -553,7 +553,7 @@
       "100gicing sugar,sifted",
       "1 tbspcitrus juice(or water), plus 1 tsp"
     ],
-    "methods": [
+    "instructions": [
       "Using an electric whisk, cream together the vegan margarine and sugar until well combined, around 2 mins. Mix in the flour along with 1 tbsp water and your chosen flavourings (rose & pistachio, chocolate or citrus), then bring together into a disc using your hands. Cover and put in the fridge to chill for 30 mins.Will keep chilled for a day.",
       "Line a large baking sheet with baking parchment and heat the oven to 180C/160C fan/gas 4. When ready to roll out, lightly dust a clean work surface with flour.Roll out the biscuitsto around 1cm thick and using a cutter of your choice (we used a 4-5cm round cutter) stamp out 12-16 biscuits. Arrange on the lined baking sheet, well spaced apart, and bake for 12-15 mins until golden. Leave on the baking sheet until cool to touch, then transfer to a wire rack to cool completely.",
       "For the icing, mix together the icing sugar and 1 tbsp and 1 tsp of citrus juice or water. Drizzle over the cooled biscuits and leave to set.Will keep in an airtight container for three days."
@@ -580,14 +580,14 @@
       "protein": "3g",
       "salt": "0.57g"
     },
-    "instructions": [
+    "ingredients": [
       "50gcoriander,roughly chopped",
       "½lemon,juiced",
       "5gginger,finely chopped",
       "½cucumber,roughly chopped",
       "1 tspmaple syrup"
     ],
-    "methods": [
+    "instructions": [
       "Tip the coriander, lemon juice, ginger, cucumber and maple syrup along with 200ml water and a pinch of salt into a high-poweredblender. Blend for 1-2 mins until very smooth, scraping down the sides a few times. Strain through a finesieveif you like and serve over ice."
     ]
   },
@@ -612,7 +612,7 @@
       "protein": "16g",
       "salt": "0.41g"
     },
-    "instructions": [
+    "ingredients": [
       "300gdried penne pasta",
       "3 tbspolive oil",
       "1large aubergine,chopped",
@@ -628,7 +628,7 @@
       "75gmature cheddar,grated",
       "20gpanko breadcrumbs"
     ],
-    "methods": [
+    "instructions": [
       "Cook the pasta following pack instructions, reserving a mugful of the pasta water and draining it 2 mins before the stated time. Heat 2 tbsp of the oil in a deep, non-stick pan over a low-medium heat, then tip in the aubergine. Stir well to coat in the oil, frying until softened and deeply golden all over, around 10-15 mins. Remove to a bowl and pour the remaining oil into the pan. Once hot, tip in the onion with a pinch of salt and fry for 5-7 mins until just softened before stirring in the peppers and courgettes. Cook for a further 15-17 mins until lightly browned then add the garlic. Cook for a couple of minutes until fragrant. Stir in the tomato purée and allow it to caramelise for 5 mins. Pour in the cooked aubergine, tomatoes, basil stems and half of the basil leaves. Bring to a gentle simmer. Leave to bubble away for 20-25 mins, then season to taste.",
       "Heat the oven to 200C/180C fan/gas 6. Mix in the cooked pasta along with a generous splash of the cooking water. Season the mixture well to taste and tip into a baking dish. Combine the cheeses with the panko and a large pinch of black pepper, then scatter this over the pasta.Will keep frozen, well covered, for up to three months. Defrost thoroughly before cooking, or cook from frozen covered in foil for 40 mins, then uncovered for a further 20 mins until piping hot throughout.If cooking straightaway, bake for 15-20 mins until bubbling and golden on top. Scatter over the remaining basil leaves to serve."
     ]
@@ -654,13 +654,13 @@
       "protein": "8g",
       "salt": "0.13g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tbspplain flour",
       "2courgettes,cut into 1cm batons",
       "oil,for deep frying",
       "15gparmesan,grated"
     ],
-    "methods": [
+    "instructions": [
       "Tip the flour into a bowl, drizzle in 2 tbsp water and mix to form a thick batter. Season with plenty of salt and freshly ground black pepper, then mix in the courgettes.",
       "Pour oil into a pan until it is about 4cm deep, ensuring the pan is no more than two thirds full. Set over a medium heat until 180C or a flick of batter dropped in sizzles and turns brown within 30 seconds. Lower half the battered courgettes into the hot oil and fry, turning after 1 min using a slotted spoon, for 5-6 mins until golden. If they begin to stick together, gently coax them apart with tongs. Remove from the hot oil and drain on a plate lined with a sheet of kitchen paper. Repeat with the remaining half, then scatter with the parmesan before serving."
     ]
@@ -686,7 +686,7 @@
       "protein": "40g",
       "salt": "2g"
     },
-    "instructions": [
+    "ingredients": [
       "1 lchicken stock",
       "4salmon fillets",
       "2 tbspolive oil",
@@ -699,7 +699,7 @@
       "½lemon,juiced and zested",
       "50gparmesan,grated, plus extra to serve"
     ],
-    "methods": [
+    "instructions": [
       "Bring the chicken stock to a simmer in asaucepanover a medium heat, add the salmon fillets and poach for 6 mins or until just cooked. Remove from the pan, leaving the stock behind, and set aside to cool for 2-3 mins before removing the skin. Keep on a low heat or remove and leave the lid on to keep the stock as warm as possible.",
       "Heat the oil and half the butter in a large frying pan over a medium-low heat and, once the butter has melted, scatter in the onion and cook for 10-12 mins until softened but not golden. Add the garlic, stir and cook for 1 min before stirring in the rice and cooking for 2 mins until well coated in the oil.",
       "Pour in the wine, turn up the heat to medium, and cook for 4-5 mins until evaporated. Keep the pan on the heat and pour in about a quarter of the reserved chicken stock. Stirring often until the stock has been absorbed by the rice, about 4-5 mins. Repeat three more times, adding the next batch once the previous one has been absorbed. With the final batch, add the peas and flake in the cooked salmon fillets. Season with lots of freshly ground black pepper and cook for 3-4 mins until the rice is tender and the peas and salmon are heated through. If the rice needs a little more cooking or the stock absorbs too quickly, add a splash more hot water.",
@@ -727,7 +727,7 @@
       "protein": "21g",
       "salt": "2.26g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tspsunflower oil",
       "1onion,finely chopped",
       "8pork sausages,cut into bitesize pieces",
@@ -747,7 +747,7 @@
       "75ggrated cheddar",
       "2 tbspchopped chives,to garnish, optional"
     ],
-    "methods": [
+    "instructions": [
       "First, make the mashed potato. Bring a large pan of salted water to the boil over a medium heat, then carefully tip in the chopped potatoes. Cook for 15-20 mins until tender. Drain, then tip back into the pan and leave to air-dry for a couple of minutes before mashing. Tip in the butter and milk, and stir through until combined. Set aside with the lid on to keep warm.",
       "Heat the oven to 200C/180C/gas 6. While the potatoes are cooking, heat the oil in a frying pan orsaucepanover a medium heat and fry the onion for 6-8 mins until softened. Tip in the sausage pieces and fry for 4 mins until browned all over, then add the garlic and cook for 1 min before stirring in the smoked paprika and cooking for 1 min more. Pour in the beans and barbecue sauce and cook until just about to simmer before removing from the heat.",
       "Spoon the sausage and bean mixture into an ovenproof tin or dish (ours was 20x20cm), then spoon over the mashed potato and sprinkle the grated cheddar on top. Bake in the oven for 25-30 mins until bubbling round the edges and the cheese is golden. Remove from the oven and scatter over the chives, if using."
@@ -774,7 +774,7 @@
       "protein": "16g",
       "salt": "1.8g"
     },
-    "instructions": [
+    "ingredients": [
       "200gnew potatoes",
       "125ggreen beans,halved",
       "1shallot,finely chopped",
@@ -786,7 +786,7 @@
       "100gwatercress",
       "100gpeppered hot smoked mackerel,flaked"
     ],
-    "methods": [
+    "instructions": [
       "Cook the potatoes in a pan of boiling salted water for 12-15 mins, or until tender enough to be easily pierced with a sharpknife. Add the green beans for the final 3 mins of cooking time, then drain well and leave to steam-dry for 5 mins. Mix the shallot with the vinegar, oil, mustard, dill and cornichons, season well and set aside.",
       "When the potatoes have cooled slightly, halve them and gently toss with the green beans, dressing, watercress and mackerel. Divide between two plates and drizzle over any remaining dressing to serve."
     ]
@@ -812,7 +812,7 @@
       "protein": "14g",
       "salt": "1.1g"
     },
-    "instructions": [
+    "ingredients": [
       "1 tbspolive oil",
       "1small cauliflower,broken into small florets, stalks and leaves finely chopped",
       "1 tbsptomato purée",
@@ -823,7 +823,7 @@
       "150gdairy-free wholemeal pastaof your choice (such as pappardelle; gluten-free if needed)",
       "small handful of parsley,finely chopped"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in a largefrying panover a medium-high heat and tip in the cauliflower florets, stalks and leaves. Season, cover and fry for 8-10 mins, shaking the pan now and then, until lightly browned and softened. Stir the tomato purée and tomatoes, cover and cook for 5 mins more until the tomatoes have burst. Add the garlic, olives and harissa, and cook for 2-3 mins until fragrant.",
       "Meanwhile, cook the pasta following pack instructions. Drain, reserving a mugful of the water. Stir the pasta and a splash of the water into the tomato mixture. Season, scatter over the parsley and serve."
     ]
@@ -849,7 +849,7 @@
       "protein": "44g",
       "salt": "0.8g"
     },
-    "instructions": [
+    "ingredients": [
       "300gturkey mince",
       "1 tspsumac",
       "1 tspground cumin",
@@ -864,7 +864,7 @@
       "2large pittas,toasted (gluten-free, if needed)",
       "dairy-free natural yogurt,to serve"
     ],
-    "methods": [
+    "instructions": [
       "Tip the mince, sumac, cumin, garlic and lemon zest into a bowl, season and combine using your hands. Form into 10 small balls, about 30g each. Heat the oil in a pan over a medium heat andfrythe balls for 8-10 mins, shaking the pan now and then until browned and cooked.",
       "Combine the cabbage, mint, onion, cucumber and pomegranate seeds with the lemon juice. Season. Stuff the slaw and meatballs into the pittas and serve with the yogurt."
     ]
@@ -890,7 +890,7 @@
       "protein": "11g",
       "salt": "0.3g"
     },
-    "instructions": [
+    "ingredients": [
       "4 tbspfine matzo meal",
       "½ tspground cinnamon",
       "4eggs",
@@ -916,7 +916,7 @@
       "1Earl Grey teabag",
       "Greek yogurtand honey, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Put the compote ingredients in a large heatproof bowl with 1 litre boiling water. Leave for at least 1 hr.",
       "Tip the compote into a mediumsaucepan, bring to the boil over a medium-high heat, then reduce the heat to medium-low and simmer for 15-30 mins until the syrup has thickened and the fruit is tender. Chill the fruit for at least 3 hrs.",
       "Put the matzo meal and cinnamon in a medium bowl with a large pinch of salt. Beat the eggs in a jug and gradually pour into the matzo meal while stirring until combined and lump-free – you may need to use a whisk if there are still lumps remaining. The batter should be thick enough to drop from the spoon. Stir in the banana.",
@@ -945,7 +945,7 @@
       "protein": "3g",
       "salt": "0.2g"
     },
-    "instructions": [
+    "ingredients": [
       "180gground almonds",
       "100gfine matzo meal",
       "2eggs",
@@ -955,7 +955,7 @@
       "90gdark chocolate,roughly chopped into 1cm pieces",
       "80gblanched almonds,roughly chopped"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 150C/130C fan/gas 2. Line two baking sheets with baking parchment. Mix the ground almonds, matzo meal and a large pinch of salt in a large bowl and set aside.",
       "Beat the eggs, oil and sugar for 3-4 mins in astand mixerfitted with the whisk attachment (or using an electric whisk), until pale and airy then whisk in the orange zest. Stir in the ground almond mixture, then the chocolate chunks and blanched almonds.",
       "Halve the dough and, with damp hands if it’s sticky, make two oblong logs, each about 5cm wide. Put them on the baking sheets and bake for 45 mins. Cool on the baking sheets for 10 mins. Reduce the oven to 140C/120C fan/gas 1. Transfer the baked dough to a chopping board and, using a serrated knife, cut each one diagonally into slices that are 1.5-2cm wide.",
@@ -983,7 +983,7 @@
       "protein": "45g",
       "salt": "1.5g"
     },
-    "instructions": [
+    "ingredients": [
       "1½ tbspolive oil,plus extra for the dish",
       "1large butternut squash,peeled (about 1.5kg)",
       "1red onion,thinly sliced",
@@ -995,7 +995,7 @@
       "2eggs",
       "100ggrated cheddar or mozzarella"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 180C/160C fan/gas 4 and lightly oil a 2-litre ovenproof dish. Cut off the neck of the squash, about two thirds from the top, just above the lower third (the round part where the seeds are). Halve the lower part of the squash and scoop out the seeds (save them for another recipe), then slice and set aside. Stand the flat end of the neck of the squash on achopping boardandcarefully slicevertically into long strips that resemble wide lasagne sheets, about 3-5mm thick.",
       "Arrange the squash slices over one or two largebaking trays, drizzle with 1 tbsp olive oil, then season and toss to coat. Roast for 15 mins. Put the onions in a second smaller roasting tin and drizzle with ½ tbsp olive oil, season and toss to coat. Put the onions in the oven and cook everything a further 10-12 mins until softened and caramelised. Remove the onions and squash from the oven and set aside.",
       "Put the spinach in a microwavable bowl andmicrowaveon full for 2 mins, stirring after 1 min, or put in a colander and pour over boiling water to wilt. Press down to remove as much water as possible. Roughly chop the spinach and put in a large bowl with the sundried tomatoes and roasted onions. Season to taste.",
@@ -1025,7 +1025,7 @@
       "protein": "12g",
       "salt": "0.4g"
     },
-    "instructions": [
+    "ingredients": [
       "1kgrhubarb,cut into 2cm pieces",
       "300gfrozen strawberries(or a mixture of berries), defrosted and drained",
       "75-125g smooth strawberry jam",
@@ -1044,7 +1044,7 @@
       "75gflaked almonds",
       "50gpistachios,hazelnuts or almonds, roughly chopped"
     ],
-    "methods": [
+    "instructions": [
       "Cook the rhubarb in a large, deep pan over a medium-low heat for about 15 mins until tender but still holding its shape, and all the liquid has evaporated. If it’s getting too soft, stop cooking. Stir in the strawberries and 75g of the jam – add a little more jam if it tastes particularly tart. Tip into a 2-litre shallow ovenproof dish.",
       "Heat the oven to 190C/170C fan/gas 5. Make the topping by blitzing the butter, sugar, ground almonds and cinnamon together in afood processorwith a pinch of salt until it starts to clump together. Tip into a bowl and stir in the nuts. Scatter the topping over the fruit.",
       "Put the dish on a baking tray and bake for 45 mins until golden and crisp. Let stand for 10 mins before serving with cream, if you like. Can be frozen for up to two months."
@@ -1071,7 +1071,7 @@
       "protein": "23g",
       "salt": "0.4g"
     },
-    "instructions": [
+    "ingredients": [
       "1 tsprapeseed oil",
       "2 tspfinely chopped ginger",
       "1large garlic clove,finely chopped",
@@ -1090,7 +1090,7 @@
       "1 tspwhite miso paste",
       "1 tsphoney"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in a large non-stick pan or deep frying pan with a lid over a medium heat and cook the ginger, garlic and pepper for 2 mins, covered. Stir, then put the salmon on top, cover again and cook for 5 mins until the fish is cooked through.",
       "Meanwhile, mix the dressing ingredients together in a small bowl. Squeeze the pouch of rice to separate the grains, then tip the contents into a small pan with 2 tbsp water. Cover and cook for 2 mins.",
       "Stir the spring onions into the rice mixture along with half the dressing. Spoon into two bowls. Remove the skin from the salmon and flake the fish on top of the rice. Top with the pepper, avocado and cucumber, then drizzle over the remaining dressing and some chilli sauce, if using."
@@ -1117,7 +1117,7 @@
       "protein": "20g",
       "salt": "1.4g"
     },
-    "instructions": [
+    "ingredients": [
       "4 tsprapeseed oil",
       "2onions,halved and thinly sliced (about 280g), scrunched to separate the pieces",
       "1 tbspfinely chopped ginger",
@@ -1130,7 +1130,7 @@
       "30gfeta,crumbled (vegetarian, if necessary)",
       "10gtoasted flaked almonds"
     ],
-    "methods": [
+    "instructions": [
       "Heat 2 tsp of the the oil in a largenon-stick frying panover a medium heat and fry the onions and ginger for 10 mins, stirring frequently until softened and golden. Set aside on a plate.",
       "Meanwhile, tip the bulgur, bouillon and cumin into a pan and cover with 400ml water. Stir well, then bring to the boil, cover and cook over a low heat for 10-15 mins, or until the liquid has completely absorbed. Tip the chickpeas into the pan, then cover and set aside.",
       "Meanwhile, heat the remaining oil in the pan you used to fry the onion over a medium-high heat, and fry the aubergine slices for 8-10 mins, keeping them in a single layer as much as possible. Flip them over halfway through the cooking time. After this time, cover and cook for a few minutes more until soft.",
@@ -1158,11 +1158,11 @@
       "protein": "2g",
       "salt": "0.6g"
     },
-    "instructions": [
+    "ingredients": [
       "260gfine durum wheat flour,plus extra for dusting",
       "1 tbspvegetable oil"
     ],
-    "methods": [
+    "instructions": [
       "Stir together the flour, oil, 1 tsp salt and 180ml water in a bowl until the mixture pulls away from the sides. Turn out the dough onto a well-floured work surface. Knead until smooth and pliable, about 10 mins.",
       "Divide the dough into 12 equal pieces (about 37g each), form into balls and cover with a damp cloth while you roll them out.",
       "Flatten the balls with the palm of your hand, then use arolling pinto make each roti 15-20cm in diameter.",
@@ -1190,7 +1190,7 @@
       "protein": "3g",
       "salt": "0.8g"
     },
-    "instructions": [
+    "ingredients": [
       "3aubergines",
       "120mlvegetable oil",
       "2medium onions,halved and thinly sliced",
@@ -1200,7 +1200,7 @@
       "1 tspgaram masala",
       "roti(see recipe below), to serve"
     ],
-    "methods": [
+    "instructions": [
       "Char the skin of the aubergines over the flame of a gas hob, under the grill or on abarbecue, using flameproof tongs. Put them in a bowl of cold water for 2 mins, then peel off the skin. Cut off the aubergine stems and slice into small pieces. Set aside.",
       "Heat the oil in a medium saucepan over a medium-low heat, then add the onions. Cook until soft and golden brown, about 10 mins. Stir in the garlic and cook for a few seconds. Blitz the tomatoes to a smooth sauce in afood processor, then tip into the pan. Cook for 2 mins, then add 1 tsp salt, the chillies and garam masala. Cook for 2 mins more.",
       "Add the aubergines to the sauce and cook over a low heat for 15 mins, then use a spoon to crush the aubergine to a pulp. Cook for a further 15 mins, adding a little water if it becomes too dry. Serve with roti (see recipe, below)."
@@ -1227,13 +1227,13 @@
       "protein": "9g",
       "salt": "0.6g"
     },
-    "instructions": [
+    "ingredients": [
       "50gdark chocolate",
       "50gmilk chocolate",
       "50gwhite chocolate",
       "Follow remainder of ingredients in the classic hot cross buns recipe below"
     ],
-    "methods": [
+    "instructions": [
       "Make the dough as directed, omitting the dried fruit and mixed peel. Instead, knead in the chopped white, milk and dark chocolate after the first prove, then continue with therecipe as stated."
     ]
   }

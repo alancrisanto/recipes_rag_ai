@@ -32,7 +32,7 @@
 - 50glight brown soft sugar
 - 50mlcider vinegar
 
-### Method
+### Instructions
 - Put the wine in asaucepanover a medium heat. Bring to a simmer and cook for 3 mins. Add the remaining ingredients and bring back to the boil.
 - Reduce the heat to a simmer, cover and cook for 30 mins, then remove the lid and cook for 15 mins.Will keep chilled for three days or frozen for up to a month.
 
@@ -70,7 +70,7 @@
 - 500gcarrots, peeled and roughly chopped
 - 1 mediumswede(around 600g), peeled and roughly chopped
 
-### Method
+### Instructions
 - Heat the butter in a small frying pan over a low heat with the thyme and ½ tsp freshly ground black pepper until the butter begins to foam. Remove from the heat.
 - Bring a large pan of salted water to the boil, tip in the carrots and swede and simmer for 30-40 mins until tender. Mash well. While still hot, stir through the butter and serve.Will keep chilled for up to two days or frozen for up to a month.
 
@@ -126,7 +126,7 @@
 - 2 tbspicing sugar
 - 2 tbspwhite chocolateshavings
 
-### Method
+### Instructions
 - For the filling, put the berries and sugar in asaucepanover a low heat for 5-10 mins until the berries defrost and release their juices. Mix the cornflour with 100ml water to form a smooth paste. Turn the heat up a little, then slowly pour in the cornflour mix, stirring to prevent lumps. Bring to a simmer, stirring for 3-4 mins until thickened. Pour into a bowl and leave to cool.
 - Heat the oven to 180C/160C fan/gas 4. Butter or oil a swiss roll tin (ours was 25cm x 35cm) and line with baking parchment. Beat the egg whites to stiff peaks, then gradually beat in the sugar until glossy and all the sugar is dissolved.
 - Fold in the vanilla, cornflour and vinegar, and spread the mix evenly into the tin. Bake for 12-15 mins until crisp, then remove and leave to cool completely, around 30 mins.
@@ -177,7 +177,7 @@
 - 3 tbsphot sauce
 - 1-2 tspchilli flakes
 
-### Method
+### Instructions
 - Put the gammon and all the other ingredients, except those for the glaze, in your largest, deepest pot. Cover completely with cold water. Bring to the boil, then immediately reduce to a simmer with the lid slightly ajar and cook for 1 hr. Turn off the heat and leave in the liquid for 1 hr with the lid on.
 - Remove the gammon from the stock and set aside to cool a little (keep the stock and freeze it to use as a base for soup). Meanwhile, tip the honey, hot sauce and chilli flakes into a small pan. Put over a medium heat and stir until it is all mixed and gently bubbling. Remove from the heat and set aside.
 - Once the gammon has cooled but still slightly warm, peel away the layer of skin on the top of the gammon joint leaving the fat remaining. Score the fat with asharp knifein a criss-cross pattern. Heat the oven to 200C/180C fan/gas 6 and line a largeroasting tinthat fits the gammon comfortably.
@@ -222,7 +222,7 @@
 - 1 tspsesame oil
 - toasted sesame seeds, to serve
 
-### Method
+### Instructions
 - Stir the honey and the soy together in a small bowl. Set aside.
 - Heat the oil in awokand fry the ginger and garlic for 1 min. Add the shredded sprouts and stir-fry for 1-2 mins until wilted. Pour in the Shaoxing wine, then the honey sauce. Toss everything together. Season, drizzle with the sesame oil, scatter with sesame seeds and serve.
 
@@ -262,7 +262,7 @@
 - 8-10 tbspteriyaki sauce
 - cooked riceor noodles, to serve
 
-### Method
+### Instructions
 - Heat the oil in a pan over a medium heat and fry the tofu for about 8 mins until crisp and golden. Remove from the pan and set aside.
 - In the same pan, add the broccoli florets and white parts of the spring onions and cook for around 4 mins until tender, but not completely cooked through. Stir in the teriyaki sauce and season well.
 - Add the cooked tofu back to the pan with the broccoli and stir well to coat. Cook for an additional 1-2 mins for the flavours to meld together. Sprinkle over the reserved green parts of the spring onions, remove from the heat and serve with cooked rice or noodles.
@@ -306,7 +306,7 @@
 - 7Granny Smith apples, peeled and diced
 - 2thyme sprigs, leaves picked
 
-### Method
+### Instructions
 - Cook the bramley apples, sugar, lemon juice, 100ml of the cider and all the spices in a pan over a medium heat, uncovered, for about 8-10 mins until soft. Remove the star anise.
 - Blendto a purée, then return to the pan. Add the Granny Smith apples and cook over a low heat for 1 hr until soft but still with a bit of a bite.Will keep chilled for three days.To serve, reheat if chilled and stir through the thyme and remaining cider.
 
@@ -358,7 +358,7 @@
 - ½lemon, juiced
 - 1 tbsprapeseed or olive oil
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/ gas 4 and roast the cashews on abaking traywith 1 tsp of the coconut oil and some salt for 8-10 mins until golden. Sprinkle with the chilli and set aside. Whisk all the dressing ingredients together and set aside.
 - Turn the oven up to 200C/180C fan/gas 6. Toss the parsnips in the rest of the coconut oil and salt, and roast on a baking tray for 20-30 mins until browned. Scatter the curry leaves over for the last 5 mins, if using. Toss the parsnips in the dressing and pile onto a platter, scattered with the cashews.
 
@@ -398,7 +398,7 @@
 - 2 tsplemon juice
 - 1egg white
 
-### Method
+### Instructions
 - Put all the ingredients in acocktail shakerand shake hard until it feels cold. Strain into two short tumblers.
 
 
@@ -439,7 +439,7 @@
 - 12 tsp(about 75g) strawberry jam
 - granulated sugar, to serve
 
-### Method
+### Instructions
 - Whiskthe eggs and milk together in a jug or bowl until smooth. In a separate large bowl, combine the flour, baking powder and a pinch of salt.
 - Pour the egg mixture into the flour mixture and stir until combined. Stir in the caster sugar. Pour in the melted butter and stir until combined. Set aside for 30 mins to rest if you have time, or start cooking straightaway.
 - Melt a generous knob of butter in a large non-stick frying pan over a medium heat. When it’s frothy, add a ladle of batter. Cook for 30 seconds, then spoon 2 tsp jam onto the middle of the pancake, spreading it slightly (using two spoons will help). Ladle over enough batter to cover the jam.
@@ -496,7 +496,7 @@
 - 75mlmilk
 - 1 tspvanilla extract
 
-### Method
+### Instructions
 - Butter two 20cm loose-bottomed round cake tins and line with baking parchment. Heat the oven to 180C/160C fan/gas 4. Beat the butter and sugar together in a large bowl using an electric whisk until light and fluffy, about 2 mins.
 - Mix the yogurt, oil, vanilla and eggs together in a jug. Add the flour and wet ingredients to the butter mixture, along with a pinch of salt. Mix everything for 1-2 mins until smooth and creamy.
 - Divide the batter between the tins and level the surfaces with a spatula. Bake for 25 mins, or until a skewer inserted into the centres comes out clean. If there is any wet mixture, return the sponges to the oven for another 5 mins, then check again. Leave to cool in the tins for 15 mins, then turn out onto a wire rack to cool completely.Once cooled, the sponges will keep in an airtight tin for five days or wrapped well and frozen for three months.
@@ -572,7 +572,7 @@
 - 8rosemary sprigs
 - 50gcranberries
 
-### Method
+### Instructions
 - Butter two 20cm loose-bottomed roundcake tinsand line with baking parchment. Heat the oven to 180C/160C fan/gas 4. Beat the butter and sugar together in a large bowl using an electric whisk until light and fluffy, about 2 mins.
 - Mix the yogurt, oil, vanilla and eggs together in a jug. Add the flour and wet ingredients to the butter mixture, along with a pinch of salt. Mix everything for 1-2 mins until smooth and creamy.
 - Divide the batter between the tins and level the surfaces with a spatula. Bake for 25 mins, or until a skewer inserted into the centres comes out clean. If there is any wet mixture, return the sponges to the oven for another 5 mins, then check again. Leave to cool in the tins for 15 mins, then turn out onto awire rackto cool completely.Once cooled, the sponges will keep in an airtight tin for five days or wrapped well and frozen for three months.
@@ -618,7 +618,7 @@
 - 75mlred wine vinegar
 - large knob ofbutter
 
-### Method
+### Instructions
 - Heat theslow cookerto low. Tip in the cabbage, then scatter in the mixed spice, sugar and some salt and pepper. Pour in the vinegar, stir well, then dot over the butter. Put the lid on and cook for 3 hrs 30 mins until starting to soften
 - Remove the lid and cook for another 30 mins until the cabbage is very tender and sticky, and the liquid has reduced. Taste for seasoning and serve.Once cool, will keep covered and chilled for up to three days, or frozen for up to two months. Reheat in the slow cooker or a pan over a medium heat until piping hot.
 
@@ -657,7 +657,7 @@
 - large pinch ofground cloves
 - 2stale croissants, roughly sliced (about 80g)
 
-### Method
+### Instructions
 - Melt the butter in a pan over a low-medium heat, then stir in the onion and cook, covered, for 10 mins until softened but not coloured. Add the milk and ground cloves. Simmer gently, uncovered, for 15 mins, stirring occasionally. Add the croissant pieces and stir to help them absorb all the liquid.
 - Tip everything into afood processorand blitz until smooth.Will keep covered and chilled for two days.Tip the sauce into a pan and simmer over a low-medium heat until thickened and heated through – add a splash of milk to loosen, if needed. Season and serve hot alongside the turkey and trimmings with a knob of butter on top, if you like, and a grinding of black pepper.
 
@@ -696,7 +696,7 @@
 - 2 tbspmaple syrup
 - 1 tbspwholegrain mustard
 
-### Method
+### Instructions
 - Lightly oil a largebaking tray. Stretch the bacon out by putting the rashers on a chopping board and running the back of a knife along the length of each. Cut each rasher in half to make 24 shorter rashers, and wrap one around each sausage. Arrange the pigs in blankets in a single layer on the baking tray.Will keep covered and chilled for two days.
 - Heat the oven to 200C/180C fan/ gas 6, then mix the maple syrup and mustard together in a small bowl. Roast the pigs in blankets for 20 mins, then turn and brush all over with the maple-mustard mixture. Return to the oven for 10 mins until sticky, then serve.
 
@@ -737,7 +737,7 @@
 - 2 tspground ginger
 - 250groyal icing sugar
 
-### Method
+### Instructions
 - Melt the butter, muscovado sugar and golden syrup together in a pan over a low heat, stirring until the sugar has dissolved completely.
 - Siftthe flour, bicarb, ginger and a pinch of salt into a large bowl. Pour the wet ingredients into the dry, then mix using a wooden spoon until it forms a stiff dough. Leave the dough to cool slightly so it’s easier to handle.
 - Heat the oven to 180C/160C fan/gas 4.Roll the dough outon a lightly floured surface to a ½cm thickness. Using our templates (download the PDF here), cut out parts A-C from the dough – for each house, you need two of each. Continue to re-roll and cut the dough until you have enough pieces to make eight houses. Using a knife, cut out a small central door on the bottom of each C piece – not too big, as these will be used to fit the houses on the rim of a mug.
@@ -781,7 +781,7 @@
 - 1 glass ofred wine
 - 850mlbeef stock
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7. Tip the chopped carrots into an ovenproof frying pan orroasting tin, and toss with the oil. Roast for 30 mins until starting to brown, then add the garlic and roast for a further 20 mins until they have softened completely.
 - Put the pan on the hob over a medium heat (or tip into a saucepan first, if you haven’t used an ovenproof pan). Scatter in the flour and stir it in, then cook undisturbed for a few minutes until lightly browned. Pour in the wine and bubble for 5 mins until you have a paste. Pour in the stock and simmer for 15 mins until slightly thickened, then leave to cool a little.
 - Blitz using ahand blenderor jug blender, thensieveinto a jug.Will keep chilled for up to three days or frozen, in a freezerproof container, for a month. Defrost in the fridge overnight before using.Pour the gravy base into the pan you’ve used for roasting, and stir in the meat juices and roasted onions. Bring to a simmer, then strain into a gravy boat or jug to serve.
@@ -824,7 +824,7 @@
 - ¾ tspbicarbonate of soda
 - 250gorange & brandy mincemeat(see 'goes well with', below), or use shop-bought (vegetarian, if needed)
 
-### Method
+### Instructions
 - Beat the butter and both sugars together in astand mixeruntil soft and combined, or using an electric whisk until light and fluffy, about 5 mins. Crack in the eggs, one at a time, beating well after each addition. Mix in the vanilla, flour and bicarb until no pockets of flour remain. Chill the dough for at least 30 mins, or up to 24 hrs so the flour can absorb the liquid.
 - Line two largebaking trayswith baking parchment. Divide the dough into 50g balls, and flatten out in the palm of your hand. Add 2 tsp of the mincemeat to the centre of each one, and fold in the corners of the dough to enclose the mincemeat. Carefully roll back up into a ball and arrange on the baking trays, well spaced apart. Chill for at least 1 hr before baking to firm up.Will keep chilled for up to three days, or frozen for up to three months.
 - Heat the oven to 180C/160C fan/gas 4 and bake for 12-14 mins, swapping the trays over halfway to ensure even browning, until the edges are golden and set, and the middle is still gooey. Leave to cool completely on the trays.Will keep in an airtight container for up to five days.
@@ -874,7 +874,7 @@
 - ½ tspground mixed spice
 - 50gorange & brandy mincemeat(see 'goes well with' below), or use shop-bought (vegetarian, if needed)
 
-### Method
+### Instructions
 - Arrange the croissants on a sheet of baking parchment and fold the parchment over so the croissants are covered. Roll them out a few times using a rolling pin so they are completely flattened. Melt the butter in a frying pan over a medium heat and, once foaming, fry the croissants for 2-3 mins on each side until browned. Transfer to a plate and drizzle the honey over one side, then scatter over the sugar. Return to the frying pan and fry, honey-side down, for another 5 mins until caramelised and crisp.
 - Meanwhile, tip the mascarpone, icing sugar, vanilla and mixed spice into a bowl, andwhiskwell to loosen. Add the mincemeat and swirl through using a skewer or cutlery knife. Spread this over one of the croissants, sandwich the other on top, press down lightly, cut in half and divide between two plates. Best served straightaway.
 
@@ -923,7 +923,7 @@
 - 4 largeeggs
 - 1 tspvanilla extract
 
-### Method
+### Instructions
 - Put 1kg mixed dried fruit, the zest and juice of 1 orange and 1 lemon, 150ml brandy or other alcohol, 250g softened butter and 200g light, soft brown sugar in a largepanset over a medium heat.
 - Bring to the boil, then lower the heat and simmer for 5 mins. Tip the fruit mixture into a largebowland leave to cool for 30 mins.
 - Heat oven to 150C/130C fan/gas 2. Line a deep 20cm cake tin with a double layer ofbaking parchment, then wrap a double layer of newspaper around the outside – tie with string to secure.
@@ -972,7 +972,7 @@
 - 2 tbspteriyaki sauce
 - 300gstraight-to-wok noodles
 
-### Method
+### Instructions
 - Heat the oven to 190C/170C fan/gas 5 or preheat the air fryer to 180C for 4 mins. Line a baking tray with parchment for the oven method. Place the salmon, skin-side down, in the oven or the air fryer for both methods. Mix together the chilli, mirin, soy, ginger, and coriander, and spoon this mixture over the salmon. For the oven method, roast the salmon in the oven for 12-15 mins until it's just cooked. For the air fryer method, cook the salmon in the air fryer for 8-10 mins until it's just cooked.
 - Heat a large frying pan or wok and cook the mangetout with 1 tbsp water for 2 mins until tender but still with some bite. Stir in the teriyaki sauce and noodles to heat through. Divide between 2 plates and top with the salmon.
 
@@ -1015,7 +1015,7 @@
 - ¼ tspcream of tartar
 - icing sugar, for dusting (optional)
 
-### Method
+### Instructions
 - Heat the oven to 170C/150C fan/gas 3½.Whiskthe egg yolks in a large bowl with 20g of the sugar, the flour, oil, milk, baking powder and vanilla extract until just combined, being careful not to overmix. Set aside.
 - Beat the egg whites in a separate large bowl using an electric whisk (or do this in astand mixer)until foamy. Whisk in the remaining sugar in three small additions until just combined, then add the cream of tartar. This process should take about 6-8 mins. Continue to whisk the egg whites for about 5 mins, or until the mixture holds stiff peaks and is thick and glossy.
 - Gently fold the whipped egg whites into the batter, a third at a time, until fully combined. Do not overmix, as you want to keep as much air in the batter as possible.
@@ -1063,7 +1063,7 @@
 - 1 tspvanilla paste
 - 200gplain flour, plus extra for dusting
 
-### Method
+### Instructions
 - To make the biscuits, mix together the butter and sugar in a bowl with a wooden spoon until well combined. Add the egg and vanilla, and continue to beat by hand until fully incorporated. You will need to scrape down the edges of the bowl for this part.
 - Tip the flour into the mixture and fold together until fully combined. Shape the dough into a ball and then gently flatten it into a disc for easier handling. Put the disc of dough onto a floured sheet of baking parchment. Ensure the dough has an even thickness of around 5mm. Once shaped, carefully transfer the entire sheet of parchment with the flattened dough to a baking tray. Pop the tray into the fridge for 10 mins to allow the dough to firm up.
 - Remove from the fridge and press out your biscuits using a 6cm flower-shaped cutter (you could use any shaped cutters to make these). You will need 16 biscuit bases and 16 biscuit tops, with small holes or flowers of around 3cm cut out of the tops.
@@ -1104,7 +1104,7 @@
 - 1 tsprapeseed oil
 - ¼ tspcayenne pepper
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6.
 - Put 95g sweet potato, cut into fries, on a baking tray and toss with 1 tsp rapeseed oil and ¼ tsp cayenne pepper. Bake in the oven for 20 mins and serve.
 - Bake in the oven for 20 mins.
@@ -1148,7 +1148,7 @@
 - white sauce(find a recipe in the method, or use shop-bought)
 - 125gball mozzarella,torn into thin strips
 
-### Method
+### Instructions
 - To make the meat sauce, heat 2 tbsp olive oil in afrying panand cook 750g lean beef mince in two batches for about 10 mins until browned all over.
 - Finelychop4 slices of prosciutto from a 90g pack, then stir through the meat mixture.
 - Pour over 800g passata or half our basictomato saucerecipe and 200ml hot beef stock. Add a little grated nutmeg, then season.
@@ -1204,7 +1204,7 @@
 - finely chopped almonds
 - icing sugar
 
-### Method
+### Instructions
 - Heat oven to 140C/120C fan/gas 1. Put the cream, milk and vanilla pod into a pan and heat to boiling point. Cover and leave to infuse for 10 mins. Whisk the egg yolks and 3 tbsp of sugar together until pale and thick. Add the vanilla extract and pour the boiling cream onto the mixture. Stir well, then pour into two ramekins. Place the ramekins in a bain marie and cook in the oven for about 40 mins or until just set. Leave to cool.
 - Heat the grill. Sprinkle the cold brûlée with a thin, even layer of sugar, and caramelise under the very hot grill (or use a blowtorch). Repeat several times until you have a golden crackling topping. Leave to cool and serve within 2 hrs with warm almond puff pastry sticks (see below).
 
@@ -1251,7 +1251,7 @@
 - Serving suggestions
 - berries, Greek yogurt and a drizzle of honey, streaky bacon and maple syrup, ice cream and chocolate sauce, peanut butter and banana
 
-### Method
+### Instructions
 - Whiskthe buttermilk, melted butter and vanilla together in a large bowl. Separate the egg and whisk the yolk into the buttermilk mixture. Whisk the egg white in a clean bowl until it forms stiff peaks – this will keep your waffles light and fluffy.
 - Sift all the dry ingredients into abowl. Whisk in the wet ingredients to create a smooth batter then carefully but decisively fold through the egg white – don’t worry if you are left with a few small lumps. Cover with cling film and leave the batter to sit for 30 mins, if you have time.
 - Lightly oil then heat your waffle maker (or see the tip below). Heat the oven to low, so you can keep each waffle warm while the next one cooks. Pour enough batter for one waffle (about a quarter) into the waffle maker, close the lid and cook until the waffle is golden brown on both sides and will come away from the maker easily, about 2- 2.5mins. Repeat with the remaining batter, then top with whatever you fancy.
@@ -1291,7 +1291,7 @@
 - 25gsalted butter
 - small bunch ofsage leaves
 
-### Method
+### Instructions
 - Bring a pan of salted water to the boil, then reduce the heat and simmer the cauliflower until tender, about 10 mins. Drain well, then return to the pan, cover with a tea towel and leave to steam-dry for a couple of minutes.
 - Tip the cauliflower into a food processor and blend. Add the crème fraîche and parmesan, and blend again until smooth. Taste and season.
 - To make the brown butter, melt the butter in a small frying pan. Add the sage leaves and continue to cook until the butter turns brown and nutty, and the sage is crisp.
@@ -1341,7 +1341,7 @@
 - poached or friedeggs
 - crispy chilli in oil
 
-### Method
+### Instructions
 - Tip the defrosted spinach onto a sheet of kitchen paper and squeeze to remove any excess water.
 - Put the flour and baking powder in a bowl with ¼ tsp salt. Gradually whisk in the egg and milk. Stir in the spinach, parmesan, spring onions and jalepeños. Season with pepper.
 - Heat a little oil in a non-stick frying pan, then drop heaped tbsp of the mixture into the pan (you will need to do in batches, depending on the size of the pan). Cook for 3-4 mins until the underside is golden, then flip and cook on the other side. Serve warm topped with an egg and some crispy chilli.
@@ -1387,7 +1387,7 @@
 - 1Little Gem lettuce, shredded
 - ¼cucumber, thinly sliced
 
-### Method
+### Instructions
 - Lay the chicken breast flat on a board and cut through the middle carefully so you have two equal-sized, thinner fillets. Cover with a sheet of baking parchment, then gently bash with a rolling pin until around ½cm thick.
 - Put the seasoned flour in a shallow dish, the beaten egg in a second and the parmesan and breadcrumbs in a third, tossing the cheese and crumbs together to combine. Dip one of the thin chicken fillets in the flour, shaking off any excess, then turn to coat in the egg, then finally coat in the breadcrumb and cheese mixture. Repeat with the other piece.
 - Heat some oil (about ½ cm deep) in a large frying pan over a medium heat and cook the schnitzels over a medium heat for 4-5 mins until crisp and golden. Carefully turn and cook the other side for another 4 mins until golden and cooked through. Drain on a sheet of kitchen paper.

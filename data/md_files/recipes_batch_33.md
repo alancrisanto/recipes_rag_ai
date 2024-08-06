@@ -38,7 +38,7 @@
 - 50-70gpickles, chopped
 - sliced dill picklesand/or jalapeños, to serve
 
-### Method
+### Instructions
 - Heat the oil in a large liddedsaucepanover a medium heat. Fry the onion for 3 mins, then add the mince and cook for a further 5 mins until lightly browned.
 - Add the tomatoes and Worcestershire sauce and cook for 2 mins until the tomatoes are pulpy and starting to soften. Pour in the stock and bring to the boil.
 - Stir in the pasta, then cover and cook for 10-12 mins until the pasta is tender and the liquid has mostly been absorbed, adding a splash of water if needed.
@@ -85,7 +85,7 @@
 - 100ggolden breadcrumbs
 - lemon wedges and lettuce leaves, to serve
 
-### Method
+### Instructions
 - Heat the oil in a frying pan over a high heat and add the salmon, skin-side down. Cover and fry for 3-4 mins on each side until cooked through. Take off the heat and leave to cool. Remove the skin, flake the fish and set aside.
 - Heat the oven to 200C/180C fan/gas 6. Line 2 large baking trays with baking parchment. Put the mashed potatoes in a bowl and break up using the back of a spoon. Add the dill, coriander, chives, 1 tsp salt, chilli flakes and the garam masala and mix well.
 - Stir in the egg, then add the breadcrumbs and flaked fish, and combine well.
@@ -145,7 +145,7 @@
 - 150mldouble cream
 - 100gcornflakes
 
-### Method
+### Instructions
 - For the brownie batter, tip the unsalted butter and dark chocolate into a small pan over a low heat, and stir until melted and smooth. Remove from the heat and leave to cool. Heat the oven to 200C/180C fan/gas 6. Butter a 20 x 20cm square cake tin and line with baking parchment.
 - Crack the eggs into a large bowl, add the caster sugar and whisk until light and fluffy. Pour in the cooled chocolate mixture, and whisk again until everything is well combined. Sift in the flour and cocoa powder.
 - Mix the coffee granules with 2 tbsp hot water, then stir this into the brownie batter until the mixture is smooth and slightly runny. Pour into the tin and bake for 25 mins until set with a slight wobble. Leave to cool completely in the tin.
@@ -188,7 +188,7 @@
 - pinch ofcayenne(optional)
 - toastand butter, to serve
 
-### Method
+### Instructions
 - Skin the mackerel and break the fillets up into small pieces. Add the soft cheese, lemon zest and horseradish sauce and mix well together with a fork.
 - Season with salt and freshly ground black pepper, to taste, and add lemon juice, to taste. Stir in most of the herbs then cover and chill until ready to serve.
 - Sprinkle with a little cayenne, if using, and remaining herbs and serve with warm, buttered toast.
@@ -229,7 +229,7 @@
 - ¼-½ tsplemon, juiced
 - pinch ofcayenne pepper, to serve
 
-### Method
+### Instructions
 - Mix together the mayonnaise and ketchup, adjusting the ketchup to suit your taste. Season with hot sauce, Worcestershire sauce and lemon juice to taste. Cover and chill, dusting with a little cayenne just before serving.
 
 
@@ -271,7 +271,7 @@
 - 2egg yolks(freeze the whites for another recipe)
 - toasted baguetteor French fries, to serve
 
-### Method
+### Instructions
 - Trim the beef, discarding any sinew, then finely chop using a large, heavyknife. Put in a bowl and add the shallot, cornichons, capers and parsley. Add the mustard and hot sauce to taste. Season with salt and freshly ground black pepper.
 - Mix together lightly, then spoon into the centres of two small, chilled plates. Roughly shape into a round, then make an indentation in each. Place an egg yolk into each hollow and serve straightaway with a toasted baguette or French fries.
 
@@ -308,7 +308,7 @@
 - 300ggranulated sugar
 - ½vanilla pod, split lengthways (optional)
 
-### Method
+### Instructions
 - First, score the shells of the chestnuts. If you’re comfortable doing so, use a curvedparing knifeto cut a U-shape through the shell, being careful not to cut into the flesh of the nut: starting at the flat base, cut vertically up one of the narrow sides to the pointy top, then back down the other side to the base. Alternatively, use a sharp knife or kitchen scissors to cut or snip a cross the full length and width of the base of the shell.
 - Put the chestnuts in a saucepan and cover with boiling water from thekettle. Simmer for 10 mins, then turn off the heat. Lift the chestnuts out one at a time using a spoon, then peel off both the outer shell and papery skin. (Rubbing with a dry tea towel can help remove the skin.)
 - Bring the sugar and 300ml water to the boil, stirring occasionally. Once the sugar has melted, scrape in the seeds of the vanilla pod (if using) and drop in the pod itself. Reduce the heat to a simmer and cook for 5 mins, then add the chestnuts and simmer for a further 10 mins. Turn off the heat, cover and leave for 24 hrs.
@@ -360,7 +360,7 @@
 - 1 tbspredcurrant jelly
 - small bunch offlat-leaf parsley, leaves picked and chopped
 
-### Method
+### Instructions
 - Carve the breastsfrom the pheasants, then remove the skin from the breasts and cut each one in half. Repeat with the pheasant legs, cutting each one at the knee joint to divide into two pieces. (Carve the rest of the carcasses to use later in gravies or stocks.)
 - Heat the oil in a medium flameproof casserole over a medium-high heat and brown the meat all over briefly, then remove to a plate. Fry the bacon in the pan for a few minutes. Add the onion and celery and fry for 7 mins more, stirring often until the veg has started to soften and turn golden. Add the carrots and mushrooms, and fry for a few more minutes until the mushrooms have released their liquid.
 - Stir in the flour, then add the bay, thyme, cider, stock and clementine zest and juice. Bring to the boil, then reduce the heat to a simmer. Return the pheasant pieces to the pan and simmer for 45 mins-1 hr.
@@ -426,7 +426,7 @@
 - icing sugar, to dust
 - extra thick cream, to serve
 
-### Method
+### Instructions
 - For the pastry, combine the plain flour, fine sea salt, icing sugar and cold butter in afood processor,then pulse to fine breadcrumbs. Or rub the butter into the flour using your fingers. In a small bowl, mix 3 tbsp cold water with the egg yolks, add to the mix and pulse or stir in to combine – add up to another 2 tbsp water if the mixture still feels dry. Tip into a bowl, shape into a ball, then cover and chill for 30 mins.
 - On a lightly floured surface,roll out the pastryto a 27cm circle about the thickness of a £1 coin. Run a palette knife underneath it every now and then so that it doesn’t stick. Use to line a 23cm fluted tart tin, leaving an overhang of about 1cm and freeze for 20 mins. Heat the oven to 200C/180C fan/gas 6.
 - Cover the pastry with baking parchment, fill with baking beans or uncooked rice and bake for 15 mins. Remove the parchment and beans, prick the base of the tart with a fork and bake for 7-10 mins until the pastry has turned slightly darker. Trim the overhang with aserrated knife.
@@ -483,7 +483,7 @@
 - 70gmayonnaise
 - ½ tbspwholegrain mustard
 
-### Method
+### Instructions
 - Take the steaks out of the fridge around an hour before you’re ready to cook them to bring them to room temperature. Put the stilton, butter, chives and some seasoning in a bowl and mash everything together using a fork or blitz in afood processor. Tip the flavoured butter onto a square of baking parchment, roll the parchment around the butter to form a sausage shape, then twist the ends to seal.Will keep for three days in the fridge or a month in the freezer.
 - Heat the oven to 240C/220C fan/gas 8. Bring a large pan of lightly salted water to the boil. Cut the potatoes into chunky wedges, then gently tip into the pan and boil for 10 mins. Drain well and leave to steam-dry for 10 mins.
 - Divide the dripping between two baking trays (using shallow-sided trays rather than a roasting tin helps ensure the wedges become crisp) and put in the oven for 10 mins to heat up. Use tongs to carefully turn the wedges in the hot fat along with 1 tsp sea salt and spread out so they aren’t overlapping. Scatter around the bashed garlic cloves. Roast for 50 mins-1 hr, turning halfway, until golden and crisp.
@@ -529,7 +529,7 @@
 - 1egg,beaten
 - 2 tspfennel seeds
 
-### Method
+### Instructions
 - Put the sausagemeat, white breadcrumbs, nduja, pickled onions and cheese in a large bowl, season with salt and pepper and mix to combine using your hands.
 - Unravel the pastry and cut in half lengthways to make two rectangles. Divide the sausage mixture in two and mould each half into a sausage shape. Put each portion of meat into the middle of a pastry strip, leaving a border at either side. Brush the pastry border and the top of the sausage mix with some of the beaten egg. Fold one edge of the pastry over the meat and roll to encase, then use a fork to press the pastry edges together. Cut the roll into 5cm lengths and arrange on a baking tray lined with baking parchment. Chill for 20 mins.The sausage rolls will keep chilled for two days or frozen for three months. Defrost completely before cooking.
 - Heat the oven to 200C/180C fan/gas 6. Brush the pastry with more egg and sprinkle with the fennel seeds. Bake for 30 mins, or until golden and crisp. Transfer the sausage rolls to awire rackand leave to cool for a few minutes before serving. Best served warm, but will keep chilled for two days.
@@ -571,7 +571,7 @@
 - ½ tspchilli flakes(optional)
 - 100gsoft goat's cheese(ensure it's vegetarian if needed)
 
-### Method
+### Instructions
 - Cook the pasta following pack instructions and reserve a mugful of the pasta cooking water. Drain thoroughly. Heat the olive oil in a frying pan over a medium-high heat. Stir in the leeks and walnuts, season well, reduce the heat to medium and cook gently for 10-12 mins until softened. Mix in the garlic and chilli flakes, if using, and cook for a further 2 mins until fragrant.
 - Stir through the cooked pasta, along with a generous splash of the pasta cooking water. Crumble in half the goat’s cheese, stir to melt and season to taste. Dot over the remaining goat’s cheese to serve.
 
@@ -616,7 +616,7 @@
 - 10gparsley,finely chopped
 - 15gparmesan,finely grated
 
-### Method
+### Instructions
 - Cook the pasta following pack instructions and reserve a mugful of pasta water. Drain thoroughly. Heat 2 tbsp of the oil in a frying pan over a medium heat. Tip in the shallots with a pinch of salt. Fry gently for 10-12 mins until softened but not coloured, then stir in the garlic, nduja and tomato purée. Cook for a further 2-3 mins until the tomato purée has caramelised slightly. Mix in the spring greens, a splash of water and the lemon juice and cook for 4-5 mins until the greens have wilted.
 - In a separate pan, heat the remaining oil and tip in the breadcrumbs. Stir to coat, then toast, over a medium heat, for 3 mins until golden. Remove from the heat and stir in the parsley, parmesan and a pinch of seasoning.
 - Stir the cooked pasta into the pan of greens with a good splash of water and toss to coat, adding more pasta water as needed. Season to taste, adding a splash more lemon juice if needed. Scatter over the breadcrumb topping to serve.
@@ -680,7 +680,7 @@
 - 1 largegarlic clove,crushed
 - 1lemon,juiced (reserve the zest, to serve)
 
-### Method
+### Instructions
 - If using raw chicken, heat the oil in a frying pan over a medium-high heat. Season the chicken all over and fry for 7-8 mins each side, covering with a lid for the final 5 mins until cooked through. Set aside to rest for 10 mins, then slice.
 - For the dressing, tip the avocado, yogurt, chives, dill, parsley, spring onions, rice vinegar, olive oil, garlic and 1 tbsp of the lemon juice into ablenderor food processor. Blitz until finely chopped and emulsified. Season to taste, adding more lemon juice if you like. Add cold water 1 tbsp at a time until the dressing has a drizzling consistency.
 - Stir 4 tbsp of the dressing together with the chicken slices. Toss the celery, lettuce, radishes, apple and cucumber together and arrange on a serving platter. Dot the chopped avocado and as much of remaining dressing over the top as you like, along with the chicken. Finely grate a little lemon zest over and grind over some black pepper to serve.
@@ -718,7 +718,7 @@
 - 1 tspvegetable oil
 - ½ tspgarlic granules
 
-### Method
+### Instructions
 - Heat theair-fryerto 200C. Pat the pork belly dry with kitchen paper or a clean tea towel, then score the top of the fat, being careful not to cut all the way through. Rub with the oil and season well with salt, pepper and the garlic granules. Lift the pork belly into the air-fryer, skin-side up and cook for 30 mins, until the skin starts to crisp up.
 - Turn the heat down to 180C and cook for a further 20-30 mins until the pork is cooked through and the skin has had chance to crisp fully.
 
@@ -756,7 +756,7 @@
 - 2eggs
 - 100mlmilk
 
-### Method
+### Instructions
 - Heat theair-fryerto 180C. Drizzle around ½ tsp oil into each of four heatproof pudding moulds and put in theair-fryerfor 5 mins until the oil is very hot.
 - Meanwhile, tip the flour into a large jug, thenwhiskin the eggs. Pour in the milk (if you’re using your only jug, then you can weigh it as 103g milk). Whisk until smooth, then season well and mix again.
 - Pour a quarter of the batter into each mould and cook for 10-12 mins until puffed up and golden. Using a knife and fork or two spoons, flip and cook for a further 3-5 mins until golden and cooked through.
@@ -801,7 +801,7 @@
 - 2bacon rashers
 - ½ 400g can or 200g canbaked beans(optional)
 
-### Method
+### Instructions
 - Heat theair-fryerto 180C. Slice the English muffin in half and cut a circle out of one half, leaving a 2cm-thick ring. Toast for 5-6 mins in the air-fryer, remove, then butter the whole half and press the other half onto it. Set aside.
 - Put the mushrooms in a bowl and drizzle over the oil. Season with salt and pepper and stir to coat. Tip the mushrooms into the air-fryer and cook for 4 mins until beginning to soften. Season the cut halves of the tomato, then put in the air-fryer with the mushrooms and add the sausages, too. Cook for 2 mins before adding the hash browns and cook for another 4 mins.
 - Meanwhile, crack the egg into a small cup or ramekin. Put the muffin on a plate, then pour the egg into the hole on top of the muffin. Set aside.
@@ -849,7 +849,7 @@
 - 20gstrong white bread flour
 - 60mlmilk,preferably whole
 
-### Method
+### Instructions
 - Line a high-sided 20 x 30cm baking tin with baking parchment. To make the tangzhong, put the flour, milk and 30ml water in a small saucepan.Whiskover a medium heat until it becomes a thick paste, then set aside until it is at room temperature.
 - Pour the milk into a saucepan and set over a low heat until just warm. Alternatively, warm in the microwave in 10-second blasts, but be careful not to boil it. Stir in the yeast to fully combine. Mix the flour, sugar and 1 tsp fine sea salt in the bowl of astand mixerwith a dough hook attachment. With the mixer running, add the egg, tangzhong and milk mixture. Knead for 2 mins, then add the butter, bit by bit. Continue to knead for a further 7-8 mins until soft, elastic and slightly sticky. Form into a ball and put into a lightly oiled clean bowl. Cover and set aside to rise for around 2 hrs until doubled in size.Will keep chilled overnight. Bring up to room temperature, then leave to rise until doubled before continuing.
 - Lightly dust a clean work surface with flour and knock back the dough for 10 seconds. Divide into eight pieces (around 85g each), and form into small balls. Put the balls in the prepared tin and cover. Set aside to rise for 1 hr or until doubled in size.
@@ -898,7 +898,7 @@
 - 1½ tbspDijon mustard
 - green salad,to serve
 
-### Method
+### Instructions
 - Pour a splash of the oil into a large, round casserole dish and rub it all over the base and sides. Heat the oven to 220C/200C fan/gas 7. Slice the potatoes as thinly as you can (no need to peel) and arrange in layers with the garlic in the base of the oiled dish. Remove any string from the chicken, drizzle over the remaining oil and rub in well. Season the chicken all over generously, including inside the cavity, then add one of the lemon halves inside the cavity. Put the chicken on top of the potatoes, then pour the vermouth and stock around the potatoes. Roast for 40 mins, until the chicken is golden brown.
 - Meanwhile, tip the peas into ablenderor food processor with the tarragon, nuts, cream and Dijon mustard. Pulse a few times until everything is finely chopped, then season with salt and pepper. Remove the chicken from the oven and pour the sauce directly over. Reduce the oven temperature to 180C/160C fan/gas 4 and return to the oven. Roast for a further 20-30 mins until the chicken is cooked through. To check, pierce the thickest part of the chicken with a sharp knife. The juices should run clear, or atemperature probeinserted should read 74C.
 - Remove the chicken from the tin, then cover and leave to rest for 10-15 mins beforecarving. Pour any resting juices over the potatoes and season with salt, pepper and the remaining lemon juice. Serve with a green salad, if you like.
@@ -946,7 +946,7 @@
 - 15gparsley,finely chopped
 - crusty bread,to serve
 
-### Method
+### Instructions
 - Heat the oil in a large, deepfrying panover a medium heat. Stir in the fennel and onion with a pinch of salt. Cook, for 15 mins, until softened. Stir in the chilli and half the garlic. Let it sizzle for 2 mins until fragrant, then stir in the tomato purée. Cook for 3-4 mins until caramelised before adding the chopped tomatoes and chickpeas, along with the liquid. Swill out the tomato cans with a splash of water and add this, too. Splash in some lemon juice and bring to a simmer. Cook for 20-25 mins, until the flavours have combined and the sauce has thickened. Season to taste, adding a pinch of sugar, if needed, and a splash more lemon juice. Stir in the prawns and cook for 2-3 mins until pink and cooked through.
 - Meanwhile, to make the gremolata, mix the remaining garlic with the lemon zest and parsley, then season with a pinch each of salt and pepper. Sprinkle the gremolata over the prawns. Serve in shallow bowls alongside some crusty bread, if you like.
 
@@ -997,7 +997,7 @@
 - 1 tspsmoked paprika
 - 400g cancannellini beans
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7. Rub the potatoes with a small drop of the oil, then put on abaking trayand bake for 50 mins until almost tender. Toss the cheese and onion together and set aside.
 - Meanwhile, make the beans. Heat the rest of the oil in a small non-stick pan and fry the garlic over a low heat for about a minute, stirring to soften. Add the tomato purée, vinegar and paprika, and cook, stirring, for about a minute more. Tip in the beans and the liquid from the can. Cook for a few minutes so the beans are coated in the sauce, then turn off the heat. Set aside until the potatoes are ready.
 - After the potatoes have had their 50 mins, remove from the oven and halve lengthways. Carefully scoop out the middles using a teaspoon to create a shell, with an even layer of potato all the way round. Don’t take out too much, just about 50g from each potato (see tip below for how to use up). Pile on the cheese and onion, then return to the oven for 15 mins until golden. To serve, gently reheat the beans and spoon on top of the cheesy potato skins.
@@ -1041,7 +1041,7 @@
 - 1 tspcrispy chilli oil, plus extra to serve (optional)
 - 140gdried egg noodles(2 nests)
 
-### Method
+### Instructions
 - Toss the cabbage with the Sichuan peppercorns, coriander and some seasoning. Squeeze over the lime juice, then scrunch it well together. Set aside.Will keep chilled for two days in an airtight container.
 - Whiskthe tahini, garlic, soy sauce and crispy chilli oil together in a large bowl. Cook the noodles in a pan of boiling of salted water following pack instructions until tender. Drain, reserving 125ml of the cooking water. Whisk the reserved water into the tahini sauce, then toss through the noodles.
 - Divide the noodles between two bowls and top with the slaw.
@@ -1089,7 +1089,7 @@
 - 15gcoriander, roughly chopped
 - 200g pouchcooked brown rice
 
-### Method
+### Instructions
 - Heat 2 tbsp of the oil in awokor large frying pan over a high heat. Once shimmering, fry the tempeh for 3-4 mins until golden and charred at the edges. Remove from the pan and drain on kitchen paper.
 - Add a drizzle of oil to the pan if it’s dry, then fry the onion for 3-4 mins, stirring continuously. Once softened, add the garlic, lemongrass (if using), ginger and chilli. Cook for 3 mins, stirring frequently until fragrant.
 - Toss through the mange tout and broccoli, then pour 50ml water into the pan to create steam. Cook for 3-4 mins. Add the soy sauce and brown sugar. Return the tempeh to the pan and toss to combine, cooking 2-3 mins more until everything is tender and sticky. Stir in half the coriander.
@@ -1138,7 +1138,7 @@
 - 50gricotta, to serve
 - 15gbasil, chopped
 
-### Method
+### Instructions
 - Heat the oil in a large flameproof casserole dish over a medium heat and cook the red onions and peppers for 15 mins until starting to soften and turning golden at the edges. Add the tomatoes, turn the heat up to medium-high and cook until they blister, about 2-3 mins.
 - Add the garlic, harissa and baharat, and cook for 3 mins until fragrant. Pour in the stock and bring to the boil. Reduce the heat to a simmer, then leave to gently reduce for 10 mins. Tip in the butter beans and the liquid from the can or jar, and cook for 5 mins to warm through and thicken slightly. Add the spinach and vinegar, and allow the spinach to wilt for 1-2 mins.
 - Divide between two bowls, then dot the ricotta on top. Sprinkle over the basil and a twist of black pepper.Will keep chilled for one day.
@@ -1182,7 +1182,7 @@
 - 1lemon, zested, then sliced into wedges
 - 10gbasil, roughly chopped
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 8. Tip the gnocchi, courgette and tomatoes into a large roasting tray. Add the artichokes and oil, the bashed garlic cloves and chilli flakes, and season well with salt and freshly ground black pepper. Mix all the ingredients together with your hands, then bake for 30-35 mins until the gnocchi are crisp at the edges and the veg is soft.
 - Meanwhile, mix the ricotta and lemon zest together in a small bowl, then season with salt and pepper to taste. Dot this over the gnocchi and sprinkle over the basil.
 - Divide the gnocchi between two bowls, mixing them well so the ricotta breaks down to make a creamy sauce. Serve with the lemon wedges for squeezing over.
@@ -1233,7 +1233,7 @@
 - 1 tspcaster sugar
 - 2 tbspolive oil, plus extra for rising
 
-### Method
+### Instructions
 - For the dough, combine the yeast, flour, sugar, 1 tsp salt, the olive oil and 250ml warm water. Do this in astand mixerwith a dough hook attachment for 8-10 mins, or lightly dust a surface with flour and knead until smooth and elastic. Lightly oil a clean bowl and tip in the dough. Cover and leave to rise for 1-2 hrsuntil doubled in size. (This may take slightly longer depending on how warm your kitchen is.)
 - Meanwhile, finely slice one bunch of spring onions, then cut the other bunch in half to roughly separate the white parts from the green. Heat 3 tbsp oil in a small frying pan over a medium heat and cook the finely sliced spring onions, the garlic, chilli and nigella seeds until the garlic is fragrant and sizzling, about 2-3 mins. Strain the mixture in a finesieveset over a bowl, reserving the oil. Tip the yogurt and 150g feta into afood processorand blitz until smooth, or do this using a hand blender. Stir in half the spring onion and garlic mixture, along with some seasoning, and chill until needed.Will keep chilled for a day.
 - Lightly dust a clean work surface with flour and tip out the risen dough. Split into four pieces and shape into balls. Cover and leave to rest for 5 mins.Roll each one outas thinly as possible, then lift and stretch the dough using your hands. Heat a heavy-based or cast-iron frying pan over a medium-high heat. Brush each side of the flatbreads with the reserved garlic oil, then cook for 2-3 mins each side until puffed up and charred. Remove and wrap in a clean tea towel to keep warm and soft, then repeat with the remaining flatbreads. Toss the halved spring onions with the remaining 1/2 tbsp olive oil, and set the pan over a high heat. Cook the spring onions for 3 mins undisturbed, then shake the pan to shuffle them, doing this until charred all over. Set aside.
@@ -1284,7 +1284,7 @@
 - 1bird's-eye chilli, finely chopped
 - 2 tbspsugar
 
-### Method
+### Instructions
 - For the nuoc cham,whisktogether all of the ingredients with 5 tbsp hot water in a small bowl. Set aside while you make the tempura.
 - Whisk the cornflour, plain flour, sesame seeds (if using) and a large pinch of salt together. Fill a large, deep pan no more than a third full with the vegetable oil and heat until it reaches 180C or a cube of bread dropped in browns in 20 seconds.
 - Quickly whisk the soda water into the flour mixture, being careful not to overmix, then dunk in the broccoli using tongs. Carefully lower into the hot oil and cook for 2-3 mins until crisp. Drain on kitchen paper, then serve with the nuoc cham on the side for dipping.
@@ -1334,7 +1334,7 @@
 - 400gplain flour, plus extra for dusting
 - 1egg, beaten
 
-### Method
+### Instructions
 - Heat 25g of the butter in a frying pan over a medium heat until sizzling, add the wild garlic leaves, season with salt and cook for 5 mins until completely wilted and soft. Leave to cool, then tip onto a board, roughly chop and set aside.
 - Melt the rest of butter in a frying pan over a medium heat. Tip in the leeks and chicken, season and cook for 10-12 mins until the chicken is just cooked and the leeks have softened. Stir in the flour and cook for 3 mins until the mix resembles a sandy paste. Pour in the wine and bubble for 1-2 mins until reduced by half, then add the stock and crème fraîche, bring to a simmer and cook for 10 mins more until the chicken is cooked through. Stir through the cooked wild garlic and simmer for another 2-3 mins until thick and creamy. Season to taste, remove from the heat and, if you have any wild garlic stalks, finely slice them and stir through. Leave to cool completely, tip into a container and chill for 2 hrs, or overnight.Will keep chilled for up to two days.
 - To make the pastry, rub the butter into the flour with a large pinch of salt using your fingertips until completely combined. Add half the beaten egg and 3 tbsp ice-cold water, and bring together into a dough using your hands, adding a little more water, 1 tbsp at a time, until you have a dough that’s soft enough to work with. Knead for a minute so it completely comes together, then chill for 1 hr.Will keep chilled for two days.
@@ -1377,7 +1377,7 @@
 - ¾ tspdried oregano
 - ½ tspDijon mustard(optional)
 
-### Method
+### Instructions
 - Combine all the ingredients in a small bowl or jug, season well andwhiskto combine. You can also combine in a jar, screw the lid on and shake well. (The Dijon mustard helps to emulsify the ingredients, but is optional.)Will keep in an airtight container in the fridge for up to five days.
 
 
@@ -1414,7 +1414,7 @@
 - 40mlblended scotch
 - strip of paredlemonzest, to serve
 
-### Method
+### Instructions
 - Put a few ice cubes in a rocks glass, then pour over the ginger wine and scotch. Stir gently to combine, then serve with a strip of freshly pared lemon zest.
 
 

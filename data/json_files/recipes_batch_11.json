@@ -20,7 +20,7 @@
       "protein": "6g",
       "salt": "0.6g"
     },
-    "instructions": [
+    "ingredients": [
       "225gunsalted butter, plus extra for the tin",
       "225gspelt flour",
       "1 ½ tspbaking powder",
@@ -30,7 +30,7 @@
       "60gchopped hazelnuts",
       "200gblackberries"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 180C/160C fan/ gas 4. Butter a 20cm square cake tin and line with baking parchment. Combine the flour, baking powder and oats in a large bowl. Set aside.",
       "Tip the butter, sugar and molasses into asaucepanover a medium-low heat and stir for a few minutes until just melted. Remove from the heat and pour into the dry ingredients, then stir to combine.",
       "Spoon half the crumble mixture into the prepared tin, pressing it down in an even layer and making sure the surface is level.",
@@ -58,7 +58,7 @@
       "protein": "18g",
       "salt": "1.1g"
     },
-    "instructions": [
+    "ingredients": [
       "200gfresh sweetcornkernels",
       "150graw king prawns, peeled and deveined",
       "½ tbspCajun spice blend",
@@ -72,7 +72,7 @@
       "small handful ofcoriander, finely chopped",
       "1romaine lettuce, chopped"
     ],
-    "methods": [
+    "instructions": [
       "Heat a dryfrying panover a medium-high heat and cook the sweetcorn for a few minutes without stirring, then shake the pan and continue to cook for 5 mins until the kernels have browned. Tip onto a plate and leave to cool slightly.",
       "Combine the prawns, Cajun spice blend and a pinch each of salt and pepper in a small bowl. Heat half the oil in the same pan as used to char the corn and cook the prawns over a medium-high heat for 2-4 mins, stirring until pink and cooked through. Transfer to the plate with the corn.",
       "Combine the lime juice, honey, remaining oil and chopped jalapeño (if using) in a large bowl, and season well. Add the red peppers, avocado, spring onions, coriander and lettuce, then toss well. Stir in the corn and prawns, then serve."
@@ -99,7 +99,7 @@
       "protein": "41g",
       "salt": "1.6g"
     },
-    "instructions": [
+    "ingredients": [
       "1lemongrassstick, outer husk removed, finely chopped (see tip, below)",
       "15gginger, peeled and grated",
       "2garlic cloves, crushed",
@@ -115,7 +115,7 @@
       "15gdesiccated coconut",
       "250g pouchmicrowave wholegrain rice"
     ],
-    "methods": [
+    "instructions": [
       "Combine the lemongrass, ginger, garlic, lime juice, sugar, soy sauce, coconut water and chilli, if using, and set aside. Heat the oil in awokor large, high-sided pan over a high heat and stir-fry the courgette and chicken for 4 mins until browned. Stir in the peas and coconut and cook for 1-2 mins, stirring well to ensure the coconut doesn’t burn.",
       "Pour the lemongrass mixture around the edge of the pan, then stir in to combine. Continue to cook over a high heat for about 1-2 mins, until the chicken is cooked through and the sauce has reduced. Season to taste. Warm the rice following pack instructions, then serve with the stir-fry."
     ]
@@ -141,7 +141,7 @@
       "protein": "16g",
       "salt": "1g"
     },
-    "instructions": [
+    "ingredients": [
       "500gripe tomatoes, finely chopped",
       "50glighter Greek-style salad cheese, crumbled",
       "small handful oforegano, leaves picked and finely chopped",
@@ -153,7 +153,7 @@
       "75gfat-free Greek yogurt",
       "green salad, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Tip the tomatoes, cheese, oregano, onion, flour and baking powder into a bowl, and season well. Stir to combine. Heat the olive oil in afrying panover a medium- high heat and drop heaped spoonfuls of the mixture into the pan. Flatten slightly with a spatula or the back of a spoon and fry over a medium heat for 4-5 mins on each side until golden and cooked through. (You will need to do this in two batches.)",
       "Combine the dill and yogurt, season and serve with the fritters and a green salad, if you like. Or, mix most of the dill and yogurt with some seasoning, spread on a platter and arrange the fritters on top, scattered with the remaining dill."
     ]
@@ -179,7 +179,7 @@
       "protein": "16g",
       "salt": "0.2g"
     },
-    "instructions": [
+    "ingredients": [
       "2unwaxed lemons",
       "300glong wholemeal pasta, such as spaghetti",
       "300ggreen beans, trimmed",
@@ -188,7 +188,7 @@
       "40gparmesanor vegetarian alternative, finely grated",
       "small handful of basil, finely chopped"
     ],
-    "methods": [
+    "instructions": [
       "Peel the zest of 1 lemon into long strips using avegetable peeler, then drop into a saucepan. Zest the remaining lemon. Juice both lemons, then set the juice aside and put the squeezed lemon halves into the pan with the peel. Add the pasta along with freshly boiled water from the kettle and some salt and cook following pack instructions, adding the green beans for the final 4 mins. Drain the pasta and green beans, reserving a mugful of the cooking water. Discard the lemon peel and juiced halves.",
       "Meanwhile, melt the butter in a large frying pan over a low heat and cook the garlic and most of the fine lemon zest for 3-4 mins until fragrant. Tip in the drained pasta and beans, along with a splash each of the reserved cooking water and lemon juice, the parmesan and most of the basil. Mix over a low heat, adding another splash of the cooking water to bring the sauce together, if needed. Season with salt, pepper and the remaining lemon juice to taste. Sprinkle over the remaining lemon zest and basil to serve."
     ]
@@ -214,7 +214,7 @@
       "protein": "35g",
       "salt": "1g"
     },
-    "instructions": [
+    "ingredients": [
       "100gbulgur wheat",
       "½small cucumber, deseeded and finely chopped",
       "100gcherry tomatoes, quartered",
@@ -228,7 +228,7 @@
       "½red onion, finely sliced",
       "2x 120g skinless, boneless white fishfillets, such as cod or haddock"
     ],
-    "methods": [
+    "instructions": [
       "Cook the bulgur following pack instructions, then rinse and drain well before tipping into a large bowl. Add the cucumber, tomatoes, olives and most of the parsley. Season well. Combine the harissa, honey, garlic, lemon juice, half the oil and 1 tbsp water in a bowl, then set aside.",
       "Heat the remaining oil in a non-stick pan over a medium heat and cook the red onion for 4-5 mins until softened and lightly browned. Season the fish well, then add to the pan and cook for 3 mins before pouring in the harissa mixture. Turn the fish and cook for 2-4 mins more (depending on the thickness of the fish), basting the fish in the pan juices until cooked through – the flesh should be opaque.",
       "Divide the bulgur salad between two plates, top with the fish and fried onions, then drizzle over any remaining pan juices and sprinkle over the remaining parsley to serve."
@@ -255,7 +255,7 @@
       "protein": "5g",
       "salt": "0.7g"
     },
-    "instructions": [
+    "ingredients": [
       "vegetable oil, for the tin",
       "250gbourbon biscuits",
       "100gbutter, melted",
@@ -266,7 +266,7 @@
       "drop of pink food colouring gel",
       "12maraschino cherriesand sprinkles, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Lightly oil a deep 20cm loose-bottomed cake tin and line the side with baking parchment. Tip the biscuits into afood processorand blitz to a powder, then add the melted butter and blitz again to combine. Alternatively, bash the biscuits in a large bowl using the end of a rolling pin, then mix in the butter. Tip the buttery crumbs into the prepared tin and firmly press down with a spoon into an even base. Chill in the freezer for 10 mins while you make the filling.",
       "Combine the soft cheese, 200ml of the cream, 200g of the sugar and the vanilla extract in a bowl using an electricwhisk. Beat for 2-3 mins until the mixture has a thick, spreadable consistency. Divide between two bowls and stir a drop of pink food colouring into one until it is an even shade of pink. Put the pink cheesecake mixture in the fridge, then scrape the plain mixture into the tin, spreading it gently to the edge and levelling the surface. Freeze for at least 1 hr, or up to a day.",
       "Stir the pink cheesecake mixture, then pour it over the set plain layer and return to the freezer for another 2 hrs, or until you’re ready to serve. Will keep frozen for up to a month.",
@@ -294,7 +294,7 @@
       "protein": "21g",
       "salt": "1.4g"
     },
-    "instructions": [
+    "ingredients": [
       "300gspaghetti",
       "3 tbspcold-pressed rapeseed oil",
       "1onion, finely chopped",
@@ -308,7 +308,7 @@
       "1lemon, zested and juiced",
       "25gunsalted butter"
     ],
-    "methods": [
+    "instructions": [
       "Cook the spaghetti in a pan of boiling salted water following pack instructions until just tender, with a little bite. Drain well, reserving a large mugful of the cooking water. (If the pasta clumps together while draining, pour over a little of the reserved water and gently shake apart using tongs.)",
       "When the pasta has about 5 mins left, heat the rapeseed oil in a large, deep frying pan over medium heat. When the oil is shimmering, cook the onion, parsley stalks and a pinch of salt for 8-10 mins until softened and golden.",
       "Add the garlic and tomatoes, and cook for 2-3 mins more. Tip in the mussels and prawns, turn up the heat to high and cook for 2 mins. Carefully pour in the ale (it should bubble up considerably), then cover with a lid and turn the heat down slightly. Cook for 3 mins, or until all the mussels have opened (discard any that remain closed) and the prawns are pink. Add the samphire, cooked spaghetti and remaining pasta cooking water, the parsley leaves, lemon zest and juice, and butter. Toss well to combine and season to taste. Serve directly from the pan, or tip onto a serving platter."
@@ -335,7 +335,7 @@
       "protein": "14g",
       "salt": "3.6g"
     },
-    "instructions": [
+    "ingredients": [
       "200gdried flat rice noodles",
       "1 tbspvegetable or other neutral-tasting oil",
       "1onion, finely sliced",
@@ -353,7 +353,7 @@
       "1 tbspcrispy chilli oil",
       "2 tbspcashews, roughly chopped"
     ],
-    "methods": [
+    "instructions": [
       "Cook the noodles following pack instructions, then drain and rinse under cold running water to prevent them sticking. Heat the oil in a large frying pan orwokover a medium-high heat and cook the onion, carrot and broccoli for 4-5 mins until starting to brown. Add the garlic and chilli, and cook for 1-2 mins more.",
       "Mix the soy sauces, chilli sauce, lime zest and juice in small bowl, then add to the pan along with the noodles. Toss with tongs to coat everything, then serve topped with chilli oil and cashews, if you like."
     ]
@@ -379,7 +379,7 @@
       "protein": "18g",
       "salt": "2.9g"
     },
-    "instructions": [
+    "ingredients": [
       "400gegg noodles",
       "1 tspsesame oil",
       "2 tbspvegetable or other neutral-tasting oil",
@@ -394,7 +394,7 @@
       "450gmixed stir-fry vegetables",
       "300gshelled raw king prawns"
     ],
-    "methods": [
+    "instructions": [
       "Cook the noodles following pack instructions, then drain. Heat the sesame oil and 1 tbsp of the veg oil in a largenon-stick frying panover a medium-high, tip in the noodles and press down using aspatulato form an even disc. Fry for 4-5 mins until the noodles have stuck together, then carefully invert onto a plate. Slide back into the pan, crispy-side up, for 4-5 mins more until golden. Transfer to a baking sheet and keep warm in a low oven.",
       "Mix the ginger, garlic, white parts of the spring onions, soy, vinegar, honey, stock and cornflour in a small bowl. Add the remaining veg oil and the stir-fry veg to the pan, cook for 2 mins, then stir in the prawns. Cook for 2 mins more until the prawns are turning opaque. Stir in the sauce and cook for 2-3 mins until the prawns are cooked and the sauce thickens.",
       "Cut the crispy pancake into wedges. Serve topped with the stir-fry mixture and the green parts of the spring onion."
@@ -421,7 +421,7 @@
       "protein": "5g",
       "salt": "0.3g"
     },
-    "instructions": [
+    "ingredients": [
       "150gsalted butter, plus extra for the tin",
       "3 tbspgolden syrup",
       "150glight brown soft sugar",
@@ -431,7 +431,7 @@
       "100gbrazil nuts, roughly chopped",
       "75gcocktail cherries, roughly chopped (optional)"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 200C/180C fan/gas 6. Butter a 20cm square cake tin and line with baking parchment. Tip the butter, golden syrup, sugar and chocolate into asaucepan,and put on a low heat. Stir until the sugar is melted. Pour into a bowl andsiftin the cocoa powder, then stir in the oats, nuts, and cherries, if using.",
       "Press into the prepared tin and bake for 20-25 mins until the edges are set. Leave to cool completely in the tin and cut into 12 squares to serve.Will keep for up to a week in an airtight container – the texture will soften over time for a chewier finish."
     ]
@@ -457,7 +457,7 @@
       "protein": "35g",
       "salt": "2.2g"
     },
-    "instructions": [
+    "ingredients": [
       "1broccoli(about 400g)",
       "2 tbspleftover chicken fat(from roast chicken)",
       "3leftover roasted garlic cloves, mashed (from the roast chicken recipe below)",
@@ -469,7 +469,7 @@
       "100gfeta, crumbled",
       "5gdill, finely chopped"
     ],
-    "methods": [
+    "instructions": [
       "Cut the broccoli florets then the stalk into bite-sized pieces and keep separate. Heat theleftover chicken fatin afrying panover a medium-high heat and tip in the broccoli stalks with 100ml water. Bring to a boil and cook for 4 mins. Mix in the florets and cook for a further 3 mins until all the water has evaporated. Mix in theroasted garlicand anchovies and sizzle for 4 mins until the anchovies have dissolved.",
       "Tip in the lentils along with thechicken, lemon juice, oil and 3 tbsp water. Cover with a lid and reduce the heat to low. Cook for 5 mins until the chicken is heated through. Serve with the feta, dill and lemon zest scattered over the top."
     ]
@@ -495,7 +495,7 @@
       "protein": "25g",
       "salt": "1g"
     },
-    "instructions": [
+    "ingredients": [
       "300glong pasta(we used mafaldine)",
       "2 tbspleftover chicken fat(from the roast chicken recipe, below)",
       "1onion, finely chopped",
@@ -509,7 +509,7 @@
       "small handful ofbasil, leaves chopped into fine ribbons",
       "200gcrème fraîche"
     ],
-    "methods": [
+    "instructions": [
       "Cook the pasta following pack instructions and reserve a mugful of the cooking water. Heat theleftover chicken fatin a largefrying panover a medium-high heat. Stir in the onion and cook for 8-10 mins until softened. Mix in the chilli, garlic and tomato purée, then cook for a further 5 mins until the purée has caramelised. Pour in the wine and simmer for 2-3 mins until almost completely reduced.",
       "Mix in the spinach andleftover chickenalong with a splash of the reserved cooking water. Cook for 3-4 mins until the chicken is heated through, then squeeze in some lemon juice, and add most of the basil, the crème fraîche and cooked pasta. Mix in a splash of cooking liquid to bring it all together, then season to taste, adding more lemon juice if needed. Scatter over the remaining basil to serve."
     ]
@@ -535,7 +535,7 @@
       "protein": "31g",
       "salt": "2.8g"
     },
-    "instructions": [
+    "ingredients": [
       "300gsourdoughor crusty bread, torn into chunks",
       "3 tbspleftover chicken fat(from roast chicken)",
       "300ggreen beans, trimmed",
@@ -549,7 +549,7 @@
       "4 tbspsundried tomato oilor olive oil",
       "small handful ofparsley, finely chopped"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 200C/180C fan/gas 6. Combine the bread pieces andchicken fatin aroasting tinwith a pinch of seasoning. Roast for 15-20 mins until crisp, then set aside to cool slightly.",
       "Meanwhile, bring a pan of salted water to a boil and tip in the green beans, bring to a boil again and cook for 2-3 mins until just tender. Drain well and tip into a bowl of ice-cold water for 10 mins. Drain and dry the beans.",
       "Mix together the green beans,chicken, sundried tomatoes, vine tomatoes and croutons in a large bowl. Combine the roasted garlic, mustard, vinegar, honey and olive oil, then season to taste. Drizzle over the salad, toss well and season if needed. Serve on a platter with the parsley scatted over the top."
@@ -576,7 +576,7 @@
       "protein": "32g",
       "salt": "4.39g"
     },
-    "instructions": [
+    "ingredients": [
       "¼red onion, thinly sliced",
       "1 tbspsalted butter, softened",
       "1 tbspDijon mustard",
@@ -588,7 +588,7 @@
       "a handful ofwatercress, rocket or Iceberg lettuce",
       "1tomato, thinly sliced"
     ],
-    "methods": [
+    "instructions": [
       "Soak the sliced onion in some ice water for 5 mins, this helps tame some of its heat. Once soaked, remove from the water and pat dry with kitchen paper.",
       "Spread one slice of the bread with butter. Mix the Dijon, mayonnaise and honey with a pinch of salt and pepper in a small bowl. Spread across the inside of both slices of bread.",
       "Sprinkle the tomato slices with salt and pepper. Layer up the sandwich with the ham, cheese, watercress, the onion and tomato. Lay the remaining slice of bread on top andslice in half."
@@ -615,7 +615,7 @@
       "protein": "36g",
       "salt": "2.5g"
     },
-    "instructions": [
+    "ingredients": [
       "150gsmoked bacon lardonsor pancetta",
       "drizzle ofolive oil(optional)",
       "150gspring greens",
@@ -628,7 +628,7 @@
       "1lemon, zested and juiced",
       "50gfreshly podded or frozen peas"
     ],
-    "methods": [
+    "instructions": [
       "Heat a large pan over a medium heat, tip in the bacon lardons and leave to sizzle for 5 mins until crisp and some of the fat has rendered into the pan. Add a drizzle of oil if the pan looks dry.",
       "Strip the stalks of the spring greens from the leaves, thenfinely chopthe stalks, roll up the leaves and cut them into ribbons. Add the stalks, garlic and chilli to the bacon lardons in the pan and cook for 2-3 mins to soften.",
       "Meanwhile, bring a large pan of salted water to the boil. Add the pasta and cook following packet instructions. Add the leaves of the greens to the pasta 1 min before the end of the cooking time.",
@@ -657,14 +657,14 @@
       "protein": "35g",
       "salt": "4.32g"
     },
-    "instructions": [
+    "ingredients": [
       "3 slices ofsmoked streaky bacon",
       "2 thick slices ofwhite bread",
       "2 tbspsalted butter, softened",
       "2 heaped tbspdark roast crunchy peanut butter(we used Manilife)",
       "1banana, sliced on an angle"
     ],
-    "methods": [
+    "instructions": [
       "Lay the slices of streaky bacon across the bottom of a smallfrying pan, then turn the heat up to low. Cook slowly until very crisp, and all the fat has collected at the bottom of the pan. Remove from the pan and set aside.",
       "Meanwhile, spread the outside of the bread with the butter, then spread the peanut butter on the inside of both slices. Lay one slice of the buttered bread in the pan so the butter is touching the bacon fat, adding a small piece of butter to the pan if the bacon wasn’t very fatty. Lay the banana on top and the bacon on top of that. Sandwich the remaining piece of bread on top.",
       "Cook on medium heat for 2-3 mins on each side until golden. Lift out and drain on kitchen paper, thenslice in halfand enjoy."
@@ -691,7 +691,7 @@
       "protein": "20g",
       "salt": "0.1g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tbspoil or ghee",
       "2 mediumonions, sliced",
       "4garlic cloves, thinly sliced",
@@ -707,7 +707,7 @@
       "½lemon, juiced",
       "cooked rice, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Heat 1 tbsp of the oil or ghee in a large pan over a low-medium heat. Add the onions and sizzle for 15-20 mins until golden brown.",
       "Stir in the garlic, ginger, coriander stalks and cumin seeds. Turn up the heat a little and cook for a few minutes, stirring constantly, until the cumin seeds are aromatic, then add the turmeric, ½ the chilli, coconut milk (reserving 2 tbsp to serve) and spinach. If using fresh spinach, you may have to do this in batches, letting each handful wilt before adding the next. Season well, cover with a lid and cook for 5 mins, then remove the lid and bubble for another 5 mins.",
       "Meanwhile, heat the remaining oil or ghee in afrying panand cook the paneer for 2-3 mins on each side until browned.",
@@ -736,7 +736,7 @@
       "protein": "15g",
       "salt": "0.9g"
     },
-    "instructions": [
+    "ingredients": [
       "1courgette(about 200g), sliced into rounds (or use frozen grilled Mediterranean vegetables)",
       "1 largered pepper, halved, deseeded and cut into 8 wedges",
       "½ tbspolive oil",
@@ -753,7 +753,7 @@
       "1 tspbaking powder",
       "100gnatural bio yogurt"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 220C/200C fan/gas 7. Toss the courgettes and peppers with the olive oil on a baking sheet. Sprinkle over the oregano and some black pepper. Roast for 30-35 mins, turning the veg halfway through, until softened and starting to char.",
       "Meanwhile, make the flatbreads. Tip the flour into a bowl and stir in the baking powder. Stir in the yogurt using a cutlery knife until you have a soft, slightly wet dough. Cut the dough in half and set aside to rest for 10 mins.",
       "Heat a largenon-stick dry frying panover a low heat. Knead one of the dough halves briefly on a well-floured work surface until it’s smooth and elastic, then roll out into a roughly 17cm circle. Put the flatbread in the pan and cook for 3 mins, then flip and cook for 3 mins more until cooked through. Transfer to a serving plate. Repeat with the second dough half.",
@@ -781,7 +781,7 @@
       "protein": "32g",
       "salt": "4.62g"
     },
-    "instructions": [
+    "ingredients": [
       "2 slicesrye bread",
       "salted butter, softened",
       "2 tbspmayonnaise",
@@ -792,7 +792,7 @@
       "3Little Gem, leaves separated",
       "a fewcornichons, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Spread the slices of bread with butter, then the mayonnaise over one slice and the mustard over the other. Pile the pastrami over the mustard side, then add the cheese and sauerkraut. Pile over the lettuce, then sandwich with the mayonnaise-covered side. Skewer everything in place with a cocktail stick, and a few cornichons if you fancy."
     ]
   },
@@ -817,7 +817,7 @@
       "protein": "7g",
       "salt": "0.9g"
     },
-    "instructions": [
+    "ingredients": [
       "4 tbsphummusor nut butter",
       "4rice or corn cakes",
       "4cherry tomatoes, halved",
@@ -826,7 +826,7 @@
       "4pitted olives, sliced",
       "punnet ofcress"
     ],
-    "methods": [
+    "instructions": [
       "Spread the hummus or nut butter over the rice cakes or corn cakes. Use the veg to create faces, snipping off some cress and using it to give the faces any desired hairstyle, beard or moustache."
     ]
   },
@@ -851,7 +851,7 @@
       "protein": "14g",
       "salt": "1.1g"
     },
-    "instructions": [
+    "ingredients": [
       "200gfreshly podded or frozen peas",
       "2mint stalks, leaves finely chopped",
       "1lemon, zested, plus a little juice",
@@ -860,7 +860,7 @@
       "2eggs(optional)",
       "pinch ofchilli flakes(optional)"
     ],
-    "methods": [
+    "instructions": [
       "Put the peas in a saucepan and cover with boiling water from thekettle. Cook over a medium heat for 1 min, then drain.",
       "Tip the peas into a bowl and mash with a fork. Add a pinch of salt, the mint, lemon zest, a squeeze of lemon juice and the olive oil, then mix well.Can be eaten warm or cold. Will keep chilled for a day.",
       "Toast the bread and poach eggs, if you like. Pile the smashed peas onto the hot toast, put an egg on top, if using, and sprinkle over some chilli flakes if you enjoy a bit of spice."
@@ -887,7 +887,7 @@
       "protein": "6g",
       "salt": "0.6g"
     },
-    "instructions": [
+    "ingredients": [
       "200gself-raising flour",
       "50gground almonds",
       "125ggolden caster sugar",
@@ -899,7 +899,7 @@
       "250gstrawberries, chopped",
       "20gflaked almonds"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 180C/160C fan/gas 4. Line the holes of a muffin tray with 12 muffin cases. Mix the flour, almonds, sugar, bicarb and a pinch of salt in a large bowl.",
       "Whiskthe eggs, yogurt, melted butter and vanilla in a jug. Pour the wet ingredients into the dry and mix to a smooth batter, leaving no pockets of flour. Gently fold through half of the chopped strawberries with aspatula.",
       "Divide the mixture between the muffin cases (this is easiest to do using an ice cream scoop, if you have one). The cases should be quite full. Put a few pieces of the remaining strawberries on top along with the flaked almonds.",
@@ -928,7 +928,7 @@
       "protein": "30g",
       "salt": "1.1g"
     },
-    "instructions": [
+    "ingredients": [
       "2Little Gem lettuces, outer leaves only, or loose-leaf lettuce",
       "1cooked chicken breast, chopped",
       "1carrot, grated",
@@ -945,7 +945,7 @@
       "½ tspsoy sauce",
       "1lime, ½ juiced, ½ cut into wedges to serve"
     ],
-    "methods": [
+    "instructions": [
       "For the dip, combine the peanut butter, chilli sauce, soy sauce and lime juice in a bowl, loosening with a splash of cold water, if needed, so it’s a drizzling consistency.",
       "Lay a couple of lettuce leaves on a plate and pile a little chicken and some of the veg on each piece. Scatter over the coriander or mint leaves, and squeeze over some lime juice. Drizzle over some of the satay dip, then roll the lettuce around the filling. Serve with the remaining satay on the side for dipping, if you like and the lime wedges for squeezing over."
     ]
@@ -971,7 +971,7 @@
       "protein": "18g",
       "salt": "1.5g"
     },
-    "instructions": [
+    "ingredients": [
       "8spring onions, ends removed",
       "3 tbspolive oil",
       "10gchives, finely chopped",
@@ -986,7 +986,7 @@
       "8wholemeal tortilla wraps, to serve",
       "grated cheddar, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Toast the spring onions for 5-6 mins in a large, dryfrying pan, turning frequently, until charred. Remove from the pan, leave to cool slightly, then roughly chop. Mix with 2 tbsp of the oil, the chives and lime juice. Season and set aside.",
       "Pour the remaining 1 tbsp oil into the frying pan. Tip in the onion and mushrooms, and cook for 10-12 mins over a medium heat until golden. Stir in the garlic, chipotle paste, if using and chickpeas, and cook for 5 mins until piping hot.",
       "Add the fajita seasoning and a splash of water, then mix well. Serve straight from the pan with the yogurt, wraps, cheddar and spring onion salsa on the side."
@@ -1013,7 +1013,7 @@
       "protein": "15g",
       "salt": "0.5g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tbspvegetable oil",
       "4skin-on, bone-in chicken thighs",
       "8spring onions, roughly chopped",
@@ -1024,7 +1024,7 @@
       "10gcoriander, leaves picked, or roughly chopped",
       "crispy chilli oil, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 200C/180C fan/gas 4. Pour 1 tbsp of the vegetable oil in a largecasserole dishwith a lid. Once hot, season the chicken thighs with salt, then cook skin-side down for 5-6 mins until deeply golden. Remove from the pan and set aside (it shouldn’t be cooked through yet).",
       "Pour in the remaining 1 tbsp of vegetable oil, then tip in the spring onions, garlic and ginger. Cook on a medium heat for 4-5 mins until softened and golden around the edges. Tip in the rice and stir to coat in the oil. Pour in the stock, then put the chicken on top of the rice, skin-side up.",
       "Put the lid on the casserole dish then put in the oven for 20 mins. Remove from the oven and sprinkle over the coriander and crispy chilli oil to serve."
@@ -1050,7 +1050,7 @@
       "fibre": "3g",
       "protein": "17g"
     },
-    "instructions": [
+    "ingredients": [
       "200gpearl couscous",
       "100gradishes, sliced",
       "1cucumber, seeds scraped out and sliced into half-moons",
@@ -1068,7 +1068,7 @@
       "10gbasil, roughly chopped",
       "½ tbspDijon mustard"
     ],
-    "methods": [
+    "instructions": [
       "Cook the pearl couscous following pack instructions, then drain well and rinse with cold water. Dry the pan, then mix all the dressing ingredients in it and season well. Tip in the prepared veg and apple along with the couscous. Mix well and check for seasoning.",
       "Spread out on a platter and flake the smoked trout over the top.Will keep chilled for up to two days."
     ]
@@ -1094,7 +1094,7 @@
       "protein": "7g",
       "salt": "0.6g"
     },
-    "instructions": [
+    "ingredients": [
       "200gbutter, softened, plus extra for the tin",
       "200gpeeled hazelnuts, toasted (see tip, below)",
       "200gself-raising flour",
@@ -1114,7 +1114,7 @@
       "150gicing sugar, sieved",
       "2 tbspstrong coffee(use espresso, or 1 tbsp instant coffee granules mixed with 2 tbsp boiling water)"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 180C/160C fan/gas 4. Butter a deep 20 x 30cm rectangular baking tin and line with baking parchment. Tip 150g of the hazelnuts into afood processorand blitz until finely chopped, then tip in the flour, baking powder and a pinch of sea salt, and blitz again until blended as finely as possible.",
       "Tip the softened butter and brown sugar into a bowl and beat using an electric whisk until combined. Beat in the caramel, coffee and vanilla, then add the eggs, one at a time, beating between each addition. Beat in the dry ingredients until everything is incorporated, then scrape the batter into the prepared tin and level the surface using aspatula. Bake for 30-35 mins, or until the top springs back when gently pressed and a skewer inserted into the middle comes out clean. Cool completely in the tin.",
       "To make the icing, beat the caramel, butter and icing sugar together in a bowl using an electric whisk until smooth, then add the coffee. If the icing is very loose, chill for 30 mins until firm but spreadable. Turn the cooled cake out onto a large plate or board, then spread over the icing using a small offset palette knife. Roughly chop the remaining 50g hazelnuts and scatter these over the top, then cut the cake into 16 rectangles or 32 squares.Will keep in an airtight container for up to three days."
@@ -1141,7 +1141,7 @@
       "protein": "29g",
       "salt": "2.4g"
     },
-    "instructions": [
+    "ingredients": [
       "1ciabatta loaf",
       "8 slices ofmortadella",
       "2burrataor mozzarella balls, drained, patted dry and torn into chunks",
@@ -1162,7 +1162,7 @@
       "1lemon, zested, plus ½ juiced",
       "5-6 tbspextra virgin olive oil"
     ],
-    "methods": [
+    "instructions": [
       "First, make the pesto. Peel the garlic clove and blitz with the rest of the pesto ingredients in afood processoruntil smooth and bright green. Season with salt and chill until needed.Will keep chilled for up to a week.",
       "Slice the ciabatta in halfthrough the equator and toast the cut sides under a hot grill for a few minutes until lightly charred. Spread the pesto evenly over the top, then arrange the mortadella, burrata, olives and rocket over the base and drizzle over a little olive oil. Sandwich with the top of the loaf, wrap firmly in baking parchment and secure with kitchen string.",
       "For best results, put the sandwich in the fridge and top with achopping boardand a few heavy cans to press it down. Chill for at least 30 mins, or overnight. Cut into four pieces to serve."
@@ -1189,7 +1189,7 @@
       "protein": "6g",
       "salt": "0.5g"
     },
-    "instructions": [
+    "ingredients": [
       "300gmango chunks(about 1 large mango, prepared)",
       "5egg yolks(see tip, below)",
       "100gcaster sugar",
@@ -1213,7 +1213,7 @@
       "small handful ofmint leaves",
       "1passion fruit, pulp scooped out"
     ],
-    "methods": [
+    "instructions": [
       "First, make the pastry. Put the flour, butter and sugar in afood processor, and blitz until the mixture resembles breadcrumbs. Add 5-6 tbsp cold water, and pulse again until it comes together in a ball. Wrap and chill for 30 mins.",
       "Roll the pastry out on a lightly floured surface until 3mm thick. Use to line a 23cm loose-bottomed tart tin, leaving some overhanging. Chill for 10 mins. Heat the oven to 200C/180C fan/gas 6. Line the pastry case with a sheet of baking parchment, then fill with baking beans. Put the tin on a baking sheet and bake for 15 mins, then remove the beans and parchment and bake for 5-10 mins more until the pastry is dry and lightly golden. Trim the excess using aserrated knife.",
       "For the filling, blitz the mango chunks to a smooth purée using ahand blender, then add the egg yolks, sugar, melted butter, lime zest and juice, then blitz again until smooth. Stir through the passion fruit pulp to combine.",

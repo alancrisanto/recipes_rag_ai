@@ -35,7 +35,7 @@
 - 6 sliceswhite bread
 - butter, ketchup and brown sauce, to serve
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7. Rub 1 tbsp of the oil over a large, shallowroasting tin. Put the hash browns on one half of the tin and line the sausages up on the other. Cook for 15 mins, then flip the hash browns, turn the sausages and return to the oven for 10-15 mins until the hash browns are golden, and the sausages browned. Push everything together to make room in the tin, then lay the bacon rashers in the space and return to the oven for 10-15 mins or until the bacon fat is crisp and sizzling.
 - About 10 mins before the bacon is ready, heat 1 tbsp of oil with the butter in a frying pan until sizzling. Scatter in the mushrooms and season with salt and pepper. Fry over a high heat, tossing occasionally until softened and any liquid released has evaporated (about 5-10 mins), then tip onto a warm plate. Wipe out the pan, heat the rest of the oil and fry the eggs however you like them. While everything is cooking heat the baked beans in a saucepan or in themicrowaveand lightly toast the bread, then spread the toast with butter.
 - To assemble, split the sausages in half and lay three halves on each of two slices of toast. Top the sausages with the bacon then spoon over the mushrooms and top with a second slice of toast. Spread over ketchup or brown sauce (or both), then squash the hash browns down a little and top each toast with two hash browns. Top the hash browns with an egg each, then top with the last slices of toast (spread with more sauce, if you like). Press down lightly on each sandwich and serve as they are or cut in half to get a runny yolk oozing out of each sandwich. Serve with a bowl of baked beans on the side.
@@ -87,7 +87,7 @@
 - 25gicing sugar
 - drop ofrosewater(optional)
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter a 20cm cake tin and line with baking parchment. Beat the butter and sugar together using an electric whisk until pale and fluffy, about 5 mins. Beat in the eggs, one at a time, then fold in the flour, baking powder and milk. (If the mixture starts to split when adding the eggs, add 1 tbsp of the flour with each one.) Scrape half the batter into a second bowl. Stir the raspberry powder and food colouring into one bowl and the rosewater into the other, so you have a bowl of pink berry batter and one of plain rose batter.
 - Alternately spoon the batters into the middle of the tin (about 1-2 tbsp each time) until all the batter is used up and it has filled the tin. If the batter is quite thick, gently press in each spoonful to encourage it to the edge. Use a skewer to swirl the batters together to create a marbled effect. Bake for 40-45 mins until golden, risen and a skewer inserted into the middle comes out clean. Cool on awire rack.
 - Meanwhile, put the fresh or frozen berries and icing sugar in a bowl and leave for 1 hr until syrupy. Add a drop of rosewater, if you like. Serve with slices of the cake alongside the crème fraîche.
@@ -143,7 +143,7 @@
 - 2garlic cloves, finely grated
 - 85gsage & onion stuffing mix
 
-### Method
+### Instructions
 - For the pastry, tip the flour and mustard powder into a bowl, then rub in the butter and lard (if using) with a large pinch of salt until the mixture resembles breadcrumbs. Pour in half the egg and 75ml ice-cold water. Use your hands to work the mixture into a rough dough, then knead for a minute or so to bring it together. Cover and chill until needed.Will keep chilled for up to a day.
 - For the filling, bring a pan of salted water to the boil, then add the eggs and cook for 7 mins 30 seconds. Lift out using a slotted spoon into a bowl of iced water. Once cool, peel the eggs, then trim away some white from the sides (so that every slice of pie gets a bit of yolk), then set aside. Tip the sausagemeat into a bowl with the bacon, thyme, pickled onions and garlic, then squash everything together with your hands and season.Will keep chilled for up to a day.
 - To assemble, heat the oven to 200C/180C fan/gas 6 with a sturdybaking trayinside.Roll two-thirdsof the pastry out to the thickness of a £1 coin on a lightly floured surface and use it to line the base of a 20cm round loose-bottom or springform tin, tucking the pastry into the corners and leaving an overhang. Sprinkle half the stuffing mix over the base, then pack in a third of the sausage mixture. Arrange the eggs in a circle on top with the cut sides touching. Pack over the rest of the sausage mix, filling in any gaps, and scatter over the remaining stuffing.
@@ -184,7 +184,7 @@
 - soda water, for topping up
 - 4raspberries, to garnish
 
-### Method
+### Instructions
 - Divide the lychee juice between fourchampagne flutes, then add ¼ tsp rosewater to each.
 - Divide the prosecco between the glasses, then top up with soda water. Drop a raspberry into each glass, then serve.
 
@@ -233,7 +233,7 @@
 - ½ tspvanilla extract
 - 125gicing sugar
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Scatter the oats over a baking sheet and toast in the oven for 8-10 mins, mixing halfway, until golden. Leave to cool completely.
 - Tip the flour, cornflour and sugar into the bowl of afood processorand pulse to combine. Add the butter and pulse to the texture of breadcrumbs. Pour in the egg yolks and pulse again until the mixture is moist and begins to come together. Add a splash of water if needed.
 - Turn the dough out onto a work surface and scatter over the cooled toasted oats. Work them into the dough, using your hands, bringing it together into a ball. Split the dough in half and form into two rough squares. Wrap each one in baking parchment and chill for 1 hr.
@@ -292,7 +292,7 @@
 - 4Little Gemlettuce leaves, washed and dried
 - 2 tspmayonnaise
 
-### Method
+### Instructions
 - To make the tuna salad tip all the ingredients into a bowl, season with a little salt and lots of pepper and use a fork to mash everything together until completely mixed.Will keep covered and chilled for a day.
 - To assemble the sandwiches pile and spread the tuna salad over two slices of the bread. Add the cucumber and lettuce, then spread the remaining slices with the mayonnaise and use them to top the sandwiches. Press down on the sandwiches lightly, then halve (rectangles or triangles) and serve. Best eaten straightaway or pack into areusable plastic containerfor lunch.
 
@@ -340,7 +340,7 @@
 - 3spring onions, finely sliced
 - 20gparsley, leaves picked and stalks finely chopped
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Toss the bread with 2 tbsp of the olive oil and season. Arrange in a single layer on a largebaking tray. Toast in the oven for 10-12 mins, stirring halfway through, until golden and crisp. Remove and set aside to cool slightly.
 - Trim the asparagus and finely chop the ends. Heat ½ tbsp of the oil in a frying pan over a medium heat. Tip in the chopped asparagus ends and cook for 5-7 mins until browned and crisp, then remove to a plate using a slotted spoon. Stir in the garlic, lemon zest and juice, mint, sumac, vinegar and the remaining 2 tbsp oil, then tip into a large bowl and season.
 - Bring a pan of salted water to the boil. Cut each asparagus spear into three pieces and tip into the boiling water along with the broad beans. Cook for 2 mins, then drain and plunge into a bowl of ice-cold water. Leave for 5 mins then drain well and arrange on a clean tea towel to dry.
@@ -386,7 +386,7 @@
 - 150gkimchi, roughly chopped, plus 1 tbsp liquid from the jar (ensure vegetarian, if needed)
 - lime wedges, to serve
 
-### Method
+### Instructions
 - Cook the noodles following pack instructions. Drain. Heat the oil in a frying pan orwokover a medium-high heat and fry the mushrooms for 8-10 mins until browned.
 - Mix the tahini, sesame seeds, soy, stock, most of the spring onions and the kimchi liquid in a small bowl. Remove the pan from the heat, pour in the tahini mixture and stir. If it splits, keep stirring – it will come back together. Stir in the cooked noodles and kimchi. Serve topped with the remaining spring onions, and the lime wedges on the side for squeezing over.
 
@@ -429,7 +429,7 @@
 - 200gshredded ham hock
 - 1egg yolk, beaten (freeze the extra white to use in another recipe)
 
-### Method
+### Instructions
 - Cook the potato slices in a large pan of boiling salted water for 2-3 mins until just tender. Drain, then spread out over a clean tea towel and leave to steam-dry. Once cool, combine with the cream, mustard and seasoning.
 - Heat the oven to 220C/200C fan/gas 7. Unravel one of the puff pastry sheets over a lightly floured surface androll outso it’s slightly thinner. Cut out a 25cm circle. Spread the cranberry sauce over the pastry disc, then arrange half the potatoes on top in a neat circle. Scatter over the cheese and ham hock, then top with the remaining potatoes, patting the filling into a dome shape.
 - Roll the second pastry sheet out until it is 30cm wide, and cut out a 30cm circle. Lift this over the filling and smooth it over, pressing it down at the edge and easing out any air as you go. Crimp the edge together to seal, then cut a small air hole in the top and chill for 20 mins. Can be covered and chilled for up to 24 hrs before glazing and baking.
@@ -476,7 +476,7 @@
 - 1.2kgskin-on boneless turkey breast, butterflied
 - 22 rashersstreaky bacon
 
-### Method
+### Instructions
 - Heat the oil in a small pan over a medium heat and cook the onion and rosemary, covered, for 15 mins until softened. Tip into a bowl. Leave to cool. Once cool, add the pistachio crumbs, breadcrumbs, cranberries, sausagemeat, parsley and egg.
 - Put the turkey breast skin-side down on a board, cover with baking parchment and flatten slightly using a mallet or rolling pin so it’s an even thickness. Remove the parchment and spoon most of the stuffing down the middle of the breast. Roll the breast up around the stuffing as tightly as you can to enclose it. Roll any leftover stuffing into balls.
 - Put a large sheet of baking parchment on a work surface and lay six pieces of kitchen string on top of it in parallel lines, about 5cm apart. Working with one rasher at a time, run the back of a knife over the bacon to stretch and flatten it. Arrange the bacon in a lattice pattern over the kitchen string and parchment. Put the turkey breast on top of the bacon, skin-side down, and pull the bacon rashers up and around the breast so it’s completely wrapped. Tie the kitchen string to secure the roll.
@@ -523,7 +523,7 @@
 - 4 tbspmayonnaise
 - 1 tspwholegrain or Dijon mustard
 
-### Method
+### Instructions
 - Spread the cranberry sauce over the wraps, leaving a 2cm border around the edge. Arrange the lettuce, turkey, roast veg, stuffing and cabbage down the middle of the wraps.
 - Mix the mayonnaise with the mustard, and drizzle this over. Fold the top and bottom of the wrap over the filling, then roll up from one side like a burrito to enclose the filling.Slice diagonallyacross the middle to serve.
 
@@ -575,7 +575,7 @@
 - 125gfrozen butter
 - 1egg, beaten
 
-### Method
+### Instructions
 - First, make the pastry. Mix the flour and mustard powder together in a bowl. Coarselygratein the frozen butter, stirring occasionally to coat the butter in the flour. Pour in 90-100ml cold water and mix with a cutlery knife to make a soft dough. Wrap and chill for at least 30 mins.
 - Heat a deep medium frying pan over a low heat and cook the bacon for 5-10 mins until it has released its fat and turned golden. Add the butter, leeks and thyme leaves. Cover and cook for 15-20 mins until the leeks are soft. Stir in the flour and cook for 2-3 mins more, then gradually pour in the stock. Stir and simmer until thickened. Scrape into a bowl and leave to cool.
 - Heat the oven to 200C/180C fan/gas 6. Mix the cream, mustard and turkey into the cooled leek mixture, then pour this into a 23cm pie dish.
@@ -631,7 +631,7 @@
 - 50ghazelnuts, toasted and roughly chopped
 - ½lemon, juiced
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4 with a baking sheet inside. Butter a 24cm non-stick savarin mold, or a 20cm springform cake tin. Sprinkle 25g parmesan over the tin in an even layer. Arrange the 8 whole sage leaves over the base of the tin, then set aside.
 - Melt the butter in a medium pan over a medium heat. Stir in the flour and cook for 2 mins, then gradually pour in the milk,whiskingcontinuously. Bring to the boil, then reduce the heat and simmer for 5 mins until thick and smooth. Remove from the heat and stir in the pumpkin purée, remaining parmesan, the mustard powder and nutmeg. Add the chopped sage, then taste for seasoning. Cool slightly. Beat in the eggs, then fold in the goat’s cheese.
 - Spoon the mixture into the tin and bake for 35-45 mins until risen and dark golden. Leave to cool in the tin for 10 mins before turning out onto a serving plate.
@@ -682,7 +682,7 @@
 - 50gunsalted butter
 - 3 tbspcranberry sauceor redcurrant jelly
 
-### Method
+### Instructions
 - Heat 2 tbsp of the oil in a large frying pan or flameproof casserole (if cooking in the oven) over a medium-high heat. Season the brisket well, then brown all over for 10 mins. Lift out and transfer to aslow cooker. Pour a splash of the red wine into the pan and stir to scrape up any caramelised bits, then pour this over the brisket. (If you’re cooking the brisket in the oven, lift the meat out into a large bowl, pouring over any caramelised bits from the pan, and continue as below.)
 - Heat the remaining oil in the pan or casserole and fry the bacon for 3-4 mins until golden. Add the chopped shallots, carrot and rosemary. Cook for 10 mins until the veg has softened, then stir in the flour and cook for 1-2 mins more. Pour in the rest of the wine and the stock, then add the bay leaves, cinnamon stick and star anise. Bring to the boil, then pour the mixture over the brisket. (Or, return the brisket and any resting juices to the casserole.)
 - Cook the brisket in the slow cooker on low for 6-8 hrs, or transfer the casserole to the oven and cook, covered, at 160C/140C fan/gas 3 for 3 hrs 30 mins until tender enough to shred using two forks.
@@ -734,7 +734,7 @@
 - 100gdark chocolate, roughly chopped
 - 15gflaked almondsor shelled pistachios, thinly sliced
 
-### Method
+### Instructions
 - Mix the flour, sugar and spice (if using) together. Either rub the butter into the dry ingredients using your fingertips, or pulse the ingredients in afood processoruntil the mixture starts to come together into a dough. Stir or pulse in the egg yolks. If the mixture is dry, add 1 tsp cold water and mix again until it comes together. Flatten the dough into a disc, wrap and chill for 30 mins.
 - Heat the oven to 200C/180C fan/gas 6 and line two large baking sheets with baking parchment. Roll the dough out between two large sheets of parchment to a ½cm thickness. Stamp out biscuits using a 6½cm round or shaped cutter, re-rolling the off-cuts until all the dough has been used (you should get about 20 in total). Bake for 8-10 mins until the biscuits are starting to turn golden at the edges. Leave to cool on the baking sheets for 10 mins, then transfer to awire rackto cool completely.
 - Melt the white chocolate in a heatproof bowl over a pan of simmering water (ensure the bowl doesn’t touch the water), or in the microwave in 30-second bursts. Repeat with the dark chocolate. Dip half of 10 of the biscuits into the white chocolate, put on baking trays lined with parchment and sprinkle over the ginger or cranberries. Repeat with the remaining biscuits and dark chocolate, sprinkling over the almonds or pistachios instead. Leave to set at room temperature or in the fridge.Will keep in an airtight container for a week.
@@ -811,7 +811,7 @@
 - 75gparmesan, finely grated
 - ¼nutmeg, grated
 
-### Method
+### Instructions
 - For the ragu, heat 3 tbsp of the oil in a large saucepan over a medium heat and cook the onion, sage, bay, cinnamon and a large pinch of salt, covered, for 20 mins until the onions are soft. Meanwhile, heat the rest of the oil in a large frying pan over a medium heat and fry the pancetta for a few minutes until turning golden. Add the parsnip and fry for another 2 mins, then add the beef mince and brown all over, stirring occasionally. Tip the beef mixture into the pan with the onions. Add the tomatoes, cranberry sauce, stock and wine. Simmer for 1 hr 30 mins until the sauce is rich and has reduced slightly. Remove from the heat, discard the bay and cinnamon stick, and stir in the chocolate until it has melted.
 - While the ragu is simmering, make the chestnut sauce. Blitz 500ml of the milk with the chestnut purée or in a high-poweredblenderuntil smooth. Sieve into a large saucepan, then add the remaining milk and warm over a low heat until it’s just under a simmer. Melt the butter in a separate pan over a medium heat, then stir in the flour and cook for 2 mins until you have a paste. Slowly ladle the warm milk mixture into the pan, whisking continuously. Bring to the boil, whisking for 3-4 mins until thickened. Remove from the heat, season and stir in the parmesan and nutmeg.
 - Heat the oven to 180C/160C fan/gas 4. Spoon a little of the ragu into the base of a large, deep baking dish about 40 x 30cm (or if you don’t have a large enough dish, use two medium dishes). Top with a layer of lasagne sheets, making sure they don’t overlap, followed by a quarter of the chestnut sauce and a third of the ragu. Repeat twice more, then finish with a final layer of lasagne sheets and the remaining chestnut sauce. Sprinkle over the parmesan. At this stage, the lasagne can be wrapped and chilled for up to 24 hrs, or frozen for up to three months. Defrost in the fridge for 48 hrs before baking. Bake for 1 hr (or 1 hr 15 mins-1 hr 30 mins from chilled) until the sauce is bubbling and the top is golden and crisp.
@@ -852,7 +852,7 @@
 - 100glight brown soft sugar
 - 700mlgin
 
-### Method
+### Instructions
 - Lightly bash the ginger, cinnamon sticks, cloves and cardamom pods using apestle and mortaror the end of a rolling pin. Tip these into a 1-litresterilisedwide-neck bottle or jar. Add the sugar and pour in the gin. Seal and swirl the bottle or jar until the sugar has dissolved, then leave in a cool, dry place to infuse for 24-36 hrs. Any longer, and the gin will start to taste bitter. (If you don’t have a 1-litre make and give jar, divide the mixture between two smaller 500ml containers.)
 - Strain through muslin- or coffee-filter-lined funnel into sterilised bottles and seal.Will keep for several months in a cool, dark place.Serve with tonic over ice garnished with an orange slice, or use as the base for a hot toddy.
 
@@ -891,7 +891,7 @@
 - 50ggruyère, thinly sliced or grated, plus extra grated cheese for the tops
 - wholegrain or Dijon mustard, for spreading
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Split the croissants through the middle, being careful not to cut all the way through, and put on a baking sheet. Spread chutney over the bases, then top with the ham and cheese.
 - Close the croissants and spread a little mustard over the tops. Scatter over the grated cheese and some black pepper, if you like. Bake for 8-10 mins until the cheese has melted. Cool for 1-2 mins, then serve.
 
@@ -933,7 +933,7 @@
 - 50gicing sugar, sifted
 - 2oranges, 1 zested, both juiced, plus extra zest to decorate
 
-### Method
+### Instructions
 - Butter the base and side of a 20cm springform cake tin and line with baking parchment. Melt the butter in a saucepan over a low heat. Blitz the ginger biscuits to fine crumbs in afood processor, then add the mince pie pieces and pulse a few times to break up further. Add the butter and pulse to combine. Tip the mixture into the tin and press into an even layer using the back of a spoon. Chill for 30 mins.
 - If the mincemeat has pieces of suet, warm in asaucepanover a low heat to melt the suet, then leave to cool completely. Briefly whisk the soft cheese to loosen, whisk in the cream and icing sugar until the mixture is holding its shape. Add the orange zest and juice and the mincemeat, and whisk again briefly to combine.
 - Spoon the cheesecake mixture over the base and smooth using aspatulaor spoon. Chill for 8 hrs until set. Decorate with mince pie pieces and orange zest, then serve.
@@ -987,7 +987,7 @@
 - 45mllemon or clementine juice, or use water
 - dried cranberries, glacé cherries, coloured sprinkles and pistachio slivers (optional)
 
-### Method
+### Instructions
 - To make the pastry, either pulse the flour, sugar, cinnamon and butter together in afood processoruntil the mixture resembles coarse crumbs, or use your fingers to rub the butter into the dry ingredients. Add the yolk and pulse or stir to combine. If the dough is dry, add 1-2 tsp water to bring it together. Tip the pastry out, shape into a disc, wrap and chill for 30 mins.Will keep frozen for three months.
 - Heat the oven to 190C/170C fan/gas 5.Roll the pastry outon a lightly floured surface until it is 2mm thick. Stamp out 12 x 8cm circles and 12 x 7cm circles using round cutters. Gently press the larger circles into the 12 holes of a non-stick bun pan. Spoon 2 tsp mincemeat into each pie. Brush a little water around the edges of the pastry, then top with the smaller pastry circles. Press the edges of the pastry together to seal, then bake for 20 mins until golden.
 - Leave to cool in the tin for a few minutes, then lift onto awire rackto cool completely. For the icing, mix the sugar with 1 tbsp juice or water. Add more liquid, 1 tsp at a time, until you have a thick, smooth icing. Spoon the icing onto the mince pies, gently pushing it to the edges. Decorate with dried cranberries, cherries, sprinkles or pistachio slivers, if you like. Leave to set before serving.Will keep in an airtight container for five days.
@@ -1037,7 +1037,7 @@
 - 25gflaked almonds
 - ice cream or cream, to serve
 
-### Method
+### Instructions
 - Soak the sultanas in a little boiling water to plump up for 5 mins, then drain thoroughly. Meanwhile, butter a shallow 20cm x 30cm baking dish and butter the bread on one side. Cut the crusts off and cut the bread in half diagonally. Scatter most of the sultanas over the base of the dish and add the bread, buttered-side up, with the slices overlapping. Scatter over the remaining sultanas.
 - Heat the oven to 180C/160C fan/gas 4. Add the ginger, spices and tea to a pan, and pour over the milk and double cream. Bring to a gentle simmer, then leave to infuse for 10 mins. Strain the mixture into a jug and discard the spices and teabags. Mix the four whole eggs and two egg yolks in a bowl with the caster sugar, and slowly pour in the warm milk mixture,whiskingwell the whole time.
 - Slowly pour the custard over the bread, ensuring it’s evenly distributed, then set aside for 20 mins for the bread to absorb the custard. Sprinkle over the demerara sugar and flaked almonds. Put the dish in a deeproasting tinfilled with boiling water that comes halfway up the sides. Bake for 20-30 mins, until set and golden. Serve warm with cream or ice cream, if you like.
@@ -1080,7 +1080,7 @@
 - 1 tbspgoji berries
 - 1 tbspchia seeds
 
-### Method
+### Instructions
 - Tip half the raspberries and all of the orange juice into a pan. Simmer until the raspberries soften, about 5 mins.
 - Meanwhile, stir the oats, milk and 450ml water together in a pan over a low heat until creamy. Serve topped with the raspberry compote, almond butter, remaining raspberries, orange slices, banana slices, goji berries and chia seeds.
 
@@ -1122,7 +1122,7 @@
 - 150gbuttermelted
 - vanilla ice creamto serve
 
-### Method
+### Instructions
 - Heat the oven to 200C/fan 180C/gas 6. Peel, core and chop the apples into bite-sized pieces, then put them in a frying pan (preferably ovenproof) with 50g sugar, the cinnamon and 2 tbsp of water. Cook over a medium heat for 5 mins, or until the apples start to soften. Leave the apples in the pan if it’s ovenproof; if not, tip them into a baking dish. Drizzle over the caramel sauce.
 - Mix together the flour, baking powder and remaining sugar and scatter the mixture over the top of the apples. Pour over the melted butter, ensuring it soaks up all the pockets of flour.
 - Transfer to the oven and bake for 45-50 minutes, or until bubbling and golden. Remove from the oven and let rest for 5-10 minutes before serving with a scoop of vanilla ice cream.
@@ -1167,7 +1167,7 @@
 - 1tbspcider vinegar
 - 6Bockwurst or pork sausage
 
-### Method
+### Instructions
 - Stir the mayonnaise and mustard together in a large mixing bowl and season. Stir in the cabbage and carrot. Grate in 2 of the apples (discarding the core). Mix well.
 - Heat the oil in a frying pan and fry the red onions on a medium heat for 5 mins with a pinch of salt. Core and slice the other 2 apples into thin wedges. Add these to the pan with the brown sugar and cider vinegar and cook for 10 mins, stirring occasionally, until sticky and caramelised.
 - Cook the Bockwurst or sausages following pack instructions. Split the hot dog rolls and toast. Spoon a little apple slaw into each roll, followed by a sausage, then top with the caramelised apples and onions to serve. Any leftover slaw will keep for 3 days in the fridge.
@@ -1217,7 +1217,7 @@
 - 1½ tbspdemerara sugar
 - 1 tbspflaked almonds(optional)
 
-### Method
+### Instructions
 - Heat the oven to 160C/140C fan/gas 3. Butter a deep 20cm cake tin and line the base and sides with baking parchment. Beat the butter and both sugars together using an electricwhiskuntil light and fluffy. Slowly drizzle in the beaten egg, beating continuously. Sift the flour, ground almonds and mixed spice together, then fold this into the cake batter, a third at a time. Gently fold through the orange zest, mincemeat and cherries, if using.
 - Spoon the batter into the tin, level the surface and sprinkle over the demerara sugar. Scatter over the flaked almonds, if using. Bake for 1 hr-1 hr 15 mins, or until golden, firm and a skewer inserted into the middle comes out clean. If there is still raw batter, cover loosely with foil to prevent burning, and return to the oven for another 5-10 mins. Leave to cool in the tin for 15 mins, then lift out onto awire rackto cool completely. Will keep in an airtight container for five days.
 
@@ -1258,7 +1258,7 @@
 - 200mlmilk
 - 4tbspcaramel sauceplus more to serve
 
-### Method
+### Instructions
 - Melt the butter in a frying pan, then pour most into a bowl, leaving 1 tbsp in the pan. Add the sugar to the frying pan along with the apples and fry for about 5 mins on a medium-high heat until sticky and caramelised, tossing the apples around a couple of times.
 - Brush the melted butter onto the slices of bread then cut them into triangles and arrange into a baking dish about 18cm x 28cm. Spoon the caramelised apples over the top.
 - Mix the custard and milk in a bowl or large jug. Pour the mixture all over the bread and apples in the dish and leave to soak for 10-15 mins while the oven preheats to 190°C/fan 170°C/gas 5.
@@ -1325,7 +1325,7 @@
 - 1 tbspolive oil
 - 2 tbspAmerican mustard
 
-### Method
+### Instructions
 - For the filling, fill a largesaucepanhalf-full with water and set over a high heat. Add 1 tbsp salt and bring to the boil. Add the onion, carrot, celery, pepper, garlic and spring onions. Boil for 40 mins to make a stock. Add the chicken breasts and simmer for a further 30 mins.
 - Meanwhile, for the arepas, mix 900ml water with a generous pinch of salt in a large bowl. Gradually add the harina, gently mixing with your hands until a smooth dough is formed – it should be soft but not sticky. Leave to rest for 3 mins. Separate into 10 pieces and shape into balls. Cover and set aside.
 - Remove the chicken from the stock using a slotted spoon and leave to cool. Strain the stock, discarding the solids, then measure 100ml into a jug (chill or freeze the rest of the stock to use in another recipe). Shred the poached chicken using two forks, then tip into a bowl with the 100ml stock, the mayonnaise and lemon juice. Mix together well, breaking up the chicken a bit more as you do.
@@ -1381,7 +1381,7 @@
 - 100gbutter, softened
 - ¼lemon, zested and juiced
 
-### Method
+### Instructions
 - Tip all the garlic butter ingredients into a bowl, then season and mash with a fork until fully combined. Spoon into apiping bag(or food bag with a corner cut off ) and pipe four thick lines of the butter over a small tray lined with baking parchment. Chill until firm, about 1 hr in the fridge or 30 mins in the freezer.Will keep chilled for up to three days.
 - Working with one chicken breast at a time, put on a board, smooth-side down, cover with a sheet of baking parchment and use a kitchen mallet or rolling pin to gently bash to an even thickness of about 1/2cm. Lightly brush the edges of the chicken with some of the beaten egg, then lay a piece of butter in the centre. Fold one end of the chicken up over the butter and roll tightly to enclose. Secure the ends and middle using cocktail sticks.
 - Pour the milk into a shallow dish and season. Tip the flour and paprika into a second dish, stir to combine, then pour the remaining beaten egg into a third and the breadcrumbs into a fourth. Coat the kievs in the milk, then the flour, egg and finally the breadcrumbs, turning to ensure they’re fully coated. Set aside on a plate and chill for 1 hr to ensure the butter stays firm, or until needed.Will keep chilled for a day.
@@ -1423,7 +1423,7 @@
 - 1lime, juiced
 - ice
 
-### Method
+### Instructions
 - Put the tequila, coriander and chilli in acocktail shaker, and bash with a muddler or the end of a rolling pin to release the chilli oils.
 - Add the honey, lime juice and a handful of ice. Cover the shaker and shake until the outside feels cold.
 - Dampen the rim of a tumbler and dip in salt. Strain in the cocktail and garnish with a slice of chilli to serve.
@@ -1473,7 +1473,7 @@
 - 1 ½ tspcaraway or fennel seeds
 - 2 tbspwhite sugarpearls, or 3 white sugar cubes, crushed
 
-### Method
+### Instructions
 - Warm the milk in a small pan over a low heat until just steaming, then leave to cool for about 15 mins until cool enough to touch. Beat 2 of the eggs into the warm milk. Tip the flour into a bowl, then rub in the butter using your fingertips to a breadcrumb-like texture. Mix in the sugar and 1 tsp salt. Stir in the yeast, then make a well in the centre. Stir in the milk and egg mixture using a wooden spoon to create a sticky dough. Tip onto a floured surface and knead for 10-15 mins until smooth, or use a stand mixer with a dough hook and knead for 5 mins. Put in an oiled bowl and cover with a tea towel. Leave to prove for 1 hr, or until doubled in size.
 - Line twobaking trayswith baking parchment. Tip the dough out onto a floured surface and knock out the air, then divide into 12 pieces,weighingfor accuracy if you like (about 100g each). Shape into balls and arrange on the baking trays, well spaced apart. Cover with tea towels and leave to prove for 1 hr.
 - Heat the oven to 200C/180C fan/ gas 6. Beat the remaining egg and brush it all over the buns. Bake for 20-25 mins until risen and golden brown. Put on wire racks to cool.

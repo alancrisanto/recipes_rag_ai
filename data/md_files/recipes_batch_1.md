@@ -41,7 +41,7 @@
 - small handful of parsley,finely chopped
 - garlic breador fries, to serve
 
-### Method
+### Instructions
 - Heat the oil in a large, deepsaucepanover a medium heat and fry the celery, chilli, onion and lemon zest strips for 8-10 mins until slightly softened, but not coloured. Pour in the vodka, tomato juice, dashi powder, celery salt, Worcestershire sauce, hot sauce, sherry vinegar and 150ml water. Bring to a gentle simmer and bubble for a few minutes until slightly thickened. Season well with white pepper and a dash more hot sauce and Worcestershire sauce, if you like.
 - Turn the heat up to high and tip in the cleaned mussels. Put a lid on and steam for 3-4 mins, giving the pan a few vigorous shakes to cook evenly. The shells should be open when cooked; discard any unopened mussels. Sprinkle over the parsley and serve with garlic bread or fries for mopping up the sauce.
 
@@ -90,7 +90,7 @@
 - 350mlmilk
 - 175gspelt flouror buckwheat flour (optional)
 
-### Method
+### Instructions
 - Tip the pancake ingredients into ablenderand blitz until smooth. Set aside to rest. Put the rhubarb, honey, orange juice and zest in a medium saucepan over a medium heat and cook, stirring occasionally for 8-12 mins until the rhubarb collapses. Add more honey, to taste, if you prefer, then set aside.
 - Melt 1 tbsp butter in a large frying pan over a medium heat, swirling to coat the entire pan. Pour in enough of the pancake mix to coat the base, swirling the pan to spread the batter. (The batter should make 9 pancakes, in case the first one sticks.) Cook for about 1 min until the underside is golden, then flip over and cook for 30 secs-1 min until cooked through. Remove to a plate and keep warm. Repeat the process, adding more butter to the pan between pancakes.
 - Set aside a couple of spoonfuls of the rhubarb compote. Divide the rest between the pancakes, spooning a little into the centre of each. Fold over the left and right sides of each pancake so they overlap and enclose the filling, then fold over the side nearest to you, all the way to where the compote starts. Tuck the section holding the compote in and over itself to form neat parcels.
@@ -138,7 +138,7 @@
 - 3 tbspextra virgin olive oil
 - 10gparsley,finely chopped, plus 2 tbsp to garnish
 
-### Method
+### Instructions
 - Bring a large pan of salted water to the boil over a medium-high heat. Trim away any dry ends from the broccoli. Cut large stalks in half so they are all a similar size. Cook the broccoli for 4-6 mins until aknifecan easily pierce through the stalks.
 - Combine the dressing ingredients in a large bowl with a pinch of salt and a few grinds of black pepper. Taste – it should be slightly over-seasoned and punchy, as the broccoli will absorb the dressing along with the seasoning. Drain the broccoli well and add to the dressing. Toss well to evenly coat.
 
@@ -193,7 +193,7 @@
 - 200ggolden caster sugar
 - 2 tspcornflour
 
-### Method
+### Instructions
 - For the pastry, put the flour, sugar and a pinch of salt in a bowl and rub in the butter using your fingers until crumbly. Mix in the egg until a dough forms, then flatten into a disc, wrap and chill for at least 30 mins.Will keep covered and chilled for two days.
 - Heat the oven to 200C/180C fan/ gas 6.Roll the pastry outon lightly floured surface to about the thickness of a £1 coin, and use it to line a 23cm fluted tart tin, with some overhanging. Line the pastry case with baking parchment and fill with baking beans. Bake for 15 mins, then remove the parchment and beans and bake for 10-15 mins more, or until biscuity. Trim the overhanging pastry with a serrated knife. Leave to cool. Turn the oven to 180C/160C fan/gas 4.
 - While the pastry bakes, combine the cornflour, sugar and lime zest in a medium saucepan. Stir in the lime juice and gradually add 50ml water. Cook over a medium heat, stirring continuously until thick and smooth. Once bubbling, remove from the heat and beat in the butter using a whisk until melted. Beat in the egg yolks, then return to the hob over a medium heat, stirring vigorously for a few minutes until you have a thick custard consistency. Remove from the heat, cover and set aside to cool slightly.
@@ -256,7 +256,7 @@
 - 2 tbspicing sugar
 - 200gnatural yogurt
 
-### Method
+### Instructions
 - Tip the rhubarb, sugar, orange zest and juice and vanilla bean paste into asaucepanover a medium heat and cook, stirring often, until the rhubarb has completely broken down and you can draw a line through the mixture with aspatula, about 10-15 mins. You can remove a few pieces of rhubarb after 2 mins to decorate, if you like. Once thick, glossy and pink, transfer to a heatproof bowl, cool completely and keep chilled until needed.Will keep chilled for up to three days.
 - For the shortbread, beat the butter, sugar, vanilla bean paste, cardamom and a large pinch of sea salt together using an electric whisk until light and fluffy. Add the egg and briefly whisk again to combine. Sift over the flour and add the pistachios. Stir until you have a shaggy dough, then bring it together with your hands, being careful not to overwork it.
 - Tip the dough out onto a large sheet of baking parchment and use the parchment to help you roll it into a tight log roughly 25cm in length. Chill in the fridge for 1 hr or freezer for 30 mins.Will keep wrapped and frozen for a month.
@@ -306,7 +306,7 @@
 - cooked rice,to serve
 - small handful of parsley,chopped
 
-### Method
+### Instructions
 - Combine the flour, paprika and oregano in a medium bowl, then add the chicken breasts and toss to coat. Heat the oil in a largefrying panover a medium heat and cook the chicken breasts, skin-side down, for 4-5 mins until the skin is golden brown. Turn over and cook for another 4-5 mins until golden on both sides. Remove to a plate and set aside.
 - Scatter in the sundried tomatoes and garlic and cook for 1 min, then add the wine and cook for 2-3 mins until the alcohol has evaporated. Return the chicken to the pan, then pour in the stock and simmer for 5 mins. Add the spinach and cook for a further 5-10 mins until the chicken has cooked all the way through and the spinach has wilted. Pour in the double cream, stir in half the parmesan and cook for 1-2 mins to heat through. Serve the chicken over cooked rice, if you like, with the remaining parmesan and parsley sprinkled over the top.
 
@@ -349,7 +349,7 @@
 - 50gfeta,crumbled (vegetarian, if necessary)
 - ½lemon,zested and juiced
 
-### Method
+### Instructions
 - Heat the butter and oil in a large, lidded frying pan over a medium heat and fry the spring onions for 5 mins, covered, turning occasionally until browned. Mix the stock with the mustard and pour this over the spring onions. Bring to a simmer, cover again and cook for 10 mins, then remove the lid and cook for a further 15 mins.
 - Scatter in the peas and cook for 5-10 mins until the peas are cooked, the spring onions tender and the stock has reduced. Spoon onto a serving plate and scatter over the mint, feta and lemon zest. Squeeze over the lemon juice and serve.
 
@@ -396,7 +396,7 @@
 - small handful of parsley,finely chopped
 - crusty bread,to serve (optional)
 
-### Method
+### Instructions
 - Heat the oil in a frying pan over a medium heat and fry the onion for 6-8 mins until soft and beginning to brown. Add the garlic and anchovies and cook for 1 min more before scattering in the chilli, if using, and the oregano. Cook for 30 seconds, then tip into theslow cooker.
 - Pour in the can of tomatoes, then swill out the can using 1 tbsp water and pour this into the slow cooker. Add the squid, capers and olives. Pour in the white wine and give everything a good stir. Cook on high for 3 hrs until the sauce has thickened a little (it will be soup-like). Serve in bowls with the chopped parsley scattered over and some crusty bread for dunking.
 
@@ -445,7 +445,7 @@
 - 400gcan red kidney beans,drained and rinsed
 - 1avocado,peeled, stoned, halved and sliced
 
-### Method
+### Instructions
 - Tip the rice into a bowl, cover with water and set aside. Heat the oil in a large non-stick pan over a medium heat and fry the onions for 8-10 mins until soft and golden, stirring occasionally to stop them catching.
 - Meanwhile, put the red pepper, scotch bonnet, garlic, ginger and tomatoes in a bowl, and blitz using ahand blenderuntil completely smooth. Alternatively, use a food processor or blender.
 - Stir the curry powder into the onions, then add the pepper mixture, bouillon, white pepper, thyme and bay. Cover and simmer for 15 mins over a low heat.
@@ -486,7 +486,7 @@
 - 2 tspmalted milk powder
 - whipped creamand sprinkles, to serve (optional)
 
-### Method
+### Instructions
 - If using fresh strawberries, set aside one for garnishing later. Tip the remaining strawberries into ablenderwith the ice cream, milk and malted milk powder, then blend until smooth.
 - Divide between two milkshake glasses and top with whipped cream and sprinkles, if you like. If you have reserved a fresh strawberry, cut it in half and use to garnish.
 
@@ -543,7 +543,7 @@
 - green food colouring gel
 - edible carrot and flower decorations
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/ gas 4. Oil a 900lb loaf tin and line with baking parchment.Whiskthe flour, spices and bicarbonate of soda together in a bowl to combine.
 - Beat the eggs, orange zest and brown sugar together in astand mixeror using an electric whisk until fluffy, pale and doubled in volume. With the motor running, slowly drizzle in the vegetable oil (the mixture will deflate a bit) and whisk until combined.
 - Sift over the dry ingredients and fold in with the pecans and carrots, adding the milk if the batter needs to be loosened slightly. Scrape the batter into the loaf tin and bake for 50-55 mins until a skewer inserted into the middle comes out clean. Leave to cool in the tin for 15 mins, then remove to awire rackand leave to cool completely.
@@ -588,7 +588,7 @@
 - 750gfrozen peas
 - handful of mint leaves,plus extra shredded leaves to garnish
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/ gas 6. Heat the oil in a largesaucepanover a medium heat and fry the onion for 6-8 mins until softened. Add the potato and garlic, and cook for a couple of minutes more before pouring in the stock and simmering for 12-15 mins until the potato is just tender.
 - Meanwhile, unravel the pastry and cut out wand shapes by cutting slightly diagonal lines, so one end of the strip is thicker than the other. Transfer the pastry wands to a baking tray on their baking parchment, then scatter over the cheese and season with black pepper, if you like. Bake for 10-12 mins until golden.
 - Once the potato is just tender, tip the peas and mint into the soup mixture, and cook for 5-8 mins until the peas are defrosted and tender. Remove from the heat and blitz using ahand blender. Ladle the soup into bowls, scatter over the shredded mint leaves, then serve with the pastry wands for dunking.
@@ -629,7 +629,7 @@
 - 75gseedless blackcurrant jam
 - 75gseedless raspberry or strawberry jam
 
-### Method
+### Instructions
 - Tip the flour and butter into afood processorand pulse until the mixture resembles fine breadcrumbs. Add the sugar and blitz again to combine. Add the egg yolks and 1 tsp cold water, and blitz to form a dough. If it’s too dry, add ½ tsp water. Tip the dough onto a clean surface, shape into a disc, then wrap and chill for 20 mins.Will keep chilled for a day.
 - Roll the chilled dough outon a lightly floured surface to a large square about ½cm thick. Stamp out 16-20 rectangles using a 6 x 9cm cookie cutter, or cut out using a sharp knife. Stamp or cut out the card deck shapes from the middles of half the rectangles using club, diamond, spade and heart cutters, or a knife. Transfer to two baking trays lined with baking parchment, then chill for 20 mins.
 - Heat the oven to 200C/180C fan/ gas 6. Put the blackcurrant jam in one bowl and the raspberry or strawberry in another. Stir both to loosen. Bake the biscuits for 10-12 mins until lightly golden, turning halfway through if needed. Cool completely on the trays.
@@ -670,7 +670,7 @@
 - 50gunsalted butter
 - 150gcheddar,grated
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/ gas 7. Prick the potatoes all over with a fork, rub over the oil and season with salt. Put the potatoes directly on the oven rack and bake for 1 hr until the skin is crisp and golden, and the potatoes are cooked. Leave until cool enough to handle, about 15 mins. Meanwhile, cook the broccoli in a pan of boiling water for 3-4 mins until just tender. Drain.
 - Cut the baked potatoes in half lengthways and scoop the flesh into a bowl, leaving a border. Put the skins on a baking tray. Mash the potato flesh, then stir in the butter, two-thirds of the cheese, and the broccoli. Season. Spoon the filling into the potato skins. Top with the rest of the cheese and bake for 15-20 mins until golden.
 
@@ -717,7 +717,7 @@
 - 3-4 spring onions,finely chopped
 - handful of fine sev or Bombay mix(optional)
 
-### Method
+### Instructions
 - Put the sliced red onion in a heatproof bowl filled with just- boiled water. Leave for 10 mins, drain, then toss with the lemon juice and a pinch of salt. Set aside. The onions will turn a wonderful magenta colour.
 - To make the spiced chickpeas, heat the oil in asaucepanover a medium heat. To test it’s ready, drop in a few cumin seeds – if they start to sizzle, add the rest, followed by the drained chickpeas. Scatter in 1 tsp salt and the turmeric, chilli powder, ground cumin and 60ml water. Break in the contents of the teabag and give everything a stir. Cover and simmer over a low heat for about 15 mins, or until all the flavours have infused. Gently mash some of the chickpeas in the pan to make a sauce – you might need to add a little more water.
 - Spoon the spiced chickpeas onto a serving platter. Cut the samosas into chunks and layer these over the top. Drizzle over the yogurt, then top with the sliced pickled onions. Sprinkle over the chopped spring onions and sev or Bombay mix.
@@ -769,7 +769,7 @@
 - seeds from 1 small pomegranate
 - toasted peanuts,coarsely chopped (or toasted sunflower seeds)
 
-### Method
+### Instructions
 - To make the vada, rinse the urad dhal in warm water a few times until the water runs clear. Put in a heatproof bowl, cover with boiling water and set aside for 30 mins. Drain and blitz the soaked dhal in afood processoruntil it becomes a thick, hummus-like consistency. You may need to add another 50-100ml water. Tip into a large bowl.
 - Add the chillies, ginger and garlic, if using, followed by the cumin seeds, bicarb and 1 tsp salt. Stir well.
 - Heat a 10cm depth of oil to 180C in adeep-fat fryeror deep saucepan. If you don’t have a thermometer, check the oil is ready by dropping in a pinch of the vada mixture – it should turn golden in about 30 seconds. While the oil is heating, fill a large bowl with tepid water and set aside.
@@ -814,7 +814,7 @@
 - ½lemon,zested
 - small handful of parsley,finely chopped
 
-### Method
+### Instructions
 - Cook the pasta following pack instructions in a large pan of boiling salted water. Heat 1 tbsp oil from the can of sardines in a non-stick frying pan over a medium heat and sizzle the capers and half the garlic for 1-2 mins until fragrant. Tip in the tomatoes and fry for 4-5 mins more until softened and bursting. Stir in the sardines and rocket, tossing a few times to break up the fish and wilt the leaves. Season.
 - For the gremolata, combine the lemon zest, parsley and remaining garlic in a small bowl, and season. Drain the pasta and top with the sardine sauce and gremolata.
 
@@ -861,7 +861,7 @@
 - small handful of coriander,finely chopped
 - 1 tbsppickled ginger(optional)
 
-### Method
+### Instructions
 - Heat the oil in a large, deepfrying panover a medium-high heat and, once hot, stir-fry the chicken and cabbage for 5-7 mins until browned and almost cooked through. Add the ginger and chilli, and cook for a few minutes more until fragrant.
 - Add the remaining ingredients, except the coriander and pickled ginger, and fry until the chicken is cooked and the noodles are tender, about 1-2 mins more. Season, adding more soy, vinegar or mirin, if you like. Top with the coriander and pickled ginger, if using.
 
@@ -909,7 +909,7 @@
 - 1 tsphoney
 - 3 tbspextra virgin olive oil
 
-### Method
+### Instructions
 - Cook the red rice in a medium-sized pan of boiling water, according to pack instructions; it will take about 45 mins.
 - Bring a pan of water to the boil. Lower in the eggs on a spoon, boil for 8 mins, then scoop out and immediately plunge into cold water. Once cool enough to handle, peel the eggs and set aside.
 - Put the onion, dill and beans in a large salad bowl and set aside.
@@ -955,7 +955,7 @@
 - sprig ofmint
 - wedge of  lime
 
-### Method
+### Instructions
 - Pour the vodka into a metal mug, julep tin or tumbler. Load up ¾ full with crushed ice, then fill to the top with the ginger beer and stir gently to combine. Add a few dashes of ginger bitters. Serve with a sprig of mint to garnish and the lime to squeeze over.
 
 
@@ -1006,7 +1006,7 @@
 - 150gextra virgin olive oil
 - 1-2 lemons,juiced and zested
 
-### Method
+### Instructions
 - Make the pesto by combining all the ingredients in ablenderor food processor and pulsing until a course sauce is formed. This is more than you may need.Will keep covered in the fridge beneath a thin layer of olive oil for up to a week.
 - Put the lentils in a medium saucepan and cover with water. Bring to the boil over a medium heat and cook for 20 mins until almost tender.
 - Meanwhile, heat the olive oil in a saucepan over a medium-low heat and cook the carrots and shallots for 15-20 mins until they’re starting to caramelise and soften. Drain the lentils and add to the carrots and shallots. Crumble in the stock cube. Add the tomato purée, give everything a good stir and pour in 500ml water.
@@ -1045,7 +1045,7 @@
 - 60mlolive oil
 - 15grosemary(about 3 sprigs), leaves picked and finely chopped
 
-### Method
+### Instructions
 - Cook the potatoes in a large pan of boiling salted water for 15-20 mins until tender when pierced – they should slide off the knife when lifted. Drain and spread out on a tray to cool, about 20 mins.These can be cooked ahead and kept in the fridge until you’re ready to use them.Will keep chilled for up to a day.
 - Cut the potatoes into roughly 2cm cubes. Heat the oil in a largefrying panover a medium-high heat and cook in a single layer for 8 mins, undisturbed, or until a golden crust forms. Once they come away from the pan when given a nudge with a spatula, turn and cook for a further 8-10 mins, tossing or flipping a few at a time until golden all over.
 - Add the rosemary and cook for a further 5 mins. Season well with sea salt and serve.
@@ -1092,7 +1092,7 @@
 - 1 x 260g bag ofspinach
 - mashed potatoes,to serve (optional)
 
-### Method
+### Instructions
 - Heat the oil in a large, lidded pan over a medium heat and fry the sausages until browned. Reduce the heat to low-medium, add the onions and carrots, and cook gently for 5 mins until soft.
 - Add the garlic and dried herbs, then cook for 1 min. Stir in the chopped tomatoes, stock cube, honey and mustard. Turn up the heat to medium and bring to the boil. Reduce the heat to a simmer and cook for 30-40 mins, stirring now and then, until the carrots are tender and the sauce has reduced a little.
 - Around 5 mins before serving, add the spinach, in batches if necessary. Cover and cook for 5 mins, until wilted. Season with salt and pepper, and serve with mashed potato, if you like.
@@ -1141,7 +1141,7 @@
 - 50gmature cheddar,grated
 - 50gunsalted butter,melted
 
-### Method
+### Instructions
 - Season the lamb in a bowl, then toss in the flour. Heat 1 tbsp of the oil in a large flameproof casserole dish over a high heat and brown half the lamb pieces on all sides. Transfer to a plate, then brown the remaining lamb pieces. Remove to the plate and set aside.
 - Reduce the heat to medium and add the remaining 1 tbsp oil to the pan. Tip in the onion and carrot, and cook for 10 mins, stirring regularly, until soft and golden. Add the garlic, rosemary and tomato purée, and stir for 1-2 mins.
 - Return the lamb to the pan and pour in the wine and stock. Stir in the redcurrant the jelly and bring to a simmer. Reduce the heat to low, cover and cook for 2 hrs-2 hrs 30 mins, or until the lamb is tender. (Alternatively, tip into aslow cookerand cook on low for 6-8 hrs; or cook in a pressure cooker for 20 mins.)Once fully cool, the lamb stew will keep in an airtight container in the fridge for up to three days, or frozen for two months. Defrost in the fridge overnight before reheating until piping hot.
@@ -1182,7 +1182,7 @@
 - 1 tbspcumin seeds
 - vegetable oil,for the plate and for deep-frying
 
-### Method
+### Instructions
 - Siftthe flour into a large bowl, and mix in ½ tsp salt and the ghee until well combined. Sprinkle in the cumin seeds, then trickle in 2 tbsp warm water, slowly adding a little more until you have a medium-hard dough (it shouldn’t be soft). Knead for 3-4 mins in the bowl, then cover and set aside for 30 mins.
 - Divide the dough into 4 small, equal-sized balls. Roll each ball out into a thin circle to a depth of around 1mm – make it too thick and the namak para won’t crisp up when fried. You can then cut the circles into diamond shapes or straight pieces, if you prefer. For diamonds, cut diagonal lines using a pizza cutter about 2.5cm apart across the circle; repeat the cuts in the opposite direction. Transfer the cut shapes to an oiled plate and repeat with the rest of the dough.
 - Pour the oil into a deep heavy pan to no more than a third full. Heat over a medium-high heat to 180C – a little blob of dough should rise quickly to the surface when dropped in. Fry the namak para in batches for 1-2 mins until browned. Remove using a slotted spoon to a plate lined with kitchen paper. Serve warm or at room temperature.Will keep in an airtight container for up to three days.
@@ -1239,7 +1239,7 @@
 - 1 tspvanilla extractor vanilla bean paste
 - 1egg,beaten with a splash of milk or kefir
 
-### Method
+### Instructions
 - Whisk together the kefir, yeast, sugar or honey and 2 eggs in astand mixeror large bowl. Tip in the flour along with 1 tsp salt and mix well until there are no pockets of flour. The dough will be a bit wet and shaggy (loose and formless) at this stage.Can be covered and left to chill overnight. Prove for 1 hr in a warm place until puffed up. Knead, using the dough hook attachment of your mixer or with your hands on a lightly dusted surface, for 10 mins until smooth.
 - Meanwhile, make the filling. Put the poppy seeds, nuts and milk in a small pan over a low heat and simmer, uncovered, for 30-45 mins until all the milk has evaporated. Keep an eye on it so that the milk doesn’t catch. Remove from the heat and leave to cool completely.Will keep chilled in an airtight container for up to three days, or frozen for up to three months.
 - Transfer the poppy seed mixture to afood processor. Add the butter, both sugars, a pinch of salt and vanilla. Blitz until you have a thick paste.
@@ -1290,7 +1290,7 @@
 - steamed rice or farofa, to serve (optional)
 - handful ofcoriander, roughly chopped
 
-### Method
+### Instructions
 - If using dried beans, tip into a large bowl, cover with water and soak overnight. The next day, drain and rinse. Cover with fresh water in a large, lidded saucepan, then bring to the boil over a medium-high heat. Cover the pan and cook for 10 mins. Skim off any foam that rises to the surface. Remove from the heat and set aside. (If using canned beans, skip this step.)
 - Heat the oil in a large pan over a medium heat and fry the onions with a pinch of salt for 15 mins or until soft and just golden. If the onions begin to brown too quickly, add a splash of water. Stir in the garlic, cook for 1 min more, then add all the meat and bay leaves.
 - Tip in the boiled beans and 200ml of the cooking liquid or the canned beans and their liquid. Everything should be covered with liquid – top up with cold water if there’s not enough. Give it a good stir, then cover and bring to the boil. Reduce the heat, cover and simmer for 2-3 hrs. Serve hot, scattered with the coriander, alongside farofa or steamed rice, if you like.
@@ -1336,7 +1336,7 @@
 - 50gkimchi,drained
 - 2spring onions,sliced
 
-### Method
+### Instructions
 - Heat a large,non-stick frying panover a medium heat. Tip in the egg, swirl the pan to spread it out, and cook briefly until set at the edges. Draw the edges into the centre using aspatula. Cook for 1-2 mins until set. Remove to a bowl.
 - Heat the oil in the pan, turn up the heat to high and cook the onion and mushrooms for 7-8 mins until browned. Reduce the heat to medium, stir in the rice, ginger, garlic and peas, and season with pepper. Cook for 2 mins until the rice is hot, then stir in the cooked egg, soy, kimchi and most of the spring onions. Season, then garnish with the remaining spring onions.
 
@@ -1379,7 +1379,7 @@
 - ½ tspsmoked paprika
 - choppedcoriander,to serve (optional)
 
-### Method
+### Instructions
 - Lightly drain the beans, reserving the juice from the tin, but do not rinse (you want the beans in about half the liquid from the can). Depending on the texture you prefer, either mash them roughly in a bowl or blitz them using ablenderuntil smooth. Set aside.
 - Heat the oil in a large frying pan or casserole and cook the onions for 8-10 mins until soft and golden. Scatter in the garlic, chilli and cumin seeds, and sizzle everything for 2 mins more. Tip in the beans, oregano, paprika and a pinch of salt. Cook everything together for 5 mins until the beans have heated through adding more reserved bean juice if it’s too thick. Serve straightaway with a sprinkling of coriander, if you like, or leave to cool and keep chilled.Will keep chilled for up to three days or frozen for a month.Reheat with a splash of water mixed in.
 
@@ -1415,7 +1415,7 @@
 - 8large Maris Piper potatoes, peeled and cut into chunks
 - vegetable oil, for the roasting tin
 
-### Method
+### Instructions
 - The day before, tip the potatoes into a large pan of salted water and simmer for 10 mins or until just tender. Drain the potatoes in acolander, reserving a little of the cooking water, and leave to cool.
 - Now here’s the trick: choose the two chunks that are the most cooked and ready for mashing and push these through a potato ricer, then add a little of the cooking water to make a thick potato batter. Roll the cooled potatoes through the batter, then put on a tray lined with baking parchment and chill overnight.
 - The next day, heat the oven to 200C/180C fan/gas 6. Take a largeroasting tinand add a good splash of vegetable oil. Place in the oven and heat for a few minutes, then carefully add the potatoes to the hot fat and turn to coat. Lightly season with salt and roast, without turning, for 40 mins.

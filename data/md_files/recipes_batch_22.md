@@ -36,7 +36,7 @@
 - ½ smallred onion, finely sliced
 - 1 tbspred wine vinegar
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Tip the mince, garlic, cumin, cinnamon, lemon zest, lemon juice, tomato purée and half the oil into afood processoralong with ½ tsp sea salt flakes and some black pepper. Pulse until well combined.
 - Arrange the two flatbreads on abaking tray, then divide the lamb mixture between them, spreading it right to the edges. Put in the oven for 17-20 mins until cooked through. Meanwhile, combine the parsley, red onion, vinegar and remaining olive oil in a bowl and season well. Serve the flatbreads with the parsley salad scattered over the top.
 
@@ -78,7 +78,7 @@
 - 1 tbspicing sugar
 - 250mldouble cream
 
-### Method
+### Instructions
 - Heat theair-fryerto 120C. Line the air-fryer basket or an air-fryer baking tin with baking parchment. Cut into a circle to fit neatly.
 - Whiskthe egg whites until they form stiff peaks, then whisk in the sugar, a spoonful at a time, until each spoonful is combined and the meringue looks glossy. Whisk in the vanilla, vinegar and cornflour, then spoon out onto the parchment and create a mound of meringue with a dip in the centre to hold the filling later. (You can also pipe the meringue.) Bake for 20 mins.
 - Reduce the temperature to 100C. Bake for a further 1 hr-1 hr 15 mins until the meringue is crisp on the outside (check the bottom as well). Turn off the air-fryer, leaving the pavlova inside to cool completely. Carefully lift out the meringue and put on a platter or plate.Will keep in an airtight container for a day.
@@ -123,7 +123,7 @@
 - 100gplain chocolate chips
 - 4 scoopsvanilla ice cream
 
-### Method
+### Instructions
 - Heat theair-fryerto 160C. Beat the butter and both sugars together in a bowl until creamy and pale. Mix in the vanilla and the egg, then fold in the flour, bicarbonate of soda and a pinch of salt to form a dough. Fold in the chocolate chips.
 - Either line your air-fryer basket with foil (this will help the base of the cookies to cook) or use a baking tin that will fit into your air-fryer. Divide the mixture into 8 balls and arrange in the tin or lined basket spaced apart (you may need to do this in batches). Bake for 12-15 mins until golden. Check the underneath of the cookie is crisp and cooked through, then leave to cool.
 - Put a scoop of ice cream between two cookies to make an ice cream sandwich. You should have enough to make four.Cookies will keep in an airtight container for three days.
@@ -168,7 +168,7 @@
 - 2 tbsppesto(optional)
 - salad, to serve
 
-### Method
+### Instructions
 - Beat the eggs in a bowl with the herbs and set aside. Heat the oil in anon-stick frying panover a medium heat. Stir in the shallots and chilli and cook for 4-5 mins, until softened. Stir in the pepper and cook for another 4-5 mins, then mix in the garlic. Cook for 2 mins until fragrant, then mix in the leftover rice with prawns.
 - Pour over the eggs and tilt the pan so it spreads all over. Dollop over the pesto, if using, and swirl using the back of a spoon. Cook for 5 mins, then cover and cook for a few minutes until no raw egg remains. Cut into wedges and serve with a salad.
 
@@ -212,7 +212,7 @@
 - 450gleftover rice with prawns(see recipe below)
 - 25gtoasted flaked almonds
 
-### Method
+### Instructions
 - Remove the tough strings from the sugar snap peas using apeeler. Bring a pan of water to a boil and tip in the peas. Cook for 1 min then drain and run them under cold water, then quickly tip into a bowl of iced water. Set aside while you prepare the rest of the salad. (Alternatively, you can keep the peas raw, if you prefer.)
 - Combine the lemon zest and juice, mustard, honey and olive oil. Season well then divide between two small containers. Drain the peas and dry thoroughly. Tip the peas, parsley, rocket, feta and leftover baked rice into a bowl and toss well, making sure everything is coated. Divide between two large containers. Sprinkle over the toasted flaked almonds. Pack into alunchboxand drizzle over the dressing when ready to eat.
 
@@ -259,7 +259,7 @@
 - handful ofbasil, leaves picked
 - 2 tbspextra virgin olive oil
 
-### Method
+### Instructions
 - Heat the oil in a large pan over a low-medium heat. Add the onion with a pinch of salt and cook slowly until caramelised, about 15 mins.
 - Meanwhile, prep the runner beans. If the runner beans are young and small, simplysliceon the diagonal.If they are older, they will have a tough string running along each side. To remove, trim the stalk end andpull away the fibrous strings, then slice on the diagonal.
 - Add the garlic, anchovies and chilli flakes, if using, to the onion. Cook for a few minutes, stirring often, untilthe anchovies have dissolved, and the garlic is cooked but not browned.
@@ -323,7 +323,7 @@
 - 150mlnatural yogurt
 - drizzle ofextra virgin olive oil
 
-### Method
+### Instructions
 - To make the dukkah, toast the pistachios in a frying pan for 2 mins until turning a shade darker. Tip into a food processor ormortar. Toast the coriander and cumin seeds in the pan for 2 mins or until aromatic, then add to the pistachios. Pound or blitz the nuts and spices until the pistachios and coriander seeds have broken down. If using a food processor, don’t blitz too much – the dukkah should have texture. Toast the sesame seeds until golden brown, then stir into the pounded pistachio spice mixture along with the chilli and salt.Will keep in an airtight container for up to two weeks (see tip, below).
 - To make the dip, combine the lemon, garlic, mint, yogurt and a pinch of salt in a bowl. Keep chilled until ready to serve.
 - Tip the peas into a large bowl, drizzle with the oil and scatter over a pinch of the salt. Toss well until each pod is coated.
@@ -371,7 +371,7 @@
 - drizzle ofolive oil, for frying
 - drizzle ofextra virgin olive oil, to serve
 
-### Method
+### Instructions
 - Pop the broad beans out of their pods into a bowl. Boil thekettle, tip the beans into a saucepan, cover with boiling water and cook for 6 mins, then drain and leave until cool enough to handle. If using frozen beans, simply place in a bowl, cover with boiling water and leave to stand for 2 mins, then drain.
 - Use your nail or a knife to pierce the opaque skins surrounding each bean, and pop them back into the bowl. (You can use the skins to make vegetable stock.)
 - Lightly mash the beans with a fork – they should still have lots of texture and you can leave some beans whole. Add 100g of the ricotta, 2 eggs, the flour, baking powder, chilli flakes and herbs. Season with a pinch of salt and stir everything together to make a thick batter.The batter will keep chilled for up to a day.
@@ -441,7 +441,7 @@
 - For the syrup
 - 50glight brown soft sugar
 
-### Method
+### Instructions
 - To make the dough, tip the flour into the bowl of astand mixeralong with the cinnamon, if using, ½ tsp salt and the sugar and yeast. Mix using the dough hook attachment until fully combined. Mix in the milk, then, on a medium speed, add the eggs one at a time. Mix for 5-8 mins until you have a smooth dough that comes away from the sides of the bowl. Leave the dough in the bowl for 10 mins.
 - Gradually add the butter, one or two cubes at a time, beating until fully mixed into the dough, scraping down the bowl with a plasticspatula,if needed. Tip the dough into a buttered bowl or round plastic container, and cover and chill overnight until nearly doubled in size. If you want to bake on the same day, leave at room temperature for about 2 hrs until nearly doubled in size, then chill for at least 1 hr – the dough needs to be well chilled for the next step.
 - Meanwhile, make the filling. Melt the chocolate in a small bowl over a pan of warm water, ensuring the bowl doesn’t touch the water, or in 10-second bursts in themicrowave, then leave to cool. In a separate bowl, mix the butter and sugar together, then add the ground almonds. Sift in the cocoa powder and mix in the melted chocolate along with a pinch of sea salt to create a spreadable paste.
@@ -510,7 +510,7 @@
 - 75mldouble cream
 - 1 tbspgolden syrup
 
-### Method
+### Instructions
 - Warm the milk in a smallsaucepanover a medium heat. Once it begins to steam, set aside to cool slightly.
 - Meanwhile, sift 500g of the flour into the bowl of astand mixerwith the dough hook attached, then pour in the sugar, yeast, 1 tsp salt, the orange and lemon zests, and all the spices. Mix gently to combine.
 - Once the milk is lukewarm, crack in the eggs and whisk to combine. Turn the speed to low on the stand mixer, then slowly pour in the wet ingredients. Turn the mixer up to medium speed and knead for 8-10 mins, or until you can stretch a small bit of the dough and it becomes thin enough so that you can see through it. If the dough rips, return the dough to the mixer.
@@ -558,7 +558,7 @@
 - ice
 - grapefruit wedge, to garnish
 
-### Method
+### Instructions
 - Pour the gin, vermouth, Campari and grapefruit juice into acocktail shakeror jug filled with ice. Stir well until the mixture is fully combined and the outside of the shaker or jug feels cold.
 - Strain into a tumbler filled with ice and garnish with a grapefruit wedge to serve.
 
@@ -599,7 +599,7 @@
 - 2egg yolks(freeze the whites for another recipe)
 - 200glemon curd
 
-### Method
+### Instructions
 - Siftthe flour and icing sugar into a large bowl. Add the vanilla, lemon zest and a pinch of salt. Rub the butter into the dry mixture using your fingertips until it resembles damp sand, then mix in the egg yolks. Knead everything into a smooth dough. Wrap and chill for at least 1 hr or up to two days.
 - Remove the dough from the fridge and leave at room temperature for 10 mins. Roll the dough into a long sausage shape and cut into 50 equal portions. Roll each portion into a ball and put on a baking sheet lined with baking parchment (you’ll need two or more baking sheets). Using a wooden spoon or your thumb, make an indent in each ball.
 - Heat the oven to 200C/180C fan/gas 6. Fill the indents with ½ tsp lemon curd each. Bake for 12-15 mins, then leave to cool completely on awire rack. Dust the cookies with icing sugar and serve.Will keep in an airtight container for a week.
@@ -640,7 +640,7 @@
 - ½ tspvanilla bean paste
 - icing sugar, for dusting
 
-### Method
+### Instructions
 - Heat the oven to 160C/140C fan/gas 3 and line a large baking sheet with baking parchment. Whisk the egg whites to stiff peaks in a medium bowl. Mix in all the remaining ingredients, except the icing sugar, and a pinch of salt using aspatulauntil fully combined.
 - Roll the mixture into bite-sized balls using dampened hands so the mixture doesn’t stick. Arrange on the prepared baking sheet, leaving space between each one. (They won’t spread too much, but it’s worth spacing them out.)
 - Bake for 20-30 mins, or until the balls start to brown a little. Keep a close eye on them and check halfway through baking. Dust with icing sugar while still warm, then leave to cool before serving.Will keep in an airtight container for up to a week.
@@ -696,7 +696,7 @@
 - pink and purple food colouring gels
 - 50ggreen fondant icing
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter a 20cm x 30cm cake tin and line with two strips of baking parchment, leaving one strip overhanging to help you lift the sponge out once it is cooked. Beat all the sponge ingredients together in a large bowl using an electric whisk until combined, light and fluffy, about 2 mins. Scrape into the tin and smooth to the edges with aspatula. Bake for 25-30 mins until risen and golden. Check the cake is cooked by inserting a skewer into the centre – if there’s wet cake mixture on the skewer, return to the oven for 5 mins more, then check again. Leave to cool for 20 mins in the tin, then transfer to a wire rack to cool completely.
 - To make the icing, beat the butter and vanilla together in a largebowlusing an electric whisk until smooth. Add half the sugar and beat well, then add the remaining sugar and the milk, and beat again until smooth. Put two-thirds of the icing in a bowl and mix in a drop of pink food colouring. Put the remaining third in another bowl and mix in a drop of purple food colouring.
 - Shape the green fondant into mini leaf shapes and press veins into them using a cocktail stick. Set aside.
@@ -740,7 +740,7 @@
 - 2 tbspicing sugar
 - 18 minimulti-coloured meringues
 
-### Method
+### Instructions
 - Spoon ½ tsp jam into the base of each tart case.Weighthe cream, soft cheese, vanilla and icing sugar out into a bowl and whisk to combine. Divide the cheesecake mixture between the tart cases by spooning or piping it on top of the jam. If you’re making ahead, chill for up to 6 hrs until ready to serve.
 - Top each tart with a coloured mini meringue and arrange on a plate orcake standto serve.
 
@@ -786,7 +786,7 @@
 - 80gspinach
 - vegan yogurt, to serve (optional)
 
-### Method
+### Instructions
 - Heat the oil in a flameproof casserole dish over a medium heat and, once shimmering, cook the onion with a pinch of salt for 8-10 mins until golden at the edges. Add the garlic and courgette and cook for 7-8 mins more until these are also turning golden.
 - Add the turmeric, cumin, cardamom pods (if using) and curry powder, and cook for 2 mins. Rinse the rice (ensure this is done thoroughly, as it will result in fluffier rice), then add it to the dish along with the peas, and stir to coat in the spices. Pour in 260ml water and season well. Bring to the boil, then reduce to a simmer, cover and cook for 20 mins.
 - Add the spinach (you don’t need to stir it in), then cover again and cook for another 10 mins. Stir to mix in the wilted spinach and fluff up the rice, then divide between two bowls. Top with vegan yogurt, if you like.
@@ -829,7 +829,7 @@
 - 2 slices ofgluten-free sourdough
 - 1garlic clove
 
-### Method
+### Instructions
 - Cook the chorizo in a deep medium frying pan over a low heat, stirring often until it has released its oils and crisped up, about 5 mins. Remove to a bowl using a slotted spoon, leaving the oil behind.
 - Cook the onion in the pan for 8-10 mins over a medium heat until beginning to soften. Turn up the heat, add the mushrooms and cook for 6-8 mins until golden. Pour in the butter beans along with the liquid from the can, then rinse out the can with 50ml water and add this, too. Bring to the boil, then reduce the heat to a simmer and cook for 2-3 mins.
 - Roughly mash half the butter beans to thicken the sauce, then season well. Stir in most of the chopped parsley and squeeze in the lemon juice. Remove from the heat.
@@ -876,7 +876,7 @@
 - ½lime, juiced
 - 2 tbspvegan sriracha mayo, to serve (optional)
 
-### Method
+### Instructions
 - Put a quarter of the chopped prawns in a small bowl and set aside, then tip the rest into the bowl of afood processor. Add the spring onion, lemongrass paste, garlic, chilli and coriander, then pulse to a paste. Stir in the reserved chopped prawns and season well.
 - Form the mixture into two chunky burger patties using dampened hands and set aside on a sheet of baking parchment.
 - Heat a frying pan over a medium heat and toast the cut sides of the buns until golden. Remove from the pan and set aside on two plates. Drizzle in the oil and, once shimmering, cook the prawn patties for 3-4 mins on each side, covering with a lid on for the final minute, until golden and cooked through.
@@ -925,7 +925,7 @@
 - 80gedamame(or use regular soya beans or peas)
 - 2smoked mackerel fillets(we used peppered fillets)
 
-### Method
+### Instructions
 - Cook the rice noodles following pack instructions, then rinse under cold running water and set aside.Whiskthe tamari, ginger, lime juice and zest, the honey, coriander and chilli together. Season with salt.
 - Add the carrots, cucumbers, spring onion, edamame and cooled noodles to the dressing, and toss well to combine.
 - Divide the noodle salad between two bowls and flake over the smoked mackerel fillets. Scatter over a few coriander leaves to serve.
@@ -990,7 +990,7 @@
 - 100gwatercress, roughly chopped
 - 1lemon, zested and halved
 
-### Method
+### Instructions
 - The night before you want to cook, remove all the packaging from the chicken and pat dry using kitchen paper. Sprinkle the sea salt all over the chicken, inside and out, then put on a baking tray or in a baking dish. Keep chilled, uncovered, overnight. (This will help the skin crisp up during roasting.)
 - The next day, bring the chicken to room temperature while you make the stuffing. Melt the butter in a frying pan over a medium heat until foaming, then add the oil. Fry the leek for 8 mins until softened, then stir in the garlic, wine, thyme leaves and sage. Simmer until most of the liquid has evaporated. Remove from the heat, season, set aside and leave to cool for a few minutes.
 - Butter a baking dish. Mix the breadcrumbs, parmesan, eggs and watercress together in a large bowl. Season, then add the lemon zest and a squeeze of lemon juice. Stir in the softened leek mix and transfer to the prepared baking dish. Drizzle over a little oil and cover with foil.
@@ -1054,7 +1054,7 @@
 - 50gcheddar, grated
 - 100gfull-fat natural yogurt
 
-### Method
+### Instructions
 - Season the lamb pieces and toss in the flour. Heat 1 tbsp of the oil in a large flameproof casserole dish over a medium-high heat and brown half the lamb pieces, ensuring they’re deeply coloured before turning over to brown on all sides. Remove to a bowl. Repeat with the remaining oil and the rest of the lamb pieces. Be careful not to overcrowd the pan, or the lamb will steam rather than brown.
 - Fry the bacon in the pan for a few minutes, then tip in the veg and garlic. Cook for 3-4 mins more until the veg has just started to soften, then stir in the browned lamb, the pearl barley, rosemary, tomato purée, Worcestershire sauce, redcurrant jelly and stock. Season well, then tuck the bay leaves into the sauce. Bring to a simmer.
 - Cut out a circle of baking parchment that’s large enough to cover the stew (this is called a cartouche, and it helps keep the meat submerged in the stew). Put this directly on the surface of the stew, then cover with the lid and turn the heat to low. Simmer for 1 hr 30 mins-2 hrs, or until the meat is tender but not falling apart. Alternatively, transfer to aslow cookerfor 6-8 hrs on low.Once cooled, will keep frozen for up to six months.
@@ -1100,7 +1100,7 @@
 - 4 tbspvegetable oil
 - 5 tbspcondensed milk
 
-### Method
+### Instructions
 - Cut the loaf of bread into 8 slices, about 3.5cm thick, then remove the crusts from each slice (blitz these in afood processorto make breadcrumbs then freeze to use in another recipe). Spread the peanut butter over 4 slices of bread, then sandwich with the remaining slices and press down firmly around the edges to seal.
 - Whiskthe eggs, sugar, milk, cinnamon, vanilla and a pinch of salt together in a shallow dish. Heat a frying pan over medium heat, then pour in the oil. Briefly dunk the bread in the egg mixture, turning to coat on both sides. Shake off any excess, then fry for 3-4 mins. Flip over and repeat until golden on both sides, then remove to a plate lined with kitchen paper (you’ll need to do this in batches). To serve, drizzle over the condensed milk.
 
@@ -1149,7 +1149,7 @@
 - 100gcold butter, cut into pieces
 - 1egg yolk(freeze the white for another recipe)
 
-### Method
+### Instructions
 - First, make the pastry. Tip the flour and butter into afood processor, and blitz to fine crumbs. Alternatively, rub the butter into the flour using your fingers. Add the egg yolk and 1½ tbsp cold water, then blitz or mix until a dough comes together and forms into a ball. Shape into a disc, then cover and chill for 30 mins.
 - Roll the dough outon a lightly floured surface into a ½cm-thick circle, then use it to line a 23cm loose-bottomed tart tin, pushing it into the base and up the side. Trim any excess, then chill for another hour.Will keep chilled for a day.
 - Cut most of the asparagus spears into thirds, reserving 2 whole spears for decorating later. Cook the asparagus pieces in a pan of boiling water for 1 min, then drain well and immediately plunge into a bowl of iced water to halt the cooking process. Leave to cool for 15 mins, then drain well and pat dry using kitchen paper.
@@ -1210,7 +1210,7 @@
 - yellow food colouring gel(optional)
 - 12Maltesers Mini Bunniesand 12 Maltesers, to decorate
 
-### Method
+### Instructions
 - Heat the oven to 170C/150C fan/gas 3 and line a 24-hole mini muffin tin with mini paper cases.Siftthe flour, cocoa powder, bicarb and malt powder into a large bowl, then stir in the sugar and ¼ tsp salt.
 - Whiskthe oil, eggs, vanilla, yogurt and milk together in a jug. Pour the wet ingredients into the dry, and whisk until you have a smooth batter. Scoop 1 tbsp batter into each paper case, dividing any leftover mixture between them evenly.
 - Bake for 12-14 mins until risen and a skewer inserted into the centre of one cupcake comes out clean. If any wet batter remains, bake for 3 mins more, then check again. Leave to cool in the tin for 10 mins, then transfer to awire rackand leave to cool completely.
@@ -1271,7 +1271,7 @@
 - 150gdark chocolate, broken into pieces
 - 2 tbspmaple syrup
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4 and line a swiss roll tin (approx. 32cm x 22cm) with baking parchment.
 - First, make the ganache by combining the silken tofu and dark chocolate in a medium saucepan over a low heat, stirring until the chocolate has melted – it will look lumpy at this stage but don’t worry. Add the maple syrup, vanilla extract and a pinch of salt, stir to combine and take off the heat. Use an electric whisk to transform the mixture into a silky smooth ganache, about 2-3 mins. Transfer to a piping bag and put in the fridge to cool.
 - To make the sponge, sift all the dry ingredients (flour, cocoa powder, caster sugar, baking powder, cornflour, bicarbonate of soda and ½ tsp salt) together in a mixing bowl. In a small jug, combine the oat milk and vinegar to create a vegan buttermilk. Set aside.
@@ -1337,7 +1337,7 @@
 - 2egg whites
 - food colouring paste, we used pastel yellow, green and pink
 
-### Method
+### Instructions
 - For the vanilla cookie dough, sift the flour into a mixing bowl. Add the sugar, vanilla and butter. Using an electric whisk or stand mixer, beat everything for 5 mins, until it resembles fine breadcrumbs. You can also do this in a food processor. Crack in the egg and beat again until it comes together into a dough. Bringtogether into a disc and set aside in the fridge to rest for at least 1 hr.
 - For the chocolate cookies, sift the flour and cocoa powder into the same bowl and stir in the sugar, vanilla and butter. Beat using the electric whisk or stand mixer, for 5 mins, until it resembles fine breadcrumbs. You can also do this in a food processor. Crack in the egg and beat again. Bring together into a disc and set aside in the fridge to rest for at least 1 hr.
 - Line two large baking trays with baking parchment. Lightly flour a clean work surface and roll out both doughs until 5mm thick. Using 4-6cm sized Easter cutters, stamp out the biscuits and arrange on the baking trays well spaced apart, then chill for at least 30 mins. Heat the oven to 200C/180C fan/gas 6. Bake for 8-10 mins until golden. Leave to cool completely on the tray.
@@ -1380,7 +1380,7 @@
 - lemon wedges, to serve (optional)
 - caster sugar, to serve (optional)
 
-### Method
+### Instructions
 - Put 100g plain flour, 2 large eggs, 300ml milk, 1 tbsp sunflower or vegetable oil and a pinch of salt into a bowl or large jug, thenwhiskto a smooth batter. This should be similar in consistency to single cream.
 - Set aside for 30 mins to rest if you have time, or start cooking straight away.
 - Set amedium frying pan or crêpe panover a medium heat and carefully wipe it with some oiled kitchen paper.
@@ -1436,7 +1436,7 @@
 - 200gicing sugar
 - 200gdesiccated coconut
 
-### Method
+### Instructions
 - Melt the butter in a heavy-bottomed saucepan over a medium heat (use a light-coloured saucepan, if possible, so you can easily see when the butter has browned). The butter will start to foam, but continue cooking, stirring often, until you see golden-brown specks form at the base of the pan, about 5-7 mins. Watch closely, as the butter can burn easily. As soon as the butter is golden brown and smells nutty, remove from the heat and pour into a heatproof container or bowl. Leave to cool to room temperature.
 - Heat the oven to 180C/160C fan/gas 4. Whisk the flour, baking powder and a pinch of salt together, then set aside. Combine the eggs, sugar, honey and vanilla in a large bowl, then gently fold in the dry ingredients, adding about half the dry mixture at a time. Finally, fold in the milk and the cooled brown butter.
 - Line a 20 x 20cm square baking tin with baking parchment, then tip in the sponge batter, level the surface using a spatula or the back of a spoon and bake for 30-35 mins, or until a skewer inserted into the middle comes out clean. Leave to cool in the tin for a few minutes, then remove to a wire rack to cool completely. Once fully cooled, cut the cake into roughly 3.5cm cubes using a sharp bread knife (you should get around 25 total).
@@ -1482,7 +1482,7 @@
 - 25gMaltesersroughly chopped
 - coloured icing,to decorate
 
-### Method
+### Instructions
 - Melt the butter, golden syrup and brown sugar together in a medium pan on low heat. Once melted and smooth, set aside to cool for 5 mins, then whisk in the egg.
 - Stir together the cinnamon, flour and bicarb in a large bowl. Pour the wet mixture into the dry and stir to combine, using your hands to bring together into a dough. Form into a flat square, wrap in baking parchment, then leave in the fridge to cool for 1 hr.
 - Heat the oven to 190C/170C fan/gas 5. Re-use the baking paper you wrapped the gingerbread in to line a large baking tray. Roll out the dough to ½-1cm thick. Use a 6-7cm egg-shaped cutter or round cutter to cut out 16 cookies. You can re-roll the offcuts to make more biscuits, or freeze it for a later date.
@@ -1544,7 +1544,7 @@
 - 1½ tbspmaple syrup
 - green gel food colouring
 
-### Method
+### Instructions
 - Start by making the strawberry ‘carrots’. Mix 1 tsp orange food colouring with the yogurt in a bowl. Dip in the strawberry quarters, keeping the green top exposed, then put on a tray lined with baking parchment. Freeze for 1 hr.
 - Keep the remaining yogurt and add a little more food colouring to get a darker shade of orange. Pour into a small piping bag. Once the strawberries have frozen, snip off a small cut in the piping bag and drizzle the strawberries with a thin zig-zag. Return to the freezer until you’re ready to ice the cakes.
 - Heat the oven to 180C/160C fan/gas 4. Line a cupcake tray with 16 small cupcake cases and set aside. Whisk the vegetable oil, natural yogurt, egg, orange zest and a small pinch of salt together until well combined.

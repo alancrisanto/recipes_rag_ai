@@ -31,7 +31,7 @@
 - 500gripe tomatoes on the vine, roughly chopped
 - 3mixed peppers, roughly sliced
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Toss the aubergine, courgette and onion pieces on a largebaking traywith the oil and seasoning using your hands, then spread everything out to an even layer.
 - Roast for 35 mins until lightly browned, then stir in the tomatoes (picked from the vine) and peppers. Turn the oven temperature up to 220C/200C fan/gas 7. Roast for a further 40 mins, stirring every now and then until well-browned. Remove from the oven and leave to cool.Will keep chilled in an airtight container for up to five days.
 
@@ -76,7 +76,7 @@
 - 4firm tomatoes, finely chopped
 - corn tortilla chips, to serve
 
-### Method
+### Instructions
 - Twist the coriander leaves away from the stalks to remove, then put the stalks in a bowl and bash a few times with the end of a rolling pin to bruise them. Zest and juice the limes into a non-metallic bowl. Finely grate in the ginger and garlic, then the frozen chillies (try a little of the chilli to see how hot it is first – you may only need 1 chilli if very hot). Add the sugar and 1 tsp salt, and stir to dissolve. Cover the bowl and chill overnight, or for at least 2 hrs, to let the flavours infuse.
 - Remove the black seam that runs along the belly of each prawn by making a small slit with yourknifeand pulling it out. Cut each prawn into 3-4 pieces. Heat a frying pan over a low-medium heat and cook the prawns until they just turn lightly pink, no more than 1-2 mins.
 - Strain the spiced lime juice through a finesieveor muslin into a large bowl. Add the prawns and toss well to coat. Cover and chill for 30 mins-1 hr, stirring every now and then, until cold.
@@ -124,7 +124,7 @@
 - 200gfeta
 - 6thyme sprigs, leaves picked
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7. Put the tomatoes and corn in aroasting tin, drizzle with half of the oil, season with salt, and roast for 12 mins.Will keep chilled for a day.Cut the kernels off the cob.
 - Reduce the oven to 200C/180C fan/gas 6. Line a 23cm cake tin or ovenproof frying pan with a large sheet of baking parchment. Tip the cornmeal, flour, sugar, baking powder and ½ tsp salt into a large bowl. Beat the yogurt, eggs and melted butter together in a small bowl using a fork. Pour the wet ingredients into the dry, thenadd most of the sweetcorn, feta and thyme (save a handful of each for the top). Mix together with aspatulauntil just combined.
 - Pour the batter into the prepared tin. Sprinkle over the reserved sweetcorn and feta, and arrange the tomatoes on top along with the rest of the thyme. Drizzle with the remaining oil, then bake for 50 mins until golden and a skewer inserted into the middle comes out clean, with no wet batter clinging to it.
@@ -180,7 +180,7 @@
 - 50gfinely grated parmesan
 - ½ tspdried oregano
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Heat the oil in a large pan and fry the peppers over a medium heat for a few minutes to soften. Add the garlic and cook for a minute more, taking care not to burn it.
 - Pour in the passata, then stir in the oregano, chilli flakes, aubergine, capers and half the basil. Add the tuna, but don’t stir too much as you don’t want to break it up too much. Cover the pan and simmer over a low heat for 15 mins until the aubergine is tender, carefully stirring a couple of times.
 - Meanwhile, boil the pasta following pack instructions. Tip the quark into a bowl and beat in the egg and three-quarters of the parmesan.
@@ -228,7 +228,7 @@
 - 180gwholemeal pasta
 - parmesan, finely grated, and drizzle of extra virgin olive oil, to serve
 
-### Method
+### Instructions
 - Heat the oven to 190C/170C fan/gas 5. Mix the oil, tomato purée, vinegar, chilli flakes, rosemary and some seasoning together in aroasting tin. Turn the chicken in the paste to coat, then tip in the veg and garlic, toss again and put the chicken on top of the veg. Roast for 20-25 mins until the chicken is cooked through. Set the chicken aside on a plate loosely covered with foil.
 - Return the veg to the oven for another 15 mins while you cook the pasta. When the veg is softened and has charred a little, remove from the oven. Squeeze the garlic cloves from their skins into the tin and mash to a paste with a fork. Squash some of the tomatoes as well, add a splash of pasta cooking water, then mix to make the veg saucy, scraping any veg stuck to the tin into the sauce.
 - Drain the pasta and tip it into theroasting tin, toss through the sauce and season. Serve the pasta in shallow bowls, slice the chicken and serve on top of the pasta. Finish with a drizzle of olive oil, a little grated parmesan and another pinch of chilli flakes, if you like.
@@ -274,7 +274,7 @@
 - 50gpitted green nocerella olives
 - small bunch ofparsley, chopped
 
-### Method
+### Instructions
 - Bring a small pan of water to the boil. Cook the green beans for 1 min, then drain and run under cold water.
 - Pour about 1-2 tsp oil from the tuna into a large bowl, add another 1 tbsp from a bottle, then the lemon zest and 2 tsp of the juice, along with the wine vinegar and mustard. Season andwhiskuntil smooth.
 - Tip the green beans, tuna, borlotti beans, onion, celery, olives and parsley into the dressing and toss together. Serve topped with the celery leaves. If packing up for lunch, store the dressing and salad separately and toss together just before eating.Will keep chilled for a day in an airtight container.
@@ -316,7 +316,7 @@
 - 1 tsphoney(optional)
 - a fewice cubes
 
-### Method
+### Instructions
 - Peel the banana and put it in ablender. Add the other ingredients, along with a couple of ice cubes. Put the lid on and blend until smooth, then pour into two glasses and enjoy.Will keep chilled for up to a day.
 
 
@@ -360,7 +360,7 @@
 - 2 slicesdark rye bread(or another high-fibre bread of your choice)
 - 200ghot smoked troutor salmon, flaked into chunky pieces
 
-### Method
+### Instructions
 - Whiskthe oil, lemon juice and mustard with a pinch of salt in a large bowl. Add the shallot, capers and rocket, but don’t toss together until you’re ready to serve.
 - Whisk the eggs in a bowl with a pinch of salt and a splash of milk. Melt the butter in a frying pan and pour in the eggs, cook over a low-medium heat, stirring often with aspatula, until the eggs are just set.
 - Meanwhile, toast the bread and put one on each of two plates. Top with the scrambled eggs and flaked trout, and serve the tossed rocket salad on the side.
@@ -413,7 +413,7 @@
 - 1 tsphoney
 - ½ bunch ofchives, finely sliced
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7. Put the beetroot on abaking trayin a single layer. Drizzle over the oil and season well with salt and freshly ground black pepper. Toss the beetroot to ensure it’s evenly coated in the oil, then roast for 30 mins until tender and beginning to turn golden at the edges.
 - Meanwhile, combine the dressing ingredients in a medium bowl and set aside. Once the beetroot is cooked, tip three-quarters of it into the dressing and leave to marinate for 45 mins.
 - Just before the beetroot has finished marinating, combine the puy lentils with the rocket, three-quarters of the feta and two-thirds of the walnuts. Stir through the dressing and the beetroot, and toss until everything is well combined. Tip onto a platter, top with the remaining feta and walnuts, and scatter the chives over the top.
@@ -458,7 +458,7 @@
 - 75mlvodka
 - 100mldouble cream
 
-### Method
+### Instructions
 - Cook the pumpkin for 15-20 mins in a steamer over boiling water, or cook in themicrowaveuntil tender. Set aside until cool enough to handle. Blitz in a food processor or using ahand blenderuntil smooth. Heat the oil in a large frying pan and fry the sage for 30 seconds-1 min until crisp. Lift out of the oil using a slotted spoon and put on a plate lined with a sheet of kitchen paper to drain off the excess oil.
 - Fry the onion in the sage oil over a medium-low heat for 10-12 mins until softened but not golden. Stir in the garlic and chilli flakes, and cook for 1 min more. Set aside.
 - Cook the pasta following pack instructions, about 10-12 mins. Drain, reserving a mugful of the cooking water.
@@ -520,7 +520,7 @@
 - 4 tbspextra virgin olive oil
 - 1lime, juiced
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 4. Melt the butter in a 23cm cast-iron frying pan or shallow flameproof casserole. Tip the butter into a bowl and set aside to cool slightly. Meanwhile, tip the flour into a large bowl and mix in the cornmeal, baking powder, bicarb, chilli flakes and 1 tsp fine sea salt. Pour the buttermilk into a jug and whisk in the oil, 3 tbsp of the honey and the eggs until combined. Make a well in the dry ingredients and pour in the buttermilk mixture. Stir just until no dry pockets remain and the mixture is smooth – don’t overmix. Stir in the melted butter, then pour into the frying pan. Bake for 25-30 mins until golden and a skewer inserted into the centre comes out clean. Drizzle over the remaining 1 tbsp honey.
 - Meanwhile, to make the salsa, combine all the ingredients except the lime juice. Add the lime juice to taste. Season and set aside. Serve the cornbread warm in wedges, with the salsa on top and poached eggs and bacon on the side, if you like.
 
@@ -586,7 +586,7 @@
 - ½ tspground turmeric(optional)
 - 2 tbspJamaican or mild curry powder
 
-### Method
+### Instructions
 - Put the chicken in a large bowl, add the lemon or lime juice and vinegar, and cover with cold water. Massage the mixture into the chicken, then drain. This step is optional, but traditional in Jamaica.
 - Put all the marinade ingredients and 1 tsp salt in a clean bowl along with the chicken. Using your hands, combine all the ingredients to coat the chicken. Cover and leave to marinate for at least 30 mins, or ideally in the fridge overnight.
 - Heat the oil in a heavy pot or pan over a medium heat. Gently scrape the contents of the marinade bowl into the pan and set the bowl aside. Fry the chicken until light brown, about 3 mins each side. Tip in the carrots and potatoes, and stir for 2 mins more.
@@ -630,7 +630,7 @@
 - 75gbaby spinachleaves, chopped
 - bananas, kiwi, blueberries and maple syrup, to serve (optional)
 
-### Method
+### Instructions
 - Put the flour, baking powder, sugar, eggs, butter, milk and spinach in ablenderand whizz until smooth and bright green.
 - Melt a little butter in anon-stick frying panover a medium heat and spoon in small dollops of batter (you can cook two or three pancakes at a time). Cook for 2 mins until the edges are set and bubbles rise to the surface, then flip and cook for 1-2 mins more. Keep warm in a low oven while you cook the remaining pancakes.
 - Decorate the pancakes with googly fruit eyes (slices of banana and kiwi with blueberry pupils work well) and pointy banana teeth to serve. Serve with maple syrup, if you like.
@@ -701,7 +701,7 @@
 - 1 tspgaram masala
 - 2 tbspdouble cream
 
-### Method
+### Instructions
 - Put the yogurt, spices, garlic, ginger and ½ tsp salt in a large bowl, and mix well. Stir in the chicken, making sure it’s well coated. Cover and leave to marinate for 30 mins while you make the curry sauce.
 - Tip the blanched almonds into a heatproof bowl and pour over the milk. Warm it in themicrowavefor 1 min, then set aside for 30 mins.
 - Heat the oil in a pan over a medium heat and sizzle the cardamom and cinnamon for a few seconds before adding the onions. Cook over a low-medium heat for 5-6 mins until lightly golden. Add the garlic, ginger and chilli, and cook for 1 min before adding the spices and ½ tsp salt. Cook for 2 mins, stirring until fragrant.
@@ -768,7 +768,7 @@
 - 1 tspvanilla extract
 - orange and pink gel food colouring
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Oil two 20cm round cake tins and line the bases with baking parchment. Combine the flour, bicarb, spices and ½ tsp salt in a large bowl.Whiskthe sugars, oil, eggs, pumpkin purée, milk and vanilla together in a second large bowl using a wooden spoon until well combined. Pour the wet ingredients into the dry, then whisk until smooth. Divide the batter between the tins and shake gently to level the surface.
 - Bake for 30 mins until a skewer inserted into the centre of the cakes comes out clean. Remove from the oven and leave to cool in the tins for 10 mins, then transfer to awire rackto cool completely.
 - While the cakes are cooling, prepare the ghosts and icing. For the ghosts, break the chocolate into a heatproof bowl and melt in themicrowavein short 30-second bursts, stirring between each, or over a pan of simmering water, stirring occasionally. Line a baking tray with parchment. Make the ghosts by spooning a teaspoon of melted chocolate onto the parchment, then dragging the spoon through it to make the ghost’s tail. Repeat until you’ve used up all the chocolate, then chill for at least 30 mins. Draw on eyes and mouths using the icing pen.
@@ -814,7 +814,7 @@
 - 50gcheddaror another hard cheese, grated
 - tortilla chips,to serve
 
-### Method
+### Instructions
 - Scoop the avocado flesh into ablender. Add the lime juice, half the soured cream and most of the coriander (reserve a few leaves to serve), season with salt and blitz until smooth. Alternatively, finely chop the coriander and mash the ingredients together.
 - Spread the dip into a shallow, round dish or bowl (ours measured 28cm) using the back of a spoon. Transfer the remaining soured cream to apiping bagor sandwich bag, and snip off the tip or corner. Pipe a spider’s web design on top.
 - Sprinkle the tomatoes, onions, olives and cheese around the edge of the dish, top with the reserved coriander leaves and serve with tortilla chips for scooping.
@@ -853,7 +853,7 @@
 - popping candy(optional)
 - 135g packeach red and green jelly
 
-### Method
+### Instructions
 - Push a blueberry into the hole of each drained lychee to make spooky ‘eyeballs’. Pop the lychee eyeballs into a jelly mould or pudding bowl (ours was 1.2 litres, and measured 18cm across the base). Sprinkle over the popping candy, if using.
 - Make the green jelly following pack instructions, then pour enough of it into the mould to hold the lychees at the base once set (if you skip this step, the lychees will float to the top of the mould). Chill for 30 mins, or until lightly set. Keep the rest of the jelly at room temperature.
 - Pour the remaining jelly into the mould and return to the fridge for at least 2 hrs until firmly set.
@@ -903,7 +903,7 @@
 - 100gplain or wholemeal flour,plus extra for dusting
 - 1 tspvegetable oil
 
-### Method
+### Instructions
 - Heat the oven to 230C/210C fan/gas 8. Drain the tofu on kitchen paper andslice in halfhorizontally, patting it as you go to absorb as much moisture as possible. Tear the tofu into chunks, tip into a bowl and toss to coat in the cornflour, 1 tbsp of the vegetable oil and ½ tsp salt. Spread out on a baking sheet and bake in the oven for 25 mins.
 - Using the same bowl, make the roti. Mix the flour, a pinch of salt and the oil together with enough water (about 65ml) to make a soft, not sticky, dough. Knead on a floured surface for 3 mins, then cover and leave to rest while you make the sauce.
 - Heat the remaining 3 tbsp oil in afrying panover a medium heat and cook the tikka paste until fragrant, about 1 min. Add the onions and cook for 4-5 mins, adding a splash of water if needed to prevent any sticking, then cover and cook until completely softened (about 8-10 mins more), stirring occasionally.
@@ -948,7 +948,7 @@
 - 200gself-raising flour
 - double creamor ice cream, to serve
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4 and butter a 23cm cake tin. Zest the oranges, then remove the peel and pith using a small,serrated knife. Set aside. Cut the oranges along the equator into 1cm-thick slices. Sprinkle 25g sugar over the base of the tin and arrange the orange slices on top. Set aside while you make the syrup and cake batter.
 - Weighthe orange peels into a saucepan with the pith, and add the same amount of sugar and water (about 100g). Bring to a simmer, then boil for 10 mins until reduced and thickened. Set aside to infuse until needed, then strain.
 - Beat the butter and 200g of the sugar together in astand mixeror using an electric whisk until light and fluffy, about 5 mins. Crack in the eggs, one by one, beating well after each addition. Finally, beat in the orange zest and marmalade before carefully folding in the flour and a pinch of salt. Spoon the batter over the orange slices and carefully level the surface. Bake for 35-40 mins until golden and a skewer inserted into the middle comes out clean.
@@ -990,7 +990,7 @@
 - 3 tbsppesto(vegetarian, if needed) 100g cheddar, grated
 - ½ tspground nutmeg(optional)
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7. Line a deep 20 x 20cm baking tin with the shortcrust pastry, trimming the edges where needed (line with baking parchment first if it’s not non-stick). Defrost the peas by tipping into a heatproof bowl and covering in boiling water – let stand while you make the filling.
 - Put the eggs in a bowl with the crème fraîche, pesto, cheddar, ½ tsp black pepper and the nutmeg, if using, and mix to combine. Drain the peas, then dry on kitchen paper thoroughly before adding to the bowl and stirring to distribute evenly.
 - Pour the filling into the pastry case – it should be a snug fit, but shouldn’t overflow. Bake for 25-30 mins, or until puffed up, golden, and the pastry is brown. Leave to cool in the tin for 10 mins (it’ll collapse back down to size), then transfer to awire rackto cool completely (this will prevent a soggy bottom).
@@ -1043,7 +1043,7 @@
 - 2 tbspcider vinegar
 - ¼ tspwholegrain mustard
 
-### Method
+### Instructions
 - Prick the potatoes all over using a fork, thenmicrowaveon high for 10-15 mins, or until softened. Heat the oven to 200C/180C fan/gas 6, or turn on the air-fryer.
 - Tip the tuna into a bowl and mix with the mayo, yogurt, spring onions, ginger, half the lemon juice, the hot sauce and gherkins, if using.
 - When the potatoes are tender, score them lightly with a sharp knife, then pour over the soy sauce and toss quickly to coat. Bake in the oven for 15-20 mins or theair-fryerat 200C for 5 mins to crisp up the skins. Meanwhile, combine the dressing ingredients with the remaining lemon juice and drizzle this over the spinach. Split the potatoes in half, fill with the tuna mayo and serve with the spinach.
@@ -1090,7 +1090,7 @@
 - small handful ofparsley,finely chopped
 - steamed new potatoesand greens, to serve (optional)
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Combine the fennel, paprika, cumin, oil, honey, tomato purée and harissa in a large bowl. Tip in the sausages, onions and squash, and toss gently with your hands to evenly coat everything.
 - Tip into a largeroasting tinand spread out into an even layer. Roast for 30-40 mins, stirring occasionally to ensure everything is evenly browned. Scatter over the parsley and serve with steamed new potatoes and greens, if you like.
 
@@ -1135,7 +1135,7 @@
 - 400g cancannellini beans,undrained
 - 200gspaghetti
 
-### Method
+### Instructions
 - Heat the oil in afrying panover a medium heat and fry the sausagemeat for 6-7 mins, breaking it up into small chunks using a wooden spoon as you go, until browned and lots of the fat has been released. Remove the sausagemeat to kitchen paper using a slotted spoon and leave to drain, leaving the fat in the pan.
 - Fry the onions in the sausage fat for 4-5 mins until slightly softened, then add the garlic, oregano and ¼ tsp black pepper. Cover and fry until completely softened, about 6 mins more, then return the sausagemeat to the pan, along with the Worcestershire sauce, if using.
 - Tip in the tomatoes, breaking them up with a spoon if needed. Add ½ tsp salt and the sugar. Swill the can out with the stock or wine, then add this to the pan and simmer for 15 mins over a low heat, stirring occasionally. Tip in the beans and their liquid, and cook for 10-15 mins more until the sauce has thickened slightly. Meanwhile, cook the spaghetti following pack instructions. Toss the ragu with the cooked spaghetti and serve.
@@ -1178,7 +1178,7 @@
 - pinch ofcayenne pepper
 - pinch ofonion granules
 
-### Method
+### Instructions
 - Drain the sardines and tip the sardines into a bowl, reserving the oil. Remove the backbones if there are any, and discard. Lightly mash the sardines using a fork. Mix in the crème fraîche, yogurt or soured cream, the lemon zest and a splash of the juice, the shallot, parsley and smoked paprika, cayenne pepper and onion granules. Season well and add more lemon juice, if needed. Drizzle over the reserved oil to serve.
 
 
@@ -1230,7 +1230,7 @@
 - 2 tbsplime juice
 - 15gcoriander, roughly chopped (optional)
 
-### Method
+### Instructions
 - Tip the chicken wings into a large bowl and stir in the soy sauce, chilli flakes (if using), honey, lime zest and juice until the wings are coated. Set aside to marinate. Heat the oven to 210C/190C fan/6.
 - To make the slaw, use a vegetable peeler to shave the carrots into strips, then finely slice the cabbage and red onion with either a sharp knife or mandoline. Put in a bowl with the olive oil and lime juice, and season to taste.
 - Spread the wings out on a baking tray lined with baking parchment, then bake for 35 mins, turning halfway. Just before serving, stir the coriander, if using, through the slaw. Serve with the cooked rice.
@@ -1294,7 +1294,7 @@
 - ½ small bunch ofcoriander,finely chopped
 - ½lime,juiced
 
-### Method
+### Instructions
 - Put the fish in a medium bowl with the spices, ½ tsp salt, a few cracks of black pepper and the oregano, then toss to combine.
 - Combine the slaw ingredients and give them a scrunch with your hands. Set aside. Mash the avocado and lime juice together in a bowl with a pinch each of salt and freshly ground black pepper. Set aside along with the slaw. Next, mix all the salsa ingredients together in another bowl with a pinch each of salt and pepper.
 - Heat theair-fryerto 180C and cook the fish for 8-10 mins until just cooked through. Warm the wraps following pack instructions.
@@ -1349,7 +1349,7 @@
 - 125gicing sugar,sifted
 - 30gpecans,chopped
 
-### Method
+### Instructions
 - Butter a 20cm round cake tin and line with baking parchment. Pour the cider into asaucepan, bring to the boil and boil rapidly for 10 mins until reduced to about 100ml, or by about half. Cool. Combine the spices, reserving 1 tsp of the mix for the icing. Mix the rest with the flour, baking powder and a pinch of salt.
 - Heat the oven to 180C/160C fan/gas 4. Beat the butter and sugar together in a stand mixer or using an electric whisk until light and fluffy. Add the eggs, one at a time, beating well between each addition. Mix in the vanilla, yogurt and 75ml of the reduced cider. Finally, fold in the flour mixture and apples until no streaks of flour remain. Spoon into the prepared tin and smooth the surface. Bake for 55 mins-1 hr, or until a skewer inserted into the centre comes out clean. Leave to cool in the tin for 20 mins, then transfer to awire rackto cool completely.Once completely cool, the cake can be wrapped and frozen for up to three months. Defrost completely before icing and serving as below.
 - When the cake has cooled,whiskthe remaining 25ml reduced cider with the icing sugar and reserved spice mix until smooth, adding a splash of water if needed to make a thick, drizzly icing. Spoon this over the cake, letting it drip down the side. Sprinkle over the chopped pecans, in a ring if you like, and leave the icing to set before serving.Will keep in an airtight container in a cool place for up three days.
@@ -1393,7 +1393,7 @@
 - 4spring onions,finely chopped
 - 500gsweetcorn(see tip below)
 
-### Method
+### Instructions
 - Combine the flour, baking powder, garlic powder, paprika and a good pinch each of salt and freshly ground black pepper in a large bowl. Graduallywhiskin the milk and eggs until you have a smooth, thick batter. Mix in the parsley, spring onions and sweetcorn. Make 10-12 fritters by taking a spoonful of the mixture (around the size of a golf ball) and flattening down. Put on a tray or plate.
 - Put a layer of baking parchment in the base of theair-fryerbasket. Heat the air-fryer to 200C and cook the fritters in batches for 12-15 mins, turning after 8 mins until golden and set.
 
@@ -1435,7 +1435,7 @@
 - 1 tspground nutmeg, or use freshly grated (see below)
 - 50ggolden caster sugar(optional)
 
-### Method
+### Instructions
 - Melt the butter in asaucepanover a medium heat, then add the rice and toast for a few minutes until opaque. Pour in the cream, whole milk, condensed milk and vanilla, then add the nutmeg and sugar. Bring to a simmer, cover and cook for 45 mins-1 hr over a low heat, stirring often so it doesn’t stick or burn, until the rice is tender (see tip, below). Cool completely.
 - Pour the rice pudding into anice cream machineand churn following the manufacturer’s instructions (about 30 mins; see tip, below). Put in a freezerproof container and freeze for at least 4 hrs, or until scoopable.Will keep frozen for three months.
 
@@ -1482,7 +1482,7 @@
 - 1 tspsugar, plus a pinch
 - couscous, rice or flatbreads, to serve
 
-### Method
+### Instructions
 - Mix the beef mince, half the dill, the bicarb (to help keep the meatballs juicy) and plenty of salt and pepper together in a bowl. Roll into roughly 20 meatballs (about 25g each), then chill while you make the sauce.
 - Heat 2 tbsp of the oil in a large, shallow pan over a medium-low heat and cook the shallots, garlic, chilli and a pinch of salt for 8-10 mins until the shallots are lightly caramelised.
 - Add the tomato purée and turn up the heat slightly, cooking until it has darkened, about 2-3 mins. Add the chopped tomatoes, 150ml water, the cardamom, lime zest, sugar and a good pinch of salt. Bring to the boil, then reduce the heat to a simmer and cook for 10 mins. Heat the grill to high.

@@ -36,7 +36,7 @@
 - 2leeks, sliced
 - parsley, to garnish
 
-### Method
+### Instructions
 - Heat the oil in a large nonstick pan and add the onion, garlic, celery, carrots, parsnips and thyme. Cover with a lid and cook gently for 15 mins, stirring occasionally, until the onions are softened and beginning to colour. Add the rice and pour in the stock. Bring to the boil, then reduce the heat to a simmer and cook, uncovered, for 15 mins, stirring occasionally.
 - Season to taste with salt and freshly ground black pepper, then stir in the leeks. Return to a gentle simmer and cook for a further 5 mins or until the leeks have softened. Adjust the seasoning to taste and blitz half the soup with a stick blender, leaving the other half chunky, if you like. Top with the parsley and serve in deep bowls.
 
@@ -75,7 +75,7 @@
 - 3 tbspplain flour
 - 5 tbspwhite wineor water
 
-### Method
+### Instructions
 - Put the onions in a large pan with the turkey neck (optional). Pour in stock and simmer for 1 hr. Strain to remove the vegetables and turkey, then return the liquid to the pan. For a textured gravy, remove the turkey and, using a stick blender, blitz the onion into the stock until smooth.
 - Blend the flour with the white wine or water, then blend this into the stock, stirring over the heat until thickened. Cool, then chill.Will keep for several days or freeze for one month. Thaw in the fridge a day ahead. Heat in a pan until piping hot, then add the juices from the turkey and season to taste.
 
@@ -113,7 +113,7 @@
 - 500gbaby spinach, roughly chopped
 - 220gcherry tomatoes, halved
 
-### Method
+### Instructions
 - Cook the penne following pack instructions. Meanwhile, heat 4 tbsp of the pesto in a non-stick pan over a medium-low heat. Add the spinach and 2 tbsp water, then cover to wilt.
 - Drain the pasta and toss with the spinach, the rest of the pesto and the tomatoes. Serve half. Cool and chill the rest.Will keep chilled for three days.Reheat with a splash of water.
 
@@ -153,7 +153,7 @@
 - smallmint sprigsor leaves, to decorate
 - 100gcoconut yogurt, to serve
 
-### Method
+### Instructions
 - Put the apple in a small pan with 150ml water, cover and simmer for 3 mins to soften. Add the berries, cover and cook for 5 mins more until the berries have just softened.
 - Meanwhile, lightly oil four mini pudding moulds. Using a mould as a template, cut out four rounds from the bread and use these to line the base of each mould. Trim the crusts from the offcuts (and reserve these), then use the offcuts and other two slices of bread, cut into strips, to line the sides of the moulds. Press gently to compact the bread a little and leave some overhanging.
 - Spoon in most of the fruit and juice, reserving about 1 tbsp. Fold the overhanging bread over the fruit and fill in the gaps using the reserved bits of crust to completely cover the top. Cover the moulds and press down firmly to compress the puds. Chill for about 1 hr to firm up.Will keep chilled for up to three days.
@@ -196,7 +196,7 @@
 - 1 heaped tbsppomegranate seeds(18g)
 - 4walnut halves, roughly chopped
 
-### Method
+### Instructions
 - Tip the rice into a wide pan and warm over a low heat. When it starts to crackle, stir in the cinnamon and 225ml water. Cover and simmer for 15 mins until the water is absorbed.
 - Add the milk, vanilla and bay leaf, and continue to simmer, uncovered and stirring often, for 35-40 mins until the rice is tender and the milk has reduced to a creamy consistency.
 - Leave to cool for 5 mins, then spoon two portions into small serving bowls. Top each portion with a few pomegranate seeds and half of the chopped walnuts.Will keep chilled for up to three days.Loosen with a splash of milk before serving cold or warm.
@@ -238,7 +238,7 @@
 - 6 tsptoasted three-seed mix
 - handful ofmint leaves(optional)
 
-### Method
+### Instructions
 - Put 300g of the fruit in a bowl with the oats and yogurt. Blitz with ahand blenderuntil very smooth. Divide between six bowls, then top each bowl with the reserved berries, nut butter, chocolate and seeds.
 - Serve straightaway or cover and chill until ready to eat.Will keep chilled for four days.To serve, scatter over the mint, if using.
 
@@ -280,7 +280,7 @@
 - 200g largebrussels sprouts, trimmed and sliced
 - 2eggs
 
-### Method
+### Instructions
 - Boil the potatoes for 15 mins until tender. Meanwhile, heat the oil in a largenon-stick frying panover a medium heat and fry the onion for 8 mins, stirring frequently until it starts to colour. Add the caraway, garlic, pepper and sprouts and cook for 5 mins more with the lid on the pan so they steam at the same time.
 - Drain and lightly crush the cooked potatoes using amasher. Stir them into the vegetables and cook for 5-10 mins, turning occasionally so the mixture browns.
 - Meanwhile, poach the eggs for a few minutes for a runny yolk or until cooked to your liking. Remove from the pan using a slotted spoon. Serve each portion of hash topped with an egg.
@@ -322,7 +322,7 @@
 - 200gplain bio yogurt
 - 2 tsptoasted three-seed mix
 
-### Method
+### Instructions
 - Put the oats, milk, 450ml water and cinnamon in a pan. Bring to the boil, then turn the heat to low, stirring often, for 5 mins until thickened.
 - Meanwhile, put the bananas in a dish with the orange zest and juice. Cover andmicrowaveon high for 1½-2 mins until softened. Tip the porridge into bowls and top with the yogurt, banana and seeds.
 
@@ -374,7 +374,7 @@
 - small bunch of parsley,finely chopped
 - 85mlmilk
 
-### Method
+### Instructions
 - If the beef stew is frozen, defrost overnight in the fridge first. Transfer to a flameproof casserole and stir through the mustard.
 - Heat the oven to 200C/180C fan/gas 6. Tip the flour into a large bowl and stir in the cayenne, baking powder and 1 tsp salt. Rub in the butter using your fingertips to combine – it should have a sandy texture. Use a cutlery knife to stir in the cheese and parsley.
 - Pour in the milk and use the knife to stir it in until the mixture clumps together. If it looks dry, add a little more milk. Tip the dough onto a lightly floured surface and gently knead until any dry floury patches are incorporated – try not to overmix, as you’ll end up with tough scones. Roll or pat the dough until it’s roughly 1cm thick. Use a 5cm cookie cutter to stamp out the scones – we made 18. Arrange the scones on top of the beef stew in a single layer, leaving space for them to expand during cooking. Place any others on a baking tray lined with baking parchment. Sprinkle each with a little more cheese, cover the casserole with a lid and bake for 15 mins along with the extra scones.
@@ -423,7 +423,7 @@
 - 1beef stock cubeor 600ml fresh strong beef stock
 - cooked green vegetablesand mash, to serve (optional)
 
-### Method
+### Instructions
 - Season the beef generously and toss in the flour. Heat 1 tbsp oil in a large flameproof casserole over a medium-high heat. Cook the beef in two or three batches for about 6-8 mins each, so as not to overcrowd the pan, until browned on all sides. Add a little more oil if it starts to catch. Transfer to a plate.
 - Reduce the heat. If the pan is dry, add a little more oil. Cook the onions, celery and carrots for 5 mins. Add the bay, thyme and wine (or use water), and simmer for 2-3 mins, scraping up any browned bits from the bottom of the pan. Stir in the tomato purée and Worcestershire sauce, and cook for another minute.
 - If you want to make this in aslow cooker, transfer everything from the pan to the slow cooker. Add the beef along with the stock cube and 400ml water, or pour in the fresh stock, and cook on low for 6-8 hrs until the beef is tender. If cooking on the hob, return the beef to the pan, crumble in the stock cube and add 600ml water or the fresh stock. Cover with a lid and cook over a low heat for 3 hrs, topping up with a splash of water as needed if the stew is reducing quickly.
@@ -472,7 +472,7 @@
 - 1 tbspwholegrain mustard
 - small handful of fresh soft herbslike parsley, tarragon or chives, chopped
 
-### Method
+### Instructions
 - Melt half the butter in a pan over a medium heat or in thepressure cookeruntil sizzling. Season and brown the chicken for 8-10 mins before removing to a plate. Heat the rest of the butter in the pan and stir in the onions. Cook for 5 mins, until soft, then add the garlic and bay leaves, and cook for 1 min. Stir through the carrots, leek and potato, so everything is coated in the buttery juices, and leave to cook for 2 mins to soften slightly.
 - Scatter over the flour and stir to make a sandy paste that covers everything, then leave to cook for 2 mins more. Splash in the wine or cider, if using, and simmer for 3-4 mins, then pour over and stir through the stock. Return the chicken to the pan, season with salt and pepper and bring to a simmer. Give everything a good stir, then lock in the lid, bring to high pressure, and cook for 5 mins. Leave the pressure to drop gradually. Check the potatoes are cooked with the point of a knife – if not, simmer for a few minutes more with the lid off. Stir in the mustard and herbs, then serve. The stew can be made ahead and kept chilled for two days or frozen for three months if you leave out the herbs. Defrost and reheat in a pan over a medium heat until piping hot, then finish with the herbs.
 
@@ -514,7 +514,7 @@
 - 200geomuk(Korean fish cakes), roughly cut
 - 3spring onions,cut into thirds
 
-### Method
+### Instructions
 - If using refrigerated rice cakes, soak in warm water for 15 mins. Place a large frying pan over high heat and pour in the stock (or water). Bring to a boil, then add the gochujang, soy sauce, sugar and corn syrup. Stir and reduce to a medium heat.
 - Tip the rice cakes and fish cakes into the pan of sauce. Simmer for 10 mins until the rice cakes are soft and the sauce has thickened and clings to the rice cakes. Stir in the spring onions and serve immediately.
 
@@ -554,7 +554,7 @@
 - 2spring onions,finely sliced
 - 6 tbspvegetable oil
 
-### Method
+### Instructions
 - Put the flours in a bowl and pour in 200ml ice-cold water and the reserved kimchi liquid.Whiskuntil a smooth batter is formed.
 - Mix in the kimchi, gochujang and spring onions – the batter should be a slightly thick pancake batter, similar to a drop scone consistency. You can add a tablespoon of flour if you need to thicken it a little.
 - Place a large, non-stick pan over a high heat with 2 tbsp vegetable oil. Ladle the pancake mix into the pan. Use the back of the ladle to smooth the mixture out to create a thin, even layer. Reduce the heat to medium high. Fry for 2-3 mins, until air bubbles start to pop on the surface and the sides start to crisp.
@@ -632,7 +632,7 @@
 - ½ tspsesame oil
 - 2 tsptoasted sesame seeds
 
-### Method
+### Instructions
 - Cook the noodles following pack instructions, then drain and rinse under cold water. Mix the ingredients for the japchae sauce together and set aside.
 - Mix the ingredients for the beef marinade together along with ½ tsp ground black pepper. Tip the beef into the marinade and ensure everything is thoroughly mixed. Set aside for 10 mins to marinate.
 - Place the spinach in a large heatproof bowl and cover with boiling water. Wilt for 1 min. Drain the spinach and rinse under cold water. Squeeze out any excess water. Place the drained spinach in a bowl along with the remaining spinach ingredients and ¼ tsp salt and mix. Set to one side.
@@ -677,7 +677,7 @@
 - 150gpeeled raw prawns
 - 260gmicrowave sticky riceor other cooked rice
 
-### Method
+### Instructions
 - Heat the vegetable oil in a medium sized, deep frying pan over a medium heat and add the Thai green curry paste. Cook for 1 min until fragrant, then add the yellow pepper and green beans and briefly fry.
 - Add the coconut milk and bring to the boil. Reduce the heat, cover, and simmer for 8 mins, then add the prawns, cover and cook until they are just pink and curled, about 3 mins.
 - Prepare the microwave rice (or other rice) and divide it between two bowls. Divide the curry between the bowls.
@@ -719,7 +719,7 @@
 - 250gmixed baby veg(mangetout, baby corn, broccoli etc), halve any big pieces
 - 100gdried medium egg noodles
 
-### Method
+### Instructions
 - Place a deep, wide frying pan or wok on medium heat and add the vegetable oil.
 - Add the Thai red curry paste to the oil and cook for 1 min, or until the paste is smelling fragrant. Add the coconut milk and bring to a boil. Add the sugar, then reduce to a simmer and cook for 1 min.
 - Add the vegetables, (if you are using mangetout then keep these back) and turn the heat up to medium, cooking until just tender but retaining a bite, about 6-8 mins. 2 mins before the end of cooking time add the mangetout.
@@ -763,7 +763,7 @@
 - 50gmangetout, halved lengthways or 50g small broccoli florets
 - cooked riceto serve
 
-### Method
+### Instructions
 - Put the vegetable oil in a frying pan, and heat on high. Season the chicken slices with salt and brown them on high until just golden then remove from the pan and set aside. You don’t need to cook the chicken all the way through, just get it nicely golden.
 - Add the Thai green curry paste, stir fry for 1 minute then add the onion and reduce the heat to medium. Stir fry for 2 mins, or until the onion is becoming softened.
 - Add the mushrooms and cook on medium-high heat for 5 minutes. Add the coconut milk and bring to the boil. Reduce the heat then simmer, covered for 5 mins, add the chicken strips. Cook for another 3 mins, or until the chicken is cooked through and the sauce is piping hot, then add the mangetout and cook for 1 min.
@@ -803,7 +803,7 @@
 - 1 tbspbutter
 - 4 tbspcrème fraîche
 
-### Method
+### Instructions
 - Bring a large saucepan of water to the boil. Add the potatoes and boil for about 15 mins or until tender. Transfer to a colander and drain well, then return to the pan and set over a very low heat for 2 mins to dry completely.
 - Heat the milk and butter in a small pan, then pour over the potatoes. Remove from the heat, then mash potatoes using an electric hand whisk or potato masher. Tip in the créme fraîche and beat with a wooden spoon until smooth and creamy. Season with pepper and a pinch of salt.
 
@@ -841,7 +841,7 @@
 - 50grice flour
 - 100gcaster sugar,plus 1 tbsp
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter and line a 28 x 18cm tin. In afood processor,pulse together the butter, both flours, ½ tsp salt and the 100g of sugar until the mixture resembles fine breadcrumbs. Pulse a few more times until it comes together into a rough ball. Alternatively, put all the ingredients in a bowl and rub together using your fingertips until the mixture resembles fine breadcrumbs. Bring together into a pliable dough and press down into the prepared tin. Using asharp knife, mark the dough into 16 bars.
 - Sprinkle over the remaining sugar and bake for 25-30 mins until golden and set. Remove and prick the dough all over. Leave to cool in the tin for 5 mins before transferring to awire rackto cool completely. Using a sharp knife, cut through your earlier scores to separate completely.
 
@@ -895,7 +895,7 @@
 - 50gwensleydale,grated or crumbled
 - hot salsa(optional)
 
-### Method
+### Instructions
 - First, make the pickled onions. Tip the onions into a non-metallic bowl, sprinkle with ½ tsp salt and set aside for 5 mins. Rinse off the excess salt, drain and return to the bowl along with the lime juice and oregano. Set aside to pickle until needed.Will keep chilled for a week.
 - Mix the crushed potatoes with the leftover turkey. If needed, roughly chop the mixture – it should be fine enough to hold itself together, but still retain some texture. Spoon some of the mixture over half of each tortilla, then fold to enclose the filling and press firmly.
 - When all the tortillas have been filled, heat the oil to 180C in a deep-sided frying pan, or until a cube of bread dropped in browns within 20 seconds. Put two taquitos in the pan at a time, and fry for about 1 min on each side. When ready, they will be golden and crunchy. Put the fried taquitos on a tray lined with kitchen paper.
@@ -945,7 +945,7 @@
 - 1 tspsesame oil
 - steamed white riceor fried noodles, to serve
 
-### Method
+### Instructions
 - Heat awokover a high heat and, once hot, pour in the oil. Add the chicken and fan out in a single layer so that it’s in direct contact with the hot wok. Once it has started to brown on one side, give it a good stir, then toss in the onion and garlic. Stir, then add the carrots, dark soy, chicken powder or salt, sugar, white pepper and spring onions. Stir, then add the beansprouts and fry, stirring, for 1 min before pouring in 50ml just-boiled water.
 - Bring to the boil, then slowly pour in the cornflour paste to loosen it, mixing at the same time to prevent any lumps. Once the sauce has thickened, switch off the heat and add the sesame oil. Serve on a bed of steamed white rice or freshly fried noodles.
 
@@ -998,7 +998,7 @@
 - 2eggs,beaten
 - ½ tbspsesame oil
 
-### Method
+### Instructions
 - Put all of the ingredients in a largewokor saucepan (except the cornflour paste, sesame oil and eggs), plus 1½ tsp salt. Slowly bring to the boil, turn down the heat and simmer for 3 mins. Taste and add a little more vinegar or chillies, if you like.
 - Give the cornflour paste a good mix, turn up the heat to medium and slowly add the paste to the soup, stirring throughout until it coats the back of a spoon. Turn off the heat and slowly pour in the beaten egg, stirring as you pour. Add the sesame oil and serve.
 
@@ -1039,7 +1039,7 @@
 - ¼ tspwhite pepper
 - 4eggs,whisked
 
-### Method
+### Instructions
 - Heat awokover a medium-high heat. Once hot, pour in the oil, then add your protein of choice and spread it out across the bottom of the wok. When it begins to brown, add the sliced onion and continue to cook for 1-2 mins, stirring regularly, to soften slightly. Tip in the mushrooms and stir.
 - When the mushrooms have started to soften, add the peas along with the white pepper and ½ tsp salt. Stir-fry for 1 min, then add thewhiskedeggs. Try not to stir the eggs – instead, pick up the wok and swirl the eggs around the rest of the ingredients. Once they begin to set, slowly fold into the rest of the dish. Remove from the heat as soon as the eggs have nearly cooked all the way through.
 
@@ -1084,7 +1084,7 @@
 - 15-20 stoned  prunes
 - good-quality bread, to serve
 
-### Method
+### Instructions
 - Heat the oil in a large heavy-based saucepan until hot. Fry the chicken pieces in batches until golden brown, then remove and set aside. Add the bacon, carrots, celery and leek tops, and fry for 5 mins until it all starts to brown. Pour off any excess fat.
 - Splash in the wine and boil rapidly, scraping the bottom of the pan. Return the chicken pieces with the herbs and add enough cold water to cover. Slowly bring to the boil, then simmer for 40 mins until the chicken is tender.
 - Remove the chicken to a plate, cover with foil and leave to cool slightly. Strain the soup into a clean saucepan and discard all the other ingredients. Leave to stand for a few mins and skim off any fat that rises to the top. Pull the meat from the chicken bones and tear into large chunks.
@@ -1158,7 +1158,7 @@
 - 5 largecherry tomatoes,quartered (80g)
 - 5kalamata olives,halved
 
-### Method
+### Instructions
 - Heat oven to 200C/180C fan/gas 6. Arrange the red onions, red pepper, courgette and aubergine in lines on a large baking sheet. Drizzle with a little oil and roast for 15 mins.
 - Cook the pasta for 10-12 mins until al dente. While the pasta is cooking, loosely wrap the salmon fillet in foil and do the same with the chicken and pesto in another foil parcel, then put them on another baking tray.
 - When the veg have had their 15 mins, put the salmon and chicken in the oven and cook for a further 12 mins (or until the chicken is cooked through). Drain the pasta, put in a bowl and toss really well with the lemon zest and juice, rapeseed oil, garlic and two-thirds of the basil. When everything is cooked, add the red onions to the pasta. Toss together and divide between three lunch boxes.
@@ -1205,7 +1205,7 @@
 - 1red onion,finely chopped
 - small packcoriander,roughly chopped
 
-### Method
+### Instructions
 - Put the drumsticks in a large bowl with 1 tbsp oil, the garlic, ginger, garam masala, turmeric and 2 tbsp yogurt. Toss together with your hands until coated. Leave to marinate for at least 30 mins (can be left in the fridge overnight). Heat oven to 180C/160C fan/gas 4.
 - Put the potatoes in a large roasting tin with the remaining oil and plenty of seasoning. Add the chicken drumsticks and bake for 40-45 mins until cooked and golden.
 - Scatter the tomatoes, onion, coriander and some seasoning over the chicken and potatoes, with the remaining yogurt served on the side.
@@ -1248,7 +1248,7 @@
 - 1 tbspgoji berries
 - 1 tbspchia seeds
 
-### Method
+### Instructions
 - Tip half the raspberries and all of the orange juice in a pan. Simmer until the raspberries soften, about 5 mins.
 - Meanwhile stir the oats, milk and 450ml water in apanover a low heat until creamy. Top with the raspberry compote, remaining raspberries, orange slices, banana, almond butter, goji berries and chia seeds.
 
@@ -1295,7 +1295,7 @@
 - small handful of coriander,finely chopped
 - 1lime,cut into wedges
 
-### Method
+### Instructions
 - Melt the ghee in a large flameproof casserole orsaucepanover a medium heat. Stir in all the cauliflower and carrots, and season lightly. Fry gently for 10 mins until the vegetables have softened and taken on a bit of colour.
 - Tip in all the spices and fry for a further 2 mins until fragrant. Pour in the moong dal and rice, and stir to coat in the spices. Season with salt and pour in 1.25 litres water. Bring to a simmer and cook for 45 mins, stirring occasionally until the beans and rice are fully tender and have broken down. The texture should be porridge-like. Season to taste and sprinkle over the coriander. Serve with the lime wedges on the side for squeezing over.
 
@@ -1374,7 +1374,7 @@
 - ½small red onion,finely chopped
 - 4 tbspsesame oil
 
-### Method
+### Instructions
 - First, make the carrot & daikon pickle. Heat the vinegar and sugar in asaucepanover a medium heat, stirring until the sugar has dissolved. Remove from the heat and leave to cool completely. Put the carrots and daikon in a sterilised jar, then pour over the cooled vinegar mixture. Seal the jar and chill for 1-3 hrs.Will keep chilled for a month.
 - Combine all of the ingredients for the marinade in a large bowl, add the chicken and mix well to evenly coat. Marinate in the fridge for at least 3 hrs, or overnight.
 - Heat the oven to 180C/160C fan/ gas 4. Remove the chicken thighs from the marinade, shaking off as much excess as possible, and set the leftover marinade aside. Rub 2 tsp of the butter over a baking tray and arrange the chicken thighs on top. Roast for 25-30 mins, then cut the chicken into large strips and set aside. Turn the oven down to its lowest temperature.
@@ -1421,7 +1421,7 @@
 - squeeze of lime juice
 - 1 tspcrispy chilliin oil
 
-### Method
+### Instructions
 - Heat the sesame oil in a large, deepsaucepanover a medium heat and fry the mushrooms for 3-4 mins until evenly coloured. Add the garlic and chilli flakes, and cook for another minute.
 - Add the stock (or crumble in the stock cube and add 400ml water), and bring to the boil. Tip in the noodles and pak choi, reduce the heat and simmer for 3-4 mins until the noodles are warmed through. Ladle the soup into a bowl and season with a splash of soy sauce, squeeze of lime juice and the crispy chilli in oil. Serve straightaway.
 

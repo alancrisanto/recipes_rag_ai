@@ -37,7 +37,7 @@
 - 150gicing sugar
 - 1lemon, juiced
 
-### Method
+### Instructions
 - Line a muffin tin with large muffin cases. Heat the oven to 180C/160C fan/gas 4. Tip all the ingredients in a large bowl and mix until smooth using a wooden spoon or an electricwhisk. Spoon tablespoons of the batter into the muffin cases until they’re three-quarters full (you can make up to six, depending on the case size). Bake for 30 mins or until a skewer comes out clean. Leave on acooling rackto cool completely.
 - Meanwhile, make the icing. Sieve the icing sugar into a bowl and gradually add lemon juice until you have a thick but pourable icing – you may not need all of the juice. Drizzle over the cooled muffins and serve.
 
@@ -79,7 +79,7 @@
 - 25gdark chocolate
 - 2 tspcocoa powder
 
-### Method
+### Instructions
 - Separate the egg whites and yolks into two largebowls.Whiskthe whites until stiff. Add the sugar to the yolks and whisk again (no need to clean first) until thick and foamy – this will take about 5 mins. Whisk the mascarpone and cream liqueur into the egg yolks until you can’t see any streaks of cheese. Carefully fold the whites into the mascarpone mixture with a large metal spoon to keep in as much air as possible.
 - Get your serving dish ready (ours was 20 x 15 cm). Pour the coffee into a shallow dish and dip in a few sponge fingers at a time, turning them for a few seconds until they are nicely soaked, but not soggy. Layer these into the dish until you have used half the biscuits, then evenly spread over half of the creamy mixture. Using the coarse side of the grater, grate over most of the chocolate, then repeat the sponge and cream layers (you should use up all the coffee). If you want a pretty finish, you can pipe on the final cream layer.
 - Cover and chill for a few hours or overnight.This can be kept in the fridge for up to two days.To serve, dust with cocoa powder and grate over the remaining chocolate.
@@ -147,7 +147,7 @@
 - 2 tbspplain flour
 - 100mldouble cream
 
-### Method
+### Instructions
 - Cut the rhubarb into 10.5cm batons, using pieces that are roughly the same width. Put the vanilla pod, sugar, lemon juice and 300ml water (or enough to just cover the rhubarb) in a wide frying pan or shallow casserole set over a low heat. Once the sugar has dissolved, add the rhubarb and simmer for 5 mins. Remove from the heat and leave to cool in the syrup, preferably overnight, or for at least 1 hr. This way your rhubarb should be perfectly cooked, but still hold its shape.
 - To make the pastry, put the flour, almonds, sugar and butter in a food processor. Blitz until the mixture resembles breadcrumbs. While the motor is running, add the egg yolk and dribble in 1-2 tbsp cold water. Tip onto a work surface and knead briefly to bring the mixture together to form a dough. Wrap in cling film and chill for 30 mins.
 - While your pastry chills, make the crème patisserie. Heat the milk and reserved vanilla seeds in a pan set over a medium heat until nearly boiling. Meanwhile, whisk the egg yolks, sugar and flours together in a large bowl until pale. Continue whisking while you pour the hot milk over the egg mixture. Wipe out the saucepan and strain the liquid back into the pan through a sieve. Set over a medium-low heat and stir continuously until the mixture has a thick custard consistency. Scrape into a clean bowl, cover the surface with cling film to prevent a skin from forming and chill for at least 1 hr or up to 2 days.
@@ -200,7 +200,7 @@
 - 150glight muscovado sugar
 - 4 tbsprum
 
-### Method
+### Instructions
 - Combine the rum and raisins in a small bowl and leave for 1 hr for the raisins to plump up. Alternatively,microwaveon high for 45 seconds, then set aside to cool. Heat the oven to 180C/160C fan/gas 4 and butter a deep baking dish (ours was 27 x 22cm and 5cm deep).
 - Pour the melted butter and milk into a bowl or jug and beat in the eggs.Siftthe flour and baking powder into a large bowl, then mix in the caster sugar. Pour the wet ingredients into the dry along with the soaked raisins and stir everything together until well combined. Pour the batter into the prepared dish.
 - For the sauce,whiskthe sugar and rum together in a heatproof jug or bowl, then pour in 300ml boiling water. Pour the sauce into the dish over the batter (don’t worry if it looks messy at this stage, the sauce will sink to the bottom as it bakes). Bake for 40-45 mins until the top is golden. Serve warm with custard or cream, if you like.
@@ -240,7 +240,7 @@
 - 1 tbspsugar syrupor runny honey
 - ice
 
-### Method
+### Instructions
 - Put two martini glasses in the fridge to chill.
 - Pour all the ingredients into acocktail shakerand shake until it feels icy cold in your hand. Strain into the chilled glasses to serve.
 
@@ -280,7 +280,7 @@
 - 1 tspcaster sugar
 - ground cinnamon,to taste
 
-### Method
+### Instructions
 - Heat the milk and chilli in a small non-stick pan over a low heat until beginning to bubble. Take off the heat and taste. If you prefer more of a chilli kick, leave to infuse for 10 mins.
 - Warm over a low heat again if the milk has been left to stand, then stir in the malt powder, chocolate pieces and sugar along with a pinch or two of cinnamon to taste. Stir using a wooden spoon to fully melt and incorporate the chocolate into the milk. Remove and discard the chilli, then pour and serve straightaway with another sprinkling of cinnamon, if you like.
 
@@ -339,7 +339,7 @@
 - 50gbutter
 - 8sage leaves
 
-### Method
+### Instructions
 - For the pasta, put the flour in a large bowl and make a well in the middle. Add the whole egg and yolks and mix with a fork, bringing more flour in from the sides as you mix. When it comes together into a ball, tip out onto a work surface and knead for 10-15 mins until smooth and it bounces back slowly when pressed. Wrap and leave for 20 mins.
 - To make the filling, tip the spinach into acolander, pour over boiling water, then leave to cool. When cool enough to handle, squeeze out the water with your hands, then again in a clean tea towel to extract as much moisture as possible. Tip onto a board and finely chop. Tip into a bowl with the ricotta, parmesan, garlic, lemon zest and nutmeg, then season well. Scrape into a piping bag with a 1-2cm-wide nozzle.
 - Cut the pasta dough in half and put both pieces through a pasta machine starting on the widest setting, running the dough through twice on each setting until the second-to-last setting. Lightly flour the work surface and lay the sheets of pasta on it horizontally in a way that enables you to easily lift one sheet over the other later.
@@ -396,7 +396,7 @@
 - ½ tbspsesame oil
 - 1 smallspring onion, finely sliced
 
-### Method
+### Instructions
 - Tip the pork and chives into a bowl. Add the light soy sauce, oyster sauce, white pepper, 1 tsp salt, the sugar, cornflour and sesame oil, then mix well. Cover and leave to marinate in the fridge for 1 hr. Meanwhile, combine the dumpling sauce ingredients in a bowl and put in the fridge until needed.
 - Dipping a finger into cold water, wet the bottom half edges of a dumpling wrapper, then add ½ tbsp of the filling into the centre.
 - Fold the dumpling from the bottom up and firmly pinch at the middle, then start pleating each side from the right into the centre, firmly pinching as you go. Tuck in the sides and repeat with the left side. Firmly pinch across the top of the dumpling to ensure a tight seal. Repeat to make 40 dumplings.
@@ -440,7 +440,7 @@
 - ½ tspchilli flakes(optional)
 - 40gmature cheddar, grated
 
-### Method
+### Instructions
 - Heat theair-fryerto 200C. Arrange the bacon in a small non-stick baking tin (or use two individual tins) and cook for 5-7 mins until golden but not too crisp. Remove the bacon to a plate lined with kitchen paper to drain, then drizzle the olive oil into the tin (or divide between the two tins).
 - Meanwhile, beat the eggs in a bowl and stir in the breadcrumbs, parsley, chilli flakes (if using), most of the cheese and some seasoning.
 - Reduce the air-fryer temperature to 170C. Pour the egg mixture into the tin or tins and cook for 8-12 mins until the frittata is golden and completely set.
@@ -482,7 +482,7 @@
 - 1lemon, zested (optional)
 - 175gplain flour
 
-### Method
+### Instructions
 - Put the xylitol and butter in a large bowl and beat using an electric whisk until soft and fluffy, about 3-4 mins. Add the vanilla, lemon zest (if using), egg and a pinch of salt, then beat again to combine. Sift over the flour and fold it in using a spatula. Turn the dough out onto a sheet of baking parchment, and knead briefly to bring it together.
 - Shape the dough into a log and wrap up in the parchment. Chill for 40 mins. Heat the oven to 180C/160C fan/gas 6. Slice along the length of the log in 1cm intervals – you should get about 12 cookies. Arrange the cookies onbaking traylined with baking parchment, evenly spaced apart. Bake for 15-20 mins, or until lightly golden. Leave to cool on the tray for 5 mins, then transfer to awire rackand leave to cool completely.Will keep in an airtight container for up to five days.
 
@@ -526,7 +526,7 @@
 - 25gflaked almonds
 - 1 tbspicing sugar
 
-### Method
+### Instructions
 - Unravel the pastry and use it to line a 20cm cake or pie tin with sloped sides. Trim the pastry, leaving about 2cm overhanging. Chill the pastry case while you prepare the filling. Heat the oven to 180C/160C fan/gas 4.
 - Beat the butter and sugar together in a bowl using an electric whisk for 2-3 mins until smooth and creamy. Add the eggs, ground almonds, lemon zest, almond extract and a pinch of salt, then beat again until combined. Remove the pastry case from the fridge and spread the jam over its base, then spoon in the almond and egg mixture, smoothing it to the edge using a spatula. Scatter the flaked almonds on top and bake for 50 mins until golden brown. Leave to cool for at least 30 mins, then dust with icing sugar and serve with cream or ice cream.Will keep in an airtight container for a few days.
 
@@ -578,7 +578,7 @@
 - 5 tbspmayonnaise
 - ½lime,juiced, plus extra wedges to serve
 
-### Method
+### Instructions
 - Cut the salmon into chunks and blitz in afood processorwith the curry paste, coriander, fish sauce, lime juice, lemongrass, spring onion and egg until finely chopped (but not a paste). Tip into a bowl.
 - Mix through the flour and green beans until combined – it will be a little wet. Form into small patties and chill for 30 mins. Tip the breadcrumbs onto a plate, then coat the fishcakes in the breadcrumbs.
 - Heat theair-fryerto 180C and cook for 15-20 mins, checking halfway. They should be cooked through and golden. Mix the ingredients for the sriracha mayo in a small bowl and serve alongside the fishcakes with extra lime wedges, and spring onions sprinkled over.
@@ -621,7 +621,7 @@
 - 1 tbspsmooth peanut butter
 - 225gdouble cream
 
-### Method
+### Instructions
 - Line the base of a 20cm springform tin with a circle of baking parchment. Blitz the biscuits to crumbs in afood processor, then tip into a bowl. Blitz the peanuts in the food processor until roughly broken up, retaining some texture. Tip into the bowl with the biscuit crumbs, then stir in the melted butter until the mixture has the consistency of wet sand.
 - Pour into the tin and press into the base to create an even layer. Put in the fridge to chill for 10 mins while you prepare the filling. Wash out the food processor and blitz the chopped bananas until completely smooth, then scrape into a large bowl.
 - Add the soft cheese, icing sugar and peanut butter to the puréed bananas and beat using an electric whisk until thoroughly combined. Add the cream and whisk again until the mixture holds soft peaks, about 2-3 mins.
@@ -666,7 +666,7 @@
 - 75mlextra virgin olive oil, plus extra to serve
 - basil leaves, to serve (optional)
 
-### Method
+### Instructions
 - Put the chopped tomatoes in a large bowl and set aside. Heat the olive oil in a frying pan over a medium heat and fry the sourdough until golden, about 2-3 mins on each side, then tear into rough pieces and add to the bowl with the tomatoes.
 - Hold the pepper over the flame of the hob using tongs until blackened, 5-10 mins. Turn regularly to ensure the pepper is evenly charred. (Or, do this using a kitchen blowtorch, or blacken under a hot grill.) Transfer the pepper to a food bag, seal and leave to steam for 10 mins. The pepper will have softened. Peel off the skin and discard it with the seeds. Tear the flesh into pieces and add to the tomatoes and bread along with the chopped cucumber, a pinch of sea salt, 2 tbsp of the vinegar and the garlic. Leave for 2 hrs at room temperature for the tomatoes to macerate slightly.
 - Pass through a coarsesieveinto a jug or bowl. Season to taste, adding more vinegar if needed. Whisk in the extra virgin olive oil, then chill for at least 4 hrs, or ideally overnight.Will keep chilled for three days.
@@ -707,7 +707,7 @@
 - 100mltequila
 - 75mltriple sec
 
-### Method
+### Instructions
 - Tip the sea salt and lime zest onto a saucer and stir to combine. Dip the rims of four margarita glasses in water, then in the lime salt, twisting to coat. Set aside.
 - Tip the lime juice, pineapple chunks, tequila and triple sec into ablenderand blitz until smooth. Pour into glasses and serve immediately. (If the mixture is very thick, leave to stand for a few minutes to loosen.)
 
@@ -748,7 +748,7 @@
 - 1egg,beaten
 - 2 tbspnigella seeds(optional)
 
-### Method
+### Instructions
 - Squeeze the sausagemeat out of the skins into a bowl, then stir through the sage, apple sauce and a good pinch of salt and freshly ground black pepper. Set aside.
 - Unroll the pastry, peel away the parchment and lay the pastry on a lightly floured surface. Shape the sausagemeat into a log across the centre of the pastry. The sausage should be 4-5cm thick and reach both ends of the pastry.
 - Brush the egg over the longer edges of the pastry, then carefully fold one side over to the other so the sausage is encased and you have a lip of pastry on one side. Trim the excess pastry then, using a verysharp knife, cut into 6-8 pieces. Using a knife or fork, crimp the trimmed edge. Glaze the pastry all over with the egg and sprinkle with nigella seeds, if you like.
@@ -789,7 +789,7 @@
 - 397g cansweetened condensed milk
 - 2 tbsptreacle
 
-### Method
+### Instructions
 - Toastthe bread until deeply golden. Tear and put in afood processor, then blitz to fine crumbs.
 - Beat the cream and syrup together until the cream holds its shape. Pour the condensed milk into a second bowl, drizzle in the treacle and whisk gently to combine. Carefully fold in the whipped cream and syrup mixture and all but 1 tbsp of the breadcrumbs. Spoon into a loaf tin or freezerproof container. Top with the remaining breadcrumbs and freeze for at least 6 hrs until firm. Remove from the freezer 10 mins before serving to soften slightly.Will keep covered in the freezer for up to three months.
 
@@ -840,7 +840,7 @@
 - 6gelatine leaves
 - 375mldouble cream
 
-### Method
+### Instructions
 - First, make the cookies. Tip the butter and both sugars into astand mixer, or use an electric whisk to beat until pale and fluffy. Add the egg and vanilla paste, beating on a medium speed until combined. Tip in the flour and 1 tsp salt, then beat on a medium speed to combine. Be careful not to overwork the mix. Fold in the chocolate chips until evenly distributed.
 - Roll the dough into 12 cookies (weighing 60g each) and arrange over abaking traylined with baking parchment. Cover with a tea towel and chill for 24 hrs, or freeze for 30 mins before baking.
 - Heat the oven to 180C/160C fan/ gas 4 and line two baking sheets with baking parchment. Put six cookies on each tray, well spaced apart. Bake for 10-12 mins until the edges are golden and the middles slightly paler. Cool completely.Will keep in an airtight container for two days, or frozen for three months.
@@ -927,7 +927,7 @@
 - handful ofrocket
 - tomatoes, chopped or sliced
 
-### Method
+### Instructions
 - Combine all the ingredients for the buttermilk marinade, then add the chicken, and mix to coat. Cover and chill for at least 2 hrs. Will keep chilled for 24 hrs.
 - Combine the ingredients for the coating, except the eggs, with 1 tsp salt. Mix well. Beat the eggs in a separate bowl. Remove the chicken tenders from the marinade, a few at a time, toss in the coating mix, then turn in the egg, and toss again in the coating mix. Arrange on a baking sheet lined with foil.
 - For the waffle, combine the the flour, baking powder, bicarb and brown sugar. Add ½ tsp each salt and black pepper. Beat the eggs, then gently stir them into the dry mix. Add the buttermilk and mix until smooth, then stir in the melted butter. Mix in the pancetta, if using.
@@ -977,7 +977,7 @@
 - 4sage leaves,finely chopped
 - 200gplum jam
 
-### Method
+### Instructions
 - Tip the flour into a bowl with 1 tsp salt. Add the suet and butter, and rub into the flour with your fingertips until it resembles fine breadcrumbs. Add 3-4 tbsp cold water and squeeze the crumbs together to form a dough, adding more water if necessary. Press the dough into a flat disc, wrap and chill for 30 mins.
 - Meanwhile, to make the filling, squeeze the sausagemeat from the skins into a bowl, and combine with the chopped apple and sage.
 - Dust the work surface with a little flour and split the dough into four even balls. For each ball, roll out to a roughly 20cm square about ½cm thick (don’t worry if the edges are a little uneven). Mould a quarter of the sausage mixture into a log shape and put along the middle of the top half. Spoon 2 heaped tbsp jam along the middle of the bottom half.
@@ -1022,7 +1022,7 @@
 - 50gpecans,chopped (optional)
 - 50gchocolate chips(optional)
 
-### Method
+### Instructions
 - Oil a 1-litre loaf tin and line with baking parchment – you’ll need to make sure this will fit in theair-fryerbasket. If it doesn’t, use a muffin tin or shape that will work with your machine.
 - Heat the air-fryer to 160C. Combine the oil, sugar, flour, baking powder and eggs in a bowl. Mash the bananas, then mix into the batter. Mix in half the pecans and all of the chocolate chips. Pour into the tin and top with the remaining pecans.
 - Bake for 45 mins-1 hr until a skewer inserted in the middle comes out clean. Check after 20 mins in case it’s beginning to brown too much. If so, turn the heat down to 140C, or cover with foil to prevent burning. Leave to cool on awire rackbefore serving.Will keep in an airtight container for up to three days.
@@ -1058,7 +1058,7 @@
 - 1 tspfish sauce
 - 1 smallgarlic clove, finely chopped
 
-### Method
+### Instructions
 - In a jam jar or blender, combine the maple syrup, apple cider vinegar, soy sauce, sunflower oil, sesame oil, lime juice, hot sauce, fish sauce and garlic. Shake or blend to emulsify, and season to taste.Will keep chilled for up to five days.
 
 
@@ -1089,7 +1089,7 @@
 - 3 tbspmaple syrup
 - handful of choppedsoft herbs
 
-### Method
+### Instructions
 - Finely chop the garlic cloves and tip into a jam jar. Pour in the apple cider vinegar and olive oil, or use a mixture of oils (such as rapeseed, avocado or walnut) if you find the flavour of olive oil too strong. Mix in the Dijon mustard and maple syrup. Season and shake well. Add a handful of chopped soft herbs if you have any that need using up, or use wholegrain mustard if you prefer.Will keep chilled for up to five days.
 
 
@@ -1131,7 +1131,7 @@
 - 2 tbspolive oil, plus a drizzle (or use chilli oil) to serve
 - green salad, to serve (optional)
 
-### Method
+### Instructions
 - Mix the yeast, 300g of the flour and 300ml tepid water together in a bowl – it will be quite sticky. Cover and leave for 10-12 hrs at room temperature until bubbly and frothy. Add the remaining flour, 2 tsp fine sea salt and 75ml water, then mix to combine. Tip into the bowl of astand mixerfitted with the dough hook attachment and knead for 5 mins, or tip out onto a clean surface and knead for 10 mins until smooth and elastic. Shape into two balls and leave to rest, covered, for 30 mins-1 hr until well risen.
 - Bring a pan of salted water to the boil and tip in the sliced potatoes. Boil for 4-5 mins until just tender, then drain and leave to steam-dry. Heat the oven to 240C/220C fan/gas 9 with two large baking sheets inside. Gently shape the dough into two rectangles, about 30 x 20cm, on a lightly floured surface using your hands. Carefully transfer to sheets of baking parchment. Evenly scatter over the mozzarella and parmesan, then top with the sliced potatoes, rosemary leaves and red onion. Drizzle over the 2 tbsp olive oil and carefully transfer one to a heated baking sheet. Bake one at a time on the highest oven shelf for 12-18 mins until golden and bubbling. Drizzle over a little more olive or chilli oil, and season with black pepper. Serve with a green salad, if you like.
 
@@ -1174,7 +1174,7 @@
 - 2 tsphoney
 - 1-2 tbsppumpkin seeds
 
-### Method
+### Instructions
 - Score the flesh of the aubergine wedges in a criss-cross pattern, then transfer to a bowl and sprinkle over 1 tsp salt. Toss well, then tip into acolanderand leave for 30 mins to draw out any moisture.
 - Mix the harissa, lime zest and olive oil together in a small bowl and set aside. Combine the tahini, yogurt and chopped mint in a bowl, then stir in the lime juice to taste. Season, then chill until needed.Will keep chilled overnight.
 - Heat the oven to 200C/180C fan/ gas 6. Shake the excess water from the aubergines, then pat dry with a clean tea towel or kitchen paper. Tip onto a largebaking trayand rub in the harissa mix until well coated. Roast for 30-35 mins until softened and beginning to brown.
@@ -1216,7 +1216,7 @@
 - 175gmascarpone
 - handful ofpistachios, chopped
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/ gas 6. Halve the nectarines, remove the stone and put all the halves in aroasting tin, cut-side up. Drizzle over the honey and orange juice, tuck in most of the thyme sprigs and bake for 20-25 mins until soft.
 - Transfer the roasted nectarines to a serving platter or individual bowls. Fold 2-3 tbsp of the roasting juices into the mascarpone, then spoon a little of the mixture into the centre of each nectarine. Drizzle over any remaining liquid, then sprinkle over the pistachios and remaining thyme sprigs. Serve straightaway.
 
@@ -1288,7 +1288,7 @@
 - 10gbutter
 - chives, finely chopped, to serve (optional)
 
-### Method
+### Instructions
 - To make the base, tip the red peppers, plum tomatoes, scotch bonnet and onion into ablenderorfood processor, and blitz until completely smooth. Pour into a wide saucepan, bring to a medium simmer and cook until you have a thick paste, around 15 mins. Set aside.
 - To make the rice, finely dice the garlic and ginger, then crush with the back of a knife to create a paste and set aside. Heat the oil in a wide saucepan and add the onions with 10g fine salt. Sweat the onions over a low heat for 10-15 mins until soft and translucent. Turn up the heat to medium and add the ginger-garlic paste, along with the peppercorns, curry powder, thyme and curry leaves, and cook for 5 mins.
 - Add the tomato purée and the ata base, stir well and cook for another 5 mins over a low heat. Pour in the chicken stock, add the bay leaves, stir well and cook for another 5-10 mins over a low heat. Finally, scatter in the rice and stir well, cover with a lid and steam for 10-15 mins over a low heat. Stir gently, add the butter, cover again and cook over a low heat for another 10 mins. Remove from the heat and leave to rest for 10 mins. Sprinkle over the chives, if you like, then serve straight from the pan.
@@ -1342,7 +1342,7 @@
 - 2spring onions, trimmed and chopped
 - 2 tbspchopped mint
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/ gas 6. Line a baking sheet with a sheet of foil and rub with a few drops of rapeseed oil. For the chips, toss the oil with the prepared potatoes, then spread over the baking sheet in a single layer and bake for 30-40 mins until golden. After 20 mins, add the tomatoes or cook on a second baking sheet.
 - Meanwhile, make the mushy peas. Boil the peas and spring onions in a pan for 5 mins until tender. Drain, reserving some of the cooking water. Tip the peas and spring onions into a bowl with the mint and 2 tbsp of the reserved water, then blitz using ahand blenderuntil smooth. Set aside.
 - To prepare the fish,whiskthe beaten egg, ground almonds and gram flour together with a little seasoning – it doesn’t need to be completely smooth. Heat the 1 tbsp oil in a non-stick frying pan over a medium-high heat. Stir the baking powder into the batter mixture and quickly coat the cod loins on both sides. Fry for 3 mins on one side, then spoon over any coating left in the bowl, turn using a fish slice and fry for another 3 mins until golden and cooked through.
@@ -1399,7 +1399,7 @@
 - 2 tbspchopped mint
 - 2-3 tbspchopped coriander
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Line abaking traywith a sheet of foil and rub with a few drops of oil. Put the peanut butter in a small bowl and mix with 2 tbsp boiling water and the garlic. Stir in the tempeh to coat. Arrange the pieces, spaced apart, on the baking tray, and bake for 10-12 mins until golden.
 - Meanwhile, cook the rice noodles following pack instructions. Rinse and drain well. Mix the lime zest and juice with the chilli sauce in a large bowl, and stir in the carrot, cucumber and spring onions. Toss through the drained noodles, then the mint and coriander. Pile into bowls and top with the baked tempeh. Serve straightaway.
 
@@ -1443,7 +1443,7 @@
 - 3eggs
 - 200mlsoured cream
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/ gas 6. Butter the side of a 23cm springform tin and line with baking parchment. Put the biscuits in afood processorand blitz to a fine crumb, then add the butter and blitz again to combine. Tip into the tin, then press down firmly into an even layer and bake for 10 mins. Set aside.
 - Tip 25g of the sugar and the blackcurrants into a small pan. Mix the cornflour with 1 tbsp cold water, then add to the pan. Warm over a low-medium heat for 1-2 mins until the sugar has dissolved, then turn up the heat to medium and bubble for 1-2 mins until saucy. Set aside.
 - Whiskthe soft cheese in a large bowl using an electric whisk until smooth. Add the remaining sugar and whisk again, then add the flour, vanilla, eggs and soured cream, then whisk for a third time until smooth and well combined.

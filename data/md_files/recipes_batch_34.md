@@ -36,7 +36,7 @@
 - plain flour, for dusting
 - 1egg, beaten
 
-### Method
+### Instructions
 - Heat the oil in a large lidded pan over a medium heat and brown the meat well all over (you may need to do this in batches). This will take 20-25 mins. Remove to a plate and set aside.
 - Fry the onions in the pan for 3-4 mins until starting to brown, then return the meat to the pan and add the bay leaves and thyme or rosemary. Pour in the stock and bring to a simmer. Cook for 1 hr 30 mins-2 hrs, checking every 30 mins until the meat is tender.
 - Tip in the potatoes and cook for 10-12 mins more until the potatoes are just cooked through. Remove 2 tbsp liquid from the pan and combine with the cornflour to make a paste, then pour this back into the mixture, stir and simmer until thickened. Remove from the heat and tip the filling into a large ovenproof dish.
@@ -82,7 +82,7 @@
 - 125mldouble cream
 - choppedparsley, to serve (optional)
 
-### Method
+### Instructions
 - Season the chicken all over with salt and freshly ground black pepper. Heat 2 tbsp of the oil in a large lidded frying pan over a medium heat and fry the chicken, skin-side down, for 8-10 mins until the skin is golden. Turn the chicken over and cook for 6-8 mins more until golden all over. Remove to a plate and set aside.
 - If the pan is dry, drizzle in another 1 tbsp oil, then reduce the heat to medium-low and fry the onions for 8-10 mins until softened but not golden. Stir in the garlic and cook for 1 min more, then add the herbs and cook for another minute. Stir in the flour, then pour in the wine and simmer for 2-3 mins until the alcohol has evaporated. Stir in the stock until everything is combined, then bring the mixture to a simmer and return the chicken breasts to the pan, skin-side up. Cover and simmer for 15-20 mins until the sauce has thickened slightly and the chicken is cooked through. Stir in the cream, return to a simmer, then remove from the heat and scatter over the parsley, if using.
 
@@ -131,7 +131,7 @@
 - 2 tbspbrown sugar
 - 1 tbspcider vinegar
 
-### Method
+### Instructions
 - If the ribs are in packaging, remove and leave the ribs to dry for 30 mins. Heat the oven to 160C/140C fan/gas 3. Combine the rub ingredients with 1 tsp each salt and ground black pepper. Scatter half the spice rub over each rack of ribs, rubbing it in as evenly as possible. Put the racks in aroasting tin,then set aside while you prepare the glaze.
 - Combine the glaze ingredients, season well, then brush this over the ribs. Roast for 2 hrs-2 hrs 30 mins, basting every 30-45 mins until the ribs are tender and the meat pulls away from the bone.
 
@@ -180,7 +180,7 @@
 - 100gmature cheddar, grated
 - coriander leaves, to serve
 
-### Method
+### Instructions
 - Heat the oil in a large frying pan orsaucepanover a medium-low heat and fry the onion for 6-8 mins until softened but not golden. Tip in the beef mince and continue to fry until the beef has browned, about 5 mins. Stir in the garlic and cook for 1-2 mins before stirring in the oregano, cumin, paprika and chilli powder, if using. Cook for 1 min more.
 - Add the tomato purée, tomatoes and black beans, including the liquid from the can of beans. Crumble in the stock cube. Stir well, then add half a can of water and bring to a simmer. Simmer for 30 mins until the sauce has thickened. Remove from the heat.
 - Heat the oven to 200C/180C fan/gas 6. Spoon an eighth of the beef mixture down the centre of one of the tortillas, then fold the sides in to enclose the filling. Arrange seam-side down in a large ovenproof dish, and repeat until all the filling and tortillas have been used, tucking the enchiladas next to one another snugly. Scatter the cheese over the top and bake for 15-20 mins until the cheese has melted and the tortillas are golden. Scatter over the coriander leaves to serve.
@@ -220,7 +220,7 @@
 - 1lemon, juiced
 - 500mlwhipping cream
 
-### Method
+### Instructions
 - Put the gelatine leaves in a bowl, cover with warm water and leave to soak for 5 mins. Drain and squeeze out any excess water.
 - Tip the raspberries into a pan over a medium-low heat along with the sugar and lemon juice. Cook for 5-6 mins until the berries have completely broken down. Push the mixture through a sieve set over a bowl, discarding the seeds. Stir in the gelatine leaves until dissolved (if they don’t dissolve, pour the mixture into a clean saucepan and heat gently until dissolved). Set aside to cool for 15 mins.
 - Whip the cream to soft peaks using an electric whisk, then gently fold this into the raspberry mixture. Spoon into the ramekins or moulds and chill overnight, or for at least 6 hrs. Serve with raspberries scattered over the top.
@@ -265,7 +265,7 @@
 - 1pomegranate, cut in half
 - 50gfeta, crumbled
 
-### Method
+### Instructions
 - Combine the olive oil, lemon juice, honey and thyme leaves in a large bowl. Season well, then tip in the lettuce, tomatoes, spring onions and chilli, and toss to combine.
 - Scoop out the pomegranate seeds over a bowl and remove any white membrane. Arrange the dressed salad on a platter, then scatter over the pomegranate seeds and feta.
 
@@ -310,7 +310,7 @@
 - 80gsoured cream
 - mashed potato and wilted spinach, to serve
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7 and oil abaking tray. Combine the beef mince, egg, 1 tbsp flour and a pinch each of salt and ground black pepper in a large bowl. Scoop as many meatballs as you can out onto the tray using an ice-cream scoop, then bake for 10-12 mins until the meatballs are evenly browned.
 - Meanwhile, make the sauce. Heat the garlic oil in a small pan over a medium heat and cook the mushrooms for a few minutes until slightly golden. Stir in the remaining flour, the paprika, mustard and tomato purée, then mix to coat the mushrooms. Pour in the stock, season, then simmer for a 5-6 mins until slightly thickened. Reduce the heat to low and stir in the soured cream. Cook for 1 min more, then add the meatballs and stir to coat in the sauce.Once completely cool, will keep frozen for up to three months. Defrost overnight in the fridge, then reheat until piping hot. Serve the meatballs and sauce with mash and wilted spinach.
 
@@ -356,7 +356,7 @@
 - 100gfrozen peas
 - 1 bunch ofspring onions, greens finely chopped (use the white parts in another recipe)
 
-### Method
+### Instructions
 - Cook the rice following pack instructions, then drain if needed and leave to cool completely. Cover and chill overnight.
 - Crack the eggs into a small bowl, add a pinch of salt and beat briefly using a fork. Heat the oil in a largewokover a medium-high heat and, once hot, stir-fry the red pepper and carrots until lightly browned. Add the cooked sausage and beaten egg, cook without stirring for 30 seconds, then break the egg up into chunks using a wooden spoon.
 - Stir in the cooked rice, breaking it up as you do, then add the soy sauce, curry powder, turmeric and caster sugar, and stir again to coat the rice. Tip in the frozen peas and stir-fry for 5 mins more, or until the rice has crisped up in places. Serve the fried rice topped with the spring onion greens.
@@ -398,7 +398,7 @@
 - 6-8 tbspvegetable oil
 - mushy peasand tartar sauce, to serve (optional)
 
-### Method
+### Instructions
 - Mix together the cornflour, paprika and mixed herbs with 1 tsp salt and ¼ tsp freshly ground black pepper and spread out on a large dinner plate. Coat the fish fillets in the flour mixture on both sides. If you prefer to cook on the hob, see tip below – the fish fillets are now ready to fry.
 - Cut the potatoes into 1cm-thick chips using a large,sharp knife. Leave the skin on, or peel them, if you like.
 - Put the chips in a large mixing bowl, then add 2 tbsp of the vegetable oil and a good pinch of salt and pepper. Toss until well coated. Set theair-fryerto 200C and cook the chips for around 18-22 mins, turning halfway (or shake the air-fryer basket) until crisp and cooked. Alternatively, you can cook them in the oven (see tip, below). Keep warm while you cook the fish or cook it in the second air-fryer basket, if you have one.
@@ -444,7 +444,7 @@
 - 70gextra mature cheddar,grated
 - small handful offreshly chopped chives
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7. Tip the peppers and courgettes onto two largebaking traysand drizzle with 3 tbsp of the oil. Roast in the oven for 25 mins until the peppers have darkened at the edges.
 - Meanwhile, put a large pan over a medium heat. Drizzle in the oil and pour in the passata, stock and white wine vinegar. Bring to the boil, then turn down to a simmer. Add the risotto rice and simmer for around 15 mins, stirring occasionally, until the sauce has reduced and the rice is cooked.
 - Gently stir in the cheese and roasted vegetables. Sprinkle over the chives to serve.If freezing, defrost in the fridge and reheat in the microwave.
@@ -498,7 +498,7 @@
 - 1½ tbspdark brown sugar
 - 1 tspgluten-free plain flour
 
-### Method
+### Instructions
 - Mix together all the ingredients for the sauce with 1 tbsp water in a small bowl and set aside.
 - Cook the dried noodles following pack instructions, then set aside.
 - Place a largewokover a high heat and add the oil. Tip in the peppers and carrots and fry for a few minutes until lightly browned. Mix in the chicken and stir-fry until slightly golden, around 2 mins. Add the cooked rice noodles and toss to combine. Pour in the sauce and add the cashews, then continue to stir-fry until everything is well coated and a little sticky. Finish with a sprinkling of chilli flakes, if using, spring onions and the chopped coriander.
@@ -555,7 +555,7 @@
 - 75gextra mature cheddar,grated
 - 1 tspwholegrain mustard(optional)
 
-### Method
+### Instructions
 - To make the white sauce, put the butter in a largesaucepanand place over a low heat. Once melted, add the flour and stir in until it forms a paste, then pour in the milk and stir well. At this point, keep stirring until it thickens into a sauce, around 3-5 mins. Lastly, add the cheese and mustard, if using, then stir. Season to taste, then set aside.
 - Pour the garlic-infused oil into a large lidded pot over a medium heat. Tip in the chopped peppers and fry for a 3-4 mins to soften slightly. Add the dried pasta, chopped tomatoes, vegetable stock, tomato purée and ¼ tsp each salt and ground black pepper. Bring to the boil, then turn the heat down to low and simmer with the lid on for 10-12 mins until the pasta is cooked.
 - Heat the oven to 220C/200C fan/gas 7. Remove the lid from the pan and gently stir in the tuna and spinach, breaking up any larger chunks of tuna. Continue to simmer briefly until the sauce is thickened and the spinach has wilted, 2-3 mins. Transfer to a large roasting dish (ours was 23cm x 33cm), top with the white sauce, then the cheese. Put in the oven for 15 mins until golden brown. Sprinkle with chopped chives and serve.If freezing, defrost in the fridge and reheat in the microwave.
@@ -614,7 +614,7 @@
 - 3 tbspvegetable oil
 - 2 tspgaram masala
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. To prepare the naan, put the flour, Greek yogurt (give it a good stir before using) and a pinch of salt in a largemixing bowl. Mix together using aspatulaand, as it starts to come together, use your hands to bring it together into a slightly sticky ball. Cover and set aside.
 - To make the roasted cauliflower, tip the cauliflower onto a large baking tray, drizzle with the oil, then sprinkle with garam masala and a pinch of salt and pepper. Mix so the cauliflower is well coated and set aside.
 - To make the dhal, place a large pan with a lid on a medium heat and add the oil. Tip in the leek and cook for a few minutes to soften. Mix in the ginger paste, chilli flakes, turmeric, curry powder and garam masala and cook for 1 min. Pour in the chopped tomatoes, coconut milk, stock and lentils, then stir in. Bring to a simmer and cook for 20 mins, stirring occasionally so it doesn’t stick.
@@ -678,7 +678,7 @@
 - 15gmatcha powder, plus extra to serve
 - vegetable oil, for frying
 
-### Method
+### Instructions
 - For the cream, mix the gelatine powder with 20ml water and leave to stand at room temperature for 10 mins. Put in the fridge for a further 10 mins.
 - Put the white chocolate in a heatproof bowl, then put 175g of the cream and the vanilla bean paste in a small saucepan over a medium heat and bring to a simmer. Remove from the heat and leave to cool for a minute. Stir the gelatine mixture into the hot cream until it melts.
 - Pour the hot cream mixture over the chocolate and leave to melt for 1-2 mins, then stir until the mixture is thoroughly combined. Pour in the remaining 400ml cream and stir again to combine. Pour the cream mixture into a container and cover with compostable cling film or baking parchment, ensuring it's touching the surface. Chill for at least 4 hrs, or preferably overnight.
@@ -730,7 +730,7 @@
 - 150gfresh or frozen raspberries
 - 185gjam sugar
 
-### Method
+### Instructions
 - First, make the jam. Put the raspberries in a small pan and crush completely using a potato masher or fork. Add the sugar and stir until combined. Put the pan over a low heat, stirring until the sugar has dissolved, about 5 mins. Turn up the heat to medium-high and boil for a further 5 mins until slightly thickened. Remove from the heat, then pass through a sieve over a bowl to remove the raspberry seeds. Cover and leave the jam to cool to room temperature and then put in the fridge to set.
 - Meanwhile, make the biscuit. Beat the butter and sugar in a bowl for around 5 mins using a wooden spoon or stand mixer fitted with the whisk attachment until slightly fluffy and pale. Add the egg and beat until just combined. Add the flour, cornflour, vanilla and ½ tsp salt, and beat until the dough is smooth and comes together.
 - Roll the dough out between two pieces of baking parchment until it's about 8mm thick. Chill in the fridge for 30 mins to firm up.
@@ -776,7 +776,7 @@
 - 2 tbspcrème fraîche
 - 10gdill, leaves picked and finely chopped
 
-### Method
+### Instructions
 - Melt the butter in a saucepan over a medium heat and cook the shallot for 1-2 mins. Stir in the flour and cook for 2 mins more, then add the white wine, stirring well to make a thick paste.
 - Slowly pour in the stock, whisking continuously, then whisk in the milk and bring to a simmer. Stir in the mustard and crème fraîche, then season well. Remove from the heat and stir in the dill just before serving.
 
@@ -815,7 +815,7 @@
 - 50gcheddar, coarsely grated
 - dill sprigsand olive oil, to serve
 
-### Method
+### Instructions
 - Cut the cauliflower florets and stalk into bite-sized pieces. Tip into a steamer set over a pan of simmering water and steam for 10 mins until completely tender.
 - Tip into a bowl along with the butter and soured cream, and blitz until smooth using a hand blender (you could also do this using a food processor). Mix in the cheese, then season well and serve scattered with dill and topped with a drizzle of olive oil.
 
@@ -856,7 +856,7 @@
 - 2kgpork shoulder
 - 500mldry white wine
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Bash the garlic, sage, lemon zest, salt and pepper together using a pestle and mortar until the mixture becomes a paste. Stir in the oil, then spread the mixture over the pork shoulder, avoiding the skin on top. Score the skin using a sharp knife, then rub a large pinch of salt into the skin. Tie the pork together using kitchen string.
 - Line a large baking tray with a double layer of foil and put the pork on top, skin-side up. Bring the sides of the foil up around the pork to create a parcel, then pour the wine into the tray around the sides. Transfer to the oven and reduce the temperature to 140C/120C fan/gas 1. Roast for 4-5 hrs, or until a meat thermometer inserted into the thickest part of the pork reads 70C.
 - Turn the oven up to 240C/220C fan/gas 9. Carefully spoon the pork roasting juices from the pan into a saucepan and cook over a medium heat for 10-15 mins, or until reduced by a third. Season to taste.
@@ -894,7 +894,7 @@
 - 3 tbspmilk
 - 1 tbspicing sugar
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Melt 25g butter and generously brush into the holes of a mini bundt tins. Tip a little flour into each hole and shake to coat, then tip out the excess. Beat the butter, caster sugar and a pinch of salt together using an electric whisk. Add the eggs, one at a time, beating well after each addition. Combine the flour and baking powder in a separate bowl, then sift this into the wet ingredients and stir until smooth. Combine the cocoa powder and milk in a small bowl until smooth.
 - Spoon 1 tbsp of the plain batter into each hole of the bundt tin. Mix the remaining plain batter with the cocoa powder mixture, then divide this between the holes. Bake for 15-18 mins, or until a skewer inserted into the cakes comes out clean. Leave to cool in the tin for 5 mins, then turn out onto a wire rack and leave to cool completely. Dust with icing sugar to serve.
 - Pour 1 tablespoon of light batter into each mold. Mix the remaining batter with the stirred cocoa mixture and then fill the molds with a tablespoon.
@@ -950,7 +950,7 @@
 - 400graspberries
 - 1unwaxed lime, zested
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter and line a 23cm springform cake tin. Tip 150g of the pistachios into a food processor and blitz until finely ground. Tip into a bowl and mix in the flour, baking powder and pinch of salt. Beat the butter and sugar in a separate bowl until fluffy and pale, around 5 mins. Crack in the eggs one at a time, beating well for 1 min after each addition, until they have all been added. Beat in the vanilla, then fold in the flour mixture gently. Carefully spoon into the prepared tin and bake for 35-40 mins until a skewer inserted into the middle comes out clean. Set aside to cool completely on a wire rack in the tin.
 - Meanwhile, sift the icing sugar into a bowl, then tip in the mascarpone, double cream and pistachio paste. Beat until well combined, then set aside in the fridge for 20-30 mins to thicken to a spooning consistency.
 - Cut the cooled cake in half horizontally using a serrated knife, so you have two layers. Put the bottom layer on a plate or cake stand and spread over a generous spoonful of the pistachio cream. Top with a generous handful of the raspberries so the cake is covered. Top with the other sponge half, then cover the top and sides of the cake with the remaining cream. Scatter over the last of the raspberries, the remaining pistachios and the lime zest to serve.Will keep chilled in an airtight container for two days.
@@ -1002,7 +1002,7 @@
 - mini marshmallows
 - maple syrup
 
-### Method
+### Instructions
 - Tip the flour, baking powder, sugar, raspberries, eggs, butter and milk into a blender and whizz to a smooth batter. If you want your pancakes to have a vibrant pink colour, you can add a little pink or red food colouring.The batter can be made up to a day ahead and kept chilled until needed.
 - Melt a knob of butter in a frying pan over a medium heat. Spoon 2 generous blobs of batter into the pan, so they are touching. Use the spoon to drag the batter into a point at the bottom, creating a heart shape. You can use a heart-shaped metal cookie cutter or a squeezy bottle for a neater shape, if you like. Cook the pancakes for 2-3 mins, until cooked on the underside, then flip them over and cook for another couple of mins. Transfer to a baking tray and keep warm in a low oven. Clean the pan with a little kitchen paper between each new batch of pancakes, melt some more butter and continue cooking until the batter has been used up.
 - Serve a stack of pancakes with any toppings you like, we’ve used melted white chocolate, raspberry sauce, mini marshmallows and maple syrup.
@@ -1045,7 +1045,7 @@
 - 1 tbspsoy sauce
 - 85gfrozen pea
 
-### Method
+### Instructions
 - Wash the rice and cook according to pack instructions in lightly salted water with the diced carrots. About 5 minutes before it's ready, tip in the frozen peas.
 - While the rice is cooking, heat the oil in as mall frying pan (about 20cm) and lightly beat the eggs with a little salt. Pour the eggs into the pan to coat the base, and cook until almost set as a thin omelette - this should take about 2-3 minutes. Flip the omelette and cook for a few seconds more, then slide it out of the pan and roll it up into a sausage shape. Keep warm.
 - Melt the butter in a wok or large frying pan and sauté the spring onions for 1 minute. Fluff up the rice mixture with a fork (there should be no cooking liquid left). Tip into the wok with the soy sauce and a little salt and freshly ground black pepper, then stir fry for 2 minutes.
@@ -1107,7 +1107,7 @@
 - ¼medium white cabbage, finely chopped
 - ¼pointed spring cabbage, finely chopped
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/ gas 4. Lay the chicken skin-side up in a roasting tin. Slash the skin of the chicken with a sharp knife, then season and roast for 35 mins.
 - Mix together the hot sauce, paprika, sugar, vinegar, garlic powder and butter in a pan. Stir over a low heat until the butter has melted, then simmer for 1 min. Season. Tip away any excess juices and fat from theroasting tin, then pour in half the sauce. Return to the oven for 20 mins until cooked through. Turn the oven to the highest temperature and add the remaining sauce. Cook for 5 mins.
 - Crumble the cheese into a bowl and mix through the soured cream, mayo, chives and lemon juice. Toss the apple with the celery, cabbage and the cheese sauce. Serve the chicken alongside the slaw.
@@ -1151,7 +1151,7 @@
 - 2 tspchilli crisp, to serve
 - toasted sesame seeds, to serve
 
-### Method
+### Instructions
 - Cook the noodles and broccoli tips in a pan of boiling water for 5 mins until al dente. Drain, then rinse under cold running water and set aside.
 - Bring the miso broth to a simmer in a pan over a medium heat. Tip in the gyoza and simmer gently for 6 mins.
 - Divide the noodles between two deep bowls. Pour over the broth and top with the gyoza. Add the broccoli and carrots, then top with the spring onion and chilli. Drizzle over the chilli crisp and scatter over the sesame seeds.
@@ -1194,7 +1194,7 @@
 - 100gradishes, thinly sliced
 - 2spring onions, cut into thin strips
 
-### Method
+### Instructions
 - Bring a pan of water to the boil over a medium-high heat and simmer the soba noodles and asparagus tips for 3 mins until al dente. Drain and rinse under cold running water. Set aside.
 - Pour the broth into a saucepan and bring to a simmer over a medium heat. Scatter in the mangetout and mushrooms, and simmer gently for 3-4 mins until al dente.
 - Divide the soba noodles between two deep bowls, pour over the broth and top with the silken tofu. Scatter over the asparagus tips and radishes, then garnish with the spring onions.
@@ -1236,7 +1236,7 @@
 - finely choppedchives, to serve
 - chilli flakes, to serve
 
-### Method
+### Instructions
 - Heat a griddle or large frying pan over a medium heat and cook the chicken breasts for 5-7 mins until golden. Turn over and cook for another 4-5 mins until cooked through. Thinly slice and set aside. Cook the stir-fry veg in the pan for 2 mins until softened slightly.
 - Meanwhile, cook the noodles in a pan of boiling water following pack instructions, adding the egg to the pan for 5-6 mins (depending on how runny you like the yolk). Drain and set aside. Peel the egg, cut in half and set aside.
 - Warm the broth in a saucepan over a medium heat until piping hot, being careful not to let it boil.
@@ -1281,7 +1281,7 @@
 - 150mldouble creamor crème fraîche
 - drizzle of extra virgin olive oil, to serve(optional)
 
-### Method
+### Instructions
 - Melt the butter in a largesaucepanover a medium heat until sizzling, then cook the onions for a few minutes with 2 tbsp of the thyme leaves. Stir in the cauliflower and potatoes (if you like, finely chop the cauliflower stem and add this too) to coat in the buttery onions, then cover and cook over a low heat for about 10 mins, stirring once or twice until the veg is softened but not coloured.
 - Pour in the stock and bring to the boil, then add the milk and gently return to the boil. Add the cauliflower leaves, if using, season to taste, then simmer uncovered for 12-15 mins until the vegetables are very soft.
 - Stir in the cream and return to the boil. Remove from the heat and blitz using ahand blenderuntil smooth. For an extra-silky finish, you can push the purée through a sieve, but this is not essential.The soup can now be cooled, covered and chilled for up to three days, or portioned and frozen for up to three months. Reheat until piping hot. Ladle into bowls and scatter over the remaining thyme leaves and some seasoning, and drizzle over some olive oil to serve, if you like.
@@ -1327,7 +1327,7 @@
 - 1lime, juiced
 - cookedbrown rice, to serve
 
-### Method
+### Instructions
 - Pat the tofu block dry and cut in half lengthways, then into 1cm-thick slices. Set aside on a plate lined with kitchen paper, then put another sheet of paper and a plate on top to weigh it down while you prepare the braise. Mix the soy sauce with the mirin, gochujang, garlic, sesame seeds, most of the spring onions and 200ml water.
 - Heat the oil in a pan over a medium-high heat and fry the tofu for 4-5 mins on each side until golden brown. Pour in the soy sauce mixture and scatter over the green beans. Bring to a simmer, and cook over a medium heat for 10 mins until the braising liquid has thickened and the green beans are tender.
 - Sprinkle over the remaining spring onions, squeeze over the lime juice to taste, season with salt and serve with the brown rice.
@@ -1371,7 +1371,7 @@
 - 250gbaby corn, halved diagonally
 - 110g cancoconut yogurt, plus extra to serve
 
-### Method
+### Instructions
 - Put the lentils in a sieve and rinse until the water runs clean. Heat the oil in asaucepanover a medium heat and cook the onion for 8 mins until softened. Add the ginger, turmeric, curry powder and chopped coriander stalks, and cook for another minute until fragrant. Stir in the lentils and season well.
 - Tip in 400ml hot water and bring to the boil. Reduce the heat to medium and simmer for 15 mins until most of the water has been absorbed. Add the baby corn and 100ml water, cover and continue to simmer for 5-10 mins until the lentils are soft and the corn still has a little bite. Stir in the coconut yogurt to warm up, but don’t let it boil. Serve topped with more coconut yogurt, if you like, and the coriander leaves.
 
@@ -1410,7 +1410,7 @@
 - 1 tspvanilla extract
 - 100mllight olive oil
 
-### Method
+### Instructions
 - Whizz the flour, sugar, a pinch of salt and the cornflour in afood processorto sieve and mix briefly, then add the vanilla and drizzle in the olive oil, pulsing the food processor blades until you get a soft, golden dough. Wrap and chill for 30 mins to rest.
 - Heat the oven to 180C/160C fan/gas 4, and line abaking sheetwith parchment or a baking mat. Roll the dough out on a lightly floured work surface to a 5mm thickness and use a round or fluted cutter, about 6cm diameter, to cut out shortbread rounds. Use a small palette knife to transfer to the baking sheet.Can be frozen on the baking tray, then transfered to a box when solid. Will keep for up to three months.
 - Sprinkle the 1 tbsp sugar over the biscuits and bake for 15-20 mins until golden brown. Leave to cool for a few mins to firm up on the tray, then transfer to a cooling rack to cool completely. Add 2-4 mins to the cooking time if baking from frozen.

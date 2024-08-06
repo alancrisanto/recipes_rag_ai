@@ -41,7 +41,7 @@
 - few drops ofrosewater, to serve (optional)
 - handful of choppedflat-leaf parsley, to serve
 
-### Method
+### Instructions
 - Combine the ras el hanout, lemon zest, garlic and 2 tbsp olive oil. Season the lamb shanks well. Heat another 2 tbsp olive oil in a large flameproof casserole over a medium-high heat and, once hot, sear the lamb for 4-5 mins until browned all over. Set aside to cool, then rub over the spice paste. Chill for at least 1 hr, or ideally overnight.
 - Take the lamb shanks out of the fridge and bring to room temperature. Heat the oven to 170C/150C fan/gas 3. Heat the remaining 2 tbsp oil in the casserole dish over a medium-high heat and sizzle the cinnamon sticks, bay leaves, cardamom and cumin briefly. Add the onions, reduce the heat to low and fry for 15-20 mins, stirring frequently until soft but not coloured. Add the lamb shanks and fry briefly for 1 min, then add the barberries, dried limes along with their soaking liquid and the saffron with its soaking liquid, then pour in the chicken stock. Season well. Turn up the heat to high and bring to the boil, cover and transfer to the oven. Cook for 1 hr 45 mins until the lamb is falling off the bone.Once cool, will keep frozen for a month.
 - Sprinkle with the rosewater if using, then scatter over the parsley and serve with the jewelled rice (see 'goes well with', below).
@@ -80,7 +80,7 @@
 - 1 largerosemary sprig
 - 250gfrozen cranberries
 
-### Method
+### Instructions
 - Tip the sugar and orange juice into a pan over a medium heat and bring to the boil. Add the rosemary sprig and stir in the cranberries. Simmer for 10 mins until the berries are tender but still holding their shape, and the sauce is sticky.
 - Remove from the heat and discard the rosemary sprig, then leave to cool and thicken slightly before serving.Once cool, will keep covered and chilled for a week or frozen for a month.Defrost thoroughly before serving.
 
@@ -119,7 +119,7 @@
 - 100mlcrème fraîcheor double cream
 - 10gparmesanor pecorino, finely grated, plus extra to serve
 
-### Method
+### Instructions
 - Heat a drizzle of oil in a large, shallow pan over a medium heat and fry the pancetta for 8-10 mins until golden and crisp. Remove to a bowl using a slotted spoon.
 - Sprinkle in ¼ tsp cracked black pepper and toast in the residual fat for a minute, then stir in the sprouts and continue to cook for 10 mins until the sprouts have wilted and are tender with just a slight bite. Stir in the crème fraîche and fried pancetta, followed by the cheese. Season to taste and scatter over more cheese before serving.
 
@@ -172,7 +172,7 @@
 - 2½gelatine leaves
 - 75gcaster sugar
 
-### Method
+### Instructions
 - First, make the jelly. Soak the gelatine in cold water for 10 mins. Bring the lemon juice and 300ml water to the boil over a medium heat. Stir in the sugar until dissolved, then remove from the heat. Squeeze the excess water from the gelatine, then stir it into the syrup to dissolve. Stir in the pomegranate juice and rosewater. Take off the heat and leave to cool.
 - Meanwhile, divide the pomegranate seeds between six 200ml moulds. When the jelly is at room temperature, divide between the moulds. Chill for 2 hrs.
 - While the jelly chills, make the panna cotta. Pour the cream and milk into a pan, add the cardamom and vanilla and warm over a low heat, stirring. Turn up the heat, bring to a simmer and cook until it has reduced by a third, 8-10 mins. (Don’t let it boil.) Put the gelatine in a bowl, cover with water and leave to soak for 10 mins. Squeeze the water out, add the gelatine to the cream mix along with the sugar and stir to dissolve. Cool slightly, strain into a jug, pour over the jelly and chill for 6 hrs or overnight to set.Will keep chilled for a day. Serve cold.
@@ -218,7 +218,7 @@
 - 250mlwhite wine(optional)
 - bread rollsand chutney, to serve (optional)
 
-### Method
+### Instructions
 - Season the pork all over with 1 tbsp salt – you can do this up to 24 hrs before you roll it, but if you don’t have time, don’t worry. Keep the salted pork covered and chilled.
 - Toast the fennel seeds and 2 tsp black pepper in a dry frying pan for a couple of minutes. Pound or blitz the toasted fennel seeds and pepper, a large pinch of sea salt flakes, the garlic and herbs using apestle and mortaror mini chopper to make a rough paste. Mix in 2 tbsp of the olive oil, the lemon zest and chilli flakes, if using.
 - Lay the pork skin-side down on a chopping board, score the flesh in a criss-cross pattern all over, then cut away a 3-4cm strip of flesh along the long side closest to you, leaving just the skin exposed – this will make it a neater roll later. Massage the herby seasoning mixture deep into the cuts and all over the flesh and place the strip of meat you’ve cut away along the middle.
@@ -261,7 +261,7 @@
 - 1apple, peeled and grated
 - vegetable oil, for the tin
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/ gas 6. Put the stuffing mix in a large heatproof bowl, and pour over 400ml boiling water from thekettle. Stir and leave to stand for a few minutes until the mixture has absorbed all the liquid and cooled slightly. Squeeze the sausagemeat from the skins into the bowl of stuffing, then add the fruit & nut mix and grated apple. Scrunch everything together using your hands until it is evenly mixed.
 - Oil a shallowroasting tinand spread the stuffing into the base. Rough up the surface using a fork, then bake for 30-35 mins until golden on top. Serve straightaway or leave to cool until needed and reheat in a hot oven for 20 mins.
 
@@ -300,7 +300,7 @@
 - 1orange, clementine or tangerine, zested and juiced
 - 2garlic cloves, finely chopped
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/ gas 6. Working with one carrot at a time, lay between the handles of two wooden spoons (to stop you cutting all the way through), then makedeep cutsalong the length about 5mm apart. Mix the honey, rosemary, citrus zest and juice and garlic together in a large bowl along with some salt and pepper, and toss in the carrots to fully coat.
 - Line a baking tray with baking parchment and arrange the carrots on top, cut-side up. Drizzle over any leftover glaze. Roast the carrots for about 40 mins, or until tender and caramelised, basting them in the sticky juices once or twice as they cook. Serve straightaway or leave to cool and reheat in themicrowavewhen needed.
 
@@ -346,7 +346,7 @@
 - 180gdried red lentils
 - 15gcoriander, chopped
 
-### Method
+### Instructions
 - Heat the oil in a large pan over a medium heat and fry the onions and ginger for 10 mins, stirring occasionally until softened and starting to colour. Stir in the garlic, curry powder, ground coriander and dried chillies, if using, and cook for 1 min more.
 - Tip the mixture into a largeslow cookeralong with all the remaining ingredients, except the fresh coriander. Add 2 litres water. Cook for 8 hrs on high, or overnight for 15 hrs on low. Stir well, then blitz using ahand blenderuntil smooth. Ladle into bowls and scatter over the fresh coriander to serve.Once completely cool, the soup will keep chilled in an airtight container for 48 hrs or frozen for up to two months. Reheat in a pan over a low heat or in themicrowaveuntil piping hot.
 
@@ -408,7 +408,7 @@
 - 1½ tsphoney
 - 1 tspcornflour
 
-### Method
+### Instructions
 - Slicethe chicken breasts horizontally into two thin halves, then sprinkle over the cornflour, ½ tsp salt, the white pepper and ½ tbsp water, then leave to marinate for 20 mins.
 - Meanwhile, make the batter.Whiskthe eggs in a bowl, then set aside. In a second bowl, combine the plain flour, cornflour, garlic salt, garlic powder, bicarbonate of soda and red pepper powder, then tip half of the mixture into another bowl. Set one aside. Stir the whisked eggs into one bowl of the flour mixture with 3-5 tbsp cold water, adding 1 tbsp at a time. Mix well until it’s the consistency of double cream.
 - Coat one chicken breast in the batter until evenly covered, then coat in the flour mixture. Rub in the flour using your hands to ensure it’s completely coated. Repeat until all four halves of the chicken breasts have been coated.
@@ -456,7 +456,7 @@
 - ½ tbspsugar
 - 1 tbspoyster sauce
 
-### Method
+### Instructions
 - Tip the mushrooms into a bowl and pour over boiling water to submerge them (around 350ml should be enough). Cover, then set aside for 1 hr until rehydrated.
 - Thoroughly wash, cut and quarter the pak choi, then set aside. Drain the mushrooms, reserving 300ml of the water, then cut off the stems and evenly slice the stems and mushroom caps into strips.
 - Heat 1½ tsp of the vegetable oil in a large frying pan over a medium heat. Fry the ginger and garlic for 1-2 mins until softened, then add the mushroom pieces and cook on a medium-high heat for 1 min. Stir in the shaosing wine, then remove from the heat and set aside.
@@ -509,7 +509,7 @@
 - 1spring onion,finely sliced
 - 1 tspsesame oil
 
-### Method
+### Instructions
 - Tip the shiitake mushrooms, wood ear fungus and dried bean curd into three separate bowls and pour around 300ml boiling water into each, to cover the contents. Leave for 1 hr, then drain, keeping only the mushroom water.
 - Cut the stems awayfrom the shiitake mushrooms, then slice the stems and tops into even strips and set aside. Slice the bean curd into 5cm-thick pieces and set aside, then thinly slice the wood ear fungus into pieces, too, before setting aside.
 - Heat 1 tbsp of the vegetable oil in a pan over a medium-high heat. Add half the garlic and all the ginger, stir in the mushrooms and cook on a medium-high heat for 1 min before adding the shaosing wine. Mix, then tip into a bowl and set aside. In the same pan, still over a medium-heat, add the remaining 1 tbsp vegetable oil and the remaining garlic, then stir in the Chinese celery and cook for 1 min before setting aside.
@@ -572,7 +572,7 @@
 - small handful ofparsley,finely chopped (optional)
 - chips or buttery mash,to serve
 
-### Method
+### Instructions
 - Rub the steaks with the oil and season generously with salt and pepper. Put a large non-stick or heavy castiron panover a very high heat until smoking hot. Carefully lay the steaks in the pan, then add the butter on the side along with the thyme. Sear the steaks on each side, depending on their thickness and how well you want them cooked (1-2 mins for rare, 3-4 mins for medium and 5-6 mins for well done). Baste them with the foaming butter and thyme as they sear, then remove from the pan and leave to rest on a warm plate or board that has a gutter to catch the juices.
 - To make the sauce, put the pan back on a medium heat with the fat from the steak and the thyme, and add the butter. Once melted and sizzling, add the shallots and fry for 2 mins, then add the garlic and mushrooms, turn up the heat and fry for 2-3 mins more until the mushrooms have softened. Splash in the brandy and allow the liquid to boil and reduce for 1 min. Stir in the Worcestershire sauce, then pour in the stock. Bring to the boil and cook for 2 mins until reduced by half. Stir in the cream or crème fraîche and simmer until rich and creamy. Taste and add more salt if needed. Scoop out the thyme, then return the steaks and any juices to the pan and spoon over the sauce. Sprinkle over the parsley, if using. Bring the steaks to the table in the pan and serve drizzled with more of the sauce and a big bowl of chips or buttery mash on the side.
 
@@ -615,7 +615,7 @@
 - 2 thick slicesbread(we used sourdough)
 - green salad,to serve
 
-### Method
+### Instructions
 - Melt the butter in asaucepanover a medium heat. Once foaming, tip in the flour and mustard powder and stir until a paste forms. Continue to cook for 2-3 mins until the paste turns darker. Splash in the Worcestershire sauce and a little of the beer. Stir and continue adding the beer slowly, stirring well after each addition, keeping the heat low to make sure the mix doesn’t boil.
 - Heat the grill to high. Remove the saucepan from the heat and stir through the cheese and lime pickle, continuing to stir until the cheese has melted. (You may need to return the pan to a low heat to completely melt the cheese.) Season with a pinch of pepper and set aside. Arrange the sliced bread on abaking trayand lightly toast both sides under the grill, 1-2 mins each side. Spread the cheese sauce over the top and grill for a further 3-4 mins until bubbling and browned. Leave to stand for 2 mins before serving with a green salad in a lemony dressing, if you like.
 
@@ -658,7 +658,7 @@
 - 2 smallbananas,sliced in half lengthways
 - 2 tspsesame seeds
 
-### Method
+### Instructions
 - Mash together the butter and tahini in a bowl using a fork until combined. Mix in the sugar, vanilla and cinnamon. Lightly toast the bread on one side under the grill, then spread the tahini mixture over the untoasted side.
 - Heat a frying pan over a low-medium heat and put the bread in, buttered side down. Toast for 3-5 mins, shuffling it around to ensure it doesn’t burn, until the sugar has caramelised.
 - Melt the chocolate in a heatproof bowl in short 30-second bursts in themicrowaveor set over a pan of just-boiled water, ensuring the bowl doesn’t touch the water. Top the toast with the sliced bananas, drizzle over the melted chocolate and sprinkle with sesame seeds.
@@ -702,7 +702,7 @@
 - ½ tspchilli flakes(optional)
 - 75gricotta
 
-### Method
+### Instructions
 - Split the chorizo in half lengthways and heat half the oil in afrying panover a medium heat. Put the chorizo in, cut-side down, and cook for 4-5 mins until deeply browned, then flip and cook on the other side for a further 4-5 mins until browned. Remove to a plate and set aside in a warm spot.
 - Put the bread in the frying pan, letting it soak up the chorizo oil, and fry for 2 mins each side, until toasted. Transfer to a plate and drizzle the remaining olive oil into the pan. Stir in the garlic and shallots with a pinch of salt and cook over a medium heat for 5 mins, until beginning to soften. Mix in the kale, a little lemon juice and water, then cover with a lid. Leave the kale to soften for 4-5 mins, then uncover and stir through the lemon zest, chilli flakes (if using) and some seasoning.
 - Spread the ricotta over the toasted bread and season with a pinch of pepper before topping with the kale mix and chorizo. Serve with lemon wedges on the side, if you like.
@@ -753,7 +753,7 @@
 - 150gself-raising flour
 - 70gsuet
 
-### Method
+### Instructions
 - Heat 1 tbsp of the oil in a large pan or frying pan over a medium heat and brown the beef all over – you mayneed to do this in batches. Remove, leaving any oil behind, and put in the slow cooker. Add the remaining oil to the pan, turn the heat to medium-low, and fry the onion, carrot and celery for 10-12 mins until softened but not golden. Add to theslow cooker.
 - Pour the wine into the pan and bring to a simmer. Cook for 2 mins before pouring into the slow cooker. Add the remaining stew ingredients to the slow cooker and cook, on high for 4 hrs or low for 7 hrs.
 - Shortly before the time is up, make the dumplings. Put the flour and suet in a bowl, season well with salt and freshly ground black pepper. Mix to combine, then make a well in the centre and pour in 3 tbsp cold water. Stir, then gradually add a teaspoon of water at a time until the mix easily comes together into a soft dough. Form into 8 balls and carefully put on top of the stew. Cook for a further 1 hr, then serve scattered with parsley.
@@ -793,7 +793,7 @@
 - 1 tspdried mixed herbs
 - 1 tspgarlic granules
 
-### Method
+### Instructions
 - Prepare the chicken by removing the string and anything in the cavity. Combine the oil, paprika, dried herbs and garlic granules with ½ tsp salt and plenty of freshly ground black pepper in a small bowl. Put the chicken in a large bowl, then rub the chicken all over with the spiced veg oil.
 - Heat theair-fryer, if necessary, to 180C then carefully put the chicken into the air-fryer, breast-side down. Cook for 30 mins, turn the chicken over and cook for a further 10 mins. Turn the heat up to 200C and cook for a final 10-15 mins to crisp the skin, until a temperature probe reaches 70C when inserted at the thickest part of the chicken or the juices run clear when pierced.
 
@@ -841,7 +841,7 @@
 - 150mlbeef stock
 - cooked spaghetti, grated parmesan and basil leaves, to serve
 
-### Method
+### Instructions
 - Heat the oil in yourpressure cookeror a separate pan over a medium-low heat. Fry the onion, celery and carrot for 10-12 mins until softened but not golden. Stir in the garlic, cook for 2 mins, then tip in the mushrooms and cook for 10-12 mins until their liquid has been released and evaporated.
 - Stir in the mixed herbs and bay leaves, then tip in the beef mince. Fry until browned, around 6-8 mins. Squeezein the tomato purée, then pour in the chopped tomatoes, wine, if using, and stock. Bring to a simmer then put the lid on the pressure cooker, bring up to pressure and cook for 20 mins.
 - Release the pressure, then serve with spaghetti, sprinkled with parmesan and basil leaves, if you like.Once cooled, will keep chilled for three days or frozen for three months.
@@ -891,7 +891,7 @@
 - 1 tbspchilli sauce, to serve
 - 1-2spring onions, sliced, to serve
 
-### Method
+### Instructions
 - Cook the rice vermicelli noodles following pack instructions. Drain and rinse under cold running water to cool slightly.
 - Combine the herbs, lime zest and juice, the sweet chilli sauce or jam, oil and soy sauce in a bowl. Toss in the noodles, cucumber, carrot and edamame. Top with the peanuts, sesame seeds, chilli sauce and spring onions to serve.
 
@@ -939,7 +939,7 @@
 - 4chicken breasts
 - soured cream, grated cheddar, cooked rice and tortilla chips, to serve
 
-### Method
+### Instructions
 - Tip the salsa, jalapeños, garlic, spices, chopped coriander stems, spring onions, white beans, green peppers, lime zest, stock and chicken breasts into a slow cooker. Season and mix well, making sure the chicken is submerged. Turn the slow cooker to high and cook for 4-5 hrs.
 - Remove the chicken to a board and shred using two forks. Roughly mash half the bean mixture using a potato masher, leaving the rest chunky. Return the chicken to the slow cooker. Season. (Or, make this in apressure cookeron high pressure for 20 mins.) Top with the coriander leaves, soured cream and grated cheddar, and serve with rice, lime wedges and tortilla chips.
 
@@ -983,7 +983,7 @@
 - small bunch ofroughly chopped soft herbs (such as parsley or basil)
 - ½lemon, zested and juiced
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7. Toss the cauliflower florets with 2 tbsp of the olive oil on a baking tray. Season. Roast on the top shelf of the oven for 25 mins until the florets are slightly charred. Meanwhile, cook the pasta following pack instructions. Drain, reserving a mug of cooking water.
 - Fry the onion in 2 tbsp olive oil over a medium heat for 5 mins. Stir in the crushed garlic and chilli flakes, and cook for 1 min more until fragrant.
 - Blitz the pumpkin seeds, hard cheese, whole garlic clove, herbs and 75ml olive oil in a mini food processor until finely chopped. Season. Tip the cauliflower, pasta, pesto and a splash of the reserved water into the pan with the onion, stir, season and add a splash of lemon juice. Sprinkle over a pinch of lemon zest to serve.
@@ -1028,7 +1028,7 @@
 - 125mlmaple syrup
 - 1egg white
 
-### Method
+### Instructions
 - Heat the oven to 140C/120C fan/gas 1 and line a large baking sheet with baking parchment. Combine the oats, bran flakes, almonds, mixed seeds, raisin & nut mix, turmeric and ginger in a large heatproof bowl using your hands.
 - Melt the coconut oil in a small pan over a low heat, then remove from the heat and stir in the maple syrup. Pour this over the granola and stir to combine.Whiskthe egg white until foamy and slightly thickened, then pour this over the granola and stir again to combine.
 - Tip the granola onto the tray and press down gently using aspatula. Bake for 1 hr, turning the tray around halfway through. Leave to cool completely on the tray.Will keep in an airtight container for up to two weeks.
@@ -1085,7 +1085,7 @@
 - 2 tbspcrispy onions
 - steamed broccoli(optional)
 
-### Method
+### Instructions
 - Put the chicken pieces into a bowl with the sugar, soy sauce, fish sauce, sake and half the ginger. Cover and chill for at least 30 mins, or up to 4 hrs.
 - Tip the rice into a sieve and rinse thoroughly, mixing it around until the water runs clear. Set aside. Heat the oil in a tall-sided saucepan or flameproof casserole dish over a medium-high heat and cook the chicken along with the marinade for 10 mins, stirring often until browned all over. Remove to a bowl using a slotted spoon and set aside. Stir the rice into the pan and crumble in the stock cube, then tip in the remaining ginger, the star anise, sesame oil, ¼ tsp salt and 600ml cold water. Bring to the boil, then return the chicken and any resting juices to the pan. Reduce the heat to low, cover and cook for 15 mins. Remove from the heat and leave to rest, covered, for 10-15 mins.
 - Divide the chicken and rice between four plates. Top with the sesame seeds, spring onions, chilli oil and crispy onions, if you like, and serve with a side of steamed broccoli.
@@ -1134,7 +1134,7 @@
 - 1lime,juiced
 - 4 largewholemeal tortilla wraps
 
-### Method
+### Instructions
 - Heat the oil in a largenon-stick frying panand cook the pepper, covered, for 10 mins over a low heat until softened and lightly charred.
 - Meanwhile, in a dry frying pan, toast the spices gently over a low heat for 2-3 mins until fragrant, then tip in the beans, along with their liquid, the sweetcorn, tomato purée and garlic. Mix well and turn the heat up to medium so the mixture bubbles, then stir in the rice, chicken and coriander. Cook for 3-4 mins until piping hot.Will keep chilled for up to a day.Leave to cool completely first. Reheat in a pan or themicrowaveuntil piping hot.
 - Toss the avocado in a bowl with the lime juice. Lay the tortillas out on a work surface and pile the rice down the centre leaving a space at either side. Top with the peppers and avocado, then fold up the tortillas at each end to enclose the filling and tightly roll up the wrap. Put in the pan that you cooked the peppers in, seam-side down, and cook gently on each side over a low heat to lightly toast, about 2-3 mins. You may need to do this in batches.
@@ -1193,7 +1193,7 @@
 - 2 tbspolive oil
 - handful ofcoriander,finely chopped
 
-### Method
+### Instructions
 - Put the onions in the base of aslow cooker, or in a deep roasting tray, then add the pork on top. Pour over the orange juice, then sprinkle in the zest, bay, thyme, oregano, paprika, and add the garlic. Pour in 200ml water, or enough to cover the base of the tray or slow cooker until about 2cm deep. Cook on low for 8-10 hrs, or in the oven at 160C/140C fan/gas 3, covered in a double layer of foil, for 4-6 hrs, topping up with water as needed. The meat should be fall-apart tender. Scoop out the thyme and bay leaves, and discard.
 - Remove the pork and shred the meat using two forks, discarding any skin and excess fat. Keep some of the pork in larger chunks for those who prefer it, or shred into smaller pieces for little ones. Add a few spoonfuls of the cooking liquid over the meat.
 - Toss all the slaw ingredients together in a bowl with some seasoning. You can serve the slaw on the side or with the pork in wraps, alongside cooked rice and corn on the cob, if you like.
@@ -1246,7 +1246,7 @@
 - toasted flaked almonds
 - coriander leaves
 
-### Method
+### Instructions
 - Heat the oil in a shallow casserole with a lid over a medium-high heat. Nestle in the chicken skin-side down and fry for 8-10 mins until golden brown. Flip and fry for another 5 mins before removing to a pan.
 - Add the onion to the fat left in the pan and lower the heat to medium. Fry for 8 mins until soft, then stir in the garlic, rosemary, tomato purée and bay. Cook for 2 mins then add 600ml water, scraping up any bits stuck to the bottom of the pan and stirring back into the liquid. Add the squash and chickpeas, then nestle the chicken in, skin-side up. Cover and cook for 40-45 mins until the chicken is cooked through and the squash is tender. Add a splash more water during cooking if needed, or remove the lid of the pan for the last 5-10 mins if there’s too much liquid.
 - Remove the chicken from the pan, and shred the meat, discarding the skin, or keep the thighs whole and just remove the skin for baby-led weaning. (You can also blend the chickpea stew to serve as a purée to weaning babies.) Mash some of the chickpeas and squash into the sauce to thicken it, nestle the chicken back in the pan and serve it at the table.
@@ -1294,7 +1294,7 @@
 - ¼lemon,zested and juiced
 - cooked peas,to serve
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7. Tip the wedges onto abaking trayand drizzle over 1 tbsp oil. Toss well. Bake for 50-55 mins, turning halfway through, until golden. Alternatively, cook in an air-fryer at 200C for 40-45 mins, shaking a few times during cooking.
 - After 35 mins of cooking, oil a baking sheet and add the fish pieces. Spread over the pesto, then scatter over the breadcrumbs. Drizzle with 1 tbsp oil and scatter the cheese and pine nuts over a few of the portions for those who like it (using separate trays if there’s a nut allergy, or simply omit). Bake for 10-12 mins until the topping is golden and crisp, and the fish is flaky. Alternatively, air-fry after the wedges are done.
 - Mix the capers, dill, mayo, lemon zest and juice with some black pepper in a small serving bowl. Serve the fish with the wedges and peas, and the dip alongside.
@@ -1341,7 +1341,7 @@
 - blueberries,raspberries, sliced dates, or chopped nuts
 - nut butter,Greek-style yogurt, maple syrup, to serve
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Line 12 holes of a muffin tin with cupcake cases. Put the oats, bananas, eggs, seeds, dates, baking powder and 50ml of the milk into ablenderand blitz to make a batter (or do this in a jug using a hand blender). Blitz in enough of the remaining milk to make the batter pourable, then pour into the cases and top with your choice of either blueberries, a raspberry, a couple of date slices or a sprinkling of chopped nuts. Bake for 15-20 mins until well risen and lightly golden. The berries, if using, should look soft and juicy. Leave to cool on a wire rack for 15 mins.Or, leave to cool completely, then keep frozen for up to three months, or in an airtight container for up to five days.
 - Serve as they are (they’re great for packing intolunchboxesand you can freeze them for later) or serve witha drizzle of nut butter, a spoonful of yogurt, or a drizzle of maple syrup.
 
@@ -1386,7 +1386,7 @@
 - 10gparsley, roughly chopped
 - green salad, to serve
 
-### Method
+### Instructions
 - Sievethe flour into a large bowl and whisk in a large pinch of salt. Make a well in the centre of the flour and pour in the yogurt. Stir to form a dough, then turn out onto a floured work surface and knead until smooth. Cover and leave to rest while you make the filling.
 - Heat the oil in a large frying pan over a medium heat. Add the red onion, cook for 8-10 mins until beginning to soften, then add the garlic and cumin seeds. Cook for 2 mins until fragrant, then add the beans. Cook for 5 mins to reduce the sauce, then wilt in the spinach. Remove from the heat and set aside.
 - Split the dough into four 100g balls, thenroll outon a lightly floured surface into rough oval shapes around 15cm long. Fold in the edges and seal tightly to make a border for each pide.
@@ -1435,7 +1435,7 @@
 - 5gcoriander, roughly chopped, or leaves picked
 - 1red chilli, sliced
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7. Spread the butternut squash, broccoli and garlic cloves across a largebaking traylined with baking parchment, then drizzle with the vegetable oil and season well. Roast for 20-25 mins until cooked through and charring around the edges.
 - Put half of the butternut squash in a medium bowl and squeeze out the roasted garlic from the skins into the bowl. Leave the broccoli in the oven to keep warm. Mash the squash and garlic well with a fork orpotato masheruntil a rough paste forms. Whisk in the miso, peanut butter and soy sauce until smooth.
 - Heat the stock in a large pan until boiling, then whisk in the butternut squash and miso mixture. Bring toa simmer and add the noodles. Cook for 3-4 mins until just tender.

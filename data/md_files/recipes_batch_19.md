@@ -36,7 +36,7 @@
 - 400gcooked brown rice
 - 4 tbspsalsa,to serve
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7 and line a largebaking traywith baking parchment. Arrange the chicken, peppers, red onions and baby corn on the tray, and spoon over the chipotle paste. Season, then toss to combine. Put the lime halves on the tray, cut-side down, then drizzle the oil over the chicken and veg. Roast for 20 mins, or until everything is cooked through.
 - Meanwhile, warm the beans in a small pan over a low heat, and season. Mix the beans with half the coriander and the lime zest, then squeeze over the juice of the roasted lime. Slice the chicken thinly on the diagonal and divide between four bowls along with the veg and brown rice. Sprinkle over the remaining coriander and serve with the salsa.
 
@@ -85,7 +85,7 @@
 - 100gslightly stale wholemeal crusty bread,cut into cubes
 - 1tspolive oil
 
-### Method
+### Instructions
 - Blitz the onions and carrots together in afood processoruntil finely chopped, or finely chop by hand. If making the croutons, heat the oven to 220C/200C fan/gas 6.
 - Heat the oil in a large saucepan over a medium heat and cook the chopped onion and carrot with a pinch of salt for 5-6 mins, stirring frequently until starting to soften. Stir in the garlic and peppers, and cook for 1 min more until fragrant.
 - Add the harissa paste, cumin seeds and chilli powder, and cook for 1 min, stirring. Add the stock and turn up the heat to medium-high, bring to the boil and cook for 15-18 mins until the veg is soft.
@@ -127,7 +127,7 @@
 - 3rosemary sprigs,leaves picked and finely chopped
 - 130gcomté cheese,finely grated
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Line two large baking sheets with baking parchment. Tip the butter, both flours, the rosemary, three-quarters of the cheese, 1 tsp fine sea salt and ¼ tsp black pepper into the bowl of afood processor, and blitz for a few minutes until a dough forms. Or, tip the flours into a large bowl, rub in the butter, add the other ingredients and gently squeeze it all together into a dough. Wrap and chill for 15 mins.Will keep wrapped and chilled for two days or frozen for a month.
 - Divide the dough into two pieces, androll each piece outon a well floured surface to the thickness of a £1 pound coin. Stamp out shapes using a 6cm round or star cutter. Re-roll the off-cuts to stamp out more biscuits until you’ve used up all the dough. Arrange the biscuits on the prepared trays and press a fork into the centre of each. Sprinkle over the remaining cheese and bake for 15-18 mins until lightly golden brown. Leave to cool completely on awire rack.Will keep in an airtight container or gift tin for up to three days.
 
@@ -168,7 +168,7 @@
 - 2 x 250g packshalloumi
 - sweet chilli sauceor sriracha mayo, to serve
 
-### Method
+### Instructions
 - Put all of the ingredients except the halloumi and chilli sauce in a bowl with a good pinch each of salt and freshly ground black pepper. Mix together, then set aside.
 - Cut both of the halloumi blocks down the centre through the natural split, then cut each half into eight cubes (you’ll have about 32 in total). Put the halloumi in the bowl with the clementine marinade, stir to coat, then cover and chill for at least 3 hrs, or overnight.
 - Remove the halloumi from the marinade, then thread about three blocks onto a mini metal skewer.The uncooked skewers will keep frozen in an airtight container for up to three months.Heat the air-fryer to 200C. Cook the skewers in a single layer for 6-8 mins until golden, turning halfway. If frozen, cook for 5 mins at 180C, then a further 4-6 mins at 200C. Serve with your choice of dip.
@@ -210,7 +210,7 @@
 - 2 tspginger pasteor freshly grated ginger
 - 2 tspvegetable oil
 
-### Method
+### Instructions
 - Pat the chicken wings dry using a clean tea towel or kitchen paper (this helps ensure the wings crisp up). Heat theair-fryerto 200C. Combine the soy sauce, cranberry sauce, oregano, garlic, ginger and vegetable oil in a small bowl or jug. Put the chicken wings in a large bowl, then spoon or pour over the cranberry mixture.
 - Toss everything together and mix well so the chicken wings are well coated.The uncooked wings will keep frozen in an airtight container for up to three months.Tip the wings into the air-fryer basket and cook for 15-20 mins at 200C (or 20-25 mins at 180C from frozen), turning halfway through until cooked through and beginning to brown at the edges. You may need to do this in two batches depending on the size of your air-fryer.
 
@@ -252,7 +252,7 @@
 - 50gred and green sugar-coated chocolate sweets
 - 50gmini marshmallows(vegetarian, if needed)
 
-### Method
+### Instructions
 - Melt the chocolate in a bowl over a pan of gently simmering water, ensuring the bowl doesn’t touch the water, or in short bursts in themicrowave, stirring regularly.
 - Spread the popcorn, cereal and cranberries over abaking trayand drizzle over the melted white chocolate. Use two spoons to gently mix everything together, then scatter over the festive sprinkles. Leave in a cool place to set for 1-2 hrs.
 - Break up the popcorn and cereal mixture and toss in a big bowl with the pretzels, sweets and marshmallows. Enjoy now or transfer to large jars to give as a gift.Will keep in a sealed jar or other airtight container for up to two weeks.
@@ -298,7 +298,7 @@
 - 1red chilli,sliced, to serve (optional)
 - 1spring onion,sliced, to serve
 
-### Method
+### Instructions
 - Heat the oil in asaucepanover a medium heat and cook the curry paste for 1 min before adding the stir-fry veg and prawns. Cook for 3 mins until the prawns are mostly pink, then add the coconut milk, veg stock and noodles.
 - Bring to the boil, then reduce the heat to a simmer and cook for 5 mins until the noodles are cooked through and the veg is tender but still has a bite. Divide between two bowls and sprinkle over the herbs, chilli and spring onion.
 
@@ -341,7 +341,7 @@
 - 12edible eye decorations
 - 6red sugar-coated chocolate sweets
 
-### Method
+### Instructions
 - Line a 20cm cake tin with baking parchment. Melt the butter, sugar, syrup and salt together in asaucepanset over a medium heat. When the sugar has dissolved, whisk well to combine, then stir in the cereal until well coated.
 - Heat the oven to 180C/160C fan/gas 4. Tip the mixture into the prepared tin and use the back of a spoon to firmly press into a flat layer. Bake for 15 mins until golden and toasted. Press down again with a spoon while still warm, then leave to cool completely in the tin.
 - Remove the crispy cake from the tin and cut into six wedges, in the same way as cutting a pizza. Use a little icing or melted chocolate to stick on pretzels for antlers and the eye decorations on the triangles. Finish each with a red sweet for the nose. Leave in a cool place to set for 30 mins before serving.Will keep in an airtight container for up to three days.
@@ -393,7 +393,7 @@
 - You will also need
 - 10flat skewers(see tip, below)
 
-### Method
+### Instructions
 - Tip all of the ingredients for the ponzu sauce, except the daikon, into asterilised jarand mix together. (The dashi stock is optional, but it softens the sauce while adding umami in the background. Use water if you don’t have dashi.)Will keep chilled for up to three months.Peel the daikon, then grate it on the finest side of the grater. Squeeze out the water and set aside in a bowl.
 - Rinse the sardines, then sprinkle generously with salt, especially the fins and tails, as this keeps them from burning. Skewer the sardines lengthwise, from the tail through to the head. If the sardines are already butterflied, it is better to skewer the fish in pairs using two skewers: one across the head ends and one to secure the tail ends.
 - Grill the sardines over a medium hot grill, about 230C – if you hold your hand 15cm above the coals, you should be able to keep it there for 3-4 seconds. (Be careful so you don’t burn your hands.) Cook on one side for 4-5 mins until the skin nearest the heat is crispy and the flesh is firm and bouncy to the touch.
@@ -440,7 +440,7 @@
 - 75ghazelnuts,roughly chopped
 - 4 tbspextra virgin olive oil,to serve
 
-### Method
+### Instructions
 - Spread the courgettes and green beans out on a baking sheet. Put the feta in a small flameproof tin – a small enamel roasting tin is ideal, but you could even bake it on a sheet of foil. Drizzle 3 tbsp of the olive oil over the veg, and remaining 1 tbsp over the feta. Add about two-thirds of the garlic and thyme to the veg, along with most of the chilli, if using, then scatter the rest over the feta, reserving some of the thyme. Scatter the zest of 2 oranges over the veg and the rest over the feta. Season the feta with a good grind of black pepper and season the veg well with salt and pepper. Toss the veg together and tip into a bowl. Cover both and keep chilled until ready to cook.Will keep covered and chilled for up to 24 hrs.
 - Tip the breadcrumbs onto the baking sheet and mix to soak up any marinade left on the tray, then scoop into a bowl and stir in the hazelnuts.Will keep covered and chilled for up to 24 hrs.
 - Using asharp knife, cut a thin slice off the top and bottom of each zested orange. Slice off the skin in strips, removing as much of the pith as you can, then – cupping the orange in your palm – slice along each side of the membrane that separates the segments. Squeeze out what remains into a bowl and repeat with the other orange. If you aren’t confident with your knife skills, simply cut the oranges into thin slices – they’ll still taste great.
@@ -523,7 +523,7 @@
 - 2 tbspextra virgin olive oil
 - 70mlred wine vinegar
 
-### Method
+### Instructions
 - Pierce the lamb all over using a sharpknife. Drizzle over the oil, then sprinkle over the spices, a good pinch of salt and black pepper, and the Worcestershire sauce. Massage the shoulder well until the marinade becomes a paste and chill for at least 1 hr or overnight in the fridge.
 - Prepare thebarbecue– you will need a low temperature, around 125-140C with ashen coals (I put some lit coals onto unlit coals, and a fist-sized chunk or two of seasoned cherrywood to flavour the lamb. If using a gas barbecue, see tip.) Cook the lamb for 2-3 hrs (it will be cooked at this point), then transfer to a flameproof roasting tin. Peel the garlic and add to the tin with the red pepper, onions, chillies, vinegar and stock. Cook for another 1-2 hrs until the lamb is 92C when atemperatureprobe is inserted, or the shoulder blade slides out easily.
 - While the lamb is cooking, prepare the salsa. Put the chillies, peppers, onions and tomatoes directly into the embers, or on the gas barbecue flame. Remove each ingredient once blistered. The chillies will only need 30 seconds or so, but the onions will need at least 15 mins. Roast the garlic bulb to the side of the embers or flame until soft. Leave everything to cool, then squeeze the onions and garlic out of their skins. (Keep the charred skin on everything else.) Chop all the veg, discarding the stems and seeds, then put in a bowl. Drizzle over the olive oil and pour in the vinegar to taste. Add a good pinch of salt and black pepper, then stir in the mint.
@@ -563,7 +563,7 @@
 - 3 smallgarlic cloves,finely grated
 - 1 tspdried mint
 
-### Method
+### Instructions
 - Combine all the ingredients in a bowl, season with salt and black pepper, and chill until needed.Will keep chilled for up to three days.
 
 
@@ -602,7 +602,7 @@
 - ½ tbspcaster sugar
 - 110mldistilled white vinegar
 
-### Method
+### Instructions
 - Combine the chillies, coriander, garlic and lemon juice in a bowl. Tip into afood processoralong with the sugar, vinegar and ¾ tsp salt. Blitz to a thin paste (like mint sauce). Tip into a bowl. Cover and chill until needed.Will keep chilled for up to three days.
 
 
@@ -653,7 +653,7 @@
 - 1onion,finely sliced
 - 3vine tomatoes,cut into wedges
 
-### Method
+### Instructions
 - Blitz the chopped onions in afood processor, then press through a sieve over a bowl to extract the onion juice. Set the juice aside and discard the onion pulp.
 - Put the coriander, chilli, lemon juice, sesame oil, vinegar, ginger and garlic paste, chaat masala, cumin, turmeric, the onion juice and some seasoning in a food processor. Whizz together to make a marinade.
 - Tip the chicken into a large bowl along with the marinade, mix to coat and leave for 1 hr, or overnight.
@@ -728,7 +728,7 @@
 - 100gcaster sugar
 - 1bay leaf
 
-### Method
+### Instructions
 - To pickle the onions, put the onions in a small non-reactive bowl. Pour the vinegar into asaucepanand stir in the sugar and bay. Bring to a simmer, then pour this over the onions. Cover and chill for at least 1 hr 30 mins, or overnight.
 - For the lager onions, heat the oil in a saucepan over a medium heat and cook the onion, garlic, thyme and bay for 5-8 mins, stirring to prevent sticking, until golden and caramelised. Add the sugar and vinegar, cook for 2 mins more, then pour in the lager. Simmer for 15 mins over a low heat, stirring occasionally until the liquid has reduced to a sticky, caramelised consistency. Season, then remove from the heat and decant into a container until needed.Will keep chilled for a few days.
 - Combine all the ingredients for the monkey gland sauce in a bowl or jug. You can transfer it into a squeezy bottle or piping bag.Will keep chilled for a few days.
@@ -772,7 +772,7 @@
 - 1red onion
 - 1carrot
 
-### Method
+### Instructions
 - Combine the mayonnaise, soured cream, lime and honey in a large bowl. Season. Add the red cabbage, shredded, red onion, finely sliced, and carrot, grated, and toss to combine. Chill for 1 hr before serving so the veg softens slightly.Will keep chilled for up to three days.
 
 
@@ -807,7 +807,7 @@
 - 200gsoftened butter
 - 1 quantity of ultimateBBQ spice blend(see 'goes well with')
 
-### Method
+### Instructions
 - Combine the softened butter and ultimate BBQ spice blend. Spoon into the middle of a large sheet of baking parchment and roll into a log, twisting the ends of the parchment to seal, then chill until firm enough to slice.Will keep chilled for up for up to two weeks or frozen for up to two months.Melt slices over barbecued corn, jacket potatoes or steak.
 
 
@@ -846,7 +846,7 @@
 - 3 tbsplight brown soft sugar
 - 6 tbspBBQ sauce(gluten-free, if needed)
 
-### Method
+### Instructions
 - Heat the oven to 150C/130C fan/gas 2 or set theslow cookerto low. If the pork is tied, remove the string. Rub the spice blend all over. Season. Put the pork in a large flameproof casserole or the slow cooker, and sprinkle over any remaining spice blend and the bay leaves. Pour in a mugful of water, cover with the lid and cook for 5-7 hrs, or until the pork can be shredded with a fork.
 - Lift the pork onto a plate. Remove and discard any skin and fat. Shred the meat using two forks, discarding any sinew. Put the casserole over a medium heat (or pour the liquid into a saucepan). Add the vinegar, sugar and barbecue sauce. Simmer until the liquid has reduced and is glossy, about 15-20 mins.
 - Mix the meat through the sauce. Serve in buns or over jacket potatoes.Once cooled, keeps chilled for 48 hrs or frozen for three months.
@@ -887,7 +887,7 @@
 - 1 quantity of ultimateBBQ spice blend(see 'goes well with')
 - 1.3 kgwhole chicken,spatchcocked (learn how to do this below)
 
-### Method
+### Instructions
 - Combine the garlic, lemon juice, yogurt, olive oil and spice blend in a bowl, and season with a little salt and pepper. Put the chicken in aroasting tinand cut a few slashes into each leg using a sharp knife. Rub the marinade all over the chicken and into the slashes, then leave at room temperature for 1 hr.Will keep chilled for up to two days. (Watch our helpful video above to show you how to spatchcock a chicken.)
 - When you’re ready to cook, put the chicken, skin-side up, on abarbecueover ashen coals. Cook for 5 mins on each side, then move the chicken to the cooler side of the barbecue (not directly over the coals) and cover with the barbecue lid. Cook for 20-30 mins more, turning regularly until the chicken is lightly charred on the outside and cooked through – the internal temperature should read at least 70C and the juices should run clear. Remove to a tray, cover and leave to rest for 10 mins before carving and serving.
 
@@ -927,7 +927,7 @@
 - ¼ tspground allspice
 - ¼ tspground cinnamon
 
-### Method
+### Instructions
 - Combine the smoked paprika (10g), ground coriander (5g), ground cumin and ground fennel seed (2g), and ground allspice and ground cinnamon (0.5g).Will keep in an airtight container in a cool, dry place for up to two months.
 
 
@@ -973,7 +973,7 @@
 - 3tomatoes, quartered
 - 1medium cooked chicken breast, about 150g, sliced
 
-### Method
+### Instructions
 - Bring a pan of salted water to the boil. Add the eggs and simmer for 7 mins. Remove with a slotted spoon and pop in a bowl of ice-cold water. Once cool, gently peel the shell off the eggs and set aside.
 - Place the bacon on abaking traylined with foil. Pop under the grill set on high and cook on each side for 4-5 mins or until super-crispy. Leave to cool a little.
 - Whisktogether the olive oil, vinegar and mustard with a good pinch of sugar until thick and glossy. Season generously.
@@ -1051,7 +1051,7 @@
 - 150gcaster sugar
 - gold leafor edible gold lustre, to decorate (optional)
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. For the meringue, tip all the nuts onto abaking trayand roast for 10-12 mins, shaking the tray halfway through cooking, until toasted. Leave to cool completely. Reduce the oven to 150C/130C fan/gas 2.
 - Line three baking sheets with baking parchment. Use the base of a 20cm cake tin as a template to draw a circle on each sheet of parchment, then flip these over on their trays to prevent the pen from marking the meringue. Tip the cooled nuts into afood processorand whizz to a powder. Blitz in the icing sugar and cornflour, and set aside.
 - Tip the egg whites into a large, clean bowl (any oil in the bowl will prevent the egg whites from whipping up fully). Add a pinch of salt and whisk with an electric whisk or in a stand mixer for 3-5 mins until fluffy and doubled in volume. Add the caster sugar, a spoonful at a time, whisking continuously until all the sugar has been incorporated and the meringue is glossy and stiff. Scatter the ground nut mixture over the surface, then use a large metal spoon to gently fold this into the meringue. Transfer the meringue to apiping bagfitted with a large round nozzle.
@@ -1101,7 +1101,7 @@
 - 3celerysticks, finely sliced
 - 1romaine or Little Gem lettuce, leaves separated and torn if large
 
-### Method
+### Instructions
 - Heat a dry frying pan over a medium-high heat and toast the walnuts for 3-4 mins until lightly golden and aromatic. Tip into a bowl and leave to cool.
 - Toss the apples with a splash of the lemon juice to prevent them discolouring. Combine the mayonnaise, yogurt, mustard and remaining lemon juice in a large bowl and season well.The dressing will keep chilled for up to two days.Mix the apples, grapes and celery with the dressing and toss well in a large bowl to ensure everything is evenly coated. Arrange the lettuce leaves on a serving platter and spoon over the apple mixture and any remaining dressing from the bowl. Scatter over the toasted walnuts before serving.
 
@@ -1139,7 +1139,7 @@
 - 1 smallshallot, finely chopped
 - 200g coldunsalted butter, cut into cubes
 
-### Method
+### Instructions
 - Pour the wine, vinegar and shallots into asaucepanset over a medium-high heat. Bring to a simmer and cook until the liquid has reduced to about 1-2 tbsp. Strain the mixture into a jug and discard the shallots. Pour 1 tbsp back into the saucepan.
 - Put the pan over a low heat and vigorouslywhiskin the butter, a cube at a time, only adding another cube after the previous addition has melted into the sauce and emulsified. Keep a close eye on the heat – if the sauce starts to look greasy or you can see obvious streaks of butter, remove from the heat and continue whisking, but don’t add any more butter until it looks cohesive again (see tip below).
 - Once at least half of the butter has been added, starting whisking in two cubes at a time. The sauce should start to look thick and glossy, and will take on the consistency of double cream. The process will take about 20-25 mins. Season to taste with another splash of the initial reduction and salt and pepper. Serve immediately.
@@ -1178,7 +1178,7 @@
 - 275gicing sugar, sifted
 - 1 tspvanilla extract
 
-### Method
+### Instructions
 - Melt the white chocolate in a heatproof bowl over a pan of simmering water (ensuring the bowl doesn't touch the water), or in the microwave in short bursts. Leave to cool.
 - Put the butter in the bowl of astand mixerand beat on high speed for 3-4 mins until pale and creamy. Or, do this in a large bowl using an electric whisk. With the motor running on low speed, drizzle in the cooled melted white chocolate, then turn the speed up slightly and whip until combined. Add the icing sugar in three additions until you have a creamy buttercream, then whisk in the vanilla extract and a small pinch of salt. If you like, switch to the paddle attachment and beat on low speed for 3-4 mins to knock out any air bubbles – this results in a smooth buttercream that is good for piping.
 
@@ -1232,7 +1232,7 @@
 - 1 tbsprice vinegar
 - 3 tbspolive oil
 
-### Method
+### Instructions
 - Combine all the dressing ingredients in a large bowl, season well, then add the kale and shallot. Massage the dressing into the kale leaves until they soften and turn dark green, about 2-3 mins.
 - Add the beetroot, cranberries, carrots, nuts and goat cheese, if using. Toss together until everything is evenly coated, and season. Serve straightaway.
 
@@ -1275,7 +1275,7 @@
 - 20gflaked almonds
 - 1 tbspicing sugar
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter a 20cm round cake tin and line with baking parchment. Beat the butter and sugar together for 5 mins until pale and fluffy. Mix in the lemon zest, then add in the eggs, one at a time, beating well after each addition. Stir in the almond extract. The mixture may look split at this stage, but it will come together once the flour is added.
 - Tip in the ground almonds and flour, and mix to combine. Scrape into the prepared tin. Scatter over the flaked almonds and bake for 40-45 mins until golden and a skewer inserted into the centre comes out clean. Leave to cool completely in the tin, then dust over the icing sugar to serve.
 
@@ -1315,7 +1315,7 @@
 - ½-1lemon, juiced (optional)
 - ½-1 tspEnglish mustard(optional)
 
-### Method
+### Instructions
 - Melt the butter in a pan over a medium-low heat, then stir in the flour. Cook, stirring, for 1-2 mins until a paste forms.
 - Gradually pour in the milk, stirring continuously until all the milk has been incorporated and the sauce coats the back of a spoon. If the sauce is lumpy,whiskfor a few minutes more, or strain through asieveand return to the pan. Bring to a simmer and bubble for 1 min. Remove from the heat and stir through the parsley. Add the lemon juice and mustard to taste, if using. Season well with salt and freshly ground black pepper.Once cool, will keep chilled for up to three days or frozen for a month. Defrost overnight in the fridge and reheat over a low heat.
 
@@ -1353,7 +1353,7 @@
 - 1 tspvanilla extract
 - 1-2 tbspcaramel sauce
 
-### Method
+### Instructions
 - Heat the milk using amilk frotheror steam wand. Alternatively, warm on the hob until just steaming (don't boil) and use a hand frother – you want to aim for a temperature between 60C-70C.
 - Pour the espresso into a coffee cup or mug, then stir through the vanilla and up to 1 tbsp caramel sauce, depending on your tastes. Pour over the milk, then drizzle over caramel sauce in a criss-cross pattern before serving.
 
@@ -1390,7 +1390,7 @@
 - 4 tspcornflour
 - vegetable oil, for frying
 
-### Method
+### Instructions
 - Combine the onions and cornflour in a bowl, tossing to ensure the onions are evenly coated.
 - Heat a 3cm depth of oil in a large saucepan orfrying panover a medium heat until it reaches 160C, or a piece of onion sizzles when you drop it in. Fry the onions in batches for 5-8 mins, stirring regularly until golden and crispy. Remove to a plate lined with kitchen paper using a slotted spoon to drain. Season generously with salt.Will keep in an airtight container for up to four days.
 

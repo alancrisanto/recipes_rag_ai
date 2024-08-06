@@ -32,7 +32,7 @@
 - 10 dried or freshorange slices
 - 1 litreginger beer
 
-### Method
+### Instructions
 - Fill a large jug with ice, then tip in the mince pie or spiced rum, dark rum, grenadine, lime juice and orange slices, and mix well.
 - Top up with the ginger beer, stir gently, and serve in ice-filled tumblers (we used star-shaped ice-cube moulds for a festive touch).
 
@@ -83,7 +83,7 @@
 - 5 tbspmayonnaise
 - 1 tbspwhite wine vinegar
 
-### Method
+### Instructions
 - Combine the kale with 1 tbsp of the olive oil and a good pinch of salt in a large bowl, and massage the oil into the leaves for a minute before setting aside to tenderise a little.
 - Heat the oven to 200C/180C fan/gas 6. Scatter the bread on a large roasting tray, then drizzle over the remaining 1 tbsp oil. Toss to coat the bread, then bake for 10 mins until golden and crisp. Remove from the oven and set aside.
 - Toss together the kale, lettuce, avocado, if using, and shaved parmesan until evenly mixed.
@@ -125,7 +125,7 @@
 - 80mlprosecco
 - soda water,for topping up (optional)
 
-### Method
+### Instructions
 - Put a couple of ice cubes and two apple slices in two glasses, then divide the Aperol between them.
 - Divide the cider and prosecco between the glasses, then top up with soda water, if you like. Stir briefly to combine, then serve.
 
@@ -163,7 +163,7 @@
 - 200mlpomegranate juice, plus 1 tbsp pomegranate seeds, to garnish (optional)
 - 1orange, juiced
 
-### Method
+### Instructions
 - Put a handful of ice, the gin alternative, pomegranate juice and orange juice in acocktail shaker, and shake hard until the outside of the shaker feels cold.
 - Strain into two martini glasses and drop in the pomegranate seeds, if using, to serve.
 
@@ -209,7 +209,7 @@
 - 50gsoft light brown sugar
 - brandy butteror custard, to serve
 
-### Method
+### Instructions
 - Melt the butter in a 300ml mug in themicrowavefor 20-30 seconds on high. Tip in the brandy, raisins, sultanas, mixed peel and glacé cherries and heat for a further 45 seconds. Remove from the microwave and tip into a jug or bowl. Set aside.
 - Leave some of the remaining butter in the mug and use the rest to butter a second 300ml mug. If you want to turn out the cakes at the end, line the mugs with baking parchment. It’s easiest to put a piece in the base of each mug, then another around the inside wall. You will get neater edges if you cover the inside fully.
 - Add the remaining ingredients to the soaked fruit, mix to combine, then divide between the two mugs. Cook for 1 min 30 seconds until puffed up but not dry, then leave to stand for 2 mins. Eat out of the mug or turn out onto a plate. Serve warm with a spoonful of brandy butter or plenty of custard.
@@ -251,7 +251,7 @@
 - 100gfruit & nut mix, roughly chopped
 - 350gmincemeat(vegetarian, if needed)
 
-### Method
+### Instructions
 - Butter a 20cm square tin and line with baking parchment. Heat the oven to 180C/160C fan/gas 4. Melt the butter, syrup, treacle and sugar together in a large pan over a medium-low heat. Stir in the oats, fruit & nut mix, mincemeat and a pinch of salt until fully combined, then tip into the prepared tin.
 - Press the mixture into an even layer using a siliconespatula, ensuring it’s packed tightly. Bake for 30-35 mins until golden. Leave to cool in the tin for 30 mins, then transfer to a wire rack to cool completely. Cut into squares to serve.Will keep in an airtight container for up to five days.
 
@@ -304,7 +304,7 @@
 - 2eggs, beaten
 - brandy butter, double cream, ice cream or custard, to serve
 
-### Method
+### Instructions
 - Mix the fruit, almonds, citrus zests and the carrot with the brandy or rum and orange liqueur if using (if not, top up with extra brandy or rum) in a largemixing bowl. Cover and leave to soak overnight.
 - Mix all the dry ingredients together, then add to the soaked fruit. Grate in the butter, then add the eggs and stir well to combine. Butter a 1.5-litre pudding basin and line the base with baking parchment. Spoon in the mixture, then press down and make a hollow with the back of the spoon in the centre, about 3-4cm deep. Cover the surface with baking parchment, then cover the bowl with a double-layer of baking parchment and foil and tie around the rim with string.
 - Boil thekettle. Put the pudding on a trivet in yourpressure cookerand pour 1 litre of boiled water around it. Cover with the lid, but without any pressure, and steam for 15 mins. Close the lid and cook on high pressure for 1 hr 45 mins, then release the pressure slowly following the manufacturer’s instructions.
@@ -346,7 +346,7 @@
 - 180mldouble cream
 - 75gunsalted butter, softened
 
-### Method
+### Instructions
 - Pound the cardamom seeds and sugar together using apestle and mortaruntil the seeds are finely ground. Set aside. Tip the pistachios into a food processor and blitz until finely chopped.
 - Put the chocolate in a heatproof bowl. Tip the cream and ground cardamom mixture into a small pan and bring to a simmer over a low heat, stirring occasionally, for 2 mins until steaming. Slowly pour over the chocolate,whiskinguntil the chocolate has melted.
 - Mix in the butter, 1 tsp at a time, until fully incorporated. Stir in 80g of the chopped pistachios, then cover the bowl and chill for 3-4 hrs to firm up.
@@ -396,7 +396,7 @@
 - 2skin-on salmonor trout fillets (260g)
 - balsamic vinegar, for drizzling
 
-### Method
+### Instructions
 - Put the lentils in a pan of water with the bay leaves and bring to the boil. Continue to boil for 10 mins, then turn down the heat to medium-low and cook for 20 mins more until the lentils are tender.
 - Meanwhile, heat the oil in a large non-stick pan. Add the onions and fry over a high heat, stirring frequently, until softened. Add the celery, carrots and thyme. Put the lid on, turn down the heat and cook for 10 mins more, stirring now and then until the vegetables are tender.
 - Drain the lentils and add to the vegetables along with 1 tbsp of the mustard and the vinegar. Measure half the lentils to set aside and use for lunch later in the week (see ourlentil salad with beetroot & walnutsrecipe). Toss the parsley through the lentil and veg mix.
@@ -453,7 +453,7 @@
 - pinch ofthyme leaves
 - sprinkle ofsmoked paprika
 
-### Method
+### Instructions
 - Heat the oil in a large non-stick pan and fry the onions and carrots for about 10 mins, stirring occasionally, until softened.
 - Stir in the garlic and smoked paprika along with the lentils, and cook for about a minute more.
 - Pour in the passata and stock, bring to the boil, then cover and simmer over a medium heat for 30 mins, stirring occasionally until the vegetables are tender. Remove from the heat and whizz until smooth using ahand blender. Eat half now and chill the rest.Will keep chilled for up to three days.To reheat, cook portions in a pan over a low heat with a dash of water until piping hot.
@@ -495,7 +495,7 @@
 - 2 handfuls ofrocket
 - balsamic vinegar, for drizzling
 
-### Method
+### Instructions
 - Tip half of the leftover lentil base from ourseared salmon recipeinto two bowls or lunch containers and top with the beetroot, walnuts, mint and rocket.
 - Just before eating, drizzle with the balsamic vinegar and toss together.
 
@@ -545,7 +545,7 @@
 - 700gswede, peeled and cut into chunks
 - 850gpotatoes, peeled and cut into chunks
 
-### Method
+### Instructions
 - Heat the oil in a large non-stick pan and fry the beef in about three batches until well browned. Set aside.
 - Add the mushrooms, bay and thyme to the pan, and cook for about 5 mins. Tip in the onions and garlic, and cook for a few minutes more until softened.
 - Return the beef to the pan and add the carrots, stock and tomato purée. Cover and simmer for 2 hrs until the meat is tender and the liquid has reduced to a thick gravy.
@@ -595,7 +595,7 @@
 - 250g packcooked red and white quinoa
 - 4 tbspcoconut yogurt
 
-### Method
+### Instructions
 - Heat the oil in a non-stick pan and fry the vegetables and ginger for 10 mins, stirring frequently, until softened and starting to colour.
 - Stir in the stock, harissa, tomato purée and apricots. Bring to the boil, cover and simmer for 15 mins. Stir in the coriander.
 - Meanwhile, heat the quinoa following pack instructions. Serve with the veg and yogurt, plus a scattering of coriander leaves.
@@ -645,7 +645,7 @@
 - 15gchopped coriander
 - handful ofchopped basil
 
-### Method
+### Instructions
 - Tip the noodles into a bowl and soak following pack instructions until tender but not soft – you don’t want them to become mushy. Drain.
 - Heat the oil in awokover a medium-high heat and stir-fry the chicken for 5 mins until cooked. Transfer the chicken to a bowl and set aside, keeping the oil in the wok. Stir-fry the onion, pepper and carrot for 5 mins to soften, then add the garlic, chilli and ginger, and cook for a few minutes more until fragrant.
 - Add the beansprouts, turn up the heat to high, and stir through the peanuts, lime juice and zest and the soy sauce. Return the chicken to the pan along with the noodles and herbs, and gently toss everything together until heated through.Best served straightaway.
@@ -692,7 +692,7 @@
 - 100gfrozen wild red shrimp, defrosted and peeled
 - 100gfine trimmed green beans, halved
 
-### Method
+### Instructions
 - Heat the oil in a wide non-stick pan over a medium heat and fry the potatoes, pepper and bay leaf for 5 mins until they start to colour. Add the leek and garlic, cook for a few minutes more, then stir in the passata and stock. Bring to a simmer, cover and cook for 25 mins until the potatoes are tender.
 - Add the parsley, cod, shrimp and green beans, then put the lid back on and cook for about 7 mins more, or until the fish flakes easily when pressed with a fork.Will keep chilled overnight, but best eaten fresh.
 
@@ -750,7 +750,7 @@
 - 1 smallred onion(60g), finely chopped
 - 1red chilli, deseeded and sliced
 
-### Method
+### Instructions
 - Heat the oil in a non-stick pan over a medium heat and fry the onions for 8 mins until softened. Add the ginger, garlic and chilli, and cook for a few minutes more. Measure 300ml of the liquid from the cans of butter beans into a jug, and mix in the bouillon powder to make a stock (don’t worry if it’s thick or lumpy as it will dissolve in the pan as it cooks).
 - Stir the cumin seeds and curry powder into the onions, followed by the tomatoes, beans and aubergine. Add the stock. Bring to the boil. Reduce the heat to medium-low, cover and simmer for 30 mins until the veg is tender. Stir in half the coriander. Remove from the heat.
 - For the raita, toss the bananas in the lime juice. Add the cucumber, onion, chilli and remaining coriander. Warm the rice following pack instructions and serve with half the curry and raita. Cool and chill the rest of the curry and raita to make ourbutter bean curry wraps.The curry will keep chilled for up to three days. The raita keeps chilled for a day.
@@ -789,7 +789,7 @@
 - 2 handfuls ofmixed salad leaves
 - ½the raita(recipe below)
 
-### Method
+### Instructions
 - Warm the wraps following pack instructions, or for a few seconds on each side over the gas flame of the hob to create a slight char.
 - Reheat leftoverbutter bean curryin a pan over a low heat until piping hot (if it’s quite wet, allow it to reduce slightly). Spread the curry over the centre of the wraps, then top with the salad and theraita. Roll up tightly and serve straightaway.
 
@@ -829,7 +829,7 @@
 - pinch ofchilli powder, hot or mild, to taste
 - 2 smalllime wedges, to serve
 
-### Method
+### Instructions
 - Mix the tomatoes, onion and coriander in a bowl. Spoon onto the avocado halves, sprinkle with a little chilli powder, then serve with a lime wedge each for squeezing over.
 
 
@@ -867,7 +867,7 @@
 - 3walnut halves, snapped in half
 - a few pinches ofground cinnamon, to taste
 
-### Method
+### Instructions
 - Simply mix everything together and enjoy.Will keep in an airtight container or jar for up to three days.
 
 
@@ -904,7 +904,7 @@
 - 2 tbspunsalted roasted peanuts(24g), roughly chopped
 - 1date(6g), finely chopped
 
-### Method
+### Instructions
 - Measure everything into a bowl and scrunch together using your hands to form a dough. (You may need to add up to 1 tbsp warm water from the kettle to help bind the ingredients.) Form into a thick log, slice into four pieces, then press into flat rounds.Will keep in an airtight container for up to three days.
 
 
@@ -944,7 +944,7 @@
 - 2 tbsppomegranate seeds
 - choppedcoriander, to serve
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Mix the spices with the oil, then brush over both sides of the tortilla so it is evenly coated. Cut the tortilla into 20-22 rough triangles and spread out on a baking sheet. Bake for 5-10 mins until golden and crisp. Leave to cool for a few minutes while you put the hummus on plates and scatter over the pomegranate seeds and coriander. Serve with the tortillas for dipping.
 
 
@@ -984,7 +984,7 @@
 - squeeze oflemonor lime juice
 - 4carrots(80g each), cut into quarters lengthways
 
-### Method
+### Instructions
 - Put the harissa, cumin, aubergine and 2 tbsp water in a small non-stick pan. Cover with a lid and cook for 10 mins on low until the aubergine is soft, stirring occasionally to prevent sticking – splash in a little water if necessary. Add the coriander yogurt and lemon juice, then blitz in the pan using ahand blender. Divide between 4 pots or mini bowls and serve each with a quartered carrot for dipping.
 
 
@@ -1021,7 +1021,7 @@
 - 1 smallpear, halved, cored and cut into thin wedges
 - cinnamon, for dusting
 
-### Method
+### Instructions
 - Spread the peanut butter over one side of 2 crispbreads, then top with pear wdeges and dust with a little cinnamon. Top with the remaining crispbreads and serve straightaway.
 
 
@@ -1058,7 +1058,7 @@
 - 1 smallorange
 - a fewmint sprigs, leaves picked (to serve)
 
-### Method
+### Instructions
 - Melt the chocolate in short bursts in themicrowave, or in a heatproof bowl set over a pan of simmering water ensuring the bowl doesn't touch the water. Leave to cool for a few seconds before mixing in a little of the yogurt.
 - Finelygratethe zest from half the orange, then cut away the peel and pith, and chop the orange flesh. There is no need to cut away the membrane between the segments unless it is very tough.
 - Stir the remaining yogurt into the chocolate to combine, then the grated zest. Put the orange pieces in the base of two small serving glasses, then spoon the chocolate mix on top.Will keep chilled for up to three days.Scatter over a few mint leaves to serve.
@@ -1125,7 +1125,7 @@
 - cayenne pepper
 - 1 tspblack mustard seeds
 
-### Method
+### Instructions
 - To prepare the chicken, mix the lemon juice, diced chicken, garlic and ginger together in a large bowl with the dried spices and 2 tsp salt. Cover and leave to marinate in the fridge for at least 3-4 hrs, or overnight.
 - Heat 2 tbsp oil in a largesaucepanover medium-high heat. Add a tsp of turmeric for a burst of colour and flavour, followed by tomato purée to enhance the richness of the dish. Sprinkle in chilli flakes to taste for a hint of heat. Remove from the pan and set aside on a plate, it won’t be cooked through at this point. Add the remaining oil and diced onion, cook for 10-15 mins over a medium heat until soft and translucent. Add the remaining spices and cook for 2mins. Stir in the chopped tomatoes and 200ml of water, return the chicken to the pan, cover and simmer for 15-20 mins until the chicken is cooked through. Check the seasoning.
 - Garnish with some coriander, fresh chilli and crispy onions and serve with flatbreads or rice, if you like.
@@ -1172,7 +1172,7 @@
 - 60mloat, almond or soya milk
 - 1tbspicing sugar, for dusting
 
-### Method
+### Instructions
 - Heat oven to 180C/160C fan/gas 4. Toss the pumpkin (or squash) in a little oil on a baking tray. Roast until soft enough to squash with the back of a fork – this can take between 40 mins and 1 hr, depending on the type of pumpkin or squash you use. Set aside to cool.
 - Meanwhile, on a lightly floured work surface, roll out the pastry to the thickness of a £1 coin. Drape it over your rolling pin and lift into a 23cm fluted tart tin. Push the pastry into the corners of the tin using a scrap of excess pastry (you’re less likely to pierce the pastry this way than using a finger). Trim the excess pastry, leaving about 1cm hanging over the edge of the tin; it will shrink as it cooks. Chill for 20 mins.
 - Increase the oven to 200C/180C fan/gas 6. Line the tart case with a sheet of baking parchment (scrunch it up first to make it more pliable), then fill with baking beans or dry rice. Bake for 15 mins until the sides look golden, then remove the parchment and filling. Bake for another 5-10 mins until the base looks biscuity and dry. Trim the edges with a small, serrated knife.
@@ -1219,7 +1219,7 @@
 - For the icing
 - 50gicing sugar
 
-### Method
+### Instructions
 - In a small pan, heat the butter, syrup and sugar together until melted, stirring occasionally. Set to one side to cool slightly. In a large bowl mix together the bicarb, ginger, cinnamon and flour. Pour in the melted butter mixture and stir to combine and using your hands, bring together to form a dough. This will be soft but will set up in the fridge.
 - Take 2 sheets of greaseproof paper, lay the dough down on one, shape it into a rectangle and place the other sheet on top of it.Roll the dough outto ½cm thick and put flat in the fridge for 1 hr 30 mins to set and firm up.
 - Heat the oven to 190C/170C fan/gas 5 and line a large baking tray with non-stick greaseproof paper. Take the rolled dough out of the fridge and cut out shapes from it. We did 9cm stars, but you can also choose any shape, depending on the size it will need a few mins less/more in the oven. We also did some with, smaller stars cut out the centre of them.
@@ -1267,7 +1267,7 @@
 - 20gflaked almonds
 - lemon zest,to decorate
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter a 1-litre loaf tin and line with baking parchment.
 - Put the butter, sugar, eggs, yogurt, self-raising flour, baking powder, ground almonds, orange zest, milk and 1 tbsp lemon curd in a large bowl andwhiskuntil smooth. Put another 2 tbsp lemon curd in a second bowl and whisk to loosen.
 - Spoon half the batter into the prepared tin, dollop over the lemon curd and top with the remaining batter. Scatter over the flaked almonds and bake for 50 mins, or until risen and golden. Leave to cool on awire rack, scatter over some lemon zest and slice.
@@ -1305,7 +1305,7 @@
 - 300gGreek or Greek-style yogurt
 - 4 tbspcondensed milk
 
-### Method
+### Instructions
 - Use afood processororblenderto blitz the strawberries for a smoother end result, or crush them in a bowl using a fork to get chunkier pieces.
 - Tip the yogurt and condensed milk into the food processor or blender with the strawberries and blitz again to combine.
 - Pour into a freezer-proof container and put in the freezer, stirring every hour to break up the ice crystals, then leave to freeze again overnight. Remove from the freezer 10 mins before serving.
@@ -1353,7 +1353,7 @@
 - 200gcooked brown rice
 - 4 tbsplight coconut or natural yogurt,to serve
 
-### Method
+### Instructions
 - Put the onion, garlic, chilli, carrot and ginger in afood processorand blitz to a smooth paste.
 - Heat the oil in a mediumsaucepanover a medium heat and cook the veg paste for 4-5 mins until fragrant and starting to soften. Add the curry paste and cook for 1 min more, then add the lentils and stir to combine.
 - Pour in the coconut milk and 150ml water, and bring to the boil. Reduce the heat to a simmer and cook for 10 mins until thickened and creamy. Add the peas in the final 5 mins, and season well.

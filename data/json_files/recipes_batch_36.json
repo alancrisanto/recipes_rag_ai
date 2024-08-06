@@ -20,7 +20,7 @@
       "protein": "10g",
       "salt": "0.3g"
     },
-    "instructions": [
+    "ingredients": [
       "1banana",
       "3 scoopsice cream",
       "whipped cream",
@@ -28,7 +28,7 @@
       "3pitted cherries",
       "coloured sprinkles"
     ],
-    "methods": [
+    "instructions": [
       "Peel the banana and cut it in half lengthways, then transfer to a shallow serving bowl. Top with the ice cream (we used vanilla, chocolate and strawberry), whipped cream, chocolate sauce or melted chocolate, cherries and colourful sprinkles of your choice. Serve immediately."
     ]
   },
@@ -53,7 +53,7 @@
       "protein": "5g",
       "salt": "0.7g"
     },
-    "instructions": [
+    "ingredients": [
       "175gunsalted butter,at room temperature",
       "175glight brown soft sugar",
       "150gspeculoos biscuit spread",
@@ -72,7 +72,7 @@
       "400gicing sugar",
       "100gspeculoos biscuit spread"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 180C/160C fan/gas 4 and line the bases of two 20cm cake tins with baking parchment. Beat the butter and sugar together using an electric whisk until light and fluffy, about 2 mins. Add the spread and beat again to combine.",
       "Combine the yogurt, eggs and vanilla in a jug, then add this along with the cinnamon, flour and a pinch of salt. Beat for 1-2 mins until combined. Divide between the tins, level the tops using aspatulaand bake on the middle shelf of the oven for 30 mins until risen and golden, or a skewer inserted into the middles comes out clean – if any wet batter remains, bake for 5 mins more, then check again. Leave in the tins for 15 mins, then turn out onto a wire rack to cool completely.",
       "For the icing, beat the butter, half the sugar and all the spread together using an electric whisk until smooth. Add the rest of the sugar and beat again. Warm the caramel in themicrowavefor 30 seconds to loosen. Sandwich the two sponges together using half the icing and a drizzle of caramel, then spread the rest of the icing over the top and side. Drizzle over the rest of the caramel and sprinkle over the crushed biscuits.Will keep in a cake tin for up to four days."
@@ -99,7 +99,7 @@
       "protein": "1g",
       "salt": "0.3g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tbspcornflour",
       "1 tbspdark soy sauce",
       "1 tsphoney",
@@ -110,7 +110,7 @@
       "2 tbspvegetable oil",
       "sweet chilli sauce,for dipping"
     ],
-    "methods": [
+    "instructions": [
       "Mix 1 tbsp of the cornflour with the dark soy sauce until smooth, then add the honey and sesame oil. Set aside. Heat the vegetable oil in awokover a high heat and stir-fry the mixed veg for 30 seconds before adding the sauce mixture. Season with salt and pepper, and cook for another minute until the veg has wilted slightly but retains some crunch. Transfer the mixture to a bowl and cool for at least 10 mins.",
       "Mix the remaining cornflour with 1 tbsp water in a small bowl. Working with one spring roll sheet at a time, put on a board at an angle, so it resembles a diamond. (Keep the other sheets covered with a tea towel.) Spoon a heaped teaspoonful of the veg in the centre of the sheet in a sausage shape. Fold the bottom corner over the filing and tuck it under. Fold in the left and right sides to neatly enclose the filling. Brush a little of the cornflour mixture over the top corner, then roll up from the bottom to seal. Put on a tray and brush with a little of the vegetable oil. Continue until you’ve assembled all the spring rolls.",
       "Heat theair-fryerto 200C and cook the spring rolls for 12 mins, turning halfway through to brush with more oil. You may have to do this in batches – be careful not to overcrowd the air-fryer. Serve with the sweet chilli sauce for dipping."
@@ -137,7 +137,7 @@
       "protein": "22g",
       "salt": "1.7g"
     },
-    "instructions": [
+    "ingredients": [
       "200g block offeta(vegetarian, if needed)",
       "400gcherry tomatoes",
       "50gpitted black olives(optional)",
@@ -146,7 +146,7 @@
       "250gshort pastaof your choice",
       "handful ofbasil leaves"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 200C/180C fan/gas 6. Put the feta in the middle of a large baking dish, then scatter the tomatoes, olives (if using) and garlic cloves around it. Drizzle over the olive oil and season. Bake for 30 mins until the tomatoes are bursting and blistered, and the feta is golden at the edges. Squeeze the garlic from its skins into the dish, then lightly mash and mix into the tomatoes.",
       "Meanwhile, fill a large pan with hot water from thekettleand return to the boil. Season with salt, then cook the pasta following pack instructions, stirring occasionally. Drain, reserving a mugful of water.",
       "If the baking dish is large enough, tip in the pasta and a splash of the water, and mix until the feta breaks up and the pasta is coated in a creamy sauce – add more water to loosen if needed. If the dish is too small, combine everything in the pan. Season with black pepper and scatter over the basil to serve."
@@ -173,7 +173,7 @@
       "protein": "17g",
       "salt": "0.6g"
     },
-    "instructions": [
+    "ingredients": [
       "100gpearl couscous",
       "1 tbspolive oil",
       "400gcourgettes,roughly chopped",
@@ -185,7 +185,7 @@
       "1 tbsphoney",
       "50glight Greek-style salad cheese"
     ],
-    "methods": [
+    "instructions": [
       "Cook the couscous following pack instructions, then drain and set aside. Meanwhile, heat the oil in afrying panover a medium-high heat. Tip in the courgettes and onion and fry, stirring occasionally, until browned and softened, about 8-10 mins. Stir in the chilli and garlic and cook for a further 2-3 mins until fragrant.",
       "Remove from the heat and stir through the chopped mint, lemon juice, honey and seasoning. Divide the couscous between plates, top with the courgette mix, crumble over the cheese and scatter with the whole mint leaves to serve."
     ]
@@ -211,7 +211,7 @@
       "protein": "15g",
       "salt": "0.8g"
     },
-    "instructions": [
+    "ingredients": [
       "1 tbspsunflower oil",
       "2 x 400g canchickpeas,drained and rinsed",
       "200gcarrots,peeled into ribbons or grated",
@@ -233,7 +233,7 @@
       "4 tsprice vinegar",
       "2 tspsesame oil"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in a large pan over a medium heat. Tip in the chickpeas and fry gently for 3-4 mins until sizzling and slightly crispy.",
       "Whisktogether the dressing ingredients in a bowl, then pour over the chickpeas along with 4 tbsp water and bring to a boil. Cook for 1-2 mins until reduced slightly, remove from the heat, season well and set aside.",
       "Toss the carrots, spinach and raw broccoli together and divide between plates. Scatter over the chickpeas and a spoonful of the pan juices to dress."
@@ -260,7 +260,7 @@
       "protein": "24g",
       "salt": "0.5g"
     },
-    "instructions": [
+    "ingredients": [
       "200gnew potatoes,thinly sliced",
       "1tbspolive oil",
       "100gbroad beans,defrosted if using frozen",
@@ -274,7 +274,7 @@
       "25gricotta",
       "green salad,to serve"
     ],
-    "methods": [
+    "instructions": [
       "Tip the sliced potatoes into a saucepan and cover with boiling water. Bring to a boil and cook for 3-5 mins until tender. Drain and set aside to steam-dry. Meanwhile, heat the oil in an ovenproof, non-stick frying pan over a medium-high heat. Fry the broad beans and peas for 2-3 mins until lightly golden, then add the potatoes, garlic and spring onions. Stir gently to combine and fry for a further 3-4 mins.",
       "Heat the grill to high. In a jug combine the dill, lemon zest, eggs and milk with some seasoning. Pour over the potatoes and quickly stir to ensure everything is well coated. Dot the ricotta over the top of the frittata and turn the heat to low. Cook for 3 mins until almost cooked through and transfer to the grill to finish. Grill until golden and asharp knifeinserted into the centre comes out clean. Serve in wedges with a green salad, if you like."
     ]
@@ -300,7 +300,7 @@
       "protein": "12g",
       "salt": "0.6g"
     },
-    "instructions": [
+    "ingredients": [
       "small pinch ofsaffron",
       "300gbaby spinach",
       "3 tbspavocado oil,or any other oil",
@@ -311,7 +311,7 @@
       "1lemonor lime, halved, to serve",
       "bread,to serve (optional)"
     ],
-    "methods": [
+    "instructions": [
       "Combine the saffron with 2 tbsp boiled water from the kettle and set aside to infuse. Rinse the spinach and leave to drain in acolander.",
       "Heat the oil in a shallow,non-stick frying panover a low-medium heat and fry the onions for about 15 mins, or until golden. Add the saffron water, cumin and ¼ tsp freshly ground black pepper. Mix well. Remove the onions to a bowl and set aside.",
       "Tip the spinach into the pan, cover and cook over a medium- low heat for 2-3 mins, stirring occasionally until wilted. When the spinach is dark green, add the onions back to the pan and stir into the spinach. Season to taste and spread out in an even layer, then make two gaps in the mixture.",
@@ -339,7 +339,7 @@
       "protein": "3g",
       "salt": "1.2g"
     },
-    "instructions": [
+    "ingredients": [
       "2corn cobs, halved, or 4 pre-cut cobs",
       "1 tbspvegetable or sunflower oil",
       "1 tspsmoked paprika",
@@ -347,7 +347,7 @@
       "handful of choppedparsley",
       "1lime, cut into wedges, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Put the corn cob pieces in a bowl and rub with the oil. Scatter over 1 tsp salt, some freshly ground black pepper, the smoked paprika and onion powder, and rub into the corn so it is well coated.",
       "Heat the air-fryer to 180C and cook the corn for 15-18 mins until it has softened and started to brown slightly. Remove to a platter, then scatter over the parsley and serve with the lime wedges for squeezing over."
     ]
@@ -373,7 +373,7 @@
       "protein": "0.1g",
       "salt": "0.04g"
     },
-    "instructions": [
+    "ingredients": [
       "250mlvegetable oil",
       "3shallots, finely sliced (use a mandoline, if you have one)",
       "6garlic cloves, thinly sliced",
@@ -384,7 +384,7 @@
       "1 tbsplight soy sauce",
       "pinch ofMSG(optional)"
     ],
-    "methods": [
+    "instructions": [
       "Heat the vegetable oil in a small pan over a medium-low heat and, once hot, cook the shallots until lightly golden and crisp, about 5 mins. Pour through asieveinto a heatproof bowl, then transfer the shallots to a sheet of kitchen paper to drain. Carefully pour the oil back into the pan, and repeat this process with the garlic.",
       "Sprinkle the chilli flakes, Sichuan peppercorns and ginger into a heatproof bowl. Pour the hot infused oil over it (it should sizzle), stir well, then add the caster sugar, soy sauce, a pinch of salt and the MSG (if using). Leave to cool for 5 mins, then stir in the reserved crispy shallots and garlic. Leave to cool completely.",
       "Pour the chilli oil into asterilised jarand chill until needed.Will keep chilled for a month.Spoon over fried eggs or rice dishes, or use as a condiment on anything you like."
@@ -411,7 +411,7 @@
       "protein": "41g",
       "salt": "0.92g"
     },
-    "instructions": [
+    "ingredients": [
       "4pork chops",
       "½ tbspsunflower or vegetable oil",
       "½ tspdried oregano",
@@ -421,7 +421,7 @@
       "25gparmesan,finely grated",
       "cooked greens and peas,to serve (optional)"
     ],
-    "methods": [
+    "instructions": [
       "Heat theair-fryerto 190C. Put the pork chops in a bowl, drizzle over the oil and rub all over the chops.",
       "Combine the oregano, paprika, mustard powder, onion powder and parmesan with ½ tsp salt and ½ tsp freshly ground black pepper. Sprinkle over the pork chops, ensuring they are covered.",
       "Put the chops in the air-fryer basket and cook for 5 mins (you may need to do this in batches depending on the size of your air-fryer). Turn over, then cook for 5-8 mins more until cooked through. Timings will depend on the thickness and whether they’re bone-in or not. Atemperature probeshould read 75C in the thickest part of the chop. Serve with wilted greens and peas, if you like."
@@ -448,7 +448,7 @@
       "protein": "0.5g",
       "salt": "0.01g"
     },
-    "instructions": [
+    "ingredients": [
       "1pineapple, finely diced (around 550g prepared weight)",
       "1red chilli, finely chopped (deseeded if you like it milder)",
       "15gfresh parsley, finely chopped",
@@ -456,7 +456,7 @@
       "1 mediumtomato, finely chopped",
       "1lime, zested and juiced"
     ],
-    "methods": [
+    "instructions": [
       "Combine everything together in a bowl and leave for 20 mins to macerate a little then serve. Season to taste."
     ]
   },
@@ -481,14 +481,14 @@
       "protein": "41g",
       "salt": "0.3g"
     },
-    "instructions": [
+    "ingredients": [
       "1½ tbspolive oil",
       "2garlic cloves, finely grated",
       "1 tbspchopped fresh herbs, such as rosemary, thyme or oregano",
       "8lamb chops",
       "chopped fresh parsley, to serve (optional)"
     ],
-    "methods": [
+    "instructions": [
       "Combine the oil, garlic and herbs in a bowl. Add the lamb chops and mix into the oil so they’re well coated.",
       "Heat theair-fryerto 190C. Put the lamb chops in the air-fryer basket in a single layer (you may need to cook in two batches – try not to squeeze them in or the fat won't crisp). Cook for 6 mins, then turn over and cook for a further 4-6 mins. They should be slightly pink in the middle, but you can cook for longer if you prefer them well done.",
       "Arrange on a platter and scatter over some fresh chopped parsley, if you like."
@@ -515,7 +515,7 @@
       "protein": "6g",
       "salt": "0.18g"
     },
-    "instructions": [
+    "ingredients": [
       "4good-quality sausages",
       "500gbeef mince",
       "½onionor 1 shallot, very finely chopped",
@@ -524,7 +524,7 @@
       "handfulparsley, finely chopped",
       "1egg, beaten"
     ],
-    "methods": [
+    "instructions": [
       "Squeeze the sausagemeat out of the skins into a bowl, then tip in the remaining ingredients, plus a good pinch of salt and a few cracks of black pepper. Mix everything well – this is easiest to do with your hands giving everything a good squeeze together. This part is very important as the better combined the ingredients are, the less likely the meatballs are to fall apart during cooking.",
       "Roll the mixture into 20-25 balls. Transfer to a tray or plate, then chill for 20 mins.",
       "Heat theair-fryerto 180C. Put the meatballs in the air-fryer basket and cook for 10-12 mins until golden and cooked through. You may need to do this in batches, or cook all of them and move them around halfway through cooking. Serve with tomato sauce and pasta, or sandwiched in a sub."
@@ -551,14 +551,14 @@
       "protein": "31g",
       "salt": "0.77g"
     },
-    "instructions": [
+    "ingredients": [
       "1.2kgbeef roasting joint",
       "1-2 tbspneutral-flavoured oil",
       "1 tspdried thyme",
       "1 tsponion granules",
       "1 tspmustard powder"
     ],
-    "methods": [
+    "instructions": [
       "Take the beef out of the fridge and bring it up to room temperature before cooking (20-30 mins should do it).",
       "Heat the air-fryer to 220C. Rub the beef all over with the oil, then combine the thyme, onion granules and mustard powder with 1 tsp salt and 1 tsp ground black pepper in a bowl. Rub this all over the beef joint, then put the beef in theair-fryerbasket and cook for 10 mins.",
       "Reduce the temperature to 170C, then cook for a further 30-40 mins (30 mins for medium-rare and 40 mins for medium-well done). Transfer the meat to a board, cover loosely with foil, and leave to rest for up to 30 mins before carving and serving."
@@ -585,11 +585,11 @@
       "protein": "7g",
       "salt": "0.19g"
     },
-    "instructions": [
+    "ingredients": [
       "6eggs",
       "toast, to serve (optional)"
     ],
-    "methods": [
+    "instructions": [
       "Heat theair-fryerto 180C. Put the eggs in the air-fryer basket and cook, in one layer, for 8-14 mins – nearer to 8 mins will be soft-boiled, while 14 mins will be hard-boiled.",
       "Put the eggs in a bowl of ice cold water briefly to stop them from cooking. Peel or serve in egg cups with toast on the side, if you like."
     ]
@@ -615,7 +615,7 @@
       "protein": "2g",
       "salt": "0.02g"
     },
-    "instructions": [
+    "ingredients": [
       "2 tbspolive oil",
       "1onion, finely chopped",
       "1garlic cloves, finely grated or crushed",
@@ -623,7 +623,7 @@
       "400g canchopped tomatoes",
       "cooked pasta, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oil in a pan or frying pan over a low heat and fry the onion until softened but not golden, around 8-10 mins. Stir in the garlic and oregano and cook for a further 1-2 mins until fragrant, then tip in the tomatoes and season. Cook gently for 10 mins until the onion is tender. Season further if necessary. Serve with cooked pasta."
     ]
   },
@@ -648,12 +648,12 @@
       "protein": "4g",
       "salt": "0.63g"
     },
-    "instructions": [
+    "ingredients": [
       "12slices of bread, half white, half brown",
       "300gsoft cheese(use light if you prefer)",
       "½ cucumber, peeled and thinly sliced"
     ],
-    "methods": [
+    "instructions": [
       "Spread the white bread and brown bread with some soft cheese. Season.",
       "Layer the cucumber on half the bread and sandwich with the other half of the slices. Trim the crusts, then cut each into 4 fingers."
     ]
@@ -679,7 +679,7 @@
       "protein": "6g",
       "salt": "0.79g"
     },
-    "instructions": [
+    "ingredients": [
       "350gunsalted butter, softened, plus extra for the tin",
       "350gcaster sugar",
       "350gself-raising flour",
@@ -708,7 +708,7 @@
       "To decorate",
       "200gmini chocolate eggs"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 180C/160C fan/gas 4. Butter and line the base and sides of three 20cm round cake tins with baking parchment. Beat the butter and sugar (either with an electric hand whisk, or in a free standing mixer using the paddle attachment) for 4-5 mins, until light and fluffy. Sift the flour with baking powder and a pinch of salt through a fine sieve to remove any lumps into a separate bowl. Crack the eggs into the butter mixture one at a time, beating well after each addition. If the mixture begins to curdle slightly, add a tablespoon or two of flour to bring it back together again, then mix in the vanilla, lemon zest, flour, and milk with a spatula. Spoon into the prepared tins and smooth out the surface. Bake for 25-30 mins until golden and a skewer inserted into the centre comes out clean. Remove and leave to cool in the tins for 20-30 mins, then transfer to a wire rack to cool fully.",
       "To make the buttercream, beat the butter until light and fluffy. Beat in the icing sugar, bit by bit, then finally beat in the vanilla and milk if the icing needs a little loosening. Put your buttercream in a piping bag and snip a 2cm hole in the end. Put one of the cakes on a cake stand or plate. Spread the top with half the jam, leaving a 1cm border around the edge, then pipe on some of the buttercream around the border. Top with the second sponge and repeat the process. Cover with the third sponge and cover the top and sides thinly with the buttercream in a crumb coat. Put in the fridge for 1 hr to set. Spread with the rest of the buttercream, ensuring the surface is smooth. Return to the fridge to set for another 30 mins.",
       "To make the drizzle, put the dark chocolate in a bowl and heat the cream in a small pan until just steaming, not boiling. Pour the cream over the chocolate and leave to melt for a couple of minutes. If the ganache looks too thick or like it has split, simply add 1 tbsp whole milk and stir to make a glossy ganache, then set aside to cool a little. You want the ganache to be pourable but not too hot, as it will melt your buttercream.",
@@ -736,14 +736,14 @@
       "protein": "32g",
       "salt": "1.1g"
     },
-    "instructions": [
+    "ingredients": [
       "100gwhite cabbage, finely shredded",
       "50gleftover giardiniera(see recipe below)",
       "50gmayonnaise",
       "2crusty rollsor 4 thick slices of bloomer",
       "1leftover garlic & parmesan breaded chicken breast(see recipe below)"
     ],
-    "methods": [
+    "instructions": [
       "Mix the cabbage with a splash of theleftover giardiniera pickling liquidand massage in using your hands, along with a pinch of salt and pepper. Set aside.Roughly chopthe remaining giardiniera and stir through the mayonnaise, adding another splash of the leftover pickling liquid. Season to taste.",
       "Spread some of the mayonnaise over the slices of the bread. Fill your sandwiches with theremaining chicken breast,cut into slices, with more mayo on top, then a handful of the cabbage."
     ]
@@ -769,7 +769,7 @@
       "protein": "40g",
       "salt": "2.6g"
     },
-    "instructions": [
+    "ingredients": [
       "1 smallgarlic clove, or 1 tsp garlic granules",
       "2anchoviesin oil",
       "4 tbspmayonnaise",
@@ -781,7 +781,7 @@
       "1romaine lettuce, roughly chopped",
       "75gleftover giardiniera, roughly chopped"
     ],
-    "methods": [
+    "instructions": [
       "Bash together the garlic and anchovies using a pestle and mortar to create a thick paste. Transfer to a bowl and stir in the mayonnaise, parmesan, mustard and a splash of theleftover giardinierapickling liquid. Season with salt, pepper and a bit more pickling liquid, if needed.",
       "Spread the dressing over the tortillas, leaving a border, then dot over thesliced chicken leftovers, lettuce and the leftover drained giardiniera. Wrap up tightly, folding the ends in so everything stays in place."
     ]
@@ -807,13 +807,13 @@
       "protein": "7g",
       "salt": "0.7g"
     },
-    "instructions": [
+    "ingredients": [
       "250gwhite fish loin",
       "1egg, beaten",
       "75gpanko breadcrumbs",
       "sliced white bread,butter, tartare sauce or tomato ketchup, and Little Gem lettuce, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Heat theair-fryerto 180C. Cut the fish into 3-4cm-thick lengths (the size of a classic fish finger) – you should be able to make around 6-8. Tip the beaten egg onto a plate or into a shallow bowl. Tip the panko breadcrumbs onto another plate or into a shallow bowl and season well.",
       "Roll the fish pieces in the egg, gently shake off any excess, then coat in the panko breadcrumbs. Transfer the coated fish to a plate and continue with the remaining pieces.",
       "Transfer the fish fingers to the air-fryer basket, keeping them in a single layer, then cook for 8-10 mins until cooked through and golden.",
@@ -841,7 +841,7 @@
       "protein": "35g",
       "salt": "0.6g"
     },
-    "instructions": [
+    "ingredients": [
       "250gcooked rice",
       "1leftover garlic & parmesan breaded chicken breast, sliced (see recipe below)",
       "1lime, juiced",
@@ -855,7 +855,7 @@
       "150gcherry tomatoes, halved",
       "75g leftovergiardiniera, roughly chopped (see recipe below)"
     ],
-    "methods": [
+    "instructions": [
       "Pack the rice at the bottom of two microwavable containers and layer over the chicken slices fromour base recipe. Combine the lime juice, honey, herbs, garlic granules, oil and some salt and pepper. Tip the sweetcorn into the dressing along with the chopped pepper, avocado, cherry tomatoes andgiardiniera. Stir to combine and pack into separate containers.",
       "To reheat the rice and chicken, put the container in themicrowavewith the lid ajar. Heat for 2 mins, then remove the lid and cook for a further 1-2 mins until piping hot. Serve with the veg and dressing spooned over the top."
     ]
@@ -881,14 +881,14 @@
       "protein": "30g",
       "salt": "2.7g"
     },
-    "instructions": [
+    "ingredients": [
       "1bagel, halved",
       "½ tbspchilli jamor red onion chutney",
       "25gcheddar, grated",
       "1-2 slicesham",
       "1egg"
     ],
-    "methods": [
+    "instructions": [
       "Heat theair-fryerto 180C. Bake the split bagel for 2-3 mins to toast it lightly. Remove from the air-fryer and make the hole in the top bagel slightly wider by cutting with a sharp knife (this is to make the egg easier to fit – if the bagel has a wide hole already this may not be necessary). Spread the chilli jam or chutney on the bottom slice, then sprinkle over the cheddar and add a slice of ham. Top with the other half of bagel and cook for 5 mins in the air-fryer to melt the cheese a little.",
       "Remove the bagel from the air-fryer, then either crack the egg directly into the hole in the top of the bagel. If the egg seems a little too large, you can try lifting up the bagel slice just a little to allow some of the white to sit underneath. Put in the air-fryer and bake for 8-10 mins until the egg is cooked to your liking, the cheese has melted and the bagel is golden. Grind over a little black pepper, if you like."
     ]
@@ -914,7 +914,7 @@
       "protein": "29g",
       "salt": "0.9g"
     },
-    "instructions": [
+    "ingredients": [
       "2dried ancho chillies",
       "2 tbspsunflower oil",
       "1kgdiced goat",
@@ -940,7 +940,7 @@
       "2 tbspcaster sugar",
       "200gradishes,finely sliced"
     ],
-    "methods": [
+    "instructions": [
       "Soak the ancho chillies in 100ml boiled water for 30 mins. Once softened, drain and chop, discarding the stems. Heat the oil in a large casserole dish, and add the diced goat. Cook, in batches, for 8-10 mins until browned all over then remove to a bowl using a slotted spoon. Set aside.",
       "Tip the onion and garlic into the casserole. Cook for 8-10 mins until softened, then add the cinnamon, tomatoes, spices, oregano, chipotle paste, bay leaves, tomato purée, chicken stock, ½ tsp salt and the chopped ancho chillies. Return the goat to the casserole, or put in aslow cookeron high for 6-8 hrs, or in thepressure cookeron high for 45 mins. On the hob, keep covered over a low heat, stirring occasionally, for 3-4 hrs. The goat should be very tender and fall apart when stirred.",
       "For the radishes, mix the vinegar and sugar in a bowl with a pinch of salt until dissolved. Stir in the sliced radishes and some black pepper and leave to pickle for 15-20 mins.",
@@ -968,7 +968,7 @@
       "protein": "59g",
       "salt": "2g"
     },
-    "instructions": [
+    "ingredients": [
       "600gfrozen vegetable mixof cauliflower, broccoli and carrots",
       "150mlwhite wine vinegar",
       "1½ tbspcaster sugar",
@@ -984,7 +984,7 @@
       "6 mediumchicken breasts",
       "boiled new potatoes,to serve"
     ],
-    "methods": [
+    "instructions": [
       "First, make the giardiniera (Italian style pickled veg). Tip the veg mix into a pan, pour over boiling water, bring back to the boil and cook for 4 mins until tender. Drain thoroughly and set aside. Return the pan to the heat and pour in 150ml water, the vinegar, sugar and 1½ tsp salt. Bring to the boil and when the sugar and salt have dissolved, remove from the heat. Tip in the oregano and veg, stir, then set aside.",
       "Heat the oven to 240C/220C fan/gas 9. Heat 2 tbsp of the oil in a frying pan over a medium-high heat. Toast the breadcrumbs for 3-5 mins until golden, then tip into a bowl to cool. Put the flour and yogurt in separate bowls and stir the milk into the yogurt. Combine the breadcrumbs, garlic, parmesan and herbs along with a large pinch of salt and pepper in a bowl.",
       "Put the chicken breasts between two sheets of baking parchment and lightly bash with a rolling pin to around 1cm thick. Dip in the flour, then the yogurt, then the crumbs, pressing them in to stick. Put on a large oiledbaking trayand drizzle over the remaining oil. Bake for 20-25 mins until cooked through and golden. Spoon over some of the giardiniera and serve with boiled new potatoes, if you like.The chicken and giardiniera will keep chilled for two days."
@@ -1011,13 +1011,13 @@
       "protein": "10g",
       "salt": "1.7g"
     },
-    "instructions": [
+    "ingredients": [
       "1unsmoked gammon joint(around 750g)",
       "2 tbspDijon mustard",
       "2 tbsphoneyor maple syrup",
       "sliced bread, butter and pineapple salsa(optional, see right), to serve"
     ],
-    "methods": [
+    "instructions": [
       "Remove the gammon from the fridge around 45 mins before you want to start the recipe. Combine the mustard and honey or syrup in a small bowl and season with salt and freshly ground black pepper. Brush this all over the gammon, reserving any leftover glaze, and wrap the gammon in foil.",
       "Heat the air-fryer to 160C. Put the gammon in theair-fryerand cook for 1 hr, brushing with more glaze every 20 mins if you can. The gammon should be cooked through (use adigital thermometerto check – it should read 70C). Remove and leave to rest for 10-15 mins before carving. (To recycle the foil, make sure you scrunch it into a ball before placing in household recycling.)",
       "If you’re making a sandwich, carve a few slices of gammon. Butter the bread, then top one slice with 1-2 tbsp pineapple salsa, layer on the slices of gammon and top with another slice of bread."
@@ -1044,7 +1044,7 @@
       "protein": "16g",
       "salt": "1.2g"
     },
-    "instructions": [
+    "ingredients": [
       "4 mediumsweet potatoes(we used purple but any will work)",
       "1-2 tbspolive or rapeseed oil",
       "2 x 400g canchickpeas,or a 700g jar, drained and liquid reserved",
@@ -1063,7 +1063,7 @@
       "small bunch ofcoriander,roughly chopped, a few whole leaves to serve",
       "1 smallgarlic clove"
     ],
-    "methods": [
+    "instructions": [
       "Prick the potatoes all over with a fork, then rub with a drizzle of the oil and a pinch of sea salt. Heat the oven to 180C/160C fan/gas 4 and bake for 40 mins orair-fryfor 20-25 mins until the potatoes feel tender when squeezed. (The time will vary a little depending on the size of the sweet potatoes.)",
       "Meanwhile, prepare the fillings. Toss the chickpeas in a drizzle of oil, the spices and some seasoning, then tip into a small baking dish. Roast alongside the potatoes for the final 15 mins (10 mins in an air-fryer), tossing halfway through. Cut 2 of the limes in half and nestle them cut-side up in the dish with the chickpeas for the final 5 mins.",
       "To make the green tahini, blitz the tahini, coriander (including the stalks), garlic clove and the zest and juice from the remaining lime. Season and stir in 1-2 tbsp water to create a drizzling consistency.",
@@ -1092,7 +1092,7 @@
       "protein": "31g",
       "salt": "0.4g"
     },
-    "instructions": [
+    "ingredients": [
       "1garlic bulb",
       "3 tbspolive oil",
       "2kgbone-in shoulder of mutton",
@@ -1116,7 +1116,7 @@
       "3garlic cloves, crushed",
       "4 tbspextra virgin olive oil"
     ],
-    "methods": [
+    "instructions": [
       "Heat the oven to 180C/160C fan/gas 4. Trim the top of the garlic bulb to expose the tops of the cloves and remove any excess papery skin. Put the garlic bulb in the centre of a square of foil, drizzle with 1 tsp of the olive oil and season. Wrap well and roast in the oven for 30-35 mins until softened and browned. Set aside until cool enough to touch. Alternatively, you can buy roasted garlic in a jar, use around 2-3 tbsp.",
       "Reduce the oven to 160C/140C fan/gas 3. Heat a large, deep casserole dish over a medium-high heat. Season the mutton with salt all over, then put in the casserole, fat-side down. This will render after a few minutes, then turn the shoulder to brown on all sides. Remove the mutton to a plate, splash 2 tbsp water into the pan and scrape any browned bits from the base then pour in the beans along with their liquid. Mix in the rosemary, the parmesan rind, if using, bay leaves, onion, capers, paprika, tomato purée and the rest of the olive oil. Pour over 200ml water until the beans are just covered. Squeeze in the roasted garlic and stir well with seasoning, then nestle the mutton on top. Cover with a lid and roast in the oven for 5 hrs until tender. Alternatively, cook in apressure cookeron high for 1 hr without the 200ml water.",
       "Meanwhile, make the gremolata. Stir together the lemon zest, lemon juice, parsley, mint, garlic and olive oil. Season to taste. Put the mutton aside on a plate to rest and fish out the parmesan rind and whole herbs and discard. Using a potato masher, mash the beans until smooth, then season to taste. You can also use ahand blender. Spread the bean mash over a large platter, then remove the bone from the mutton. Lay the mutton over the mash, then gently shred the mutton using two forks. Spoon over the gremolata to serve."
@@ -1143,7 +1143,7 @@
       "protein": "35g",
       "salt": "1g"
     },
-    "instructions": [
+    "ingredients": [
       "1lemon, zested and juiced",
       "50gfresh breadcrumbs",
       "1 tbspmilk",
@@ -1158,7 +1158,7 @@
       "pinch ofsugar",
       "cooked pasta, to serve"
     ],
-    "methods": [
+    "instructions": [
       "Mix the lemon zest, breadcrumbs and milk together and set aside. Mix in the mozzarella, pesto, chicken, most of the basil leaves and half the garlic. Season well with salt and pepper and mix together using your hands until evenly combined. Roll into 20 balls, around 35g, the size of ping pong balls. Heat the olive oil in a pan over a medium-high heat. Add the meatballs and give them a shake to coat in oil. Fry for 6-8 mins until browned all over. Remove to a plate.",
       "Tip the onion into the pan along with a pinch of salt, and stir to coat. Cook for 8-10 mins until beginning to soften, then stir in the remaining garlic and chopped basil stems. Cook for 2-3 mins until fragrant. Tip in the can of tomatoes, then swill out the can with a good splash of water. Add that to the pan, then stir in the sugar and some seasoning. Bring to a simmer, then nestle the meatballs into the sauce.",
       "Cook for 15 mins until reduced and the meatballs are cooked through. Season to taste again if needed and add a squeeze of lemon juice, if you like. Spoon over the pasta and sprinkle over the remaining basil leaves to serve."

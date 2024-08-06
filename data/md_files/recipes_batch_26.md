@@ -34,7 +34,7 @@
 - ½ tbspred wine vinegar
 - 2 tbsptoasted flaked almonds
 
-### Method
+### Instructions
 - Heat oven to 220C/200C fan/gas 7 and line abaking traywith baking parchment. Slice the cauliflower into two 1-inch steaks – use the middle part as it’s larger, and save the rest for another time. Rub the paprika and ½ tbsp oil over the steaks and season. Put on the tray and roast for 15-20 mins until cooked through.
 - Meanwhile, make the salsa. Chop the pepper, olives, parsley and capers, and put into a bowl and mix with the remaining oil and vinegar. Season to taste. When the steaks are cooked, spoon over the salsa and top with flaked almonds to serve.
 
@@ -93,7 +93,7 @@
 - small bunchcoriander,chopped, stalks and leaves kept separate
 - 1 tsprapeseed oil
 
-### Method
+### Instructions
 - First make the meatballs. Tip the mince into a bowl, add the oats, spring onions, spices and the coriander stalks, then lightly knead the ingredients together until well mixed. Shape into 12 ping-pong- sized balls. Heat the oil in a non-stick frying pan, add the meatballs and cook, turning them frequently, until golden. Remove from the pan.
 - Tip the onion and garlic into the pan with the pepper and stir-fry until softened. Stir in the cumin and chilli paste, then pour in the stock. Return the meatballs to the pan and cook, covered, over a low heat for 10 mins. Stir in the tomatoes and beans, and cook, uncovered, for a few mins more. Toss the avocado chunks in the lime juice and serve the meatballs topped with the avocado and coriander leaves.
 
@@ -145,7 +145,7 @@
 - 750gswede,cut into chunks
 - 500gpotatoes,cut into small chunks
 
-### Method
+### Instructions
 - Heat the oven to 170C/150C fan/ gas 3. Heat the oil in a heavy-based ovenproofcasserole, then fry the onions for about 8 mins, stirring, until golden. Add the beef and garlic, and stir-fry over a high heat until browned all over.
 - Pour 500ml boiling water over the dried mushrooms in a bowl to briefly hydrate, then pour into the casserole with the liquid, and stir in the balsamic vinegar, tomato purée, bouillon and mustard. Pile in the carrots, chestnut mushrooms, thyme and some seasoning. Cover, then put in the oven for 3 hrs until the meat is tender. Towards the end of cooking, add a splash of water if the stew is looking dry.
 - When the stew is nearly ready, make the mash. Boil the swede and potatoes together for 12-15 mins in a pan over a medium heat. Drain well, then mash with a grating of black pepper. Steam or boil half the broccoli for 5 mins until tender. 4 Serve half the stew with the cooked broccoli. The remaining stew will keep chilled for up to three days and frozen for up a month. Defrost thoroughly before reheating. Reheat the stew and mash in themicrowaveand steam or boil the remaining broccoli on the night to help preserve the vitamins.
@@ -190,7 +190,7 @@
 - 2 x 400g / 14oz cans haricot beans, drained
 - chopped parsley, to serve
 
-### Method
+### Instructions
 - Heat the oil in a large pan, add the chicken, then fry until lightly browned. Add the veg, then fry for a few mins more. Stir in the herbs and stock. Bring to the boil. Stir well, reduce the heat, then cover and cook for 40 mins, until the chicken is tender.
 - Stir the beans into the pan, then simmer for 5 mins. Stir in the parsley and serve with crusty bread.
 
@@ -231,7 +231,7 @@
 - 3 tbsprapeseed oil
 - 400gfortified soya yogurt
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Tip all the apples into a small pan with 6 tbsp water, then cover and cook over a medium heat for 6 mins, stirring halfway through, until the apples are just cooked. The cooking apples should be pulpy, but the dessert apples will retain their shape.
 - Tip the oats, cinnamon and vanilla into a bowl and add 3 tbsp of the apple mixture, the oil and 100g of the yogurt. Mix everything together well using your hands, until the mixture has formed into chunky clusters similar to granola. Spread the clusters out over a large baking sheet lined with baking parchment, and bake for 10 mins. Shake the tray to turn the clusters over and bake for 10 mins more until firm. Leave to cool for 5 mins so the clusters can firm up slightly more.
 - Meanwhile, spoon the remaining yogurt into a small, shallow ovenproof dish, then spoon the rest of the apples on top. Scatter over the oat clusters, and bake for 10 mins until the topping is firm and golden and the apple mixture has warmed through.This recipe is part of our free 7-dayhealthy diet plan. This easy-to-follow, nutritionist-created plan will inspire you to cook and eat more healthily. Nourish yourself with seven days of meals, snacks and treats.
@@ -284,7 +284,7 @@
 - 4vine tomatoes,halved
 - 2eggs
 
-### Method
+### Instructions
 - Tip the oats and soya milk into a large bowl and blitz using ahand blenderto break down the oats to a less coarse texture. Set aside for 10 mins to soak.
 - Meanwhile, boil the potatoes for 5 mins, then drain. Heat the oil in a largenon-stick frying panover a medium heat, and cook the mushrooms, onion and paprika for a few minutes until softened. Tip in the potatoes and cook for 10 mins, turning the mixture over every now and then. Stir in the halved tomatoes and leave to cook for 5 mins.
 - The oat mixture should now be stiff. Work in the baking powder using your hands, then halve the mixture. With wet hands, press out one half of the mixture on a plastic chopping board to make a thin disc, like a pancake. Carefully lift it off with a palette knife and cook in a dry non-stick frying pan for 2 mins on each side. Remove to a plate, and repeat with the other half.
@@ -326,7 +326,7 @@
 - 15graisins
 - 7-8 walnut halves,about 15g, broken
 
-### Method
+### Instructions
 - Tip the oats and cinnamon into a non-stick pan with 150ml water and the 250ml soya milk. Put the pan over a gentle heat. Once simmering, leave for 5 mins, stirring frequently (as soya milk has a tendency to stick) until the porridge has thickened.
 - Meanwhile, coarselygratethe apples, including the skin, into a bowl, until you're just left with the cores.
 - Serve the porridge with the apple, raisins and nuts on top, and sprinkle over some extra cinnamon, if you like. Stir through the extra soya milk to loosen.This recipe is part of our free 7-dayhealthy diet plan. This easy-to-follow, nutritionist-created plan will inspire you to cook and eat more healthily. Nourish yourself with seven days of meals, snacks and treats.
@@ -366,7 +366,7 @@
 - 500gpot fortified soya yogurt
 - 80gcrunchy peanut butter
 
-### Method
+### Instructions
 - Put the oats and cinnamon in a large pan with 1.3 litres water, then bring to the boil. Reduce to a low heat and simmer until the oats are cooked and the mixture has thickened, stirring occasionally. Stir in the chopped bananas, cook for 1 min, then remove the pan from the heat. Leave to cool for a few minutes, then stir in 6 tbsp of the soya yogurt.
 - Beat the peanut butter into the remaining yogurt until well combined. Divide half the oat mixture into the base of six glass tumblers and spoon in half of the the nutty yogurt. Top with the rest of the oat mixture, then the remaining yogurt mixture to create layers.Will keep covered and chilled for up to four days.To serve, dust with a little cinnamon, if you like.This recipe is part of our free 7-dayhealthy diet plan. This easy-to-follow, nutritionist-created plan will inspire you to cook and eat more healthily. Nourish yourself with seven days of meals, snacks and treats.
 
@@ -422,7 +422,7 @@
 - 1vanilla pod, halved
 - 4 tbspcaster sugar
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Put the flour, custard powder, eggs and milk in a jug and whizz until smooth using a hand blender. Leave to rest for 20 mins.
 - Meanwhile, put the rhubarb in a roasting tin in a single layer with the remaining rhubarb ingredients, tossing to coat. Cover with foil and roast for 12-14 mins until the rhubarb is soft but still holding its shape. Carefully spoon out the rhubarb and transfer the syrup to a pan. Simmer over a medium high heat for 3-4 mins until thickened.
 - Brush a crêpe pan with a little oil and wipe out with kitchen paper. Put on a medium heat and, once hot, add a large spoon of the batter, tipping the pan to coat the base with a thin layer of batter. Cook for 1 min until the edges start to release from the pan and it looks set, then flip and cook for another minute until lightly golden. Transfer to a warm plate and repeat with the remaining batter.
@@ -479,7 +479,7 @@
 - ½ tsponion powder
 - ½ tspgarlic powder
 
-### Method
+### Instructions
 - Pulse the cauliflower, carrots and onion in afood processoruntil very finely chopped, like rice. Heat the oil in a large frying pan and gently fry the mix for 12-15 mins until softened. Add the garlic and fry for a further 1 min, then take off the heat and stir in the nutritional yeast and yeast extract. Set aside.
 - Blend the beans into a mushy purée in a food processor, then add to the veggie mix and combine well. Stir in the flour and season. Put in the fridge to firm up for 1 hr.
 - Heat the oven to 220C/200C fan/gas 7. Line a largebaking traywith baking parchment and coat with a little olive oil. To make the coating, mix the gram flour with 150ml water using a fork so it resembles beaten egg, then season. Scatter the extra gram flour on a plate. Mix the breadcrumbs with the spices and scatter onto a second plate.
@@ -531,7 +531,7 @@
 - 2spring onions,finely sliced
 - handful ofcoriander,roughly chopped
 
-### Method
+### Instructions
 - Bring a pan of water to the boil and add the noodles. Cook for 4 mins, then drain well, rinse with cold water and set aside.
 - Heat a wok over high heat and add the groundnut oil. When it starts to smoke, add the garlic, ginger, finely chopped mushrooms and shrimps. Stir well for a few secs, add the mince and stir-fry. When the meat starts to turn brown, add the rice wine and mix well. Season with the dark and light soy sauce, and toss through your pak choi before pouring in the stock and bringing it to a simmer.
 - After 1 min, season the pork with the toasted sesame oil, sprinkle over the spring onions and coriander, then stir in. Add the rice noodles and mix well. Serve in bowls and eat immediately, seasoned with a little more soy sauce, if you like.
@@ -576,7 +576,7 @@
 - 1small orange,finely sliced
 - ice,to serve
 
-### Method
+### Instructions
 - Start by making the dried orange slices to garnish. Spread out the orange slices on a lined baking tray. Heat oven to 110C/90C fan/gas ¼ and cook for 2 hrs.Can be made a day ahead and stored in a container.
 - Pour the orange juice, vodka and cinnamon syrup into a cocktail shaker and add a couple of handfuls of ice. Shake well, then strain into two large wine glasses with more ice. Top up with cava and garnish with a slice of dried orange.
 
@@ -633,7 +633,7 @@
 - 300gbasmati rice
 - 4 tbspcrispy onions– make your own (see tip, below), or find them in tubs, alongside croutons, in supermarkets
 
-### Method
+### Instructions
 - Heat oven to 180C/160C fan/gas 4 and heat half the oil in a large frying pan. Brown the beef in batches, and transfer to a flameproof casserole dish. Add the remaining oil to the pan with the onions, and fry gently until softened. Stir in the lemongrass, ginger, tamarind, garlic, turmeric, curry powder, sugar and 2 tsp salt, and fry for a few mins until fragrant. Add the coconut milk with 1 can of water, stir into the beef and bring to a simmer. Cover and bake for 1 hr. Meanwhile, toast the cashews in a dry frying pan until golden.
 - After 1 hr, stir in the new potatoes and cook for 1 hr more until the potatoes are tender, removing the lid halfway. Can be cooled and chilled, or frozen, if preparing ahead.
 - Put the casserole back onto the hob. Stir in the bananas and garam masala and simmer, uncovered, for 10 mins until the sauce has thickened.
@@ -672,7 +672,7 @@
 - 4 tbspwhite wine vinegar
 - 20gmint leaves,picked from stalks
 
-### Method
+### Instructions
 - Whizz sugar and vinegar with mint until finely chopped. Tip into a serving bowl and set aside for 10 mins for the sugar to fully dissolve.
 
 
@@ -713,7 +713,7 @@
 - 2 shotshot espresso(optional)
 - whipped creamand mini gingerbread men, to serve
 
-### Method
+### Instructions
 - In a bowl, mix together the spices, sugar and vanilla extract. Heat 100ml of the milk in a pan with the spice and sugar mix, whisking until the sugar has dissolved. Whisk in the remaining milk in additions until incorporated, then heat through until steaming.
 - Put a shot of espresso in each glass (if using) and top up with the spiced milk. Top with whipped cream, extra spices and a mini gingerbread man.
 
@@ -783,7 +783,7 @@
 - ½ tspcumin seeds
 - ½ tspground coriander
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7. Line a baking sheet with foil. Make a few small cuts around the edges of the pepper halves using asharp knife, then flatten them as much as you can with your palm. Rub with the veg oil and roast on the lined baking sheet for 10 mins.
 - Meanwhile, cut the chicken breasts in half lengthways at an angle so you end up with four thin fillets. Mix the yogurt, turmeric, cumin seeds, ground coriander, garlic, lemon juice, honey and olive oil with some black pepper and 1 tsp salt in a bowl. Add the chicken and turn to coat in the marinade. When the peppers have had 10 mins, turn them over, add the chicken fillets to the sheet, spacing them apart slightly, and spoon any remaining marinade over them. Roast for 20 mins, turning the chicken fillets halfway, until cooked through.
 - For the hummus, use ahand blenderto blitz together the beans, lemon zest and juice, olive oil, garlic, cumin seeds and coriander with 6 tbsp liquid from the can, ¾ tsp salt and plenty of black pepper. It should be completely smooth.
@@ -829,7 +829,7 @@
 - 250gsoured cream
 - few mint leaves, to serve
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Mix the crushed biscuits with the almonds and butter, then press the mixture into the bottom of a 23cm cake tin lined with baking parchment. Bake for 15 mins, then cool completely until the crust firms up. Reduce the oven temperature to 140C/120C fan/gas 1 and place a baking tray filled with water at the bottom of the oven.
 - Beat the soft cheese with 200g of the sugar. When fully combined, stir in the vanilla extract and beat in all the eggs, one at a time. Finally, stir in the soured cream.
 - Whizz the blackberries in a blender and pour through a fine sieve, discarding the seeds. You should be left with about 60ml of blackberry purée. Mix in 1 tsp vanilla extract and the remaining sugar, then set aside. Pour half of the cheesecake mixture onto the crushed biscuit base and drizzle over half of the blackberry purée. Use a skewer to create a blackberry swirl. Repeat with the remaining half of the mixture and blackberry purée.
@@ -870,7 +870,7 @@
 - pinch ofpaprika, to garnish
 - 1 tbspolive oil(optional)
 
-### Method
+### Instructions
 - Crush the garlic with a good pinch of sea salt using a pestle and mortar or garlic press. Mix in the tahini paste with a balloon whisk.
 - Keep whisking as you slowly mix in the lemon juice – the tahini will lighten in colour and thicken. Taste it and, if you are happy, loosen slightly with a few tsp of water. If you prefer it more tangy, beat in more lemon juice. Cover and chill for 30 mins-1 hr. When ready to serve, sprinkle with paprika and drizzle with oil, if you like.
 
@@ -910,7 +910,7 @@
 - 2 tbspgolden caster sugar
 - 2 tbspvegetable oil, plus extra for the pan
 
-### Method
+### Instructions
 - Heat 300ml of the milk in a pan until it just starts to bubble around the edges, then leave it to cool until it is tepid.
 - Measure out the flour and then put 3 tbsp back into the bag. Add the cocoa, yeast and sugar, and then stir in the milk, a little at a time, until you have a smooth batter. Cover and leave to rise in a warm place for 1hr-1hr 30 mins or until doubled in size and very bubbly. Stir in a little more milk if the batter is very thick – if it is too thick the bubbles won’t rise to the surface as well.
 - When risen, add the remaining 50ml milk to the batter to let it down a little, then heat the grill to high. Lightly oil the insides of 4 x 9cm metal crumpet rings or metal cook's rings. Heat a large non-stick frying pan or griddle pan over a low-medium heat, add 1 tbsp oil and put the rings in the pan. Spoon the batter into the rings until they are half full. Let the crumpets cook slowly for about 10 mins or until the mixture has set and the bubbles on top have all popped. Lift the rings away carefully. Repeat with the remaining mixture.
@@ -959,7 +959,7 @@
 - 75gpanko breadcrumbs
 - vegetable oil, for deep-frying
 
-### Method
+### Instructions
 - Tip the pancetta into a cold mediumsaucepanand set over a medium heat. This encourages the fat to render, making the pancetta extra crisp. Cook for 8-10 mins, until crisp and golden. Remove with a slotted spoon to a plate lined with kitchen paper to drain. Set aside.
 - In the same pan, melt the butter over a medium heat until foaming. Add the nutmeg, mustard powder, paprika, thyme and 40g of the flour, and season. Cook for 1 min, until fragrant. Slowly add the milk, bit by bit,whiskingconstantly, until you have a smooth, thick sauce. Remove from the heat, and stir in the cranberry sauce, cheddar and pancetta, mixing well. Season with a little salt and lots of black pepper. Scrape into a shallow bowl, then cover and chill in the fridge for about 2 hrs until cold and solid.
 - Tip the remaining 50g flour into a shallow bowl, the eggs in a second shallow bowl and the breadcrumbs in a third. Using slightly wet hands, form the mix into torpedo shapes, weighing about 25g. Gently roll in the flour, then the egg and finally the breadcrumbs. Arrange on a baking tray lined with baking parchment. Put in the fridge to chill for at least 30 mins.Will keep covered and frozen for up to three months.
@@ -1003,7 +1003,7 @@
 - 4 tbspreduced-fat fromage frais
 - handful toasted sliced  almonds
 
-### Method
+### Instructions
 - Put the rice and milk into a large microwaveable bowl. Cover with cling film, pierce it, then cook on High for 5 mins. Stir and leave to stand for 1 min, then return to the microwave for a further 8-10 mins or until the rice is cooked and all the milk absorbed. Remove from the microwave, stir through the nutmeg and leave to stand for a further 2 mins.
 - Put the honey, apricots and orange juice into another microwaveable bowl and cook on High for 1 min until the apricots have plumped up. Stir the syrupy apricots, fromage frais and a pinch of orange zest into the rice. Serve straight away in bowls, topped with a sprinkling of almonds, a little more orange zest and a drizzle of honey to taste.
 
@@ -1044,7 +1044,7 @@
 - 1 tspvegetable oil
 - butter, icing sugar and maple syrup, to serve
 
-### Method
+### Instructions
 - Whisk the egg whites in a clean bowl with 1 tbsp sugar using an electric whisk or astand mixerto form stiff peaks.
 - Beat the egg yolks, 1 tbsp sugar and vanilla together in a separate bowl until pale and foamy, and a ribbon trail is left on the surface when the beaters are removed. Gently fold in the milk and flour until just incorporated.
 - Fold the egg whites into the egg yolk mixture and gently turn the batter over to mix, using the side of a metal spoon orspatulato keep all the air in the mixture.
@@ -1098,7 +1098,7 @@
 - 225gicing sugar, plus more to dust
 - 2 tbspcocoa powder
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Oil and line the base of two 18cm (or smaller) sandwich tins and a 1.2L pudding basin. Mix the self-raising flour, cocoa powder, bicarbonate of soda and sugar in a bowl. Make a well in the centre and beat in the golden syrup, eggs, oil and milk with an electric whisk, until smooth.
 - Pour the mixture into the pudding basin until it is ¾ full, then divide the rest between the two sandwich tins and bake for 25-30 mins until the cakes are risen and firm to the touch. The sponge in the pudding basin may need longer depending on whether the basin is metal or ceramic. Cool for 10 mins before turning out onto a cooling rack to cool completely.
 - Meanwhile, to make the icing, beat the butter until it is creamy. Beat in the icing sugar a little at a time, then beat in the cocoa powder and 2 tbsp water.
@@ -1148,7 +1148,7 @@
 - 1 tbsporange marmalade(optional)
 - 1-2oranges,juiced (you’ll need 50ml juice)
 
-### Method
+### Instructions
 - First, make the orange jelly. Put the jelly cubes and marmalade (if using) in a medium heatproof bowl. Pour in the orange juice and 100ml boiling water, then stir until the jelly cubes have dissolved. Pour the mix into a shallow baking tray (ours was 25 x 20cm) lined with cling film – it should come about ½cm up the side. Chill for 2 hrs or overnight until set.
 - Heat the oven to 180C/160C fan/gas 4 and butter a shallow 12-hole cupcake tin. Tip the egg and sugar into a bowl and beat with an electricwhiskfor 5 mins until pale and fluffy. Or, do this in a stand mixer. Sift over the flour, add the orange zest and fold gently until there are no more pockets of flour. Spoon 1 tbsp into each hole of the tin and gently spread to the edges using the back of the spoon. Bake for 8-9 mins until the sponge is golden and a skewer comes out clean. Cool in the tin for 2 mins, then transfer to a wire rack to cool completely.
 - Invert the set jelly onto a board, remove the cling film and stamp out discs using a 5cm round cutter. Flip the sponges over so the flat side is facing up, then top each with a jelly disc. Tip the chocolate into a heatproof bowl and melt in short bursts in themicrowave, or set the bowl over a pan of simmering water ensuring the bowl doesn’t touch the water. Set aside to cool slightly for 10-15 minutes, stirring occasionally, before spooning onto the jaffa cakes. Spoon 1-2 tsp of the melted chocolate over each disc of jelly, spreading it gently to cover. Leave to set for 2-3 mins, then gently press the tines of a fork into the chocolate. Leave to set for 1 hr before serving.Will keep for up to three days in an airtight container.
@@ -1195,7 +1195,7 @@
 - You will need
 - snowflake cookie cutter
 
-### Method
+### Instructions
 - Heat oven to 200C/180C fan/gas 6 and line a baking sheet with baking parchment. Put the butter in a bowl and beat it with electric beaters until soft and creamy. Beat in the sugar, then the egg and vanilla, and finally the flour to make a dough. If the dough feels sticky, add a little flour and knead it in. Chill for 20 mins in the fridge.
 - Roll the dough to about the thickness of a £1 coin on a lightly floured surface. Cut out snowflake shapes using a biscuit cutter, then re-roll the off-cuts and repeat.
 - Bake for 8-10 mins or until the edges are just beginning to brown. Leave to cool for 5 mins before trying to move them. Cool completely.
@@ -1240,7 +1240,7 @@
 - 300mlplant-based milk(we used oat)
 - 1 tbspagave syrup
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Brush the melted coconut oil over the base and sides of a small baking dish (about 20 x 15cm). Combine the oats, coconut, cinnamon, walnuts, most of the raspberries and a pinch of salt in a bowl. Pour in the plant-based milk and agave, mix well, then pour the mixture into the prepared baking dish.
 - Scatter over the remaining raspberries. Bake for 20-25 mins until the oatmeal is golden brown. Serve warm.
 
@@ -1281,7 +1281,7 @@
 - 4 skinlesswhite fish fillets(about 400g; we used hake)
 - 1lemon, zested and juiced
 
-### Method
+### Instructions
 - Heat the oil in a large saucepan over a medium heat and cook the onion for 5-7 mins until beginning to soften. Mix in the garlic, potatoes, carrots, peppers, leeks and tomato purée, and cook for 3-5 mins more. Pour in the stock and stir in the bay leaf. Bring to a simmer, then cover and cook for 15 mins until the veg is almost tender.
 - Finely chop most of the dill, reserving a few whole sprigs. Cut the fish into bite-sized pieces and season with salt, pepper and a bit of the lemon juice. Add the fish to the soup along with a pinch of the lemon zest and the chopped dill. Simmer gently over a low heat for 5-7 mins until the fish is cooked through. Remove the bay leaf and season the soup to taste, adding more lemon juice or zest, if needed. Scatter over the reserved dill sprigs to serve.
 
@@ -1330,7 +1330,7 @@
 - 200glettuce, shredded
 - 8 tspsoured cream
 
-### Method
+### Instructions
 - To make the salsa, combine the red onions, tomatoes, vinegar, half the parsley and half the oil, then season to taste. Toss the avocado slices with a splash of the lime juice, and set aside.
 - Heat the remaining oil in a non-stick pan over a medium-high heat and cook the onions for 5 mins, then stir in the grated carrot and mushrooms, and cook for 3-5 mins more until lightly browned. Mix in the tomato purée and spices, and cook for 3-5 mins until the purée turns dark red. Pour in 200ml water, the kidney beans, corn and remaining parsley. Cook for 5-6 mins until the mixture has reduced, thickened and is heated through. Season with the cayenne pepper and salt and pepper to taste.
 - Warm the tortillas following pack instructions and reheat the rice until piping hot. Assemble the burritos by topping the tortillas with the lettuce, vegetable filling and rice. Dot over the avocado slices and soured cream, then fold in one side of the tortillas and roll up. Serve warm, with the salsa on the side.
@@ -1371,7 +1371,7 @@
 - 50gfeta, crumbled
 - small handful ofparsley, finely chopped
 
-### Method
+### Instructions
 - Tip the potatoes into a pan of cold water with a generous pinch of salt. Bring to the boil, then reduce the heat and simmer for 10 mins until tender. Drain well and set aside to steam-dry. Meanwhile, put the bacon rashers in a 30cm wide ovenproof frying pan set over a medium heat and fry for 3-4 mins on both sides until almost crispy. Remove to a plate, leaving the fat behind in the pan, and set aside. Once cooled slightly, roughly cut into strips.
 - Heat the oven to 200C/180C fan/gas 6 and heat the residual bacon fat in the pan over a medium heat, then tip in the potatoes. Stir well, then cook undisturbed for 3-5 mins. Mix in the peppers and season well. Cook, undisturbed, for 3 mins more. Stir, then cook for a further 2-4 mins until the potatoes are lightly browned. Stir in the bacon strips and cook for another 2 mins.
 - Remove the pan from the heat and make four gaps in the mixture using the back of a spoon. Crack an egg into each and sprinkle over the feta. Bake in the oven for 6-8 mins, or until the eggs are cooked to your liking. Scatter over the parsley to serve.
@@ -1420,7 +1420,7 @@
 - 250gbryzna cheese(also called bryndza cheese – similar to feta)
 - small handful ofparsley, finely chopped
 
-### Method
+### Instructions
 - Put the yeast, sugar, flour, caraway seeds and 1 tsp salt in a bowl, mix together and set aside. Whisk the milk and soured cream together in a jug, then pour into the dry ingredients and mix well until everything comes together. Knead by hand or using a stand mixer for 5-6 mins until it comes together into a cohesive, sticky dough.
 - Lightly oil a clean bowl and tip in the dough. Lightly brush over a bit more oil, then cover and leave to rise in a warm spot for 1-3 hrs, or until doubled in size.
 - Pour the 1½ litres of oil into a large deep pan, ensuring it is no more than a third full, and heat to 170C over a medium heat, or until a cube of bread browns within 20-30 seconds. Lightly oil a clean work surface, your hands and a rolling pin, then cut the dough into 16 pieces. Roll each one out into a circle, then lift and pull using your hands until thin in the middle and thicker at the edge, like a pizza base.

@@ -60,7 +60,7 @@
 - 150ghazelnut butter
 - 225gbutter, softened
 
-### Method
+### Instructions
 - First, make the craquelin. Combine the butter, sugar, flour and hazelnuts in a bowl, then spread out over a sheet of baking parchment. Cover with another sheet of parchment and roll the mixture out until it's 2mm thick. Put in the freezer to chill while you prepare the choux.
 - While the craquelin chills, sift the flour onto a sheet of baking parchment and fold in half (you will use the parchment as a funnel for adding the flour). Pour the milk, sugar, ½ tsp salt and the butter into a pan with 150ml water. Bring to the boil, then remove from the heat and quickly tip in the flour using the parchment as a funnel. Quickly and vigorously stir in the flour using a whisk. Return the pan to a low heat and, using a wooden spoon, stir for 1 min, beating well. The dough should start to come away from the bottom of the pan easily. Transfer the mixture to a stand mixer and beat for 30 seconds to cool slightly (or do this with an electric whisk in a bowl). Slowly pour in the egg, beating continuously using the mixer or whisk while checking the consistency of the dough – it should be smooth and silky, and you may not need all the egg. When ready, the dough should be able to slowly drop off a wooden spoon. (You can also mix in the egg by hand using a wooden spoon.)
 - Heat the oven to 180C/160C fan/gas 4. Spoon the choux into a piping bag fitted with a large round nozzle. Draw 14-16 circles over two sheets of baking parchment using an 8cm round biscuit cutter as a guide, then flip over and use to line two large baking trays (you should get at least 14 mini Paris-Brest, but may get up to 16, depending on your mixture). Pipe rings of choux inside the circle templates, leaving the middles clear. Stamp out 14-16 circles of craquelin using the same 8cm cutter, then use a 5cm cutter to stamp out the middles to make rings. Put these on top of the piped choux, then bake for 30-35 mins until risen, golden and completely dry – they should sound hollow when gently tapped, and feel light. Remove from the oven and leave to cool completely on the baking trays.
@@ -121,7 +121,7 @@
 - 2 dasheshot sauce
 - ½lemon, juiced
 
-### Method
+### Instructions
 - Mix all the ingredients for the mayonnaise, except the lemon juice, together in a bowl. Season to taste with the lemon juice, salt, and pepper.
 - Heat the grill to high. Line a baking tray with baking parchment and arrange the corned beef into four piles on it, then top with the cheese and grill until melted and bubbling.
 - Butter both sides of all the bread slices. Heat a frying pan over a medium heat and toast the bread slices on both sides until golden. Generously spread the mayonnaise over one side of each bread slice. Top four of the slices, mayonnaise-side up, with the cheese-topped corned beef and the sauerkraut, then sandwich with the remaining bread slices, mayonnaise-side down. Secure with cocktail sticks, then slice in half to serve.
@@ -167,7 +167,7 @@
 - 250gicing sugar
 - 1lemon, juiced
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter 900g loaf tin (about 25cm long) and line with baking parchment. Beat the butter and sugar together in a stand mixer or using an electric whisk for 3-4 mins until light and creamy. Gradually crack in the eggs, one at a time, beating well after each addition.
 - Combine the flour and baking powder in a bowl. Beat the lemon zest and juice into the wet ingredients until combined, then gently fold in the flour mixture. Spread the batter into the prepared tin and smooth the surface. Bake for 40-45 mins until golden and a skewer inserted into the centre comes out with just a few crumbs clinging to it. Remove from the oven and leave to cool in the tin for 10 mins, then remove from the tin and leave to cool completely on a wire rack.
 - For the icing, sift the icing sugar into a bowl and add 3 tbsp of the lemon juice. Whisk together, adding more lemon juice, a teaspoon at a time, until the icing is thick but drizzly. Drizzle the icing over the cooled cake and leave to set for 15-20 mins before slicing.
@@ -219,7 +219,7 @@
 - 1vanilla pod, halved
 - 4 tbspcaster sugar
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6. Put all the ingredients for the rhubarb in a roasting tin, toss to coat, ensure the rhubarb is in a single layer, cover and roast for 12-14 mins until the rhubarb is soft but still holding its shape. Spoon into a bowl, then pour the roasting juices into a pan and simmer over a medium-high heat for 3-4 mins until syrupy.
 - Whisk the flour, baking powder, sugar and custard powder together in a bowl. Add the milk and eggs, and whisk to a smooth batter. This is easier using astick blender.
 - Melt a small knob of the butter in a non-stick frying pan over a medium heat, carefully wiping it around the base using kitchen paper. Spoon in some batter to make 8cm circles, and cook for 1-2 mins until bubbles start to appear on the surface. Flip and cook for another 1-2 mins until golden and cooked through. Repeat with the remaining pancake batter and butter.
@@ -265,7 +265,7 @@
 - 30mlburger sauce
 - 40g slicedgherkins
 
-### Method
+### Instructions
 - Beat the egg white to soft peaks using an electric whisk. Mix the egg yolk with the flour, baking powder and sugar in a bowl. Slowly whisk in the milk to form a smooth paste. Gently fold the whipped egg white into the yolk mixture.
 - Heat half the oil in a non-stick pan over a medium heat. Spoon in a quarter of the mixture and cook for 2-3 mins on each side until the edge is set and golden. Repeat to make three more pancakes. Keep warm in a low oven.
 - Turn the heat up to high. Divide the mince in two, gently mould into patties and season well with salt and pepper. Drizzle half of the remaining oil into the pan, then add one of the patties. Cover with a piece of baking parchment and use a second smaller pan to evenly press the patty down as hard as you can until about the same size as the pancakes – make sure you wear oven gloves to do this. You want it to be as thin as possible. Cook for 2-3 mins, then remove the pan and parchment, and flip the patty – the top should be deeply browned. Press down using aspatulaand top with a slice of cheese. Cover the pan with the lid and cook for 1 min until the cheese is lightly melted and the patty is cooked through. Keep warm in the oven while you repeat the steps to cook the remaining patty.
@@ -324,7 +324,7 @@
 - 2eggs
 - 1 tbspbutter
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C fan/gas 6 and arrange the bacon in a single layer on abaking tray. Bake for 12-14 mins until crisp. Meanwhile, combine the flour, baking powder and sugar in a bowl. Whisk the butter, vanilla, milk and egg together in a jug. Make a well in the centre of the dry ingredients and pour in the wet mixture, whisking to combine. Be careful not to over-whisk – it’s fine if there are lumps.
 - Heat a little of the oil in a non-stick pan over a medium heat. Spoon in 2 tbsp batter and spread out into a 12cm circle. Cook for 2-3 mins until the edge is set and golden. Flip and cook for 1-2 mins more until set. Repeat to make four pancakes, keeping finished pancakes warm in a low oven while you cook the next.
 - Meanwhile, for the maple butter, beat the ingredients together until smooth. For the scrambled eggs,whiskthe eggs with a pinch of salt. Melt the butter in a frying pan over a medium heat. Once foaming, pour in the beaten egg, cook, undisturbed, for 20 seconds, then stir and cook for 1-2 mins more until set, light and fluffy. Don’t stir too often – you don’t want to break up the eggs too much.
@@ -370,7 +370,7 @@
 - 100g ready-madesalted caramel, warmed to loosen
 - 4shortbread biscuits, bashed to crumbs
 
-### Method
+### Instructions
 - Blitz the flour, eggs and milk in a jug until smooth using astick blender. Leave to rest for 20 mins.
 - Brush a little oil over the base of a crêpe pan, then wipe out with kitchen paper. Put over a medium heat and, once hot, ladle in a large spoonful of the batter, tipping the pan back and forth to coat the base in a thin layer. Cook for 1-2 mins until the edge starts to release from the pan and the pancake looks set, then flip and cook for 1 min more until lightly golden. Transfer to a warm plate and repeat with the remaining batter.
 - Whisk the soft cheese, cream, sugar and vanilla together into a pillowy mixture that holds its shape. Spoon onto the pancakes, drizzle with the salted caramel, then scatter over the biscuit crumbs, fold up and serve straightaway.
@@ -435,7 +435,7 @@
 - pinch offlaky sea salt
 - 2 tbspwhite miso paste
 
-### Method
+### Instructions
 - First, make the caramel. Warm the sugar in a pan (without stirring) over a medium heat until starting to melt around the edge and turn golden. Continue to cook, tipping the pan back and forth, until all the sugar has dissolved and an amber caramel has formed, about 5-6 mins. Whisk in the butter, then stir in the cream, a pinch of sea salt flakes and the miso. Bubble for a minute, then remove from the heat and leave to cool to room temperature. (It will thicken further as it cools.)
 - Blitz the milk, spinach and matcha together in a jug using a hand blender until smooth. Whisk the flour, baking powder and sugar together in a bowl, then pour in the wet ingredients, including the beaten eggs. Whisk until smooth.
 - Melt a little of the butter in a frying pan over a medium heat and spoon in the pancake batter – you want your pancakes to be about 12cm wide. (You will need to make them in batches.) Cook for 1-2 mins until bubbles start to appear, then flip and cook for another 1-2 mins until cooked through and lightly golden. Repeat with the remaining batter, using more butter as needed.
@@ -493,7 +493,7 @@
 - few drops ofgreen food colouring gel
 - mini football figuresand a chocolate football, to decorate (optional)
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Oil the base and sides of a 33 x 23cm cake tin (it should be at least 2.5cm deep) and line with baking parchment. Combine the flour, cocoa powder, baking powder, bicarbonate of soda, the sugar and a pinch of salt in a large bowl. Rub any lumps of sugar between your fingers to break them up, shaking the bowl a few times to bring them to the surface.
 - Whisk the oil, yogurt, vanilla and eggs together in a jug, then pour the wet ingredients into the dry. Stirwell using aspatulaor whisk until no pockets of flour remain. Pour the batter into the tin and bake for30 mins until a skewer inserted into the middle comes out clean. If any wet batter clings to the skewer, bake for 5 mins more, then check again. Leave to cool in the tin for at least 20 mins, then turn out onto awire rackand leave to cool completely.
 - To make the icing, beat the butter, sugar, 1 tbsp milk and the vanilla until soft and fluffy, adding the restof the milk if it’s too stiff. Transfer 4-5 tbsp of the icing to apiping bagfitted with a 1cm round nozzle andpipe a border around the cake, leaving a 1cm gap between the edge and the border. Pipe on the halfwayline, centre circle and penalty areas, then squeeze any remaining icing from the bag back into the bowl oficing. Dye the remaining icing green using a few drops of food colouring gel. Transfer the green icing to apiping bag fitted with a 1-2cm star nozzle, or grass/hair nozzle. Pipe small blobs of icing all over the cake,avoiding the pitch lines, until the sponge is completely covered. Decorate with mini figures and a chocolate football, if you like.Will keep in an airtight container at room temperature for up to four days.
@@ -538,7 +538,7 @@
 - 1chicken stock cube
 - 650gtomatoes, larger tomatoes halved or quartered (try a mixture of colours and sizes)
 
-### Method
+### Instructions
 - Combine the garlic, butter and basil in a bowl. Heat the oven to 190C/170C fan/gas 5.
 - Gently ease the skin away from the chicken breasts and spread the herby garlic butter underneath. Put the chicken in a roasting tin and rub the olive oil over the skin, then season. Arrange the lemon wedges around the chicken in the tin and roast for 1 hr.
 - Lift the chicken and lemon wedges out of the tin onto a plate. Tip the couscous and olives into the roasting juices in the tin, crumble in the stock cube and top up with enough hot water from thekettleto cover the couscous by 1cm (about 300ml). Put the chicken back in the tin on top of the couscous.
@@ -597,7 +597,7 @@
 - 2 tspDijon mustard
 - ¼ tspsmoked paprika
 
-### Method
+### Instructions
 - Tip the flour into a large bowl. Add the yeast to one side and the sugar and 2 tsp salt to the other. Mix gently. Add 300ml warm water and the melted butter. Mix into a soft dough.
 - Tip the dough out onto a clean work surface and knead for 5 mins until soft and springy. Return to the bowl, cover with a tea towel and leave to rise in a warm place for 1 hr.
 - Divide the dough into 15 equal pieces, then roll each piece into a 45-50cm-long rope. Working with one rope at a time, lay the rope in a U-shape with the curved end facing you. Cross the two ends over each other, then lift them up and press down into the curve of the U-shape. Arrange the pretzels on an oiledbaking trayand loosely cover, then leave to rise for 30 mins.
@@ -655,7 +655,7 @@
 - 2goals and players, made from cardboard (or use mini figures)
 - 10small cardboard boxes (16 x 9cm; we used kids’ party lunchboxes)
 
-### Method
+### Instructions
 - Put the green card on a serving table – it will be hard to move the stadium once assembled, so set it up where you want to serve it. Paint or draw a border around the edges using paint or a paint pen, then paint or draw the halfway line, centre circle and penalty areas. Decorate with the cardboard goals and players or mini figures. (If you’re using chocolate footballs, you can also put one of these on the “pitch”.)
 - Cut the top flaps off the cardboard boxes so they’re open, then cut diagonally along the sides for a tiered effect – the front of the boxes should be 4-5cm in height (to sit against the pitch) and the back, 10cm. Arrange the boxes around the pitch.
 - Fill the boxes with the chocolate footballs, cheese cubes, grapes, carrots, cucumbers, celery, peppers, crisps, popcorn, and tomatoes, and serve alongside dips, if you like.
@@ -696,7 +696,7 @@
 - 150gspinach
 - 6eggs
 
-### Method
+### Instructions
 - Heat the grill to high. Heat the oil in a 20cm frying pan over a medium heat and cook the chorizo for 5-6 mins, until it releases oil and is beginning to crisp at the edges.
 - Scatter in the peas and potatoes, stirring to coat in the oil. Add the spinach a handful at a time, allowing the last handful to wilt before adding the next. Season well with salt and pepper.
 - In a separate bowl,whiskthe eggs together with a little salt and pepper and pour over the pan, making sure all the ingredients are covered with egg. Cook over a low heat for 6-7 mins until the edges are set, then carefully put under the grill for 4-5 mins, until cooked through, golden and slightly puffy on the top. Will keep chilled for two days.
@@ -737,7 +737,7 @@
 - 3 tbspThai red curry paste
 - 1lime, zested and juiced
 
-### Method
+### Instructions
 - Heat the oven to 200C/180C/gas 6. Line a large roasting tray with baking paper. Scatter the potatoes and mixed vegetables onto the tray, then put the chicken thighs on top.
 - In a small jug,whisktogether the vegetable oil and curry paste with the lime zest and juice. Season lightly with salt and pepper, then pour this over the chicken and vegetables, massaging well into the chicken, including under the skin.
 - Cover the tray tightly with foil and roast for 35 mins. Remove the foil, baste with the cooking juices and turn the grill to high. Finish under the grill for 5-10 mins, until the chicken is lightly charred and has crisp golden skin.
@@ -779,7 +779,7 @@
 - 200gspinach
 - cooked rice, naan or other flatbread, to serve (optional)
 
-### Method
+### Instructions
 - Heat the vegetable oil in a largenon-stick panover a low heat. Scatter in the garlic and cook gently for 3-4 mins until lightly golden, then remove from the pan using a slotted spoon and drain on kitchen paper. Sprinkle with a little salt.
 - Turn the heat up slightly, add the red onion and cook for 4-5 mins until beginning to soften, then add the paneer and cook for 5 mins until each side is golden. Stir in the curry paste and cook for a further 4-5 mins, then pour in 100ml water. Wilt in the spinach and mix well.
 - Lightly season, then serve with flatbreads or rice, if you like.
@@ -833,7 +833,7 @@
 - 1lime, juiced
 - 2 tspDijon mustard
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 6. Scatter the courgette batons into a roasting tin and drizzle over the olive oil. Season well, then roast for 15-20 mins until the courgettes are golden. Scatter in the pumpkin seeds, toss everything together and roast for a further 5 mins. Alternatively, fry the courgette in slices, or cook in anair-fryerat 180C for 15-20 mins (you may need to do this in batches, adding the pumpkin seeds for the last few minutes of cooking). Tip the mixture into a bowl and set aside.
 - Meanwhile, arrange the chicory or radicchio leaves on a large serving platter, then top with the rocket, tomatoes, spring onions and cherries. Stir the chopped parsley through the courgette mix, then spoon this over the rest of the salad and crumble over half the feta.
 - Combine the ingredients for the dressing and season to taste. Drizzle this over the salad, then crumble over the remaining feta.
@@ -885,7 +885,7 @@
 - 80mlcondensed milk
 - 1lime, juiced and zested
 
-### Method
+### Instructions
 - Oil a 20 x 20cm square cake or brownie tin and line with baking parchment. Heat the oven to 180C/160C fan/gas 4. Tip the egg whites into a large bowl and beat to stiff peaks using an electric whisk. Beat in half the sugar, 1 tbsp at a time, until stiff and glossy. Set aside.
 - Tip the rest of the sugar, the vanilla and egg yolks into a second large bowl, andwhiskfor 3-4 mins until voluminous and foamy. Add the oil and whisk to combine. Sift in the flour, baking powder and a pinch of salt. Fold to combine, then fold in the whipped egg whites, being careful not to knock out all the air.
 - When everything is combined, pour the mixture into the prepared tin and tap firmly on a work surface to break up any large air bubbles (this will ensure it bakes evenly). Bake for 25-30 mins, or until a skewer inserted into the middle comes out clean. Firmly tap the tin on a work surface again, then leave to cool completely.
@@ -933,7 +933,7 @@
 - 8shortbread biscuits, roughly crumbled
 - 8 scoopsvanilla ice cream
 
-### Method
+### Instructions
 - Toss the strawberries with the caster sugar and half the lemon juice. Set aside for 30 mins.
 - Meanwhile, whisk the cream with the icing sugar, vanilla and the rest of the lemon juice until billowy and just holding its shape. Beat the soft cheese into the whipped cream until smooth, and set aside. Or, transfer the mixture to apiping bagfitted with a star nozzle.Will keep chilled for up to a day.
 - Tip a third of the macerated strawberries into ablender, along with their juices and the jam, then blitz to make a sauce.
@@ -1012,7 +1012,7 @@
 - 1 tbspflaked almonds
 - 1 tbspcrystallised rose petals(optional)
 
-### Method
+### Instructions
 - For the dough, soak the saffon in 2 tbsp hot water for 20 mins before you begin. Mix all the filling ingredients in a bowl until it's a thick paste and set aside.
 - Combine all the flour, baking powder, a pinch of sea salt and the brown sugar or jaggery in a large bowl. Make a well in the centre and pour in the melted ghee and yogurt.
 - Pour in 150ml warm water and use a fork to mix the water, yogurt and ghee together without disturbing the flour. Slowly bring the flour to the centre, little by little (using a fork or your fingers) to make a sticky dough, then knead for at least 7-10 mins or until soft, smooth and pliable. If it is still sticky, don't add more flour. Once kneaded, add a little oil or ghee to your hands and cover the dough’s surface with it. Put the dough back in the bowl, cover with a tea towel and leave to rest for at least 20-30 mins.
@@ -1072,7 +1072,7 @@
 - 2spring onions
 - shichimi(Japanese seven spice) (optional)
 
-### Method
+### Instructions
 - First make the chashu. Wrap the chicken thighs around the breasts and secure with toothpicks or string to make a cylindrical shape – you may need to flatten the thighs a little by bashing them with arolling pin. In a very hot pan, sear the chicken on each side until golden brown, around 25 mins in total.
 - Transfer the chicken to a medium pan with a lid and add the ginger, dashi powder, garlic, soy sauce, saké, mirin and sugar, plus 150ml water. Cover and bring to the boil, then reduce to medium-low and simmer for 30-40 mins. Remove the lid and leave to cool.If you want to make it ahead, chill the chicken and sauce overnight, or at least for a few hours. It will improve the flavour.Once cooled, remove the chicken from the sauce, slice it and set the sauce aside.
 - Pour 240ml of the sauce into a large pan (freeze the rest to use another time), bring to the boil, add the chicken stock and heat through.
@@ -1144,7 +1144,7 @@
 - 1 tspground nutmeg
 - 2 tbsppeanuts
 
-### Method
+### Instructions
 - First, make the curry paste. Use apestle and mortarto pound together the dried and fresh chillies, shrimp paste, garlic, galangal, lemongrass, lime zest, white pepper, coriander, cumin, nutmeg and peanuts, plus 1 tsp salt. You should have a rough paste. Alternatively, add all the ingredients to afood processoralong with 2-3 tbsp of coconut milk and pulse until you have a paste. Store in a lidded jar in the fridge.Will keep for up to two weeks.
 - Add 2-3 tbsp of the thick part of the coconut milk into asaucepanover a medium-high heat. When the coconut milk starts bubbling, add 1-2 tbsp of the curry paste and stir well for about 1 min, until fragrant.
 - Stir in the chicken and let it cook for about 3-4 mins until beginning to brown all over. Follow with the French beans and stir well.
@@ -1214,7 +1214,7 @@
 - thumb-sized pieceginger, chopped
 - 1 tspcornflour
 
-### Method
+### Instructions
 - Slice the chicken thigh fillets intobite-sized chunksthen put in a bowl with the light soy sauce, Shaoxing wine, oyster sauce, white pepper, cornflour, egg and ½ tsp salt. Mix well, cover, then leave to marinate in the fridge for 1 hr.
 - To make the batter, combine the cornflour, plain flour, white pepper and ½ tsp salt in a large bowl. Add the marinated chicken and mix until all the pieces are evenly coated.
 - Fill a deep pan with 4-5cm of vegetable oil, ensuring it is no more than a third full, and heat on high until a drop of batter sizzles quickly when dropped in. Lower the heat to medium and carefully add the chicken pieces in batches. Fry for 5 mins, until golden and cooked through. Transfer the cooked chicken to a plate lined with kitchen paper as you go. Allow the chicken to rest for 5 mins, then heat the oil again and fry it for a further 1-2 mins to ensure maximum crispiness. Transfer again to a plate lined with kitchen paper.
@@ -1272,7 +1272,7 @@
 - ½ tspgaram masala
 - ½lime
 
-### Method
+### Instructions
 - Put the chicken, grated ginger, garlic, star anise, black cardamom, cumin seeds, coriander seeds, green cardamom, black peppercorns, dried red chillies, bay leaf, cinnamon stick and half the chopped onions in awokor large frying pan over a medium heat. If it becomes too dry, add a little water (no more than 4 tbsp). Reduce the heat to low, cover and cook until the chicken is almost cooked through.
 - Add the yogurt and stir-fry on a high heat until the yogurt dries up. Now add the ghee (or oil and butter) and, when hot, add the remaining onions, turmeric, freshly ground black pepper and salt to taste.
 - Continue to cook over a high heat until the sauce is dryish and the second half of the onions are nearly soft (although be careful not to overcook).
@@ -1322,7 +1322,7 @@
 - 2spring onions, roughly chopped
 - 500mlchicken stock
 
-### Method
+### Instructions
 - Quarter the chicken, remove the wings and separate the legs and thighs, then cut each breast into three pieces. (You can keep the carcass chilled to make stock another day.)
 - Season the chicken with the pimento, onion, all purpose seasoning, soy sauce, 1 tsp black pepper and 1½ tsp salt.
 - Add the sugar to a large pan and cook over a medium heat. Wait until the sugar starts to melt, keeping an eye on it as it starts to bubble and darken. Once it’s dark brown and has gone just beyond the smell of caramel, add the chicken pieces, shaking off as much of the onion as possible.
@@ -1384,7 +1384,7 @@
 - 750gsoft cheeseor mascarpone
 - 350gicing sugar
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter 2 x 20cm round sandwich tins and line the bases with baking parchment. Tip all the sponge ingredients, apart from the food colouring, into a mixing bowl, then beat with an electric whisk until smooth.
 - Working quickly, weigh the mixture into another bowl to work out the total weight, then weigh exactly half the mixture back into the mixing bowl. Pick two of your colours and stir a little into each mix. Keep going until you are happy with the colour – the colour of the batter now will be very similar to the finished cake, so be brave! Scrape the different batters into the tins, trying to spread and smooth as much as possible – but try not to waste a drop of the batter – a rubber spatula will help you. Bake on the same oven shelf for 15-20 mins until a skewer poked into the middle comes out clean. Don't worry if the sponges are thin, there are many layers.
 - Gently turn the cakes out onto a wire rack to cool. Wash the tins and bowls thoroughly, and start again from step 1 – this time using another two colours. Unless you’re making the optional pink layer, repeat one more time to get 6 sponges, all of different colours. Leave them all to cool.
@@ -1435,7 +1435,7 @@
 - 1onion, roughly chopped
 - corn tortillas, chopped coriander and salsa, to serve
 
-### Method
+### Instructions
 - Heat 1 tbsp of the vegetable oil in largesaucepanover a medium heat and cook the red onions for 10-12 mins, stirring occasionally until softened and caramelised. Add the halved garlic bulbs, cut-side down, along with the oregano, cumin, chilli powder and bay leaves. Tip in three-quarters of the lime juice and the orange juice. Stir in the sugar, turn up the heat and continue to cook until the base has caramelised, about 3-5 mins. Pour in the stock and nestle in the pork. Top up with water so the pork is submerged, then cover and simmer over a low heat for 3-4 hrs until the meat is completely tender and falling apart.
 - Remove the pork to a board and set aside. Turn the heat up to high and reduce the cooking liquor by two thirds. (This helps intensify the flavour.) Once the liquid has reduced, remove the lime and orange halves with a slotted spoon and discard.
 - Shred the pork using two forks and transfer to an ovenproof dish. Heat the grill to high. Drizzle the remaining ½ tbsp vegetable oil over the pork and grill for 5-10 mins, or until the pork is crispy and charred. Add ladlefuls of the reduced cooking liquor to the pork and toss until it’s well-coated. Combine the chopped onion and remaining lime juice in a bowl with a pinch of salt. Serve the shredded pork in corn tortillas, topped with the onion mixture, salsa and chopped coriander, with the remaining sauce on the side for dipping, if you like.Once cool, the remaining sauce can be frozen for up to three months to use as a base for soups or stews.
@@ -1476,7 +1476,7 @@
 - 2 tbspolive oil
 - 75gbutter, melted
 
-### Method
+### Instructions
 - Pat the chicken dry all over and sit in a roasting tray. Combine 1 tbsp salt and 1 tsp ground pepper, then rub all over the chicken, getting under the skin and being careful not to rip it. Stuff the cavity with the lemon halves and most of the thyme sprigs. Scatter the remaining thyme and the garlic in theroasting tin. If you have time, chill overnight in the fridge. If not, leave at room temperature for 1 hr.
 - Heat the oven to 200C/180C fan/gas 6. Coat the chicken in the olive oil and butter and lay back in the roasting tin, breast-side down. Roast for 50 mins to 1 hr. To check if it’s cooked, insert ameat thermometerinto the thickest part of the breast – it should read 70C, or pierce the thigh with a skewer and the juices should run clear. Remove from the oven and set aside to cool completely. Use two forks to shred the meat. Remove the skins from the garlic and keep chilled in an airtight container along with the roasting juices and shredded chicken.Will keep chilled for up to four days.
 
@@ -1533,7 +1533,7 @@
 - 1 tbspneutral-tasting oil
 - 1kgpork shoulder, any skin removed
 
-### Method
+### Instructions
 - Start by making the mojo pork. Tip all the ingredients, except the pork, into afood processorwith 1 tsp salt and a good grinding of black pepper. Blitz until finely chopped. Or, you can finely chop everything by hand. Pour into a large bowl or food bag and add the pork, turning it to coat well. If you've got time, leave to marinate in the fridge for at least 8 hrs, or up to 24 hrs. This is optional, but results in better flavour and makes the pork more tender. (If you don't have time to marinate, continue to step two.)
 - Heat the oven to 220C/200C fan/gas 7. Put the pork in aroasting tinalong with any leftover marinade, then cover tightly with foil. Roast for 30 mins, then reduce the heat to 180C/160C fan/gas 4 and roast for a further 1 hr 30 mins. (Or, see tip below for cooking in a pressure cooker.) Remove from the oven and leave to cool, then slice thinly. If you don't have time to leave it to cool, shred it using two forks (you won't be able to slice it neatly while still warm).Once cool, will keep chilled for up to three days in an airtight container.
 - Brush the base of each panini with a little of the melted butter, then top with the mustard, sliced mojo pork, ham, gruyère and pickles. Sandwich with the tops of the panini, then brush the base and top with the remaining melted butter. Transfer the sandwiches to a large frying pan over a low heat, then put a flat saucepan lid on top to squish the sandwiches together. Put a heavy pan or can on top to weigh it down, and cook on each side for 4-5 mins until golden and the cheese is melted. Cut in half to serve.
@@ -1585,7 +1585,7 @@
 - 2 tspchopped parsley
 - ½gherkin, finely chopped
 
-### Method
+### Instructions
 - Cook the fish fingers following pack instructions. Meanwhile, combine all the tartare sauce ingredients in a bowl and set aside.
 - Butter the bread (or you can leave the butter out, if you prefer), then spread the tartare sauce over one slice of bread and the ketchup over the other. Lay the fish fingers on top of the tartare sauce, then put the sliced gherkins on top, followed by the lettuce. Top with the other slice of bread, cut in half and serve.
 
@@ -1628,7 +1628,7 @@
 - 2 tbspmilk
 - knob ofbutter, for frying
 
-### Method
+### Instructions
 - Mix the mustard and mayo in a small bowl, then spread over each slice of bread. Top one slice with the ham, turkey and cheese, then sandwich with the remaining slice of bread.
 - Whiskthe egg and milk in a wide, shallow bowl or dish. Soak the sandwich in the egg mixture, leaving for a few minutes on each side until all the egg has been absorbed by the bread.
 - Melt the butter in afrying pan. When it’s sizzling, add the sandwich and cook for 4-5 mins on each side until golden brown. If you have a sandwich or burger press, use this to weigh the sandwich down. If not, place a heavy lid on top to compress the sandwich and help melt the cheese. Cut in half to serve.

@@ -30,7 +30,7 @@
 - 2 tsprapeseed oil
 - 80gbaby spinach
 
-### Method
+### Instructions
 - Whisk the gram flour, oregano and nutritional yeast in a bowl with 80ml water.
 - Heat the oil in a 19cm non-stick frying pan. Pour in the omelette batter and swirl the pan around to cover the base. Pile the fresh spinach over the top, then cover the pan and cook over a low heat for 5-6 mins until the spinach has wilted and the base of the omelette is cooked but still moist. Roll the omelette over in the pan to enclose the spinach, then slide onto a plate and serve.
 
@@ -79,7 +79,7 @@
 - 140gwholemeal couscous
 - 40gtoasted flaked almonds
 
-### Method
+### Instructions
 - Heat the oil in a large lidded pan over a medium heat and fry the onions for 10 mins, stirring often until golden. Stir in the peppers and cook for 5 mins more.
 - Add the chilli powder, coriander and cumin, stir briefly, then tip in the passata and chickpeas along with the liquid from the cans.
 - Stir in the bouillon powder, raisins and lemon zest, then add the cauliflower. Cover tightly and simmer over a medium heat for 15-20 mins until the cauliflower is tender. Stir in half the parsley.
@@ -128,7 +128,7 @@
 - 2 tspsesame oil
 - 75groasted cashews
 
-### Method
+### Instructions
 - Heat the rapeseed oil in a large pan over a medium heat and fry the garlic and ginger for 5 mins. Add the five-spice, chilli, peppers and rice, then pour in the stock, cover tightly and cook for 15 mins.
 - Stir in the frozen beans and spring onions, then cover and cook for 10 mins. Check the rice is tender; if not, leave for 5 mins more. Turn off the heat, stir in the sesame oil and leave to stand, covered, for 5 mins.
 - Divide the rice between two bowls and scatter over half the cashews. Leave the remainder to cool completely for another day.Will keep chilled in an airtight container for up to three days. Reheat in amicrowaveuntil piping hot, then add the cashews.
@@ -186,7 +186,7 @@
 - 1 tbspextra virgin olive oil
 - 1 tspsmoked paprika
 
-### Method
+### Instructions
 - For the dip, boil the broad beans for 7 mins, then drain, reserving the cooking water. Tip into a bowl with the cumin, garlic, oil, paprika and 6 tbsp of the reserved water, then blitz using a hand blender until smooth. Spoon into two small bowls.
 - Heat the oil in a pan over a medium heat and cook the garlic and aubergines, covered, for 10 mins, stirring occasionally until tender and slightly charred. Add the tomatoes and cumin, and cook for 5-10 mins, then turn off the heat. Add the herbs and lemon juice.
 - Serve half on a platter with one bowl of dip, four flatbreads and half the beetroot, along with the pomegranate seeds and mint, if using. You can warm the flatbreads in a frying pan ormicrowavebefore serving. Chill the remainder to eat cold the next day.Will keep covered and chilled for a day.
@@ -231,7 +231,7 @@
 - 1 tspdried oregano
 - 10gparsley,chopped
 
-### Method
+### Instructions
 - Boil the pasta following pack instructions. Meanwhile, heat the oil in a large, deep, non-stick pan over a medium heat and fry the halloumi, stirring occasionally for 3 mins until browned. Tip onto a plate, then cook the tomatoes in the pan for 1-2 mins until softened. Tip into the bowl of halloumi.
 - Tip the courgettes and garlic into the pan, stir-fry briefly, then pour in the canned tomatoes and stir in the olives and oregano. Cover and simmer for 10 mins.
 - Drain the pasta and toss in the sauce along with the parsley, halloumi and baby plum tomatoes. Serve half straightaway, then leave the remainder for another day.Will keep covered and chilled for up to three days. Reheat in a pan with a dash of water over a medium heat until piping hot.
@@ -305,7 +305,7 @@
 - 2 x 198g canssweetcorn, drained
 - 1 bagmixed leaf salad
 
-### Method
+### Instructions
 - Heat the oil in a non-stick pan over a medium heat and fry the onions and celery for 8 mins, stirring often. Stir in the spices and garlic, then pour in the passata, bean salad (along with the liquid from the cans) and bouillon. Cover and simmer for 10 mins, then stir in the coriander. Tip into a shallow ovenproof dish and cool slightly.
 - Heat the oven to 190C/170C fan/ gas 5. Tip the cornmeal, gram flour, baking powder and chilli powder into a bowl and mix well. Beat the egg, yogurt and milk together in a separate bowl, then pour into the dry ingredients and mix to make a batter. Stir in the cheese, then pour this over the bean chilli and bake for 30-35 mins until the cornbread is puffed up and golden. Combine half the ingredients for the corn salad and serve with half the chilli, reserving the rest for another day.The pie will keep covered and chilled for four days. Reheat in themicrowaveuntil piping hot.
 
@@ -341,7 +341,7 @@
 - 250ggram (chickpea) flour
 - ½ tsprapeseed oil
 
-### Method
+### Instructions
 - Siftthe flour into a bowl and make a well in the centre. Graduallywhiskin 400ml cold water to create a smooth, thick batter. Set aside to rest for 30 mins.
 - Heat the oil in a 20cm non-stick pan. Add 4 tbsp batter and swirl it around to cover the base. Cook for 1-2 mins each side. Repeat with the remaining batter until you have 8 flatbreads in total. (If you have a non-stick pan, you shouldn’t need to add more oil.)Will keep chilled for four days or frozen for three months.Keep the flatbreads separate by stacking them with sheets of baking parchment in between.
 
@@ -406,7 +406,7 @@
 - 200gcucumber,cut into chunks
 - 4tomatoes,cut into wedges
 
-### Method
+### Instructions
 - Using your hands, combine all of the ingredients for the kofta, except the oil. Set aside.
 - Tip all the hummus ingredients into a bowl, along with 3 tbsp of the chickpea liquid, then blitz with ahand blenderuntil smooth. If you prefer a looser texture, add more of the chickpea liquid and blend again.
 - For the salad, tip the onions into a bowl with the lemon juice and scrunch using your hands to help soften them. Add the chopped parsley and set aside.
@@ -484,7 +484,7 @@
 - 1 tbspsoy sauce
 - 600mlchicken or turkey stock
 
-### Method
+### Instructions
 - Mash all the butter ingredients together in a bowl with a little salt and plenty of pepper, tip into a lidded container and cover until needed.Will keep for up to three days chilled, or frozen for a month.
 - Up to 48 hrs and at least 12 hrs before cooking, loosen the skin of the turkey, over the breast, by pushing your hand beneath it. Season the turkey all over, including under the skin, with 1-2 tbsp flaky sea salt. (The further ahead you do this, the more succulent it will be.) Chop the turkey neck. Put the turkey in a largeroasting tinor on an oven tray, breast-side up, and chill, uncovered, until ready to cook.
 - On the day of roasting, remove the turkey from the fridge at least 1 hr before cooking. Heat the oven to 200C/180C fan/gas 6. Remove the turkey from the tin and tip the onions, carrots, turkey neck and giblets into the tin. If you have one, sit a roasting rack, trivet or ovenproof cooling rack in or over the tray and sit the turkey on top. Put the lemon halves in the cavity of the turkey with the garlic and rosemary. Spoon the flavoured butter under the turkey skin, spread it all over the breast meat and as far down to the legs as possible. For a neat finish, tie the wings and legs together using butcher’s string. Drizzle half the oil over the turkey and rub it all over.
@@ -527,7 +527,7 @@
 - 4wholemeal wraps
 - 4 large ripetomatoes, thinly sliced
 
-### Method
+### Instructions
 - For the tzatziki, tip the grated cucumber and yogurt into a bowl, mix well and season. Set aside. Season the chicken with salt and pepper and rub with 1 tbsp of the olive oil. Heat the remaining oil in a pan over a medium heat. Cook the chicken for 8-10 mins until cooked through and golden brown.
 - Warm the wraps in a dry pan ormicrowave. Spread 2 tbsp of the tzatziki onto each wrap, top with the chicken, tomatoes and sliced cucumber. Season with a little more pepper, if you like, then fold the sides of the wrap over the filling, roll up tightly and serve.
 
@@ -576,7 +576,7 @@
 - 1 tbspsoy sauce
 - chopped parsleyand pomegranate seeds, to serve
 
-### Method
+### Instructions
 - Cook the rice in a pan, uncovered, with the coconut milk, butter, some salt and 250ml water over a medium-high heat. Bring to a boil, cover and turn the heat to low. Simmer until the liquid has been absorbed, about 10-12 mins. Take off the heat and leave covered for 10 mins, then fluff with a fork.
 - Heat the coconut oil in a large pan and fry the onion, garlic, spring onion, red pepper and sprouts for 3-4 mins. Add the remaining veg, thyme and coconut, and cook for a few minutes. Stir in the rice and soy. Serve sprinkled with the parsley and pomegranate seeds.
 
@@ -614,7 +614,7 @@
 - 100gseedless raspberry jam
 - icing sugar, to dust
 
-### Method
+### Instructions
 - Make thedoughand chill for 15 mins. Heat the oven to 200C/180C fan/gas 6 and line two large baking sheets with baking parchment. Dust a clean work surface with flour androll out the doughto the thickness of a pound coin. Stamp out the biscuits using a fluted 6cm cutter. Using a 1-2cm star or Christmas tree cutter, cut out the middles of half of the biscuits. Re-roll any offcuts and repeat the process. Put the cut biscuits on the baking tray.
 - Bake for 8-10 mins, until the edges are golden. Leave to cool on the tray for 5 mins before transferring to awire rackto cool completely. Fill a piping bag with the raspberry jam, then pipe a small round, the size of a pound coin, into the middle of each whole biscuit. Dust the biscuits that have the holes cut out with icing sugar, put on top of the biscuits spread with jam and press together lightly to stick.Will keep in an airtight container for three days.
 
@@ -654,7 +654,7 @@
 - plain flour, to dust
 - 125gicing sugar
 
-### Method
+### Instructions
 - Make theuniversal dough, but add the cinnamon, ginger and mixed spice to the flour mixture. Chill the dough for 15 mins. Heat the oven to 200C/180C fan/gas 6 and line two large baking sheets with baking parchment. Dust a clean work surface with flour androll out the doughto the thickness of a pound coin, before cutting out biscuits using a 6cm snowflake cutter. Arrange the biscuits on the baking trays. Re-roll any offcuts and repeat the process.
 - Bake for 10-12 mins until the edges are set. Leave to cool on the tray for 5 mins before transferring to a wire rack to cool completely. Mix the icing sugar with 1 tbsp water until you have a pipeable consistency. Fill apiping bagwith the icing and decorate the biscuits as you like.Will keep in an airtight container for three days.
 
@@ -692,7 +692,7 @@
 - red food colouring paste
 - 50gdemerara sugar
 
-### Method
+### Instructions
 - Line a baking sheet with baking parchment. Lightly dust a clean work surface with flour and divide thedoughinto two. Beat the red food colouring into one batch of dough in a bowl using electric beaters until it’s vibrant red. Divide both lots of dough into two pieces each and chill them for 15 mins.
 - On the dusted work surface,roll outinto four 1cm-thick rectangles, keeping them as straight-edged as possible – a dough scraper or palette knife can help with this. Lay the sheets of dough on top of each other, alternating colours and chill in the fridge until firm, around 30 mins. Trim the edges and cut into strips 1cm thick, then lay the strips on top of each other, alternating the colours, so that a red strip sits on top of plain and vice versa, and brushing lightly with a bit of water to help them stick. Put on a baking tray and chill in the fridge for 1 hr.
 - Heat the oven to 200C/180C fan/gas 6 and line two large baking sheets with baking parchment. Using a verysharp knife, cut into squares and lightly brush the edges with water. Dip the edges in the demerara sugar then arrange on a baking tray. Bake for 8-10 mins until golden and set. Leave to cool on the tray for 10 mins, before removing to a wire rack to cool completely.Will keep in an airtight container for three days.
@@ -724,7 +724,7 @@
 - 1tspvanilla extract
 - 400gplain flour, plus extra for dusting
 
-### Method
+### Instructions
 - Put the butter in a bowl and beat using electric beaters until soft and creamy. Beat in the sugar, then the egg and vanilla, and finally the flour. If the dough feels sticky, add a little more flour and knead it in. Bring together into a ball and use to make our raspberry dodgers,vanilla spirals,checkerboardandginger biscuits.
 
 
@@ -767,7 +767,7 @@
 - 1vanilla pod, seeds scraped out
 - 3eggs, whites only (save the yolks for another recipe)
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/ gas 4. Scatter the nuts over abaking trayand put in the oven for 10 mins, then tip out onto a plate and set aside. Brush the sides of the tray with oil, then mix the cornflour and icing sugar. Dust the tin with the cornflour mixture and line the base with one sheet of rice paper.
 - Put the sugar, honey, glucose, vanilla seeds, a pinch of salt and 200ml of water in asaucepan. Heat the mixture gently over a medium heat until the sugar has dissolved.
 - Meanwhile, put the egg whites in a clean bowl of a stand mixer with the whisk attachment and whisk until they reach soft peaks. Turn up the heat for the sugar mixture to medium-high until the temperature reaches about 145C on a sugarthermometer, then pour the hot syrup in a slow, steady stream into the egg whites, beating for about 10 mins until you have a thick, glossy, firm meringue. It’s easy to underwhisk, so keep going until it looks like sticky chewing gum.
@@ -814,7 +814,7 @@
 - 175gdark chocolate
 - 175gwhite chocolate
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Lightly brush the base and sides of a 12-hole muffin tin with oil. Melt the butter, sugar and golden syrup in a smallsaucepanover a low heat, stirring frequently. Remove from the heat and whisk in the flour, then add the ginger, flaked almonds and orange zest.
 - Scoop 1 flat tbsp of the mixture into each hole of the muffin tin. You may be left with some mixture, but you can bake in batches. Bake for 10 mins until golden. Leave to cool for 2 mins until firm enough to transfer to awire rackand cool completely. Repeat with any of the remaining mixture.
 - Melt the dark and white chocolate in two different bowls, each over a simmering saucepan of water (ensuring the bowls don’t touch the water), or in themicrowavein 30-second bursts. Dip half of a cooled florentine in the dark chocolate then drizzle over the white chocolate. Leave to set on a wire rack.Will keep in an airtight container for one week.
@@ -856,7 +856,7 @@
 - 4 tbspdesiccated coconut
 - flavourless oil, such as sunflower, for cutting
 
-### Method
+### Instructions
 - Butter and line the base and sides of a 20 x 30cm tin with baking parchment. Pour the coconut cream into a saucepan along with the butter and vanilla, then bring to a simmer. Swirl the pan to melt the butter, then remove from the heat.
 - In a separate pan, melt the sugar and golden syrup together, stirring occasionally. Once the sugar granules have dissolved, bring to the boil and cook until the temperature reaches 155C on asugar thermometer. Take off the heat and swiftly whisk through the coconut mixture. Return to the heat and cook until the mixture reaches 127C, constantly whisking.
 - Pour the caramel into the tin, tilting so it reaches the corners. Leave to set for 15 mins, then sprinkle over the desiccated coconut. Leave to cool completely at room temperature.Cut into squaresusing a very sharp, slightly oiled knife, then wrap each one in a square of baking parchment, twisting it at the sides.Will keep in an airtight container for one week.
@@ -897,7 +897,7 @@
 - 1lemon, zested and juiced, plus extra wedges or slices, to serve
 - 25gparsley, leaves finely chopped
 
-### Method
+### Instructions
 - Cook the rice following pack instructions and set aside. Meanwhile, heat 3 tbsp of the olive oil in a pan over a medium heat, then add the garlic and fry for 30 seconds until fragrant. Tip in the prawns and cook until they turn pink and are cooked through, around 2-3 mins on each side.
 - Squeeze the lemon juice over the prawns, sprinkle with lemon zest and half the parsley, then stir to combine.
 - Add the cooked rice to the pan along with the remaining olive oil. Toss to coat. Cook for 1 min, then season. Remove from the heat, top with the remaining parsley and serve with the extra lemon pieces for squeezing over.
@@ -938,7 +938,7 @@
 - 600gsausages(around 9), meat squeezed out of the skin into bite-sized pieces
 - 1 bunch ofspring onions, cut into 4cm lengths
 
-### Method
+### Instructions
 - Heat the oven to 220C/ 200C fan/gas 8. Tip the potatoes into a large bowl and combine with the lemon slices, chopped herbs, olive oil and some seasoning. Toss well to evenly coat. Transfer to a baking sheet, spreading the potatoes out in an even layer.
 - Roast for about 20 mins until beginning to turn golden brown, add the sausagemeat and cook for another 10-15 mins until browned and cooked through. Add the spring onions and cook for another few minutes to soften. Scatter over the remaining herbs.
 
@@ -980,7 +980,7 @@
 - 1 tbspground ginger
 - 2 tbspdemerara sugar
 
-### Method
+### Instructions
 - Preheat the oven to 180C/gas 4/ fan 160C. Butter and line the base and two long sides of a 1.5kg loaf tin with a strip of baking paper.
 - Mix the butter, honey and egg and stir in the pumpkin or squash. Then mix in the sugar, flour and ginger.
 - Pour into the prepared tin and sprinkle the top with the demerara sugar. Bake for 50-60 minutes, until risen and golden brown. Leave in the tin for 5 minutes, then turn out and cool on a wire rack. Serve thickly sliced and buttered.
@@ -1027,7 +1027,7 @@
 - 450gJapanese rice(3 Japanese cups)
 - 550g/mlwater
 
-### Method
+### Instructions
 - To make the rice, first wash it thoroughly in a sieve for 2 mins, gently turning it over by hand until the water runs clear. Drain the rice and put it in a pan with 550ml water.
 - Leave it to stand for a minimum of 30 mins. It can be left overnight, but for best results, leave it for 30 mins-1 hr. Bring the water in the pan to the boil, put the lid on, reduce the heat and simmer for 8-9 mins. Turn the heat off and let it stand with the lid on for a further 5 mins. Do not lift the lid.
 - While the rice is cooking, to make the sushi-su, put the rice vinegar, sugar and salt into a small container and mix with a spoon until the sugar and salt have dissolved.
@@ -1069,7 +1069,7 @@
 - 800geating apples, cored and cut into wedges
 - 2 tspicing sugar
 
-### Method
+### Instructions
 - Heat the oven to 180C/160C fan/gas 4. Butter a 23cm springform cake tin and dust with flour. Beat the softened butter with 115g of the sugar and a pinch of salt for 3-5 mins until pale and creamy. Add the vanilla extract, lemon zest and juice and mix until combined.
 - Separate the eggs, putting the egg whites in a large mixing bowl. Use an electric hand mixer to beat the whites with the remaining sugar until stiff peaks form. Mix the egg yolks into the butter and sugar mixture.
 - Mix the flour with the baking powder and cornflour, then tip into the butter, sugar and yolk mixture. Mix to combine, then stir in the milk followed by a spoonful of the egg whites. Once that is fully incorporated, gently fold the remaining egg whites into the batter.
@@ -1112,7 +1112,7 @@
 - 325ggluten-free flour, plus extra for dusting
 - 100graspberry jam
 
-### Method
+### Instructions
 - Beat the butter, icing sugar and vanilla in a large bowl until creamy using an electric hand mixer. Add the egg and beat for another 2 mins. Gradually incorporate the almonds and flour to form a dough – it will be quite soft in texture. Cover and keep chilled for at least 1 hr.
 - Heat the oven to 180C/160C fan/gas 4 and line two baking sheets with baking parchment. Lightly flour a worktop and roll out the dough to a thickness of 2mm. Using a 6-7cm star or circular cutter, stamp out an equal amount of stars or circles from the dough. Then using a 2-3cm cutter, cut out a small piece from the centre of half (these will be the tops of the biscuit sandwiches). Re-roll any offcuts and repeat. You should have about 50 pieces.
 - Arrange on the prepared baking sheets and bake until golden, about 8-12 mins. Leave to cool completely on the trays, then cover the whole biscuits with 1 tsp of jam each and spread out to the edges. Put the biscuits with holes on top, then dust with icing sugar.Will keep in an airtight container for up to five days.
@@ -1150,7 +1150,7 @@
 - 250ggram flour(chickpea flour)
 - mayonnaise, to serve
 
-### Method
+### Instructions
 - Lightly brush a 20-23cm square non-stick cake tin with oil. Put the gram flour in a large saucepan with 2 tbsp olive oil and ½ tsp salt. Graduallywhiskin 750ml water, then cook over a medium heat for 8-10 mins, stirring constantly with aspatulato ensure the mixture doesn’t stick to the bottom, until smooth and very thick (similar to mashed potato). You may need to beat vigorously to remove lumps.
 - Pour into the prepared tin and level out the surface. Leave to cool, then cover and chill for at least 2 hrs, or ideally overnight, until firmly set.
 - Turn the panisse out onto a board and cut into fingers or rectangles.
@@ -1199,7 +1199,7 @@
 - 75glight muscovado sugar
 - 3 tbspgluten-free porridge oats
 
-### Method
+### Instructions
 - Heat the oven to 190C/170C fan/gas 5. Put the apple, spice and caster sugar in asaucepanwith 2 tbsp water. Cover and cook gently for 5 mins until the apples have started to soften, then transfer to an ovenproof dish.
 - Meanwhile, rub the butter into the flour, then stir in the light muscovado sugar, oats and a pinch of salt. Sprinkle the mixture evenly over the apples.
 - Put the dish on abaking trayand bake for 35-40 mins until the top is golden and the apples are tender. Leave to cool for 5 mins before serving with cream, ice cream or custard.
@@ -1243,7 +1243,7 @@
 - sliced spring onions, to serve
 - sweet chilli sauce or sriracha, to serve
 
-### Method
+### Instructions
 - Heat the oven to 220C/200C fan/gas 7.Thickly slicethe tofu and pat dry well with kitchen paper. Cut into 20-25 cubes.
 - Mix the soy sauce, both oils, garlic, paprika or cayenne and a pinch of salt together in a bowl. Add the tofu, turning to coat, then sprinkle on the cornflour, stirring gently until evenly coated.
 - Transfer to a non-stick baking sheet and bake for 25-30 mins, shaking halfway through, until crisp and golden. Serve with sliced spring onions scattered over and sweet chilli sauce or sriracha on the side.
@@ -1283,7 +1283,7 @@
 - 1 tbspbutter
 - 1 tbspapple cider vinegaror the juice of ½ lemon
 
-### Method
+### Instructions
 - Quarter the cabbage, thensliceinto ½- 1cm wide strips, working from tip to root and discarding the core.
 - Heat the oil in a large, heavy-based frying pan over a high heat and cook the onion and cabbage for 5-6 mins, stirring until the cabbage starts to catch a little in places. Lower the heat, add the butter, some salt and pepper and cook for a further 4-5 mins until the cabbage is tender. Add the vinegar or lemon juice, check the seasoning and serve straightaway.
 
@@ -1327,7 +1327,7 @@
 - 1 tbspmilk
 - butteredkale, to serve
 
-### Method
+### Instructions
 - Heat the oil in a large frying pan over a medium heat and cook the onions and carrots for 5 mins, then add the potatoes and cook for a further 5 mins.
 - Gently stir through the corned beef and cook for 2-3 mins until beginning to colour. Add the Worcestershire sauce, the stock and some seasoning, then simmer for 5 mins or so until the potato is just tender.
 - Heat the oven to 200C/180C fan/gas 6. Transfer the filling to a pie dish or small ovenproof dish. If needed, gentlyroll your pastryto size, ensuring it covers the top of your tin or dish with a little excess.
@@ -1375,7 +1375,7 @@
 - 2 tbspcoriander leaves
 - basmati rice, to serve
 
-### Method
+### Instructions
 - Put the coconut milk, stock and curry paste in a largesaucepanand bring to a simmer over a medium heat.
 - Stir in the chicken, sugar and fish sauce to taste. Simmer gently for 5 mins. Add the sugar snaps and cook for 2- 3 mins until tender. Pour in the lime juice and check the seasoning.
 - Divide between bowls, and scatter with the chilli and coriander. Serve with rice and lime wedges for squeezing over.
