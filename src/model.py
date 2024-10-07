@@ -38,7 +38,7 @@ llm = ChatOpenAI(
 ) 
 
 
-def get_recipe(query):
+def get_recipe(query, history=None):
   """
   The query can be a string like "chicken recipe". This function will
   return the recipe that matches the query the most.
