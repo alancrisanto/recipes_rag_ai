@@ -1,0 +1,17 @@
+gradio==4.44.1
+jupyterlab==4.2.4
+langchain==0.2.12
+langchain-openai==0.1.20
+langchain-pinecone==0.2.0
+Markdown==3.6
+markdownify==0.13.1
+numpy==1.26.4
+openai==1.39.0
+pandas==2.2.2
+pinecone-client==5.0.1
+playwright==1.45.0
+python-dotenv==1.0.1
+requests==2.32.3
+tqdm==4.66.5
+urllib3==2.2.2
+beautifulsoup4==4.12.3
