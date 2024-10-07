@@ -6,7 +6,6 @@ from langchain_pinecone import PineconeVectorStore
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
-from IPython.display import Markdown
 
 
 api_key = os.environ.get("PINECONE_API_KEY")
@@ -29,19 +28,28 @@ vectorStore = PineconeVectorStore(
   index, embed, text_field
 )
 
+# Create a retriever
+retriever = vectorStore.as_retriever(search_type="similarity", k=3)
+
+# Create an LLM
+llm = ChatOpenAI(  
+    model_name='gpt-4o-mini',  
+    temperature=0.0  
+) 
+
 
 def get_recipe(query):
+  """
+  The query can be a string like "chicken recipe". This function will
+  return the recipe that matches the query the most.
 
-  # 1. Create a retriever
-  retriever = vectorStore.as_retriever(search_type="similarity", k=3)
+  Args:
+    query (str): The query to search for.
 
-  # 2. Create an LLM
-  llm = ChatOpenAI(  
-      model_name='gpt-4o-mini',  
-      temperature=0.0  
-  ) 
-
-  # 3. Create a prompt
+  Returns:
+    str: The recipe that matches the query the most.
+  """
+  # 1. Create a prompt
   system_prompt = (
     """
       Always add a kind and friendly message according to the context at the beginning of the response.
@@ -65,7 +73,7 @@ def get_recipe(query):
       """
   )
 
-  # 4. Create a chain
+  # 2. Create a chain
   prompt = ChatPromptTemplate.from_messages(
       [
           ("system", system_prompt),
@@ -77,15 +85,7 @@ def get_recipe(query):
   rag_chain = create_retrieval_chain(retriever, question_answer_chain)
 
 
-  # 5. Run the chain
-  print("Query: ", query)
-  response = rag_chain.invoke({"input": {query}})
-  print(response)
-  response["answer"]
-  return display(Markdown(response["answer"]))
+  # 3. Run the chain
+  response = rag_chain.invoke({"input": query})
+  return response["answer"]
 
-
-# print(get_recipe("give a recipe with chicken"))
-
-if __name__ == "__main__":
-    get_recipe("give a recipe with chicken")
