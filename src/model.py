@@ -57,6 +57,8 @@ def get_recipe(query, history=None):
   system_prompt = (
     """
       Always add a kind and friendly message according to the context at the beginning of the response.
+      Important instruction:
+      When the user says phrases like "give me a recipe", "give me something to cook", or any variation of "give me" followed by a recipe request, interpret this as a request to *recommend* a recipe.
       Take the information from context[0]["metadata"]
       Then follow this format
       Title: [Title of the Recipe]
