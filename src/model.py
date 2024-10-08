@@ -29,7 +29,11 @@ vectorStore = PineconeVectorStore(
 )
 
 # Create a retriever
-retriever = vectorStore.as_retriever(search_type="similarity", k=3)
+retriever = vectorStore.as_retriever(search_type="similarity")
+# we can set a similarity score threshold and only return documents with a score above that threshold.
+# search_kwargs={"score_threshold": 0.5}
+# We can also limit the number of documents k returned by the retriever.
+# retriever = vectorstore.as_retriever(search_kwargs={"k": 1})
 
 # Create an LLM
 llm = ChatOpenAI(  
